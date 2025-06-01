@@ -1,0 +1,1 @@
+The script, .dat and other files all have to be run from the same directory, or full paths used to their locatios if in batch.
