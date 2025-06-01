@@ -1,0 +1,592 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+PF00035	Double-stranded RNA binding motif	pfam	domain	IPR014720		
+PF00073	picornavirus capsid protein	pfam	domain	IPR001676		
+PF00074	Pancreatic ribonuclease	pfam	domain	IPR023412		
+PF00075	RNase H	pfam	domain	IPR002156		
+PF00076	RNA recognition motif	pfam	domain	IPR000504		
+PF00078	Reverse transcriptase (RNA-dependent DNA polymerase)	pfam	domain	IPR000477		
+PF00133	tRNA synthetases class I (I, L, M and V)	pfam	domain	IPR002300		
+PF00152	tRNA synthetases class II (D, K and N)	pfam	domain	IPR004364		
+PF00181	Ribosomal Proteins L2, RNA binding domain	pfam	domain	IPR022666		
+PF00298	Ribosomal protein L11, RNA binding domain	pfam	domain	IPR020783		
+PF00398	Ribosomal RNA adenine dimethylase	pfam	domain	IPR001737		
+PF00548	3C cysteine protease (picornain 3C)	pfam	family	IPR000199		
+PF00562	RNA polymerase Rpb2, domain 6	pfam	domain	IPR007120		
+PF00575	S1 RNA binding domain	pfam	domain	IPR003029		
+PF00579	tRNA synthetases class I (W and Y)	pfam	family	IPR002305		
+PF00587	tRNA synthetase class II core domain (G, H, P, S and T)	pfam	domain	IPR002314		
+PF00588	SpoU rRNA Methylase family	pfam	family	IPR001537		
+PF00602	Influenza RNA-dependent RNA polymerase subunit PB1	pfam	family	IPR001407		
+PF00603	Influenza RNA-dependent RNA polymerase subunit PA	pfam	family	IPR001009		
+PF00604	Influenza RNA polymerase PB2 CAP binding domain	pfam	domain	IPR048298		
+PF00623	RNA polymerase Rpb1, domain 2	pfam	domain	IPR000722		
+PF00680	Viral RNA-dependent RNA polymerase	pfam	family	IPR001205		
+PF00745	Glutamyl-tRNAGlu reductase, dimerisation domain	pfam	domain	IPR015896		
+PF00749	tRNA synthetases class I (E and Q), catalytic domain	pfam	domain	IPR020058		
+PF00750	tRNA synthetases class I (R)	pfam	family	IPR035684		
+PF00803	3A/RNA2 movement protein family	pfam	family	IPR000603		
+PF00806	Pumilio-family RNA binding repeat	pfam	repeat	IPR001313		
+PF00814	tRNA N6-adenosine threonylcarbamoyltransferase	pfam	family	IPR000905		
+PF00849	RNA pseudouridylate synthase	pfam	family	IPR006145		
+PF00910	RNA helicase	pfam	domain	IPR000605		
+PF00929	Exonuclease	pfam	family	IPR013520		
+PF00940	DNA-dependent RNA polymerase	pfam	family	IPR046950		
+PF00946	Mononegavirales RNA dependent RNA polymerase	pfam	family	IPR014023		
+PF00947	Picornavirus core protein 2A	pfam	domain	IPR000081		
+PF00972	Flavivirus RNA-directed RNA polymerase, fingers and palm domains	pfam	domain	IPR000208		
+PF00978	RNA dependent RNA polymerase	pfam	family	IPR001788		
+PF00981	Rotavirus RNA-binding Protein 53 (NS53)	pfam	family	IPR002148		
+PF00998	Viral RNA dependent RNA polymerase	pfam	family	IPR002166		
+PF01000	RNA polymerase Rpb3/RpoA insert domain	pfam	domain	IPR011262		
+PF01125	Pre-mRNA-splicing factor BUD31	pfam	domain	IPR001748		
+PF01137	RNA 3'-terminal phosphate cyclase	pfam	domain	IPR023797		
+PF01138	3' exoribonuclease family, domain 1	pfam	domain	IPR001247		
+PF01139	tRNA-splicing ligase RtcB	pfam	family	IPR001233		
+PF01142	tRNA pseudouridine synthase D (TruD)	pfam	family	IPR001656		
+PF01189	16S rRNA methyltransferase RsmB/F	pfam	family	IPR049560		
+PF01191	RNA polymerase Rpb5, C-terminal domain	pfam	domain	IPR000783		
+PF01192	RNA polymerase Rpb6	pfam	family	IPR006110		
+PF01193	RNA polymerase Rpb3/Rpb11 dimerisation domain	pfam	domain	IPR011263		
+PF01194	RNA polymerases N / 8 kDa subunit	pfam	domain	IPR000268		
+PF01195	Peptidyl-tRNA hydrolase	pfam	domain	IPR001328		
+PF01223	DNA/RNA non-specific endonuclease	pfam	domain	IPR001604		
+PF01331	mRNA capping enzyme, catalytic domain	pfam	domain	IPR001339		
+PF01336	OB-fold nucleic acid binding domain	pfam	domain	IPR004365		
+PF01337	Barstar (barnase inhibitor)	pfam	domain	IPR000468		
+PF01351	Ribonuclease HII	pfam	family	IPR024567		
+PF01406	tRNA synthetases class I (C) catalytic domain	pfam	family	IPR032678		
+PF01409	tRNA synthetases class II core domain (F)	pfam	domain	IPR002319		
+PF01411	tRNA synthetases class II (A)	pfam	family	IPR018164		
+PF01416	tRNA pseudouridine synthase	pfam	domain	IPR020097		
+PF01443	Viral (Superfamily 1) RNA helicase	pfam	family	IPR027351		
+PF01552	Picornavirus 2B protein	pfam	family	IPR002527		
+PF01588	Putative tRNA binding domain	pfam	domain	IPR002547		
+PF01702	Queuine tRNA-ribosyltransferase	pfam	family	IPR002616		
+PF01746	tRNA (Guanine-1)-methyltransferase	pfam	family	IPR016009		
+PF01766	Birnavirus VP2 protein	pfam	family	IPR002662		
+PF01767	Birnavirus VP3 protein	pfam	family	IPR002663		
+PF01768	Birnavirus VP4 protein	pfam	family	IPR025775		
+PF01786	Alternative oxidase	pfam	family	IPR002680		
+PF01798	snoRNA binding domain, fibrillarin	pfam	family	IPR002687		
+PF01868	Ribonuclease P/MRP, subunit p29	pfam	family	IPR002730		
+PF01876	RNase P subunit p30	pfam	domain	IPR002738		
+PF01877	RNA binding	pfam	family	IPR002739		
+PF01885	RNA 2'-phosphotransferase, Tpt1 / KptA family	pfam	family	IPR002745		
+PF01900	Rpp14/Pop5 family	pfam	family	IPR002759		
+PF01921	tRNA synthetases class I (K)	pfam	family	IPR002904		
+PF01927	Mut7-C RNAse domain	pfam	domain	IPR002782		
+PF01974	tRNA intron endonuclease, catalytic C-terminal domain	pfam	domain	IPR006677		
+PF01980	tRNA-methyltransferase O	pfam	family	IPR023370		
+PF01981	Peptidyl-tRNA hydrolase PTH2	pfam	family	IPR002833		
+PF01994	tRNA ribose 2'-O-methyltransferase, aTrm56	pfam	family	IPR002845		
+PF02005	N2,N2-dimethylguanosine tRNA methyltransferase	pfam	family	IPR002905		
+PF02081	Tryptophan RNA-binding attenuator protein	pfam	domain	IPR023558		
+PF02088	Ornatin	pfam	family	IPR002463		
+PF02091	Glycyl-tRNA synthetase alpha subunit	pfam	domain	IPR002310		
+PF02092	Glycyl-tRNA synthetase beta subunit	pfam	family	IPR015944		
+PF02123	Viral RNA-directed RNA-polymerase	pfam	family	IPR001795		
+PF02150	RNA polymerases M/15 Kd subunit	pfam	domain	IPR001529		
+PF02226	Picornavirus coat protein (VP4)	pfam	family	IPR003138		
+PF02403	Seryl-tRNA synthetase N-terminal domain	pfam	domain	IPR015866		
+PF02527	rRNA small subunit methyltransferase G	pfam	family	IPR003682		
+PF02580	D-Tyr-tRNA(Tyr) deacylase	pfam	family	IPR003732		
+PF02598	Putative RNA methyltransferase	pfam	family	IPR003750		
+PF02620	Large ribosomal RNA subunit accumulation protein YceD	pfam	family	IPR003772		
+PF02686	Glu-tRNAGln amidotransferase C subunit	pfam	family	IPR003837		
+PF02778	tRNA intron endonuclease, N-terminal domain	pfam	domain	IPR006678		
+PF02912	Aminoacyl tRNA synthetase class II, N-terminal domain	pfam	domain	IPR004188		
+PF02940	mRNA capping enzyme, beta chain	pfam	domain	IPR004206		
+PF03035	Calicivirus putative RNA polymerase/capsid protein	pfam	family	IPR004278		
+PF03042	Birnavirus VP5 protein	pfam	family	IPR004284		
+PF03054	tRNA methyl transferase HUP domain	pfam	domain			
+PF03118	Bacterial RNA polymerase, alpha chain C terminal domain	pfam	domain	IPR011260		
+PF03123	CAT RNA binding domain	pfam	domain	IPR004341		
+PF03139	Vanadium/alternative nitrogenase delta subunit	pfam	family	IPR004349		
+PF03291	mRNA (guanine-N(7))-methyltransferase domain	pfam	domain	IPR004971		
+PF03293	Poxvirus DNA-directed RNA polymerase, 18 kD subunit	pfam	family	IPR004973		
+PF03294	RNA polymerase-associated transcription specificity factor, Rap94	pfam	family	IPR004974		
+PF03341	Poxvirus mRNA capping enzyme, small subunit	pfam	family	IPR005009		
+PF03396	Poxvirus DNA-directed RNA polymerase, 35 kD subunit	pfam	family	IPR005059		
+PF03431	RNA replicase, beta-chain	pfam	family	IPR005093		
+PF03439	Early transcription elongation factor of RNA pol II, NGN section	pfam	family	IPR005100		
+PF03484	tRNA synthetase B5 domain	pfam	domain	IPR005147		
+PF03485	Arginyl tRNA synthetase N terminal domain	pfam	domain	IPR005148		
+PF03515	Colicin-like bacteriocin tRNase domain	pfam	family	IPR016128		
+PF03588	Leucyl/phenylalanyl-tRNA protein transferase	pfam	family	IPR004616		
+PF03604	DNA directed RNA polymerase, 7 kDa subunit	pfam	domain	IPR006591		
+PF03725	3' exoribonuclease family, domain 2	pfam	domain	IPR015847		
+PF03726	Polyribonucleotide nucleotidyltransferase, RNA binding domain	pfam	domain	IPR015848		
+PF03841	L-seryl-tRNA selenium transferase	pfam	domain	IPR018319		
+PF03870	RNA polymerase Rpb8	pfam	family	IPR005570		
+PF03871	RNA polymerase Rpb5, N-terminal domain	pfam	domain	IPR005571		
+PF03874	RNA polymerase Rpb4	pfam	family	IPR005574		
+PF03880	DbpA RNA binding domain	pfam	domain	IPR005580		
+PF03889	Alternative ribosome-rescue factor A	pfam	domain	IPR005589		
+PF03919	mRNA capping enzyme, C-terminal domain	pfam	domain	IPR013846		
+PF03950	tRNA synthetases class I (E and Q), anti-codon binding domain	pfam	domain	IPR020059		
+PF04013	Putative SAM-dependent RNA methyltransferase	pfam	family	IPR007158		
+PF04032	RNAse P Rpr2/Rpp21/SNM1 subunit domain	pfam	family	IPR007175		
+PF04059	RNA recognition motif 2	pfam	family	IPR007201		
+PF04068	Possible Fer4-like domain in RNase L inhibitor, RLI	pfam	family	IPR007209		
+PF04073	Aminoacyl-tRNA editing domain	pfam	family	IPR007214		
+PF04090	RNA polymerase I-specific transcription initiation factor Rrn11	pfam	repeat	IPR007224		
+PF04135	Nucleolar RNA-binding protein, Nop10p family	pfam	family	IPR007264		
+PF04179	Rit1 DUSP-like domain	pfam	domain	IPR033421		
+PF04196	Bunyavirus RNA dependent RNA polymerase	pfam	family	IPR007322		
+PF04197	Birnavirus RNA dependent RNA polymerase (VP1), palm domain	pfam	domain	IPR007100		
+PF04287	tRNA pseudouridine synthase C	pfam	family	IPR023376		
+PF04308	Ribonuclease H-like	pfam	family	IPR007405		
+PF04353	Regulator of RNA polymerase sigma(70) subunit, Rsd/AlgQ	pfam	family	IPR007448		
+PF04376	Arginine-tRNA-protein transferase, N terminus	pfam	family	IPR007471		
+PF04377	Arginine-tRNA-protein transferase, C terminus	pfam	family	IPR007472		
+PF04378	Ribosomal RNA large subunit methyltransferase D, RlmJ	pfam	domain	IPR007473		
+PF04410	Gar1/Naf1 RNA binding region	pfam	domain	IPR007504		
+PF04414	D-aminoacyl-tRNA deacylase	pfam	family	IPR007508		
+PF04446	tRNAHis guanylyltransferase	pfam	domain	IPR024956		
+PF04452	RNA methyltransferase domain	pfam	domain	IPR046886		
+PF04457	MJ1316 RNA cyclic group end recognition domain	pfam	domain	IPR040459		
+PF04521	ssRNA positive strand viral 18kD cysteine rich protein	pfam	family	IPR007609		
+PF04557	Glutaminyl-tRNA synthetase, non-specific RNA binding region part 2	pfam	family	IPR007638		
+PF04558	Glutaminyl-tRNA synthetase, non-specific RNA binding region part 1	pfam	family	IPR007639		
+PF04560	RNA polymerase Rpb2, domain 7	pfam	domain	IPR007641		
+PF04561	RNA polymerase Rpb2, domain 2	pfam	domain	IPR007642		
+PF04563	RNA polymerase beta subunit	pfam	family	IPR007644		
+PF04565	RNA polymerase Rpb2, domain 3	pfam	domain	IPR007645		
+PF04566	RNA polymerase Rpb2, domain 4	pfam	domain	IPR007646		
+PF04567	RNA polymerase Rpb2, domain 5	pfam	domain	IPR007647		
+PF04774	Hyaluronan / mRNA binding family	pfam	family	IPR006861		
+PF04816	tRNA (adenine(22)-N(1))-methyltransferase	pfam	family	IPR006901		
+PF04845	PurA ssDNA and RNA-binding protein	pfam	family	IPR006628		
+PF04926	Poly(A) polymerase predicted RNA binding domain	pfam	domain	IPR007010		
+PF04983	RNA polymerase Rpb1, domain 3	pfam	domain	IPR007066		
+PF04990	RNA polymerase Rpb1, domain 7	pfam	domain	IPR007073		
+PF04992	RNA polymerase Rpb1, domain 6	pfam	domain	IPR007075		
+PF04997	RNA polymerase Rpb1, domain 1	pfam	domain	IPR007080		
+PF04998	RNA polymerase Rpb1, domain 5	pfam	domain	IPR007081		
+PF05000	RNA polymerase Rpb1, domain 4	pfam	domain	IPR007083		
+PF05001	RNA polymerase Rpb1 C-terminal repeat	pfam	repeat	IPR000684		
+PF05132	RNA polymerase III RPC4	pfam	family	IPR007811		
+PF05158	RNA polymerase Rpc34 subunit	pfam	family	IPR007832		
+PF05172	Nup53/35/40-type RNA recognition motif	pfam	domain	IPR007846		
+PF05179	RNA pol II accessory factor, Cdc73 family, C-terminal	pfam	domain	IPR031336		
+PF05183	RNA dependent RNA polymerase	pfam	family	IPR007855		
+PF05189	RNA 3'-terminal phosphate cyclase (RTC), insert domain	pfam	domain	IPR013791		
+PF05201	Glutamyl-tRNAGlu reductase, N-terminal domain	pfam	domain	IPR015895		
+PF05273	Poxvirus RNA polymerase 22 kDa subunit	pfam	family	IPR007937		
+PF05320	Poxvirus DNA-directed RNA polymerase 19 kDa subunit	pfam	family	IPR007984		
+PF05327	RNA polymerase I specific transcription initiation factor RRN3	pfam	repeat	IPR007991		
+PF05634	APO RNA-binding	pfam	family	IPR023342		
+PF05635	23S rRNA-intervening sequence protein	pfam	family	IPR012657		
+PF05645	RNA polymerase III subunit RPC82	pfam	family	IPR008806		
+PF05652	Scavenger mRNA decapping enzyme (DcpS) N-terminal	pfam	family	IPR008594		
+PF05670	NFACT protein RNA binding domain	pfam	domain	IPR008532		
+PF05741	Nanos RNA binding domain	pfam	family	IPR024161		
+PF05788	Orbivirus RNA-dependent RNA polymerase (VP1)	pfam	family	IPR008723		
+PF05864	Chordopoxvirus DNA-directed RNA polymerase 7 kDa polypeptide (RPO7)	pfam	family	IPR008448		
+PF05889	O-phosphoseryl-tRNA(Sec) selenium transferase, SepSecS	pfam	domain	IPR008829		
+PF05890	Eukaryotic rRNA processing protein EBP2	pfam	family	IPR008610		
+PF05919	Mitovirus RNA-dependent RNA polymerase	pfam	family	IPR008686		
+PF05958	tRNA (Uracil-5-)-methyltransferase	pfam	family	IPR010280		
+PF05971	RNA methyltransferase	pfam	family	IPR010286		
+PF06102	rRNA biogenesis protein RRP36	pfam	family	IPR009292		
+PF06175	tRNA-(MS[2]IO[6]A)-hydroxylase (MiaE)	pfam	domain	IPR010386		
+PF06208	Borna disease virus G protein	pfam	family	IPR009344		
+PF06308	23S rRNA methylastransferase leader peptide (ErmCL)	pfam	family	IPR009391		
+PF06317	Arenavirus RNA polymerase	pfam	family	IPR010453		
+PF06363	Picornaviridae P3A protein	pfam	family	IPR009419		
+PF06407	Borna disease virus P40 protein	pfam	family	IPR009441		
+PF06478	Coronavirus RNA-dependent RNA polymerase, N-terminal	pfam	domain	IPR009469		
+PF06485	RNA-binding protein Tab2/Atab2 N terminal	pfam	domain	IPR046760		
+PF06515	Borna disease virus P10 protein	pfam	family	IPR009485		
+PF06595	Borna disease virus P24 protein	pfam	family	IPR009517		
+PF06807	Pre-mRNA cleavage complex II protein Clp1	pfam	family	IPR010655		
+PF06870	A49-like RNA polymerase I associated factor	pfam	family	IPR009668		
+PF06881	RNA polymerase II transcription factor SIII (Elongin) subunit A	pfam	family	IPR010684		
+PF06883	RNA polymerase I, Rpa2 specific domain	pfam	domain	IPR009674		
+PF06956	Regulator of RNA terminal phosphate cyclase	pfam	family	IPR009715		
+PF06962	Putative rRNA methylase	pfam	family	IPR010719		
+PF06991	Microfibril-associated/Pre-mRNA processing	pfam	family	IPR009730		
+PF07091	Ribosomal RNA methyltransferase (FmrO)	pfam	family	IPR025981		
+PF07234	Movement and RNA silencing protein	pfam	family	IPR009871		
+PF07288	RNA polymerase epsilon subunit	pfam	domain	IPR009907		
+PF07304	Steroid receptor RNA activator (SRA1)	pfam	family	IPR009917		
+PF07322	Seadornavirus Vp10	pfam	family	IPR009930		
+PF07387	Seadornavirus VP7	pfam	family	IPR009973		
+PF07407	Seadornavirus VP6 protein	pfam	family	IPR009982		
+PF07497	Rho termination factor, RNA-binding domain	pfam	domain	IPR011113		
+PF07521	Zn-dependent metallo-hydrolase RNA specificity domain	pfam	conserved_site	IPR011108		
+PF07539	U3 small nucleolar RNA-associated protein 20, N-terminal	pfam	domain	IPR011430		
+PF07544	RNA polymerase II transcription mediator complex subunit 9	pfam	family	IPR011425		
+PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	pfam	family	IPR013103		
+PF07925	Reovirus RNA-dependent RNA polymerase lambda 3	pfam	family	IPR012915		
+PF07973	Threonyl and Alanyl tRNA synthetase second additional domain	pfam	domain	IPR012947		
+PF08032	RNA 2'-O ribose methyltransferase substrate binding	pfam	domain	IPR013123		
+PF08136	Ribosome hibernation factor SRA	pfam	family	IPR012607		
+PF08161	Ribosomal RNA-processing protein 12, HEAT repeats	pfam	repeat	IPR012978		
+PF08167	rRNA processing/ribosome biogenesis	pfam	repeat	IPR012583		
+PF08203	Yeast RNA polymerase I subunit RPA14	pfam	family	IPR013239		
+PF08208	DNA-directed RNA polymerase I subunit RPA34.5	pfam	family	IPR013240		
+PF08213	Mitochondrial mRNA-processing protein COX24, C-terminal	pfam	domain	IPR013177		
+PF08221	RNA polymerase III subunit RPC82 helix-turn-helix domain	pfam	domain	IPR013197		
+PF08228	RNase P subunit Pop3	pfam	family	IPR013241		
+PF08264	Anticodon-binding domain of tRNA ligase	pfam	domain	IPR013155		
+PF08292	RNA polymerase III subunit Rpc25	pfam	domain	IPR013238		
+PF08297	U3 snoRNA associated	pfam	family	IPR013268		
+PF08302	Fungal tRNA ligase phosphodiesterase domain	pfam	domain	IPR015965		
+PF08303	tRNA ligase kinase domain	pfam	domain	IPR015966		
+PF08315	cwf18 pre-mRNA splicing factor	pfam	family	IPR013169		
+PF08351	tRNA(Met) cytidine acetyltransferase TmcA, N-terminal	pfam	family	IPR013562		
+PF08424	NRDE-2, necessary for RNA interference	pfam	family	IPR013633		
+PF08459	UvrC RNAse H endonuclease domain	pfam	domain	IPR001162		
+PF08467	Luteovirus RNA polymerase P1-P2/replicase	pfam	family	IPR013674		
+PF08492	SRP72 RNA-binding domain	pfam	domain	IPR013699		
+PF08524	rRNA processing	pfam	domain	IPR013730		
+PF08572	pre-mRNA processing factor 3 domain	pfam	domain	IPR013881		
+PF08615	Ribonuclease H2 non-catalytic subunit (Ylr154p-like)	pfam	family	IPR013924		
+PF08640	U3 small nucleolar RNA-associated protein 6	pfam	family	IPR013949		
+PF08675	RNA binding domain	pfam	domain	IPR014789		
+PF08698	Fcf2 pre-rRNA processing	pfam	family	IPR014810		
+PF08704	tRNA methyltransferase complex GCD14 subunit	pfam	family	IPR049470		
+PF08777	RNA binding motif	pfam	domain	IPR014886		
+PF08799	pre-mRNA processing factor 4 (PRP4) like	pfam	domain	IPR014906		
+PF08915	Archaea-specific editing domain of threonyl-tRNA synthetase	pfam	domain	IPR015011		
+PF09142	tRNA Pseudouridine synthase II, C terminal	pfam	domain	IPR015225		
+PF09159	Mitochondrial resolvase Ydc2 / RNA splicing MRS1	pfam	domain	IPR015242		
+PF09162	Tap, RNA-binding	pfam	domain	IPR015245		
+PF09180	Prolyl-tRNA synthetase, C-terminal	pfam	domain	IPR016061		
+PF09181	Prolyl-tRNA synthetase, C-terminal	pfam	domain	IPR015264		
+PF09187	RNA-directed DNA methylation 1	pfam	domain	IPR015270		
+PF09249	tRNA nucleotidyltransferase, second domain	pfam	domain	IPR015329		
+PF09293	T4 RNase H, C terminal	pfam	domain	IPR036276		
+PF09334	tRNA synthetases class I (M)	pfam	family	IPR015413		
+PF09387	Mitochondrial RNA binding protein MRP	pfam	domain	IPR032680		
+PF09401	Coronavirus RNA synthesis protein NSP10	pfam	family	IPR018995		
+PF09414	RNA ligase	pfam	family	IPR021122		
+PF09416	RNA helicase (UPF2 interacting domain)	pfam	domain	IPR018999		
+PF09445	RNA cap guanine-N2 methyltransferase	pfam	family	IPR019012		
+PF09468	Ydr279p protein family (RNase H2 complex component) wHTH domain	pfam	domain	IPR019024		
+PF09511	RNA ligase	pfam	family	IPR019039		
+PF09692	Argonaute siRNA chaperone (ARC) complex subunit Arb1	pfam	family	IPR018606		
+PF09734	RNA polymerase III transcription factor (TF)IIIC subunit HTH domain	pfam	family	IPR019136		
+PF09736	Pre-mRNA-splicing factor of RES complex	pfam	family	IPR018609		
+PF09750	Alternative splicing regulator	pfam	domain	IPR019147		
+PF09808	Small nuclear RNA activating complex (SNAPc), subunit 1	pfam	family	IPR019188		
+PF09816	RNA polymerase II transcription elongation factor	pfam	domain	IPR019194		
+PF09848	Schlafen group 3, DNA/RNA helicase domain	pfam	domain	IPR018647		
+PF09936	SAM-dependent RNA methyltransferase	pfam	family	IPR019230		
+PF10036	RNA transcription, translation and transport factor protein	pfam	family	IPR019265		
+PF10127	RNA repair pathway DNA polymerase beta family	pfam	family	IPR018775		
+PF10150	Ribonuclease E/G family	pfam	family	IPR019307		
+PF10153	rRNA-processing protein Efg1	pfam	family	IPR019310		
+PF10232	Mediator of RNA polymerase II transcription complex subunit 8	pfam	family	IPR019364		
+PF10255	RNA polymerase I-associated factor PAF67	pfam	repeat	IPR019382		
+PF10258	Phosphorylated adapter RNA export protein, RNA-binding domain	pfam	domain	IPR019385		
+PF10273	Pre-rRNA-processing protein TSR2	pfam	family	IPR019398		
+PF10278	Mediator of RNA pol II transcription subunit 19	pfam	family	IPR019403		
+PF10288	Cytoplasmic tRNA 2-thiolation protein 2	pfam	family	IPR019407		
+PF10304	Required for nuclear transport of RNA pol II C-terminus 2	pfam	repeat	IPR019414		
+PF10307	HAD domain family 1 in Swiss Army Knife RNA repair proteins	pfam	domain	IPR018812		
+PF10354	rRNA (uridine-N3-)-methyltransferase BTM5-like	pfam	domain	IPR019446		
+PF10363	Required for nuclear transport of RNA pol II C-terminus 1	pfam	repeat	IPR019451		
+PF10373	Est1 DNA/RNA binding domain	pfam	repeat	IPR018834		
+PF10385	RNA polymerase beta subunit external 1 domain	pfam	domain	IPR019462		
+PF10390	RNA polymerase II elongation factor ELL	pfam	family	IPR019464		
+PF10429	Nuclear pore RNA shuttling protein Mtr2	pfam	domain	IPR019488		
+PF10443	RNA12 protein	pfam	family	IPR018850		
+PF10458	Valyl tRNA synthetase tRNA binding arm	pfam	domain	IPR019499		
+PF10469	AKAP7 2'5' RNA ligase-like domain	pfam	domain	IPR019510		
+PF10477	Nucleocytoplasmic shuttling protein for mRNA cap-binding EIF4E	pfam	family	IPR018862		
+PF10500	Nuclear RNA-splicing-associated protein	pfam	disordered	IPR019532		
+PF10567	RNA-recognition motif	pfam	domain	IPR018885		
+PF10596	U6-snRNA interacting domain of PrP8	pfam	domain	IPR019580		
+PF10597	U5-snRNA binding site 2 of PrP8	pfam	domain	IPR019581		
+PF10598	RNA recognition motif of the spliceosomal PrP8	pfam	domain	IPR019582		
+PF10640	mRNA capping enzyme catalytic subunit, RNA triphosphatase domain	pfam	domain	IPR019602		
+PF10680	RNA polymerase I specific transcription initiation factor	pfam	domain	IPR019622		
+PF10744	Mediator of RNA polymerase II transcription subunit 1	pfam	domain	IPR019680		
+PF10789	Phage RNA polymerase binding, RpbA	pfam	family	IPR019725		
+PF10997	Alternate to MurJ	pfam	family	IPR021260		
+PF11035	Small nuclear RNA activating complex (SNAPc), subunit 2	pfam	family	IPR021281		
+PF11128	Plant viral coat protein nucleocapsid	pfam	family	IPR021310		
+PF11435	RNA binding protein She2p	pfam	family	IPR024261		
+PF11473	RNA binding protein B2	pfam	family	IPR024377		
+PF11479	RNA silencing suppressor P21 C-terminal domain	pfam	domain	IPR021575		
+PF11517	Nuclear abundant poly(A) RNA-bind protein 2 (Nab2)	pfam	family	IPR021083		
+PF11599	RRNA methyltransferase AviRa	pfam	family	IPR024268		
+PF11602	ATPase P4 of dsRNA bacteriophage phi-12	pfam	family	IPR020973		
+PF11608	MARF1, RNA recognition motif 1	pfam	domain	IPR034189		
+PF11705	DNA-directed RNA polymerase III subunit Rpc31	pfam	family	IPR024661		
+PF11708	Pre-mRNA splicing Prp18-interacting factor	pfam	domain	IPR021715		
+PF11717	RNA binding activity-knot of a chromodomain	pfam	family	IPR025995		
+PF11718	Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term	pfam	domain	IPR021718		
+PF11757	Suppressor of RNA silencing P21-like N-terminal domain	pfam	domain	IPR021742		
+PF11772	DNA-directed RNA polymerase subunit beta	pfam	family	IPR024596		
+PF11781	Zinc-finger of RNA-polymerase I-specific TFIIB, Rrn7	pfam	domain	IPR021752		
+PF11821	Alternative complex III, ActD subunit	pfam	family	IPR021776		
+PF11831	pre-mRNA splicing factor component	pfam	family	IPR021786		
+PF11861	Ribosomal RNA methyltransferase Spb1, DUF3381	pfam	domain	IPR024576		
+PF11955	Plant organelle RNA recognition domain	pfam	family	IPR021099		
+PF11968	25S rRNA (adenine(2142)-N(1))-methyltransferase, Bmt2	pfam	family	IPR021867		
+PF11969	Scavenger mRNA decapping enzyme C-term binding	pfam	family			
+PF11977	Zc3h12a-like Ribonuclease NYN domain	pfam	domain	IPR021869		
+PF12009	Telomerase ribonucleoprotein complex - RNA binding domain	pfam	domain	IPR021891		
+PF12011	RNA helicase NPH-II	pfam	family	IPR021892		
+PF12072	RNase Y N-terminal region	pfam	coiled_coil	IPR022711		
+PF12105	SpoU, rRNA methylase, C-terminal	pfam	family	IPR022724		
+PF12136	RNA polymerase Rpo13 subunit HTH domain	pfam	domain	IPR021985		
+PF12137	RNA polymerase recycling family C-terminal	pfam	domain	IPR022737		
+PF12171	Zinc-finger double-stranded RNA-binding	pfam	family	IPR022755		
+PF12230	Pre-mRNA splicing factor PRP21 like protein	pfam	family	IPR022030		
+PF12246	Temperature dependent protein affecting M2 dsRNA replication	pfam	family	IPR022039		
+PF12247	Temperature dependent protein affecting M2 dsRNA replication	pfam	family	IPR022040		
+PF12251	snRNA-activating protein complex (SNAPc), subunit 3	pfam	family	IPR022042		
+PF12300	ATP-dependent RNA helicase RhlB	pfam	family	IPR022077		
+PF12328	Rpp20 subunit of nuclear RNase MRP and P	pfam	family	IPR014612		
+PF12354	Bacterial adhesion/invasion protein N terminal	pfam	domain	IPR024634		
+PF12397	U3 small nucleolar RNA-associated protein 10	pfam	family	IPR022125		
+PF12410	Poxvirus DNA dependent RNA polymerase 30kDa subunit	pfam	family	IPR024394		
+PF12415	Poxvirus DNA dependent RNA polymerase	pfam	family	IPR024390		
+PF12426	RNA dependent RNA polymerase	pfam	family	IPR024378		
+PF12460	RNAPII transcription regulator C-terminal	pfam	repeat	IPR024687		
+PF12462	DNA helicase IV / RNA helicase N terminal	pfam	family	IPR022161		
+PF12513	Mitochondrial degradasome RNA helicase subunit C terminal	pfam	family	IPR022192		
+PF12542	Pre-mRNA splicing factor	pfam	family	IPR022209		
+PF12603	RNA-directed RNA polymerase L, PA-C-like domain	pfam	domain	IPR022531		
+PF12622	mRNA biogenesis factor	pfam	domain			
+PF12623	RNA repair, ligase-Pnkp-associating, region of Hen1	pfam	domain	IPR024740		
+PF12627	Probable RNA and SrmB- binding site of polymerase A	pfam	domain	IPR032828		
+PF12639	DNase/tRNase domain of colicin-like bacteriocin	pfam	domain			
+PF12699	phiKZ-like phage internal head proteins	pfam	family	IPR024413		
+PF12703	Toxin of toxin-antitoxin type 1 system	pfam	family	IPR024640		
+PF12745	Anticodon binding domain of tRNAs	pfam	domain	IPR024435		
+PF12767	Transcriptional regulator of RNA polII, SAGA, subunit	pfam	family	IPR024738		
+PF12793	Sugar transport-related sRNA regulator N-term	pfam	family	IPR025370		
+PF12869	tRNA_anti-like	pfam	domain	IPR024422		
+PF12871	Pre-mRNA-splicing factor 38-associated hydrophilic C-term	pfam	domain	IPR024767		
+PF12923	Ribosomal RNA-processing protein 7 (RRP7) C-terminal domain	pfam	domain	IPR024326		
+PF12928	tRNA-splicing endonuclease subunit sen54 N-term	pfam	domain	IPR024336		
+PF13017	piRNA pathway germ-plasm component	pfam	family	IPR024970		
+PF13032	RNaseH domain of pPIWI_RE	pfam	domain	IPR024996		
+PF13393	Histidyl-tRNA synthetase	pfam	domain	IPR041715		
+PF13397	RNA polymerase-binding protein	pfam	family	IPR025182		
+PF13482	RNase_H superfamily	pfam	domain	IPR038720		
+PF13563	2'-5' RNA ligase superfamily	pfam	family			
+PF13603	Leucyl-tRNA synthetase, editing domain	pfam	domain	IPR025709		
+PF13636	RNA-binding PUA-like domain of methyltransferase RsmF	pfam	family	IPR027391		
+PF13656	RNA polymerase Rpb3/Rpb11 dimerisation domain	pfam	domain	IPR009025		
+PF13691	tRNase Z endonuclease	pfam	domain	IPR027794		
+PF13725	Possible tRNA binding domain	pfam	family	IPR027992		
+PF13735	tRNA nucleotidyltransferase domain 2 putative	pfam	domain	IPR032810		
+PF13742	OB-fold nucleic acid binding domain	pfam	domain	IPR025824		
+PF13794	tRNA-(MS[2]IO[6]A)-hydroxylase (MiaE)-like	pfam	domain			
+PF13893	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	pfam	domain			
+PF13929	mRNA stabilisation	pfam	family	IPR025210		
+PF13930	DNA/RNA non-specific endonuclease	pfam	domain	IPR044927		
+PF13932	tRNA modifying enzyme MnmG/GidA C-terminal helical bundle	pfam	domain	IPR026904		
+PF13965	dsRNA-gated channel SID-1	pfam	family	IPR025958		
+PF14077	Alternative WD40 repeat motif	pfam	family	IPR026987		
+PF14159	CAAD domains of cyanobacterial aminoacyl-tRNA synthetase	pfam	domain	IPR025564		
+PF14318	Mononegavirales mRNA-capping region V	pfam	domain	IPR026890		
+PF14372	hAT-like transposase, RNase-H fold	pfam	domain	IPR025525		
+PF14384	BrnA antitoxin of type II toxin-antitoxin system	pfam	domain	IPR025528		
+PF14389	Leucine-zipper of ternary complex factor MIP1	pfam	family	IPR025757		
+PF14419	AF2226-like SPOUT RNA Methylase fused to THUMP	pfam	family	IPR025849		
+PF14500	Dos2-interacting transcription regulator of RNA-Pol-II	pfam	domain	IPR029240		
+PF14605	Nup53/35/40-type RNA recognition motif	pfam	domain			
+PF14608	RNA-binding, Nab2-type zinc finger	pfam	domain			
+PF14626	Zc3h12a-like Ribonuclease NYN domain	pfam	family	IPR028079		
+PF14700	DNA-directed RNA polymerase N-terminal	pfam	domain	IPR029262		
+PF14709	double strand RNA binding domain from DEAD END PROTEIN 1	pfam	domain			
+PF14795	Leucine-tRNA synthetase-specific domain	pfam	domain	IPR023356		
+PF14809	C1 domain of tRNA-guanine transglycosylase dimerisation	pfam	domain	IPR032729		
+PF14810	Patch-forming domain C2 of tRNA-guanine transglycosylase	pfam	domain	IPR029402		
+PF14929	TAF RNA Polymerase I subunit A	pfam	repeat	IPR039495		
+PF15247	Histone RNA hairpin-binding protein RNA-binding domain	pfam	family	IPR029344		
+PF15320	mRNA cap methylation, RNMT-activating mini protein	pfam	family	IPR028271		
+PF15497	snRNA-activating protein complex subunit 19, SNAPc subunit 19	pfam	family	IPR029138		
+PF15500	Putative RNase-like toxin, toxin_1	pfam	family	IPR029137		
+PF15608	PELOTA RNA binding domain	pfam	domain	IPR028157		
+PF15777	Tryptophan RNA-binding attenuator protein inhibitory protein	pfam	domain	IPR031538		
+PF15801	zf-MYND-like zinc finger, mRNA-binding	pfam	domain	IPR031615		
+PF15933	Antitoxin to bacterial toxin RNase LS or RnlA	pfam	family	IPR031834		
+PF15935	RNase LS, bacterial toxin	pfam	domain	IPR031845		
+PF16005	KH-like RNA-binding domain	pfam	domain	IPR031952		
+PF16198	tRNA pseudouridylate synthase B C-terminal domain	pfam	family	IPR032819		
+PF16367	RNA recognition motif	pfam	domain	IPR000504		
+PF16520	ssRNA-binding matrix protein of Bornaviridae	pfam	domain	IPR032414		
+PF16529	WD40 region of Ge1, enhancer of mRNA-decapping protein	pfam	repeat	IPR032401		
+PF16541	Alternaria alternata allergen 1	pfam	domain	IPR032382		
+PF16575	mRNA cleavage and polyadenylation factor CLP1 P-loop	pfam	domain	IPR032319		
+PF16598	Linker region of enhancer of mRNA-decapping protein 3	pfam	family			
+PF16714	Tyrosyl-tRNA synthetase C-terminal domain	pfam	domain	IPR032005		
+PF16741	mRNA-decapping enzyme C-terminus	pfam	domain	IPR031953		
+PF16780	AIMP2 lysyl-tRNA synthetase binding domain	pfam	domain	IPR031889		
+PF16835	Pre-mRNA-splicing factor SF3a complex subunit 2 (Prp11)	pfam	domain	IPR031781		
+PF16837	Pre-mRNA-splicing factor SF3A3, of SF3a complex, Prp9	pfam	domain	IPR031774		
+PF16842	Occluded RNA-recognition motif	pfam	domain	IPR031766		
+PF16852	Herpes viral adaptor-to-host cellular mRNA binding domain	pfam	conserved_site	IPR031752		
+PF16857	RNA polymerase inhibitor	pfam	domain	IPR016412		
+PF16953	Protein-only RNase P	pfam	domain	IPR031595		
+PF16958	Pre-mRNA-splicing factor PRP9 N-terminus	pfam	domain	IPR031590		
+PF16969	RNA-binding signal recognition particle 68	pfam	family	IPR026258		
+PF16992	DNA-directed RNA polymerase, subunit G	pfam	family	IPR031555		
+PF16995	Transmembrane region of lysyl-tRNA synthetase	pfam	family	IPR031553		
+PF17125	N-terminal domain of 16S rRNA methyltransferase RsmF	pfam	domain	IPR031341		
+PF17126	RsmF rRNA methyltransferase first C-terminal domain	pfam	domain	IPR031340		
+PF17176	tRNA-binding domain	pfam	domain	IPR033442		
+PF17208	RNA binding Region	pfam	family	IPR033763		
+PF17288	Terminase RNAseH like domain	pfam	domain	IPR035413		
+PF17289	Terminase RNaseH-like domain	pfam	domain	IPR035421		
+PF17331	GFD1 mRNA transport factor	pfam	conserved_site	IPR020401		
+PF17469	Gp68-like predicted RNA polymerase component	pfam	family	IPR035343		
+PF17485	Satellite RNA 48 kDa protein	pfam	family	IPR035312		
+PF17587	Discriminator of mRNA degradation	pfam	family	IPR035137		
+PF17654	Selenocysteine tRNA 1 associated proteins	pfam	family	IPR041085		
+PF17738	DUF5575 central RNaseH like domain	pfam	domain	IPR048315		
+PF17759	Phenylalanyl tRNA synthetase beta chain CLM domain	pfam	domain	IPR041616		
+PF17770	Ribonuclease J C-terminal domain	pfam	domain	IPR041636		
+PF17774	Putative RNA-binding domain in YlmH	pfam	domain	IPR040591		
+PF17842	Double-stranded RNA binding domain 2	pfam	domain	IPR040870		
+PF17875	RPA43 OB domain in RNA Pol I	pfam	domain	IPR041178		
+PF17917	RNase H-like domain found in reverse transcriptase	pfam	domain	IPR041373		
+PF17919	RNase H-like domain found in reverse transcriptase	pfam	domain	IPR041577		
+PF18006	O-phosphoseryl-tRNA synthetase C-terminal domain	pfam	domain	IPR041590		
+PF18043	T4 RNA ligase 2 C-terminal	pfam	domain	IPR040609		
+PF18093	tRNA methyltransferase 5 N-terminal domain	pfam	domain	IPR040601		
+PF18141	RNA helicase UPF1, 1B domain	pfam	domain	IPR040812		
+PF18143	HAD domain in Swiss Army Knife RNA repair proteins	pfam	family			
+PF18260	Nuclear polyadenylated RNA-binding 2 protein CCCH zinc finger 1	pfam	domain	IPR041044		
+PF18262	Phe-tRNA synthetase beta subunit B1 domain	pfam	domain	IPR040659		
+PF18297	NFACT protein RNA binding domain	pfam	domain			
+PF18431	Bacterial CdiA-CT RNAse A domain	pfam	domain	IPR041436		
+PF18444	RNA recognition motif	pfam	domain	IPR040736		
+PF18466	Glutamate--tRNA ligase N-terminal domain	pfam	domain	IPR041103		
+PF18490	tRNA-binding domain	pfam	domain	IPR041293		
+PF18497	Ribonuclease III N-terminal domain	pfam	domain	IPR040540		
+PF18528	RNA editing 3' terminal uridylyl transferase 2 middle domain	pfam	domain	IPR041060		
+PF18614	RNase II-type exonuclease C-terminal S1 domain	pfam	domain	IPR040596		
+PF18664	CdiA C-terminal tRNase domain	pfam	domain	IPR041620		
+PF18809	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease1	pfam	domain	IPR041092		
+PF18810	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease2	pfam	domain	IPR041110		
+PF18812	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease3	pfam	domain	IPR041301		
+PF18813	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease4	pfam	domain	IPR041420		
+PF18814	phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease5	pfam	domain	IPR040998		
+PF18869	RnaseLS-like HEPN	pfam	family	IPR040975		
+PF18981	Internalin K domain (D3/D4)	pfam	domain	IPR044056		
+PF19034	RNase LS, bacterial toxin DBD domain	pfam	domain	IPR043994		
+PF19303	Anticodon binding domain of methionyl tRNA ligase	pfam	domain	IPR041872		
+PF19417	RNase LS, bacterial toxin N-terminal	pfam	domain	IPR045837		
+PF19725	DNA-directed RNA polymerase III subunit RPC5 C-terminal	pfam	domain	IPR045576		
+PF19915	MoxR-vWA-beta-propeller ternary system domain bpX0	pfam	family	IPR045554		
+PF19917	MoxR-vWA-beta-propeller ternary system domain bpX1	pfam	family	IPR045553		
+PF19918	MoxR-vWA-beta-propeller ternary system domain bpX2	pfam	family	IPR045552		
+PF19919	MoxR-vWA-beta-propeller ternary system domain bpX3	pfam	domain	IPR045551		
+PF19920	MoxR-vWA-beta-propeller ternary system domain bpX4	pfam	domain	IPR045549		
+PF19921	MoxR-vWA-beta-propeller ternary system domain bpX5	pfam	domain	IPR045548		
+PF19922	MoxR-vWA-beta-propeller ternary system domain bpX6	pfam	domain	IPR045547		
+PF19971	Ternary complex associated domain 2	pfam	domain	IPR045541		
+PF19972	Ternary complex associated domain 3	pfam	domain	IPR045542		
+PF19973	Ternary complex associated domain 7	pfam	domain	IPR045543		
+PF19974	Ternary complex associated domain 9	pfam	domain	IPR045544		
+PF19996	N-terminal helical region fused to the FtsH ternary system vWA domain	pfam	family	IPR045479		
+PF19997	vWA domain found in the FtsH ternary systems	pfam	domain	IPR045477		
+PF19998	FtsH ternary system domain X1	pfam	domain	IPR045480		
+PF19999	FtsH ternary system domain X3	pfam	domain	IPR045481		
+PF20000	FtsH ternary system domain X2	pfam	domain	IPR045482		
+PF20002	FtsH ternary system domain X3-analog	pfam	family	IPR045483		
+PF20003	FtsH ternary system domain X5	pfam	domain	IPR045484		
+PF20004	FtsH ternary system domain X6	pfam	domain	IPR045485		
+PF20005	FtsH ternary system domain X7	pfam	domain	IPR045486		
+PF20007	FtsH ternary system-associated peptide	pfam	family	IPR045488		
+PF20030	MoxR domain in the MoxR-vWA-beta-propeller ternary systems	pfam	domain	IPR045427		
+PF20258	Aminomethyltransferase beta-barrel domain	pfam	domain	IPR046885		
+PF20259	tRNA methyl transferase PRC-barrel domain	pfam	domain	IPR046884		
+PF20260	RNA methyltransferase PUA domain	pfam	domain	IPR046887		
+PF20416	U3 small nucleolar RNA-associated protein 20, C-terminal	pfam	domain	IPR046523		
+PF20429	RNA-binding protein Tab2/Atab2, C-terminal domain	pfam	domain	IPR046761		
+PF20483	Flavivirus RNA-directed RNA polymerase, thumb domain	pfam	domain	IPR046811		
+PF20488	Birnavirus RNA dependent RNA polymerase (VP1), thumb domain	pfam	domain	IPR046752		
+PF20489	Birnavirus RNA dependent RNA polymerase (VP1), C-terminal	pfam	domain	IPR046750		
+PF20614	Homologues of viral RNAse III, found in viruses infecting fungi	pfam	domain	IPR046747		
+PF20661	SutA RNAP-binding domain	pfam	domain	IPR049191		
+PF20816	Picobirnavirus, Capsid protein	pfam	family	IPR048835		
+PF20819	T4 RNA ligase 1, C-terminal domain	pfam	domain	IPR049042		
+PF20822	CRISPR RNA silencing complex Cmr2 subunit, first helical domain	pfam	domain	IPR048694		
+PF20823	CRISPR RNA silencing complex Cmr2 subunit, Zn-binding domain	pfam	domain	IPR048690		
+PF20824	CRISPR RNA silencing complex Cmr2 subunit, second helical domain	pfam	domain	IPR048693		
+PF20833	RNase E/G, Thioredoxin-like domain	pfam	domain	IPR048583		
+PF20844	Pre-mRNA cleavage complex 2 protein Pcf11, RFEGP repeat	pfam	repeat	IPR048829		
+PF20845	Pre-mRNA cleavage complex 2 protein Pcf11, alpha-helical domain	pfam	domain	IPR048830		
+PF20912	DNA-directed RNA polymerase III subunit RPC3, helical hairpin domain	pfam	domain			
+PF20917	Asparaginal-tRNA synthetase, N-terminal domain	pfam	domain	IPR048952		
+PF20932	Dicer, dsRNA-binding domain	pfam	domain	IPR044441		
+PF20947	Influenza RNA polymerase PB2 N-terminal region	pfam	family	IPR049106		
+PF20948	Influenza RNA polymerase PB2 second domain	pfam	domain	IPR049110		
+PF20949	Influenza RNA polymerase PB2 middle domain	pfam	domain	IPR049111		
+PF20950	Influenza RNA polymerase PB2 helical domain	pfam	domain	IPR049113		
+PF20951	Influenza RNA polymerase PB2 6th domain	pfam	domain	IPR049114		
+PF20952	Influenza RNA polymerase PB2 C-terminal domain	pfam	domain	IPR049115		
+PF20974	tRNA synthetases class I (E and Q), anti-codon binding domain	pfam	domain	IPR049437		
+PF20977	Glutamyl-tRNA(Gln) amidotransferase subunit F	pfam	family			
+PF20978	Glutamyl-tRNA amidotransferase complex subunit Gta3	pfam	family	IPR049545		
+PF21004	mRNA capping enzyme catalytic subunit, GTase, NTPase domain	pfam	domain	IPR048425		
+PF21005	mRNA-capping enzyme catalytic subunit, GTase, OB fold	pfam	domain	IPR048426		
+PF21016	Ribosomal RNA large subunit methyltransferase N-terminal domain	pfam	domain	IPR048641		
+PF21056	Zinc finger SWIM domain-containing protein 1/3, RNaseH-like domain	pfam	domain	IPR048324		
+PF21150	Ribosomal RNA small subunit methyltransferase F, pre-PUA domain	pfam	domain	IPR048457		
+PF21188	Pre-mRNA-splicing helicase BRR2 plug domain	pfam	domain	IPR048863		
+PF21210	Putative ATP-dependent RNA helicase, helical bundle	pfam	domain	IPR041755		
+PF21224	Small RNA 2'-O-methyltransferase-like, La-motif-containing domain	pfam	domain			
+PF21239	Ribosomal RNA large subunit methyltransferase M, N-terminal	pfam	domain	IPR048646		
+PF21289	Enhancer of mRNA-decapping protein 4, C-terminal	pfam	domain	IPR049404		
+PF21293	Ribonuclease D, C-terminal HRDC domain	pfam	domain	IPR048579		
+PF21408	Exosome RNA helicase MTR4-like, stalk	pfam	domain	IPR048392		
+PF21457	RNA-binding, Nab2-type zinc finger	pfam	domain	IPR048410		
+PF21553	Methionyl-tRNA formyltransferase, C-terminal domain	pfam	domain	IPR049355		
+PF21561	Virus, RNA-directed RNA polymerase L, thumb ring domain	pfam	domain	IPR048547		
+PF21569	Histone-lysine N-methyltransferase, RNA-binding domain	pfam	domain	IPR048669		
+PF21579	tRNA (uracil(54)-C(5))-methyltransferase, TRAM domain	pfam	domain	IPR048845		
+PF21591	RNA helicase Hera, dimerization domain	pfam	domain	IPR048768		
+PF21594	Maternal embryonic leucine zipper kinase, UBA domain	pfam	domain	IPR048637		
+PF21624	Virion DNA-directed RNA polymerase, plug insertion	pfam	domain	IPR049433		
+PF21668	DNA-directed RNA polymerase subunit beta', hybrid domain	pfam	domain	IPR048566		
+PF21680	tRNA modifying enzyme MnmG/GidA C-terminal helical domain	pfam	domain	IPR049312		
+PF21769	Virion DNA-directed RNA polymerase domain	pfam	domain	IPR049432		
+PF21787	TNP-like, RNase H N-terminal domain	pfam	domain	IPR048365		
+PF21789	TNP-like, RNase H C-terminal domain	pfam	domain	IPR048367		
+PF21864	Multiple organellar RNA editing factor 1, MORF domain	pfam	domain	IPR054059		
+PF21867	Virion DNA-directed RNA polymerase domain	pfam	domain	IPR054062		
+PF21894	Bacteriophage N4 RNA polymerase, helical domain	pfam	domain	IPR053805		
+PF21940	Pfc11 Rna14/15 interacting domain	pfam	domain	IPR054128		
+PF21951	T-cell receptor gamma alternate reading frame protein	pfam	family	IPR054133		
+PF21996	Histidyl-tRNA synthetase HisZ, C-terminal domain	pfam	domain	IPR053846		
+PF22027	NS3 RNA helicase, C-terminal helical domain	pfam	domain	IPR054175		
+PF22122	Internalin K domain D2	pfam	domain	IPR054360		
+PF22123	Exuperantia RNAse H-like domain	pfam	domain	IPR054362		
+PF22152	Permutotetravirus RNA-dependent RNA polymerase palm domain	pfam	domain	IPR054403		
+PF22209	CPV, RNA-directed RNA polymerase, N-terminal	pfam	domain	IPR054006		
+PF22212	CPV, RNA-directed RNA polymerase, central polymerase domain	pfam	domain			
+PF22213	CPV, RNA-directed RNA polymerase, C-terminal	pfam	domain	IPR054002		
+PF22231	DEAD box helicase Hera, RNA-binding domain	pfam	domain	IPR054525		
+PF22260	Permutotetravirus RNA-dependent RNA polymerase thumb domain	pfam	domain	IPR054433		
+PF22327	U8 snoRNA-decapping enzyme-like	pfam	domain	IPR054754		
+PF22350	Internalin, EF-hand domain	pfam	domain	IPR054769		
+PF22355	tRNA-splicing endonuclease subunit NEQ261 N-terminal domain	pfam	domain			
+PF22389	Protein Dicer, dsRNA-binding domain	pfam	domain	IPR055044		
+PF22421	Tyrosine--tRNA ligase SYY-like C-terminal domain	pfam	domain	IPR054608		
+PF22490	tRNA-splicing endonuclease, linker domain	pfam	domain			
+PF22502	tRNA-intron endonuclease SEN2-like, N-terminal domain	pfam	domain	IPR055144		
+PF22505	Ribonuclease J, beta-CASP domain	pfam	domain	IPR055132		
+PF22508	Internalin J, Immunoglobulin-like domain	pfam	domain	IPR054717		
+PF22530	Terminase Bacteriophage T7, Ribonuclease H-like domain	pfam	domain	IPR054762		
+PF22600	Poly(A) RNA polymerase, mitochondrial-like, central palm domain	pfam	domain	IPR054708		
+PF22602	Nuclear RNA export factor, NTF2 domain	pfam	domain	IPR002075		
+PF22625	Exosome RNA binding protein RRP4 N-terminal domain	pfam	domain	IPR054371		
+PF22663	Picornavirus coat protein	pfam	domain			
+PF22892	MRPL44 dsRNA-binding domain	pfam	domain	IPR044444		
+PF22901	Ferlin dsRNA-binding domain-like domain	pfam	domain	IPR055072		
+PF22920	UvrC Ribonuclease H-like domain	pfam	domain			
+PF22981	Mediator of RNA polymerase II transcription subunit 14, RM2	pfam	repeat	IPR055113		
+PF22983	Mediator of RNA polymerase II transcription subunit 14, RM8	pfam	repeat	IPR055107		
+PF22984	Mediator of RNA polymerase II transcription subunit 14, RM6	pfam	repeat	IPR055114		
+PF23002	ATP-dependent RNA helicase DDX60, PIN-like domain	pfam	domain	IPR055124		

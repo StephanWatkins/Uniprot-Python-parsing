@@ -1,0 +1,481 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+PF00010	Helix-loop-helix DNA-binding domain	pfam	domain	IPR011598
+PF00010	Helix-loop-helix DNA-binding domain	pfam	domain	IPR036638		
+PF00078	Reverse transcriptase (RNA-dependent DNA polymerase)	pfam	domain	IPR000477		
+PF00136	DNA polymerase family B	pfam	family	IPR006134		
+PF00145	C-5 cytosine-specific DNA methylase	pfam	domain	IPR001525		
+PF00154	recA bacterial DNA recombination protein	pfam	family	IPR049428		
+PF00204	DNA gyrase B	pfam	domain	IPR013506		
+PF00216	Bacterial DNA-binding protein	pfam	domain	IPR000119		
+PF00226	DnaJ domain	pfam	domain	IPR001623		
+PF00242	DNA polymerase (viral) N-terminal domain	pfam	family	IPR000201		
+PF00249	Myb-like DNA-binding domain	pfam	domain	IPR001005		
+PF00308	Bacterial DnaA ATPAse domain	pfam	domain	IPR013317		
+PF00313	'Cold-shock' DNA-binding domain	pfam	domain	IPR002059		
+PF00319	SRF-type transcription factor (DNA-binding and dimerisation domain)	pfam	domain	IPR002100		
+PF00336	DNA polymerase (viral) C-terminal domain	pfam	family	IPR001462		
+PF00447	HSF-type DNA-binding	pfam	domain	IPR000232		
+PF00476	DNA polymerase family A	pfam	family	IPR001098		
+PF00521	DNA gyrase/topoisomerase IV, subunit A	pfam	family	IPR002205		
+PF00552	Integrase DNA binding domain	pfam	domain	IPR001037		
+PF00554	Rel homology DNA-binding domain	pfam	domain	IPR011539		
+PF00645	Poly(ADP-ribose) polymerase and DNA-Ligase Zn-finger region	pfam	domain	IPR001510		
+PF00649	Copper fist DNA binding domain	pfam	domain	IPR001083		
+PF00684	DnaJ central domain	pfam	domain	IPR001305		
+PF00695	Major surface antigen from hepadnavirus	pfam	family	IPR000349		
+PF00712	DNA polymerase III beta subunit, N-terminal domain	pfam	domain	IPR022634		
+PF00730	HhH-GPD superfamily base excision DNA repair protein	pfam	domain	IPR003265		
+PF00747	ssDNA binding protein	pfam	family	IPR000635		
+PF00751	DM DNA binding domain	pfam	family	IPR001275		
+PF00772	DnaB-like helicase N terminal domain	pfam	domain	IPR007693		
+PF00870	P53 DNA-binding domain	pfam	domain	IPR011615		
+PF00875	DNA photolyase	pfam	domain	IPR006050		
+PF00940	DNA-dependent RNA polymerase	pfam	family	IPR046950		
+PF00986	DNA gyrase B subunit, carboxyl terminus	pfam	family	IPR002288		
+PF01026	TatD related DNase	pfam	domain	IPR001130		
+PF01028	Eukaryotic DNA topoisomerase I, catalytic core	pfam	domain	IPR013500		
+PF01035	6-O-methylguanine DNA methyltransferase, DNA binding domain	pfam	domain	IPR014048		
+PF01068	ATP dependent DNA ligase domain	pfam	domain	IPR012310		
+PF01119	DNA mismatch repair protein, C-terminal domain	pfam	family	IPR013507		
+PF01131	DNA topoisomerase	pfam	family	IPR013497		
+PF01149	Formamidopyrimidine-DNA glycosylase N-terminal domain	pfam	domain	IPR012319		
+PF01223	DNA/RNA non-specific endonuclease	pfam	domain	IPR001604		
+PF01287	Eukaryotic elongation factor 5A hypusine, DNA-binding OB fold	pfam	domain	IPR020189		
+PF01316	Arginine repressor, DNA binding domain	pfam	domain	IPR020900		
+PF01325	Iron dependent repressor, N-terminal DNA binding domain	pfam	domain	IPR022687		
+PF01388	ARID/BRIGHT DNA binding domain	pfam	domain	IPR001606		
+PF01396	Topoisomerase DNA binding C4 zinc finger	pfam	domain	IPR013498		
+PF01420	Type I restriction modification DNA specificity domain	pfam	domain	IPR000055		
+PF01555	DNA methylase	pfam	family	IPR002941		
+PF01556	DnaJ C terminal domain	pfam	domain	IPR002939		
+PF01612	3'-5' exonuclease	pfam	domain	IPR002562		
+PF01653	NAD-dependent DNA ligase adenylation domain	pfam	domain	IPR013839		
+PF01726	LexA DNA binding domain	pfam	domain	IPR006199		
+PF01896	DNA primase small subunit	pfam	family	IPR002755		
+PF01984	Double-stranded DNA-binding domain	pfam	family	IPR002836		
+PF02086	D12 class N6 adenine-specific DNA methyltransferase	pfam	family	IPR012327		
+PF02217	Origin of replication binding protein	pfam	domain	IPR003133		
+PF02236	Viral DNA-binding protein, all alpha domain	pfam	domain	IPR003176		
+PF02245	Methylpurine-DNA glycosylase (MPG)	pfam	domain	IPR003180		
+PF02257	RFX DNA-binding domain	pfam	domain	IPR003150		
+PF02282	DNA polymerase processivity factor (UL42)	pfam	domain	IPR003202		
+PF02294	7kD DNA-binding domain	pfam	domain	IPR003212		
+PF02303	Helix-destabilising protein	pfam	domain	IPR003512		
+PF02316	Mu DNA-binding domain	pfam	family	IPR003314		
+PF02319	E2F/DP family winged-helix DNA-binding domain	pfam	domain	IPR003316		
+PF02362	B3 DNA binding domain	pfam	family	IPR003340		
+PF02384	N-6 DNA Methylase	pfam	family	IPR003356		
+PF02442	Lipid membrane protein of large eukaryotic DNA viruses	pfam	family	IPR003472		
+PF02459	Adenoviral DNA terminal protein	pfam	family	IPR003391		
+PF02481	DNA recombination-mediator protein A	pfam	family	IPR003488		
+PF02499	Probable DNA packing protein, C-terminus	pfam	domain	IPR003498		
+PF02500	Probable DNA packing protein, N-terminus	pfam	family	IPR003499		
+PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	pfam	domain	IPR003594		
+PF02534	Type IV secretory system Conjugative DNA transfer	pfam	family	IPR003688		
+PF02575	YbaB/EbfC DNA-binding family	pfam	family	IPR004401		
+PF02765	Telomeric single stranded DNA binding POT1/CDC13	pfam	domain	IPR011564		
+PF02767	DNA polymerase III beta subunit, central domain	pfam	domain	IPR022637		
+PF02768	DNA polymerase III beta subunit, C-terminal domain	pfam	domain	IPR022635		
+PF02864	STAT protein, DNA binding domain	pfam	domain	IPR013801		
+PF02870	6-O-methylguanine DNA methyltransferase, ribonuclease-like domain	pfam	domain	IPR008332		
+PF02905	Epstein Barr virus nuclear antigen-1, DNA-binding domain	pfam	domain	IPR004186		
+PF02916	DNA polymerase processivity factor	pfam	domain	IPR004190		
+PF02919	Eukaryotic DNA topoisomerase I, DNA binding fragment	pfam	family	IPR008336		
+PF02920	DNA binding domain of tn916 integrase	pfam	domain	IPR004191		
+PF02976	DNA mismatch repair enzyme MutH	pfam	domain	IPR011337		
+PF03013	Pyrimidine dimer DNA glycosylase	pfam	domain	IPR004260		
+PF03101	FAR1 DNA-binding domain	pfam	domain	IPR004330		
+PF03104	DNA polymerase family B, exonuclease domain	pfam	family	IPR006133		
+PF03106	WRKY DNA -binding domain	pfam	domain	IPR003657		
+PF03119	NAD-dependent DNA ligase C4 zinc finger domain	pfam	domain	IPR004149		
+PF03120	NAD-dependent DNA ligase OB-fold domain	pfam	domain	IPR004150		
+PF03121	Herpesviridae UL52/UL70 DNA primase	pfam	family			
+PF03161	LAGLIDADG DNA endonuclease family	pfam	family	IPR004860		
+PF03167	Uracil DNA glycosylase superfamily	pfam	domain	IPR005122		
+PF03175	DNA polymerase type B, organellar and viral	pfam	family	IPR004868		
+PF03221	Tc5 transposase DNA-binding domain	pfam	domain	IPR006600		
+PF03226	Yippee zinc-binding/DNA-binding /Mis18, centromere assembly	pfam	domain	IPR004910		
+PF03265	Deoxyribonuclease II	pfam	family	IPR004947		
+PF03293	Poxvirus DNA-directed RNA polymerase, 18 kD subunit	pfam	family	IPR004973		
+PF03310	Caulimovirus DNA-binding protein	pfam	domain	IPR004986		
+PF03324	Herpesvirus DNA helicase/primase complex associated protein	pfam	family	IPR004996		
+PF03396	Poxvirus DNA-directed RNA polymerase, 35 kD subunit	pfam	family	IPR005059		
+PF03441	FAD binding domain of DNA photolyase	pfam	domain	IPR005101		
+PF03444	Winged helix-turn-helix transcription repressor, HrcA DNA-binding	pfam	domain	IPR005104		
+PF03603	DNA polymerase III psi subunit	pfam	family	IPR004615		
+PF03604	DNA directed RNA polymerase, 7 kDa subunit	pfam	domain	IPR006591		
+PF03728	Viral DNA-binding protein, zinc binding domain	pfam	domain	IPR005376		
+PF03796	DnaB-like helicase C terminal domain	pfam	domain	IPR007694		
+PF03833	DNA polymerase II large subunit DP2	pfam	family	IPR016033		
+PF03834	Binding domain of DNA repair protein Ercc1 (rad10/Swi10)	pfam	family	IPR047260		
+PF03852	DNA mismatch endonuclease Vsr	pfam	family	IPR004603		
+PF03869	Arc-like DNA binding domain	pfam	domain	IPR005569		
+PF03884	DNA gyrase inhibitor YacG	pfam	domain	IPR005584		
+PF03989	DNA gyrase C-terminal domain, beta-propeller	pfam	repeat	IPR006691		
+PF04042	DNA polymerase alpha/epsilon subunit B	pfam	family	IPR007185		
+PF04081	DNA polymerase delta, subunit 4	pfam	family	IPR007218		
+PF04104	Eukaryotic and archaeal DNA primase, large subunit	pfam	family	IPR007238		
+PF04127	DNA / pantothenate metabolism flavoprotein	pfam	family	IPR007085		
+PF04152	Mre11 DNA-binding presumed domain	pfam	domain	IPR007281		
+PF04218	CENP-B N-terminal DNA-binding domain	pfam	domain	IPR007889		
+PF04364	DNA polymerase III chi subunit, HolC	pfam	family	IPR007459		
+PF04397	LytTr DNA-binding domain	pfam	domain	IPR007492		
+PF04406	Type IIB DNA topoisomerase	pfam	domain	IPR013049		
+PF04451	Large eukaryotic DNA virus major capsid protein	pfam	domain	IPR007542		
+PF04503	Single-stranded DNA binding protein, SSDP	pfam	family			
+PF04552	Sigma-54, DNA binding domain	pfam	domain	IPR007634		
+PF04661	Poxvirus I3 ssDNA-binding protein	pfam	family	IPR006754		
+PF04675	DNA ligase N terminus	pfam	family	IPR012308		
+PF04679	ATP dependent DNA ligase C terminal region	pfam	family	IPR012309		
+PF04689	DNA binding protein S1FA	pfam	family	IPR006779		
+PF04732	Intermediate filament head (DNA binding) region	pfam	family	IPR006821		
+PF04735	Baculovirus DNA helicase	pfam	family	IPR006824		
+PF04767	DNA-binding 11 kDa phosphoprotein	pfam	family	IPR006854		
+PF04786	ssDNA binding protein	pfam	family	IPR006871		
+PF04845	PurA ssDNA and RNA-binding protein	pfam	family	IPR006628		
+PF04873	Ethylene insensitive 3, DNA-binding domain	pfam	domain	IPR047091		
+PF04929	Herpes DNA replication accessory factor	pfam	family	IPR007013		
+PF04931	DNA polymerase phi	pfam	family	IPR007015		
+PF04967	HTH DNA binding domain	pfam	domain	IPR007050		
+PF05224	NDT80 / PhoG like DNA-binding family	pfam	family	IPR024061		
+PF05258	Dna[CI] antecedent, DciA	pfam	family	IPR007922		
+PF05261	TraM protein, DNA-binding	pfam	family	IPR007925		
+PF05320	Poxvirus DNA-directed RNA polymerase 19 kDa subunit	pfam	family	IPR007984		
+PF05435	Phi-29 DNA terminal protein GP3	pfam	family	IPR008770		
+PF05472	DNA replication terminus site-binding protein (Ter protein)	pfam	family	IPR008865		
+PF05496	Holliday junction DNA helicase RuvB P-loop domain	pfam	domain	IPR008824		
+PF05499	DNA methyltransferase 1-associated protein 1 (DMAP1)	pfam	family	IPR008468		
+PF05864	Chordopoxvirus DNA-directed RNA polymerase 7 kDa polypeptide (RPO7)	pfam	family	IPR008448		
+PF05869	DNA N-6-adenine-methyltransferase (Dam)	pfam	family	IPR008593		
+PF05894	Podovirus DNA encapsidation protein (Gp16)	pfam	family	IPR008784		
+PF06087	Tyrosyl-DNA phosphodiesterase	pfam	family	IPR010347		
+PF06106	S. aureus uracil DNA glycosylase inhibitor	pfam	domain	IPR009295		
+PF06144	DNA polymerase III, delta subunit	pfam	domain	IPR010372		
+PF06224	DNA glycosylase AlkZ-like	pfam	family	IPR009351		
+PF06319	DNA repair protein MmcB-like	pfam	family	IPR009394		
+PF06440	DNA polymerase III, theta subunit	pfam	domain	IPR009052		
+PF06831	Formamidopyrimidine-DNA glycosylase H2TH domain	pfam	domain	IPR015886		
+PF06971	Putative DNA-binding protein N-terminus	pfam	family	IPR009718		
+PF07057	DNA helicase TraI, C-terminal	pfam	domain	IPR009767		
+PF07157	DNA circularisation protein N-terminus	pfam	family	IPR009826		
+PF07261	Replication initiation and membrane attachment	pfam	family	IPR006343		
+PF07282	Putative transposase DNA-binding domain	pfam	family	IPR010095		
+PF07319	Primosomal protein DnaI N-terminus	pfam	family	IPR009928		
+PF07328	T-DNA border endonuclease VirD1	pfam	family	IPR009933		
+PF07381	Winged helix DNA-binding domain (DUF1495)	pfam	domain	IPR010863		
+PF07471	Phage DNA packaging protein Nu1	pfam	family	IPR010906		
+PF07522	DNA repair metallo-beta-lactamase	pfam	domain	IPR011084		
+PF07727	Reverse transcriptase (RNA-dependent DNA polymerase)	pfam	family	IPR013103		
+PF07733	Bacterial DNA polymerase III alpha NTPase domain	pfam	domain	IPR011708		
+PF07842	GC-rich sequence DNA-binding factor-like protein	pfam	family	IPR022783		
+PF07879	PHB/PHA accumulation regulator DNA-binding domain	pfam	domain	IPR012909		
+PF07934	8-oxoguanine DNA glycosylase, N-terminal domain	pfam	family	IPR012904		
+PF08163	DNA-dependent protein kinase catalytic subunit, CC3	pfam	repeat	IPR012582		
+PF08208	DNA-directed RNA polymerase I subunit RPA34.5	pfam	family	IPR013240		
+PF08275	DNA primase catalytic core, N-terminal domain	pfam	domain	IPR013264		
+PF08278	DNA primase DnaG DnaB-binding	pfam	domain	IPR013173		
+PF08299	Bacterial dnaA protein helix-turn-helix	pfam	domain	IPR013159		
+PF08408	DNA polymerase family B viral insert	pfam	family	IPR013617		
+PF08418	DNA polymerase alpha subunit B N-terminal	pfam	domain	IPR013627		
+PF08452	DNA polymerase family B exonuclease domain, N-terminal	pfam	family	IPR013660		
+PF08573	DNA endonuclease activator SAE2/CtIP C-terminus	pfam	domain	IPR013882		
+PF08599	DNA damage repair protein Nbs1	pfam	family	IPR013908		
+PF08639	DNA replication regulator SLD3, STD domain	pfam	domain	IPR013948		
+PF08684	DNA mimic ocr	pfam	family	IPR014798		
+PF08691	DNA repair proteins Nse5 and Nse6	pfam	family	IPR014803		
+PF08696	DNA replication factor Dna2	pfam	family	IPR014808		
+PF08713	DNA alkylation repair enzyme	pfam	repeat	IPR014825		
+PF08755	Hemimethylated DNA-binding protein YccV like	pfam	domain	IPR011722		
+PF08804	gp32 DNA binding protein like	pfam	domain	IPR012339		
+PF08839	DNA replication factor CDT1 like	pfam	domain	IPR014939		
+PF08870	DNA sulphur modification protein DndE	pfam	domain	IPR014969		
+PF08914	Rap1 Myb domain	pfam	domain	IPR015010		
+PF08993	T4 gene Gp59 loader of gp41 DNA helicase	pfam	domain	IPR015085		
+PF08994	T4 gene Gp59 loader of gp41 DNA helicase C-term	pfam	domain	IPR015086		
+PF08996	DNA Polymerase alpha zinc finger	pfam	domain	IPR015088		
+PF09003	Bacteriophage lambda integrase, Arm DNA-binding domain	pfam	domain	IPR015094		
+PF09004	Alkylated DNA repair protein alkB homolog 8, N-terminal	pfam	domain	IPR015095		
+PF09033	DNA Fragmentation factor 45kDa, C terminal domain	pfam	domain	IPR015121		
+PF09039	Mu DNA binding, I gamma subdomain	pfam	domain	IPR015126		
+PF09115	DNA polymerase III, delta subunit, C terminal	pfam	domain	IPR015199		
+PF09153	Methylated DNA-protein cysteine methyltransferase, N-terminal	pfam	domain	IPR015236		
+PF09171	N-glycosylase/DNA lyase	pfam	domain	IPR015254		
+PF09187	RNA-directed DNA methylation 1	pfam	domain	IPR015270		
+PF09197	Rap1, DNA-binding	pfam	domain	IPR015280		
+PF09230	DNA fragmentation factor 40 kDa	pfam	domain	IPR015311		
+PF09250	Bifunctional DNA primase/polymerase, N-terminal	pfam	domain	IPR015330		
+PF09266	Viral DNA topoisomerase I, N-terminal	pfam	domain	IPR015346		
+PF09270	Beta-trefoil DNA-binding domain	pfam	domain	IPR015350		
+PF09271	LAG1, DNA binding	pfam	domain	IPR015351		
+PF09278	MerR, DNA binding	pfam	domain	IPR015358		
+PF09287	CEP-1, DNA binding	pfam	domain	IPR015367		
+PF09292	Endonuclease VIII-like 1, DNA bind	pfam	domain	IPR015371		
+PF09350	DnaJ homologue, subfamily C, member 28, conserved domain	pfam	domain	IPR018961		
+PF09507	DNA polymerase subunit Cdc27	pfam	family	IPR019038		
+PF09607	Brinker DNA-binding domain	pfam	domain	IPR018586		
+PF09798	DNA damage checkpoint protein	pfam	family	IPR018622		
+PF09836	Putative DNA-binding domain	pfam	family	IPR018640		
+PF09848	Schlafen group 3, DNA/RNA helicase domain	pfam	domain	IPR018647		
+PF09859	Oxygenase, catalysing oxidative methylation of damaged DNA	pfam	domain	IPR018655		
+PF09905	DNA-binding protein VF530	pfam	family	IPR018668		
+PF10073	GapR-like, DNA-binding domain	pfam	domain	IPR046367		
+PF10074	T6SS, Transcription factor, DNA binding domain	pfam	domain	IPR018754		
+PF10108	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB	pfam	family	IPR019288		
+PF10127	RNA repair pathway DNA polymerase beta family	pfam	family	IPR018775		
+PF10141	Single-strand DNA-specific exonuclease, C terminal domain	pfam	family	IPR018779		
+PF10147	Growth arrest and DNA-damage-inducible proteins-interacting protein 1	pfam	family	IPR018472		
+PF10195	DNA-binding nuclear phosphoprotein p8	pfam	family	IPR018792		
+PF10311	Increased loss of mitochondrial DNA protein 1	pfam	family	IPR018815		
+PF10357	Domain of Kin17 curved DNA-binding protein	pfam	family	IPR019447		
+PF10373	Est1 DNA/RNA binding domain	pfam	repeat	IPR018834		
+PF10382	DNA helicase ZGRF1-like, N-terminal domain	pfam	domain	IPR018838		
+PF10391	Fingers domain of DNA polymerase lambda	pfam	domain	IPR018944		
+PF10410	DnaB-helicase binding domain of primase	pfam	domain	IPR019475		
+PF10412	Type IV secretion-system coupling protein DNA-binding domain	pfam	domain	IPR019476		
+PF10416	Transcription-initiator DNA-binding domain IBD	pfam	domain	IPR018845		
+PF10433	Mono-functional DNA-alkylating methyl methanesulfonate N-term	pfam	repeat	IPR018846		
+PF10491	NLS-binding and DNA-binding and dimerisation domains of Nrf1	pfam	family	IPR019525		
+PF10524	Nuclear factor I protein pre-N-terminus	pfam	family	IPR019548		
+PF10537	ATP-utilising chromatin assembly and remodelling N-terminal	pfam	domain	IPR013136		
+PF10545	Alcohol dehydrogenase transcription factor Myb/SANT-like	pfam	domain	IPR006578		
+PF10683	Hermes transposase DNA-binding domain	pfam	domain	IPR018473		
+PF10748	DNA utilization proteins HofP	pfam	family	IPR019684		
+PF10991	Enterobacter phage Enc34, ssDNA-binding protein	pfam	family	IPR022595		
+PF11053	Terminase DNA packaging enzyme	pfam	family	IPR020342		
+PF11056	Recombination, repair and ssDNA binding protein UvsY	pfam	family	IPR021289		
+PF11087	PRD1 phage membrane DNA delivery	pfam	family	IPR020085		
+PF11123	DNA packaging protein	pfam	family	IPR024345		
+PF11411	DNA ligase IV	pfam	family	IPR021536		
+PF11440	DNA alpha-glucosyltransferase	pfam	family	IPR016223		
+PF11490	DNA polymerase III polC-type N-terminus II	pfam	domain	IPR024754		
+PF11590	DNA polymerase catalytic subunit Pol	pfam	family	IPR021639		
+PF11638	DnaA N-terminal domain	pfam	domain	IPR024633		
+PF11640	Telomere-length maintenance and DNA damage repair	pfam	domain	IPR021668		
+PF11705	DNA-directed RNA polymerase III subunit Rpc31	pfam	family	IPR024661		
+PF11719	DNA replication and checkpoint protein	pfam	family	IPR021110		
+PF11740	Plasmid replication region DNA-binding N-term	pfam	family	IPR021104		
+PF11772	DNA-directed RNA polymerase subunit beta	pfam	family	IPR024596		
+PF11875	DnaJ-like protein C11, C-terminal	pfam	domain	IPR024586		
+PF11972	HTH DNA binding domain	pfam	domain	IPR021068		
+PF12047	Cytosine specific DNA methyltransferase replication foci domain	pfam	domain	IPR022702		
+PF12163	DNA replication regulator	pfam	domain	IPR021011		
+PF12167	Arm DNA-binding domain	pfam	domain	IPR022000		
+PF12168	DNA polymerase III subunits tau domain IV DnaB-binding	pfam	family	IPR022001		
+PF12169	DNA polymerase III subunits gamma and tau domain III	pfam	family	IPR022754		
+PF12170	DNA polymerase III tau subunit V interacting with alpha	pfam	family	IPR021029		
+PF12181	DNA binding domain of the motility gene repressor (MogR)	pfam	domain	IPR021009		
+PF12189	Single-strand DNA-binding protein	pfam	domain	IPR024237		
+PF12213	DNA polymerases epsilon N terminal	pfam	domain	IPR024639		
+PF12254	DNA polymerase alpha subunit p180 N terminal	pfam	family	IPR024647		
+PF12329	TATA element modulatory factor 1 DNA binding	pfam	coiled_coil	IPR022092		
+PF12339	DNA-J related protein	pfam	family	IPR021059		
+PF12362	DNA polymerase III gamma and tau subunits C terminal	pfam	family	IPR022107		
+PF12410	Poxvirus DNA dependent RNA polymerase 30kDa subunit	pfam	family	IPR024394		
+PF12415	Poxvirus DNA dependent RNA polymerase	pfam	family	IPR024390		
+PF12458	ATPase involved in DNA repair	pfam	family	IPR020958		
+PF12462	DNA helicase IV / RNA helicase N terminal	pfam	family	IPR022161		
+PF12524	dsDNA virus glycoprotein L C terminal	pfam	family	IPR022200		
+PF12531	DNA-K related protein	pfam	family	IPR021030		
+PF12538	DNA transporter	pfam	family	IPR022206		
+PF12639	DNase/tRNase domain of colicin-like bacteriocin	pfam	domain			
+PF12776	Myb/SANT-like DNA-binding domain	pfam	domain	IPR024752		
+PF12818	dsDNA viral tegument protein	pfam	family	IPR024346		
+PF13177	DNA polymerase III, delta subunit	pfam	domain			
+PF13298	DNA polymerase Ligase (LigD)	pfam	family	IPR014144		
+PF13356	Arm DNA-binding domain	pfam	domain	IPR025166		
+PF13412	Winged helix-turn-helix DNA-binding	pfam	domain			
+PF13443	Cro/C1-type HTH DNA-binding domain	pfam	domain	IPR001387		
+PF13463	Winged helix DNA-binding domain	pfam	domain	IPR000835		
+PF13491	4TM region of DNA translocase FtsK/SpoIIIE	pfam	domain	IPR025199		
+PF13589	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	pfam	domain			
+PF13601	Winged helix DNA-binding domain	pfam	domain	IPR027395		
+PF13693	Winged helix-turn-helix DNA-binding	pfam	domain	IPR038722		
+PF13724	DNA-binding domain	pfam	domain	IPR025830		
+PF13749	Putative ATP-dependent DNA helicase recG C-terminal	pfam	domain	IPR025831		
+PF13837	Myb/SANT-like DNA-binding domain	pfam	domain	IPR044822		
+PF13873	Myb/SANT-like DNA-binding domain	pfam	domain	IPR028002		
+PF13891	Potential DNA-binding domain	pfam	domain	IPR025927		
+PF13892	DNA-binding domain	pfam	domain	IPR020838		
+PF13907	Chromodomain-helicase-DNA-binding protein 1-like, C-terminal	pfam	domain	IPR025260		
+PF13921	Myb-like DNA-binding domain	pfam	domain			
+PF13930	DNA/RNA non-specific endonuclease	pfam	domain	IPR044927		
+PF14000	DNA packaging protein FI	pfam	family	IPR025147		
+PF14040	Deoxyribonuclease NucA/NucB	pfam	family			
+PF14072	DNA-sulfur modification-associated	pfam	family	IPR017642		
+PF14130	Cap4, dsDNA endonuclease domain	pfam	family	IPR025382		
+PF14260	C4-type zinc-finger of DNA polymerase delta	pfam	domain	IPR025687		
+PF14308	X-domain of DnaJ-containing	pfam	domain	IPR026894		
+PF14428	Double-stranded DNA deaminase toxin A	pfam	family	IPR032724		
+PF14480	DNA polymerase III polC-type N-terminus I	pfam	family	IPR028112		
+PF14487	ssDNA thymidine ADP-ribosyltransferase, DarT	pfam	family	IPR029494		
+PF14549	DNA-binding transcriptional regulator Cro	pfam	domain			
+PF14601	DNA_binding protein, TFX, C-term	pfam	domain	IPR029291		
+PF14621	RFX5 DNA-binding domain	pfam	domain	IPR029298		
+PF14641	Helix-turn-helix DNA-binding domain of SPT6	pfam	domain	IPR028088		
+PF14657	Arm DNA-binding domain	pfam	domain	IPR028259		
+PF14700	DNA-directed RNA polymerase N-terminal	pfam	domain	IPR029262		
+PF14706	Transposase DNA-binding	pfam	domain	IPR014735		
+PF14743	DNA ligase OB-like domain	pfam	domain	IPR029319		
+PF14791	DNA polymerase beta thumb	pfam	family	IPR029398		
+PF14792	DNA polymerase beta palm	pfam	domain	IPR028207		
+PF14840	Processivity clamp loader gamma complex DNA pol III C-term	pfam	family	IPR032780		
+PF14848	DNA-binding domain	pfam	domain	IPR049893		
+PF14850	DNA-binding domain of Proline dehydrogenase	pfam	domain	IPR024082		
+PF14966	DNA repair REX1-B	pfam	family	IPR039491		
+PF15089	Regulator of DNA class I crossover intermediates 1-like	pfam	family	IPR027883		
+PF15963	Myb DNA-binding like	pfam	domain	IPR039467		
+PF15977	Winged helix-turn-helix DNA binding	pfam	family	IPR041687		
+PF16413	DNA mismatch repair protein Mlh1 C-terminus	pfam	domain	IPR032189		
+PF16422	Transcription factor COE1 DNA-binding domain	pfam	domain	IPR032200		
+PF16557	CUT1-like DNA-binding domain of SATB	pfam	domain	IPR032355		
+PF16677	DNA-packaging protein gp3	pfam	domain	IPR032066		
+PF16679	DNA replication factor Cdt1 C-terminal domain	pfam	domain	IPR032054		
+PF16686	ssDNA-binding domain of telomere protection protein	pfam	domain	IPR032042		
+PF16721	Zinc-finger like, probable DNA-binding	pfam	domain	IPR039464		
+PF16727	DNA repair protein REV1 C-terminal domain	pfam	domain	IPR031991		
+PF16730	DnaG-primase C-terminal, helicase-binding domain	pfam	domain	IPR031988		
+PF16732	Type IV minor pilin ComP, DNA uptake sequence receptor	pfam	domain	IPR031982		
+PF16759	DNA ligase 3 BRCT domain	pfam	family	IPR031916		
+PF16773	Lactococcus phage single-stranded DNA binding protein	pfam	domain	IPR031900		
+PF16779	DNA-mimic protein	pfam	domain	IPR031891		
+PF16787	Centromere DNA-binding protein complex CBF3 subunit, domain 2	pfam	domain	IPR031872		
+PF16793	RepB DNA-primase N-terminal domain	pfam	domain	IPR039459		
+PF16834	Shu complex component Csm2, DNA-binding	pfam	domain	IPR031783		
+PF16836	Shu complex component Psy3, DNA-binding description	pfam	domain	IPR031779		
+PF16846	Centromere DNA-binding protein complex CBF3 subunit B	pfam	family	IPR031760		
+PF16922	DNA replication complex GINS protein SLD5 C-terminus	pfam	domain	IPR031633		
+PF16928	DNA/protein translocase of phage P22 injectosome	pfam	family	IPR031619		
+PF16932	Type IV secretory system, conjugal DNA-protein transfer	pfam	family	IPR031618		
+PF16992	DNA-directed RNA polymerase, subunit G	pfam	family	IPR031555		
+PF17075	Regular of rDNA transcription protein 14	pfam	family	IPR031404		
+PF17293	Arm DNA-binding domain	pfam	domain	IPR035386		
+PF17426	Putative Gamma DNA binding protein G5P	pfam	family	IPR035411		
+PF17427	Phage Single-stranded DNA-binding protein	pfam	family	IPR035408		
+PF17538	DNA Binding Domain (C-terminal) Leafy/Floricaula	pfam	domain	IPR035209		
+PF17657	Bacterial DNA polymerase III alpha subunit finger domain	pfam	domain	IPR040982		
+PF17691	Contingent replication of cDNA 4	pfam	family	IPR040529		
+PF17755	UvrA DNA-binding domain	pfam	domain	IPR041552		
+PF17764	3'DNA-binding domain (3'BD)	pfam	domain	IPR041222		
+PF17878	Single-stranded DNA-binding protein	pfam	family	IPR040905		
+PF17879	DNA ligase C-terminal domain	pfam	domain	IPR041559		
+PF17948	DnaT DNA-binding domain	pfam	domain	IPR040480		
+PF17984	Telomerase reverse transcriptase thumb DNA binding domain	pfam	domain	IPR041580		
+PF18000	Type 2 DNA topoisomerase 6 subunit B C-terminal domain	pfam	domain	IPR040494		
+PF18018	DNA polymerase delta subunit OB-fold domain	pfam	domain	IPR040663		
+PF18049	DNA polymerase nu pseudo-exo	pfam	domain	IPR040940		
+PF18053	DNA gyrase B subunit insert domain	pfam	domain	IPR041423		
+PF18094	DNA polymerase beta N-terminal domain	pfam	domain			
+PF18115	DNA repair protein Crb2 Tudor domain	pfam	domain	IPR041297		
+PF18136	DNA mitochondrial polymerase exonuclease domain	pfam	domain	IPR041336		
+PF18196	Chromodomain helicase DNA-binding domain 1	pfam	domain	IPR041150		
+PF18243	Metal-independent restriction enzyme BfiI DNA binding domain	pfam	domain	IPR040731		
+PF18255	DNA processing protein A sterile alpha motif domain	pfam	domain	IPR041104		
+PF18272	single-stranded DNA binding TraI N-terminal subdomain	pfam	domain	IPR040987		
+PF18284	DNA methylase N-terminal domain	pfam	domain	IPR040743		
+PF18305	3' to 5' exonuclease C-terminal domain	pfam	domain	IPR041605		
+PF18319	PriA DNA helicase Cys-rich region (CRR) domain	pfam	domain	IPR040498		
+PF18333	Non-canonical single-stranded DNA-binding domain	pfam	domain			
+PF18335	ATP-dependent RecD-like DNA helicase SH3 domain	pfam	domain	IPR041451		
+PF18340	DNA relaxase TraI 2B/2B-like domain	pfam	domain	IPR040668		
+PF18361	Single stranded DNA-binding protein ss DNA binding domain	pfam	domain	IPR033787		
+PF18430	Putative DNA-binding domain	pfam	domain	IPR041511		
+PF18526	Thymine dioxygenase JBP1 DNA-binding domain	pfam	domain	IPR041241		
+PF18552	PheRS DNA binding domain 1	pfam	domain	IPR040724		
+PF18553	PheRS DNA binding domain 3	pfam	domain	IPR040725		
+PF18554	PheRS DNA binding domain 2	pfam	domain	IPR040586		
+PF18694	TAR DNA-binding protein 43, N-terminal domain	pfam	domain	IPR041105		
+PF18714	DNA polymerase II intein Domain IV	pfam	domain	IPR041005		
+PF18723	5-hmdU DNA kinase, helical domain	pfam	domain	IPR040684		
+PF18724	Amino acid:DNA transferase	pfam	domain	IPR040741		
+PF18747	5-hmdU DNA kinase 2	pfam	family	IPR041021		
+PF18748	5-hmdU DNA kinase	pfam	family	IPR040924		
+PF18794	DNA mismatch repair protein HSM3, C terminal domain	pfam	repeat	IPR040752		
+PF18795	DNA mismatch repair protein HSM3, N terminal domain	pfam	repeat	IPR041335		
+PF18880	Uracil-DNA glycosylase inhibitor	pfam	family	IPR043805		
+PF19432	DNAJ protein RME-8 N-terminal	pfam	domain	IPR045802		
+PF19704	DNA-PKcs, CC5	pfam	repeat	IPR045581		
+PF19725	DNA-directed RNA polymerase III subunit RPC5 C-terminal	pfam	domain	IPR045576		
+PF19833	ATP-dependent DNA helicase RecG, domain 3, C-terminal	pfam	domain	IPR045562		
+PF20286	Divergent Family B DNA polymerase	pfam	family	IPR046908		
+PF20287	SH3 fold domain associated with phage DNA polymerases	pfam	domain	IPR046907		
+PF20304	Small protein from certain CxC ATPase-based DNA modification systems	pfam	family	IPR046889		
+PF20306	Small protein found in certain Dnd DNA modification systems	pfam	family	IPR046882		
+PF20307	Divergent DnaB-like ATPase	pfam	domain	IPR046881		
+PF20450	Papillomavirus E1, DNA-binding domain	pfam	domain	IPR046832		
+PF20473	MmeI, DNA-methyltransferase domain	pfam	domain	IPR046816		
+PF20500	DNA-PKcs, N-terminal	pfam	repeat	IPR046804		
+PF20502	DNA-dependent protein kinase catalytic subunit, CC1/2	pfam	repeat	IPR046803		
+PF20557	Putative DnaT-like ssDNA binding protein	pfam	domain	IPR046787		
+PF20731	NgoFVII C-terminal B3-like DNA-binding domain	pfam	domain	IPR048923		
+PF20768	All-beta domain in DNA topoisomerase VI alpha subunit	pfam	domain	IPR049333		
+PF20886	PWWP domain-containing DNA repair factor 3A/B, C-terminal	pfam	domain	IPR048795		
+PF20887	PWWP domain-containing DNA repair factor 3A/B, N-terminal	pfam	domain	IPR048765		
+PF20910	TAR DNA-binding protein 43, C-terminal	pfam	disordered	IPR049124		
+PF20912	DNA-directed RNA polymerase III subunit RPC3, helical hairpin domain	pfam	domain			
+PF20914	DNA polymerase III subunit alpha, C-terminal domain	pfam	domain	IPR048472		
+PF20946	DNA polymerase alpha-binding protein Ctf4, C-terminal domain	pfam	domain	IPR048591		
+PF20964	DNA polymerase III subunit tau, C-terminal domain	pfam	domain	IPR048448		
+PF20987	Intron-encoded endonuclease 1, DNA-binding domain	pfam	domain	IPR048681		
+PF21025	Formamidopyrimidine-DNA glycosylase C-terminal domain	pfam	domain	IPR049392		
+PF21099	DNA_pol_Q helicase like region helical domain	pfam	domain	IPR048960		
+PF21123	Dna2 Rift barrel domain	pfam	domain	IPR048459		
+PF21157	DnaK suppressor protein DksA, N-terminal domain	pfam	domain	IPR048489		
+PF21173	DnaK suppressor protein-like, N-terminal domain	pfam	domain	IPR048487		
+PF21179	DNA-binding protein BldD-like, C-terminal domain	pfam	domain	IPR037664		
+PF21218	Formamidopyrimidine-DNA glycosylase-like, C-terminal domain	pfam	domain	IPR049332		
+PF21227	Myb-like DNA-binding domain	pfam	domain			
+PF21241	DNA helicase UvsW, N-terminal	pfam	domain	IPR049409		
+PF21265	Single-stranded DNA-binding protein, Bacteriophage T7	pfam	domain	IPR049476		
+PF21268	Bacteriophage T7 DNA helicase/primase, N-terminal a+b fold	pfam	domain	IPR048774		
+PF21321	Putative DNA-binding HTH domain	pfam	domain	IPR048708		
+PF21338	Bacterial DNA topoisomerase IB, N-terminal domain	pfam	domain	IPR049331		
+PF21411	S. pombe DNA-binding protein Rap1, C-terminal	pfam	domain	IPR048929		
+PF21431	Colicin/Pyocin-S2, DNase domain	pfam	domain			
+PF21459	SWI/SNF Subunit INI1, DNA binding domain	pfam	domain	IPR048664		
+PF21473	Single-stranded DNA binding protein Ssb-like, OB fold	pfam	domain	IPR048970		
+PF21474	DNA polymerase II, N-terminal	pfam	domain			
+PF21500	DNA polymerase III subunit delta', AAA+ ATPase lid domain	pfam	domain	IPR048731		
+PF21501	Protein LANA1-like, DNA-binding domain	pfam	domain	IPR048523		
+PF21530	DNA helicase Pif1, 2B domain	pfam	domain	IPR049163		
+PF21531	DNA-binding protein Rv2175c, wHTH domain	pfam	domain	IPR048576		
+PF21559	DNA-binding protein reb1, Myb-associated domain	pfam	domain	IPR049260		
+PF21624	Virion DNA-directed RNA polymerase, plug insertion	pfam	domain	IPR049433		
+PF21650	DNA primase DnaG, catalytic core, helical bundle	pfam	domain	IPR048453		
+PF21668	DNA-directed RNA polymerase subunit beta', hybrid domain	pfam	domain	IPR048566		
+PF21694	DNA polymerase III delta subunit, C-terminal domain	pfam	domain	IPR048466		
+PF21704	DNApol eta/Rev1, HhH motif	pfam	conserved_site			
+PF21715	CggR N-terminal DNA binding domain	pfam	domain	IPR048715		
+PF21762	DNA polymerase III subunit epsilon-like, C-terminal domain	pfam	domain	IPR048519		
+PF21769	Virion DNA-directed RNA polymerase domain	pfam	domain	IPR049432		
+PF21790	Putative 8-oxoguanine DNA glycosylase OGG-like protein	pfam	family	IPR048868		
+PF21867	Virion DNA-directed RNA polymerase domain	pfam	domain	IPR054062		
+PF21906	NrtR DNA-binding winged helix domain	pfam	domain	IPR054105		
+PF21984	DnaD N-terminal domain	pfam	domain	IPR053843		
+PF21999	DNA polymerase-iota, thumb domain	pfam	domain	IPR053848		
+PF22047	Single-stranded-DNA-specific exonuclease RecJ C-terminal domain	pfam	domain	IPR054598		
+PF22062	DNA polymerase alpha subunit B, OB domain	pfam	domain	IPR054300		
+PF22083	DNA endonuclease I-HmuI-like, NUMOD-like domain	pfam	domain	IPR054307		
+PF22134	DNA Mimic Protein Arn	pfam	domain	IPR054385		
+PF22139	DNA repair helicase XPD, arch domain	pfam	domain	IPR054391		
+PF22155	Mre11 accessory DNA binding capping domain	pfam	domain	IPR054406		
+PF22175	8-oxoguanine DNA glycosylase	pfam	domain	IPR012092		
+PF22227	DNA polymerase III gamma subunit-related, C-terminal domain	pfam	domain	IPR054510		
+PF22232	TraI helicase-associated ssDNA bd, N-terminal	pfam	domain	IPR054558		
+PF22317	DNA polymerase II small subunit, N-terminal domain	pfam	domain	IPR054750		
+PF22410	DNA primase DnaG, helical domain	pfam	domain			
+PF22413	Methylated DNA-protein cysteine MeTransferase OGT N-terminal domain	pfam	domain	IPR055028		
+PF22448	RepB DNA-primase C-terminal helical domain	pfam	domain	IPR054366		
+PF22555	Phage DNA Adenine Methylase-like domain 1	pfam	domain	IPR054341		
+PF22556	Phage DNA Adenine Methylase-like domain 2	pfam	domain	IPR055146		
+PF22587	DNA polymerase II, insertion domain	pfam	domain	IPR055208		
+PF22608	DNA polymerase III clamp loader subunit, ATPase lid domain	pfam	domain	IPR045085		
+PF22619	DNA polymerase I, ribonuclease H-like domain	pfam	domain	IPR054690		
+PF22634	DNA polymerase epsilon catalytic subunit A, thumb domain	pfam	domain	IPR055191		
+PF22695	EST1-like DNA-binding domain	pfam	domain	IPR054534		
+PF22745	DNA ligase-like, N-terminal NAD+-binding domain	pfam	domain			
+PF22774	DNAJC11, beta-barrel domain	pfam	domain	IPR055225		
+PF22824	DNA transposase THAP9, C-terminal domain	pfam	domain	IPR055035		
+PF22855	DNA (cytosine-5-)-methyltransferase, N-terminal	pfam	domain	IPR054724		
+PF22912	Zinc finger domain of DNA polymerase-epsilon	pfam	domain	IPR054475		
+PF22980	Myb-like DNA-binding domain	pfam	domain	IPR054505		
+PF23007	STICHEL, DnaA_N-like alpha-beta domain	pfam	domain	IPR054506		

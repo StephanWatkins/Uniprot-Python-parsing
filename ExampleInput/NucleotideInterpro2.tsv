@@ -1,0 +1,223 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain	interpro	domain		PF00006	GO:0005524
+IPR000358	Ribonucleotide reductase small subunit family	interpro	family		PIRSF000355,PTHR23409,PF00268	GO:0009263
+IPR000595	Cyclic nucleotide-binding domain	interpro	domain		PF00027,cd00038,PS50042,SM00100	
+IPR000651	Ras-like guanine nucleotide exchange factor, N-terminal	interpro	domain		cd06224,PS50212,PF00618,SM00229	
+IPR000740	GrpE nucleotide exchange factor	interpro	family		cd00446,PS01071,MF_01151,PTHR21237,PR00773,PF01025	GO:0000774,GO:0042803,GO:0051087,GO:0006457
+IPR000788	Ribonucleotide reductase large subunit, C-terminal	interpro	domain		PF02867,PR01183	
+IPR001019	Guanine nucleotide binding protein (G-protein), alpha subunit	interpro	family		PS51882,cd00066,SM00275,PF00503,PTHR10218,PR00318	GO:0003924,GO:0019001,GO:0031683,GO:0007186
+IPR001100	Pyridine nucleotide-disulphide oxidoreductase, class I	interpro	family		PIRSF000350	GO:0016491
+IPR001331	Guanine-nucleotide dissociation stimulator, CDC24, conserved site	interpro	conserved_site		PS00741	GO:0005085,GO:0035556
+IPR001709	Flavoprotein pyridine nucleotide cytochrome reductase	interpro	domain		PR00371	GO:0016491
+IPR001895	Ras guanine-nucleotide exchange factors catalytic domain	interpro	domain		cd00155,PS50009,SM00147,PF00617	GO:0005085,GO:0007264
+IPR002073	3'5'-cyclic nucleotide phosphodiesterase, catalytic domain	interpro	domain		PS51845,PF00233	GO:0004114,GO:0007165
+IPR002586	CobQ/CobB/MinD/ParA nucleotide binding domain	interpro	domain		PF01656	
+IPR002591	Type I phosphodiesterase/nucleotide pyrophosphatase/phosphate transferase	interpro	family		PF01663	
+IPR002805	Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase, archaeal type	interpro	family		PTHR38811,MF_01086,TIGR00303	
+IPR003200	Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase	interpro	family		cd02439,PTHR43463,PF02277	GO:0008939
+IPR003495	CobW/HypB/UreG, nucleotide-binding domain	interpro	domain		PF02492	
+IPR003796	Ribonucleotide reductase regulator NrdR-like	interpro	family		PTHR30455,MF_00440,TIGR00244	GO:0008270,GO:0045892
+IPR004099	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain	interpro	domain		PF02852	
+IPR004393	Nicotinate-nucleotide pyrophosphorylase	interpro	family		cd01572,TIGR00078	GO:0004514,GO:0009435
+IPR004435	Molybdopterin-guanine dinucleotide biosynthesis protein B (MobB) domain	interpro	domain		TIGR00176,PF03205	GO:0005525,GO:0006777
+IPR004465	Ribonucleotide reductase Class Ib, NrdI	interpro	family		PTHR37297,PIRSF005087,TIGR00333,PF07972	GO:0010181,GO:0036211
+IPR005069	Nucleotide-diphospho-sugar transferase	interpro	domain		PF03407	
+IPR005232	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase LarE	interpro	family		cd01990,PIRSF006661,TIGR00268	GO:0016783
+IPR005248	Nicotinate/nicotinamide nucleotide adenylyltransferase	interpro	family		cd02165,PTHR39321,MF_00244,TIGR00482	GO:0016779,GO:0009435
+IPR005414	Guanine nucleotide exchange factor SopE	interpro	family		PIRSF034781,PR01593	GO:0005085,GO:0030036,GO:0090630,GO:0005576
+IPR006294	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase	interpro	family		TIGR01390	GO:0008663,GO:0009117
+IPR006417	Nicotinamide-nucleotide adenylyltransferase	interpro	domain		TIGR01526	GO:0000309,GO:0009435
+IPR006418	Nicotinamide-nucleotide adenylyltransferase, archaeal type	interpro	family		TIGR01527,cd02166,MF_00243	GO:0000309,GO:0009435,GO:0005737
+IPR006419	Nicotinamide mononucleotide transporter PnuC	interpro	family		PTHR36122,PF04973,TIGR01528	GO:0034257,GO:0034258,GO:0016020
+IPR006505	Phage nucleotide-binding protein	interpro	family		TIGR01618	
+IPR006550	Bifunctional polynucleotide phosphatase/kinase PNKP	interpro	family		TIGR01663	GO:0046403,GO:0046404,GO:0006281
+IPR006551	Polynucleotide 3'-phosphatase	interpro	domain		TIGR01664	
+IPR006657	Molybdopterin dinucleotide-binding domain	interpro	domain		PF01568	GO:0016491,GO:0043546
+IPR006658	Molybdopterin guanine dinucleotide-containing S/N-oxide reductase	interpro	family		TIGR00509	GO:0016491
+IPR006703	AIG1-type guanine nucleotide-binding (G) domain	interpro	domain		PS51720,PF04548	GO:0005525
+IPR007271	Nucleotide-sugar transporter	interpro	family		PTHR10231,PF04142,PIRSF005799	GO:0015165,GO:0090481,GO:0000139,GO:0016020
+IPR007698	Alanine dehydrogenase/pyridine nucleotide transhydrogenase, NAD(H)-binding domain	interpro	domain		SM01002,PF01262	
+IPR007886	Alanine dehydrogenase/pyridine nucleotide transhydrogenase, N-terminal	interpro	domain		SM01003,PF05222	
+IPR008143	Alanine dehydrogenase/pyridine nucleotide transhydrogenase, conserved site-2	interpro	conserved_site		PS00837	GO:0016491
+IPR008255	Pyridine nucleotide-disulphide oxidoreductase, class-II, active site	interpro	active_site		PS00573	GO:0016491
+IPR008333	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain	interpro	domain		PF00970	
+IPR008431	Cyclic nucleotide phosphodiesterase	interpro	family		PIRSF000970,PTHR10156	GO:0004113,GO:0009214,GO:0016020
+IPR008926	Ribonucleotide reductase R1 subunit, N-terminal	interpro	homologous_superfamily		SSF48168	
+IPR008937	Ras-like guanine nucleotide exchange factor	interpro	family		PTHR23113	GO:0005085,GO:0007264
+IPR009012	GrpE nucleotide exchange factor, head	interpro	homologous_superfamily		SSF51064,G3DSA:2.30.22.10	GO:0006457
+IPR010088	Ribonucleotide reductase-associated flavodoxin, putative	interpro	family		TIGR01754	
+IPR010900	Nicotine adenine dinucleotide glycohydrolase	interpro	family		PF07461	
+IPR011213	Nicotinic acid mononucleotide biosynthesis protein	interpro	family		PIRSF019423	
+IPR011269	Putative purine nucleotide phosphorylase	interpro	family		TIGR01698	GO:0004731,GO:0006139
+IPR011630	Nucleotide modification associated domain 1	interpro	domain		PF07659	
+IPR012028	Uncharacterised conserved protein UCP006529, dinucleotide-utilising ThiF/HesA	interpro	family		PIRSF006529	
+IPR012162	Polyribonucleotide nucleotidyltransferase	interpro	family		TIGR03591,MF_01595,PIRSF005499,PTHR11252	GO:0003723,GO:0004654,GO:0006402
+IPR012176	Bifunctional nitroreductase/nicotinate-nucleotide-dimethylbenzimidazole, phosphoribosyltransferase	interpro	family		PIRSF036558	
+IPR012348	Ribonucleotide reductase-like	interpro	homologous_superfamily		G3DSA:1.10.620.20	GO:0016491
+IPR012386	2',3'-cyclic-nucleotide 3'-phosphodiesterase	interpro	family		PTHR28141,PF07823,PIRSF017903	GO:0004112
+IPR012404	Nucleotide-sugar transporter-related	interpro	family		PIRSF036436	GO:0016020
+IPR012677	Nucleotide-binding alpha-beta plait domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.70.330	
+IPR012999	Pyridine nucleotide-disulphide oxidoreductase, class I, active site	interpro	active_site		PS00076	GO:0016668
+IPR013344	Ribonucleotide reductase, adenosylcobalamin-dependent	interpro	family		cd02888,TIGR02504	GO:0000166,GO:0004748,GO:0031419
+IPR013346	Ribonucleotide reductase, class I, alpha subunit, C-terminal	interpro	domain		PS00089,TIGR02506	
+IPR013350	Ribonucleotide reductase alpha chain	interpro	family		TIGR02510	
+IPR013509	Ribonucleotide reductase large subunit, N-terminal	interpro	domain		PF00317	GO:0004748,GO:0005524,GO:0009263
+IPR013554	Ribonucleotide reductase N-terminal	interpro	domain		PF08343	
+IPR013678	Ribonucleotide reductase class II vitamin B12-dependent, N-terminal domain	interpro	domain		PF08471	GO:0004748,GO:0050897
+IPR013706	3'5'-cyclic nucleotide phosphodiesterase N-terminal	interpro	domain		PF08499	
+IPR013805	GrpE nucleotide exchange factor, coiled-coil	interpro	homologous_superfamily		SSF58014,G3DSA:3.90.20.20	
+IPR013900	Ribonucleotide reductase inhibitor	interpro	family		PTHR28081,PF08591	
+IPR013918	Nucleotide exchange factor Fes1	interpro	domain		PF08609	
+IPR013938	3'5'-cyclic nucleotide phosphodiesterase PDE8	interpro	domain		PF08629	
+IPR013954	Polynucleotide kinase 3 phosphatase	interpro	family		PF08645	
+IPR014038	Translation elongation factor EF1B, beta/delta subunit, guanine nucleotide exchange domain	interpro	domain		cd00292,SM00888,PF00736	GO:0003746,GO:0006414
+IPR014069	Guanosine pentaphosphate synthetase I/polyribonucleotide nucleotidyltransferase	interpro	family		TIGR02696	GO:0004654,GO:0006402,GO:0005737
+IPR014813	Guanine nucleotide-binding protein-like 3, N-terminal domain	interpro	domain		PF08701	
+IPR014839	Ribonucleotide reductase, transcriptional regulator Crt10	interpro	family		PF08728	
+IPR015146	Ribonucleotide reductase, stirrup	interpro	domain		PF09061	GO:0016788
+IPR015758	Ral guanine nucleotide dissociation stimulator, RA domain	interpro	domain		cd17209	
+IPR015848	Polyribonucleotide nucleotidyltransferase, RNA-binding domain	interpro	domain		PF03726	GO:0003723,GO:0006396
+IPR016018	Guanine nucleotide exchange factor SopE, N-terminal domain	interpro	domain		PF05364	
+IPR016019	Guanine nucleotide exchange factor SopE, GEF domain	interpro	domain		PF07487	GO:0005085,GO:0030036,GO:0090630
+IPR016346	Guanine nucleotide-binding protein, beta subunit	interpro	family		PTHR19850	GO:0007165
+IPR017584	Pyridine nucleotide-disulphide oxidoreductase family protein, N-terminal	interpro	domain		TIGR03169	
+IPR017846	Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase, bacterial type	interpro	family		MF_00230,TIGR03160	GO:0008939,GO:0009236
+IPR018488	Cyclic nucleotide-binding, conserved site	interpro	conserved_site		PS00889,PS00888	
+IPR018490	Cyclic nucleotide-binding domain superfamily	interpro	homologous_superfamily		SSF51206	
+IPR019318	Guanine nucleotide exchange factor, Ric8	interpro	family		PF10165,PTHR12425	
+IPR019804	Ras guanine-nucleotide exchange factor, conserved site	interpro	conserved_site		PS00720	GO:0005085,GO:0007264
+IPR020003	ATPase, alpha/beta subunit, nucleotide-binding domain, active site	interpro	active_site		PS00152	GO:0005524
+IPR020852	Ribonucleotide reductase, class Ib, NrdI, bacterial	interpro	family		MF_00128	
+IPR021826	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase, C-terminal domain	interpro	domain		PF11892	
+IPR021968	Polyribonucleotide phosphorylase C-terminal	interpro	domain		PF12111	
+IPR022300	Polyphosphate:nucleotide phosphotransferase, PPK2	interpro	family		TIGR03709	GO:0016776,GO:0006797
+IPR022962	Soluble pyridine nucleotide transhydrogenase, gammaproteobacteria	interpro	family		MF_00247	GO:0003957
+IPR023088	3'5'-cyclic nucleotide phosphodiesterase	interpro	family		PR00387	GO:0008081
+IPR023174	3'5'-cyclic nucleotide phosphodiesterase, conserved site	interpro	conserved_site		PS00126	GO:0008081
+IPR023191	Deoxynucleotide monophosphate kinase, N-terminal	interpro	homologous_superfamily		G3DSA:1.10.238.70	
+IPR023195	Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase, N-terminal	interpro	homologous_superfamily		G3DSA:1.10.1610.10	GO:0008939
+IPR023578	Ras guanine nucleotide exchange factor domain superfamily	interpro	homologous_superfamily		SSF48366	
+IPR023892	Cyclic nucleotide-binding domain protein	interpro	family		TIGR03896	
+IPR024028	Polynucleotide kinase-phosphatase, bacterial	interpro	family		TIGR04075	
+IPR026372	S-adenosylmethionine-dependent nucleotide dehydratase RSAD2	interpro	family		TIGR04278	GO:0051607,GO:0005789,GO:0005811
+IPR026459	Ribonucleotide reductase, class 1b, subunit NrdE	interpro	family		TIGR04170	
+IPR026575	Cyclic nucleotide phosphodiesterase GpdQ/CpdA-like	interpro	family		cd07402	GO:0004112
+IPR026685	Heat shock 70kDa protein 12A, nucleotide-binding domain	interpro	domain		cd11735	
+IPR026817	Guanine nucleotide exchange factor Ect2	interpro	family		PTHR16777	GO:0005085,GO:0005096,GO:0043547,GO:2000431,GO:0005634,GO:0005737
+IPR027277	Nicotinate-nucleotide pyrophosphorylase/Putative pyrophosphorylase ModD	interpro	family		PTHR32179,PIRSF006250	
+IPR027378	Cyclic nucleotide-regulated ion channel, N-terminal	interpro	homologous_superfamily		G3DSA:1.20.120.540	
+IPR027819	Guanine nucleotide exchange factor C9orf72	interpro	family		PF15019,PTHR31855,PS51835	GO:0005085
+IPR027820	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase, N-terminal	interpro	domain		PF14793	
+IPR028606	Polyribonucleotide 5-hydroxyl-kinase Clp1	interpro	family		MF_03035	GO:0031124,GO:0005849
+IPR029044	Nucleotide-diphospho-sugar transferases	interpro	homologous_superfamily		SSF53448,G3DSA:3.90.550.10	
+IPR029212	Rho guanine nucleotide exchange factor 5/35, N-terminal	interpro	domain		PF15441	
+IPR029787	Nucleotide cyclase	interpro	homologous_superfamily		G3DSA:3.30.70.1230,SSF55073	
+IPR030378	Circularly permuted (CP)-type guanine nucleotide-binding (G) domain	interpro	domain		PS51721	GO:0005525
+IPR030379	Septin-type guanine nucleotide-binding (G) domain	interpro	domain		PS51719,PF00735	GO:0005525
+IPR030381	Dynamin-type guanine nucleotide-binding (G) domain	interpro	domain		PS51718	GO:0005525
+IPR030383	Very large inducible GTPASE (VLIG)-type guanine nucleotide-binding (G) domain	interpro	domain		PS51717	GO:0005525
+IPR030385	IRG-type guanine nucleotide-binding (G) domain	interpro	domain		PS51716	GO:0005525
+IPR030386	GB1/RHD3-type guanine nucleotide-binding (G) domain	interpro	domain		PS51715	GO:0005525
+IPR030388	Era-type guanine nucleotide-binding (G) domain	interpro	domain		PS51713,cd04163	GO:0005525
+IPR030389	FeoB-type guanine nucleotide-binding (G) domain	interpro	domain		PS51711,cd01879,PF02421	GO:0005525
+IPR030393	EngB-type guanine nucleotide-binding (G) domain	interpro	domain		PS51706,cd01876	GO:0005525
+IPR030394	HflX-type guanine nucleotide-binding (G) domain	interpro	domain		PS51705,cd01878	GO:0005525
+IPR030475	Ribonucleotide reductase small subunit, acitve site	interpro	active_site		PS00368	
+IPR030748	Ral guanine nucleotide dissociation stimulator-like 1, RA domain	interpro	domain		cd17210	
+IPR030750	Ral guanine nucleotide dissociation stimulator-like 3, RA domain	interpro	domain		cd17212	
+IPR031166	EngA-type guanine nucleotide-binding (G) domain	interpro	domain		PS51712	GO:0005525
+IPR031167	OBG-type guanine nucleotide-binding (G) domain	interpro	domain		PS51710,cd01898	GO:0005525
+IPR031168	TrmE-type guanine nucleotide-binding domain	interpro	domain		PS51709,cd04164	
+IPR031475	Four-carbon acid sugar kinase, nucleotide binding domain	interpro	domain		PF17042	
+IPR031884	Nucleotide exchange factor Sil1, fungi	interpro	family		PF16782	GO:0000774,GO:0005783
+IPR032319	Polyribonucleotide 5'-hydroxyl-kinase Clp1, P-loop domain	interpro	domain		PF16575	
+IPR032380	Polynucleotide kinase-phosphatase, ligase domain	interpro	domain		PF16542	
+IPR032406	Cyclic nucleotide-gated channel, C-terminal leucine zipper domain	interpro	domain		PF16526	
+IPR032409	Rho guanine nucleotide exchange factor 6/7, coiled-coil domain	interpro	domain		PF16523	
+IPR033511	Rho guanine nucleotide exchange factor Cdc24/Scd1, PH domain	interpro	domain		cd13246	GO:0005085
+IPR033732	ATP synthase, F1 complex, alpha subunit nucleotide-binding domain	interpro	domain		cd01132	GO:0032559
+IPR033909	Ribonucleotide reductase small subunit	interpro	family		cd01049	GO:0009263
+IPR033934	Bacterial and archaeal 5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide synthase	interpro	family		cd01415	GO:0009236
+IPR034715	Ribonucleotide reductase small subunit, Herpesvirus	interpro	family		MF_04028	GO:0009263
+IPR034717	Ribonucleotide reductase large subunit, Alphaherpesviruses	interpro	family		MF_04026	
+IPR035728	Rho guanine nucleotide exchange factor 9, SH3 domain	interpro	domain		cd11975	
+IPR035788	Rho guanine nucleotide exchange factor 6, SH3 domain	interpro	domain		cd12060	
+IPR035789	Rho guanine nucleotide exchange factor 7, SH3 domain	interpro	domain		cd12061	
+IPR036087	Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase-like superfamily	interpro	homologous_superfamily		SSF52733,G3DSA:3.40.50.10210	GO:0008939
+IPR036456	Polyribonucleotide nucleotidyltransferase, RNA-binding domain superfamily	interpro	homologous_superfamily		SSF46915	GO:0003723,GO:0006396
+IPR036964	Ras guanine-nucleotide exchange factor, catalytic domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.840.10	GO:0005085,GO:0007264
+IPR036971	3'5'-cyclic nucleotide phosphodiesterase, catalytic domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.1300.10	GO:0004114,GO:0007165
+IPR037153	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase PpnN-like superfamily	interpro	homologous_superfamily		G3DSA:3.30.1850.10	
+IPR037803	Rho guanine nucleotide exchange factor 11, PH domain	interpro	domain		cd13391	GO:0005085,GO:0007186,GO:0007266
+IPR037889	Rho guanine nucleotide exchange factor 11, RGS domain	interpro	domain		cd08753	GO:0001664,GO:0005085,GO:0007186
+IPR038937	Rop guanine nucleotide exchange factor	interpro	family		PTHR33101	GO:0005085
+IPR039227	Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13	interpro	family		PTHR15936	GO:0031681,GO:0007200,GO:0050909,GO:0005834
+IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain	interpro	homologous_superfamily		SSF52343,G3DSA:3.40.50.80	
+IPR039476	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase	interpro	family		NF033503,PTHR43064	GO:0016787
+IPR039648	Pyridine nucleotide-disulphide oxidoreductase, N-terminal	interpro	domain		PF00070	
+IPR039919	Rho guanine nucleotide exchange factor 10/17	interpro	family		PTHR12877	GO:0005085
+IPR040351	Guanine nucleotide exchange factor RAB3IL/RAB3IP/Sec2	interpro	family		PTHR14430	GO:0005085
+IPR040613	Nucleotide modification associated domain 4	interpro	domain		PF18756	
+IPR040717	P-loop nucleotide kinase 3	interpro	family		PF18751	
+IPR040763	Ribonucleotide reductase, alpha helical domain	interpro	domain		PF17975	
+IPR040835	Nucleotide modification associated domain 5	interpro	domain		PF18757	
+IPR040869	Cyclic nucleotide phosphodiesterase, C-terminal domain	interpro	domain		PF17839	
+IPR040986	Sulfhydryl oxidase, flavin adenine dinucleotide (FAD) binding domain	interpro	domain		PF18371	
+IPR041135	Nucleotide modification associated domain 3	interpro	domain		PF18754	
+IPR041180	Nucleotide modification associated domain 2	interpro	domain		PF18753	
+IPR041230	FbpC, C-terminal regulatory nucleotide binding domain	interpro	domain		PF17845	
+IPR041717	FwdD/FmdC, molybdopterin dinucleotide-binding domain	interpro	domain		cd02789	
+IPR041749	NadR, nicotinamide/nicotinate mononucleotide adenylyltransferase domain	interpro	domain		cd02167	
+IPR041848	Guanine nucleotide-binding protein subunit gamma, fungal	interpro	family		PTHR28189	GO:0031681,GO:0000750,GO:0007186
+IPR041917	Trinucleotide repeat-containing gene 6C protein, UBA domain	interpro	domain		cd14283	
+IPR042030	Chaperone protein HscC, nucleotide-binding domain	interpro	domain		cd10235	
+IPR042039	HscA chaperone, nucleotide-binding domain	interpro	domain		cd10236	
+IPR042049	Heat shock 70kDa protein 14, nucleotide-binding domain	interpro	domain		cd10238	
+IPR042050	Endoplasmic reticulum chaperone BIP, nucleotide-binding domain	interpro	domain		cd10241	
+IPR042052	HSPA4, nucleotide-binding domain	interpro	domain		cd11737	
+IPR042053	HSPH1, nucleotide-binding domain	interpro	domain		cd11739	
+IPR042213	Four-carbon acid sugar kinase, nucleotide binding domain superfamily	interpro	homologous_superfamily		G3DSA:3.40.980.20	
+IPR042568	Sulfhydryl oxidase, flavin adenine dinucleotide (FAD) binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.20.120.1960	
+IPR042708	HSPA4L, nucleotide-binding domain	interpro	domain		cd11738	
+IPR042849	Rho guanine nucleotide exchange factor 33	interpro	family		PTHR46944	
+IPR042987	Rho guanine nucleotide exchange factor 39	interpro	family		PTHR47056	
+IPR043078	Sialyltransferase, N-terminal GT-B Rossman nucleotide-binding domain	interpro	homologous_superfamily		G3DSA:3.40.50.11120	
+IPR043129	ATPase, nucleotide binding domain	interpro	homologous_superfamily		SSF53067	
+IPR044129	Rho guanine nucleotide exchange factor 3, PH domain	interpro	domain		cd10572	
+IPR044493	Polynucleotide kinase PNKP, C-terminal phosphatase domain	interpro	domain		cd07502,SFLDG00010	GO:0047846
+IPR044821	Putative nucleotide-diphospho-sugar transferase At1g28695/At4g15970-like	interpro	family		PTHR46038	
+IPR045094	Nicotinamide/nicotinate mononucleotide adenylyltransferase, eukaryotic	interpro	family		cd09286	GO:0000309,GO:0004515,GO:0009435
+IPR045116	Polyribonucleotide 5-hydroxyl-kinase Clp1/Grc3	interpro	family		PTHR12755	GO:0051731,GO:0006396
+IPR045260	Guanine nucleotide-exchange factor Sec12-like	interpro	family		PTHR23284	GO:0005085
+IPR045878	Guanine nucleotide-binding protein subunit gamma 1/2	interpro	family		PTHR35129	
+IPR045900	Peroxisomal adenine nucleotide carrier 1/2	interpro	family		PTHR46650	GO:0005347,GO:0015217,GO:0006635
+IPR046826	Prephenate dehydrogenase, nucleotide-binding domain	interpro	domain		PF02153	GO:0070403
+IPR046875	Predicted novel nucleotide synthetase	interpro	family		PF20301	
+IPR047325	Cyclic nucleotide phosphodiesterase, catalytic domain	interpro	domain		PF05881	GO:0004113
+IPR048444	Deoxynucleotide monophosphate kinase	interpro	family		PF21448	
+IPR049788	Nucleotide 5'-monophosphate nucleosidase PpnN	interpro	family		NF038390	
+IPR050151	Class-I pyridine nucleotide-disulfide oxidoreductase	interpro	family		PTHR22912	
+IPR050401	Cyclic nucleotide synthase	interpro	family		PTHR11920	
+IPR050693	Hsp70 Nucleotide Exchange Factors and Inhibitors	interpro	family		PTHR19316	
+IPR050866	Cyclic nucleotide-gated cation channel	interpro	family		PTHR45638	GO:0005221
+IPR050884	Cyclic nucleotide phosphodiesterase class-III	interpro	family		PTHR42988	
+IPR051336	Rho GTPase-activating Guanine Nucleotide Exchange Factors	interpro	family		PTHR22826	
+IPR051413	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel	interpro	family		PTHR45689	
+IPR051632	Rho guanine nucleotide exchange factor	interpro	family		PTHR13944	
+IPR051731	DENND11/AVL9 guanine nucleotide exchange factors	interpro	family		PTHR31017	
+IPR051835	RAC1-specific guanine nucleotide exchange factor	interpro	family		PTHR45858	
+IPR052233	Rho-type GTPase guanine nucleotide-exchange factors	interpro	family		PTHR46572	
+IPR052341	LOG family pyrimidine/purine nucleotide 5'-monophosphatases	interpro	family		PTHR43393	
+IPR052539	Molybdopterin-guanine dinucleotide biosynthesis adapter	interpro	family		PTHR40072	
+IPR052772	Endonuclease/Polynucleotide Kinase Domain-Containing Protein	interpro	family		PTHR46535	
+IPR052968	Nucleotide metabolism enzyme	interpro	family		PTHR42146	
+IPR053024	Fungal Surface Nicotinamide Adenine Dinucleotide Glycohydrolase	interpro	family		PTHR42059	
+IPR053026	CDC42 guanine nucleotide exchange factor	interpro	family		PTHR47339	
+IPR053089	Rho guanine nucleotide exchange factor 18	interpro	family		PTHR47440	
+IPR053137	Nucleotide-binding NB-ARC domain-containing protein	interpro	family		PTHR46082	
+IPR053445	CBASS cyclic nucleotide synthase	interpro	family		NF041116	
+IPR053550	Cyclic nucleotide synthase CD-NTase	interpro	family		NF041117	
+IPR053636	Damage-control nucleotide phosphatase I	interpro	family		NF040824	
+IPR054158	B12-dependent ribonucleotide reductase, insertion domain	interpro	domain		PF21995	
+IPR054857	Cyclic nucleotide-degrading phosphodiesterase	interpro	family		NF041851	
+IPR055305	Guanine nucleotide-binding protein subunit gamma 3-like	interpro	family		PTHR32378	

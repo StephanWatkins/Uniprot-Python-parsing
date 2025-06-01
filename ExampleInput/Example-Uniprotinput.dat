@@ -1,0 +1,412 @@
+ID   1A1D_PYRAB              Reviewed;         330 AA.
+AC   Q9V2L2; G8ZFP4;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   29-MAY-2024, entry version 119.
+DE   RecName: Full=Putative 1-aminocyclopropane-1-carboxylate deaminase;
+DE            Short=ACC deaminase;
+DE            EC=3.5.99.7;
+GN   OrderedLocusNames=PYRAB00630; ORFNames=PAB2303;
+OS   Pyrococcus abyssi (strain GE5 / Orsay).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=272844;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=GE5 / Orsay;
+RX   PubMed=12622808; DOI=10.1046/j.1365-2958.2003.03381.x;
+RA   Cohen G.N., Barbe V., Flament D., Galperin M., Heilig R., Lecompte O.,
+RA   Poch O., Prieur D., Querellou J., Ripp R., Thierry J.-C., Van der Oost J.,
+RA   Weissenbach J., Zivanovic Y., Forterre P.;
+RT   "An integrated analysis of the genome of the hyperthermophilic archaeon
+RT   Pyrococcus abyssi.";
+RL   Mol. Microbiol. 47:1495-1512(2003).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=GE5 / Orsay;
+RX   PubMed=22057919; DOI=10.1007/s00284-011-0035-x;
+RA   Gao J., Wang J.;
+RT   "Re-annotation of two hyperthermophilic archaea Pyrococcus abyssi GE5 and
+RT   Pyrococcus furiosus DSM 3638.";
+RL   Curr. Microbiol. 64:118-129(2012).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=1-aminocyclopropane-1-carboxylate + H2O = 2-oxobutanoate +
+CC         NH4(+); Xref=Rhea:RHEA:16933, ChEBI:CHEBI:15377, ChEBI:CHEBI:16763,
+CC         ChEBI:CHEBI:28938, ChEBI:CHEBI:58360; EC=3.5.99.7;
+CC   -!- COFACTOR:
+CC       Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326;
+CC         Evidence={ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the ACC deaminase/D-cysteine desulfhydrase
+CC       family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ248283; CAB48986.1; -; Genomic_DNA.
+DR   EMBL; HE613800; CCE69435.1; -; Genomic_DNA.
+DR   PIR; C75192; C75192.
+DR   RefSeq; WP_010867187.1; NC_000868.1.
+DR   AlphaFoldDB; Q9V2L2; -.
+DR   SMR; Q9V2L2; -.
+DR   STRING; 272844.PAB2303; -.
+DR   KEGG; pab:PAB2303; -.
+DR   PATRIC; fig|272844.11.peg.70; -.
+DR   eggNOG; arCOG01435; Archaea.
+DR   HOGENOM; CLU_048897_1_0_2; -.
+DR   OrthoDB; 371827at2157; -.
+DR   PhylomeDB; Q9V2L2; -.
+DR   Proteomes; UP000000810; Chromosome.
+DR   Proteomes; UP000009139; Chromosome.
+DR   GO; GO:0008660; F:1-aminocyclopropane-1-carboxylate deaminase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019148; F:D-cysteine desulfhydrase activity; IEA:TreeGrafter.
+DR   Gene3D; 3.40.50.1100; -; 2.
+DR   InterPro; IPR027278; ACCD_DCysDesulf.
+DR   InterPro; IPR005966; D-Cys_desShydrase.
+DR   InterPro; IPR001926; TrpB-like_PALP.
+DR   InterPro; IPR036052; TrpB-like_PALP_sf.
+DR   NCBIfam; TIGR01275; ACC_deam_rel; 1.
+DR   PANTHER; PTHR43780; 1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED; 1.
+DR   PANTHER; PTHR43780:SF2; 1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED; 1.
+DR   Pfam; PF00291; PALP; 1.
+DR   PIRSF; PIRSF006278; ACCD_DCysDesulf; 1.
+DR   SUPFAM; SSF53686; Tryptophan synthase beta subunit-like PLP-dependent enzymes; 1.
+PE   3: Inferred from homology;
+KW   Hydrolase; Pyridoxal phosphate.
+FT   CHAIN           1..330
+FT                   /note="Putative 1-aminocyclopropane-1-carboxylate
+FT                   deaminase"
+FT                   /id="PRO_0000184521"
+FT   MOD_RES         54
+FT                   /note="N6-(pyridoxal phosphate)lysine"
+FT                   /evidence="ECO:0000250"
+SQ   SEQUENCE   330 AA;  35755 MW;  CC8699923C0B11CD CRC64;
+     MHPKVDALLS RFPRITLIPW ETPIQYLPRI SRELGVDVYV KRDDLTGLGI GGNKIRKLEF
+     LLGDALSRGC DTVITIGAVH SNHAFVTALA AKKLGLGAVL ILRGEEVLKG NYLLDKLMGI
+     ETRIYEADNS WELMKVAEEV AEELKGEGKK PYIIPPGGAS PVGTLGYIRG VGELYTQVKK
+     LGLRIDTVVD AVGSGGTYAG LLLGSAIVNA EWSVVGIDVS SATEKAKERV KNLVEKTKEL
+     LGINVKVQEP RIYDYGFGAY GKIVKEVAKL IKSVGTMEGL LLDPVYTGKA FYGLMDLAKK
+     GDLGESVLFI HTGGLPGIFH YGEEMLELLV
+//
+ID   1A1D_PYRFU              Reviewed;         329 AA.
+AC   Q8U4R3;
+DT   15-NOV-2002, integrated into UniProtKB/Swiss-Prot.
+DT   15-NOV-2002, sequence version 2.
+DT   29-MAY-2024, entry version 103.
+DE   RecName: Full=Putative 1-aminocyclopropane-1-carboxylate deaminase;
+DE            Short=ACC deaminase;
+DE            EC=3.5.99.7;
+GN   OrderedLocusNames=PF0010;
+OS   Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=186497;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43587 / DSM 3638 / JCM 8422 / Vc1;
+RX   PubMed=10430560; DOI=10.1093/genetics/152.4.1299;
+RA   Maeder D.L., Weiss R.B., Dunn D.M., Cherry J.L., Gonzalez J.M.,
+RA   DiRuggiero J., Robb F.T.;
+RT   "Divergence of the hyperthermophilic archaea Pyrococcus furiosus and P.
+RT   horikoshii inferred from complete genomic sequences.";
+RL   Genetics 152:1299-1305(1999).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=1-aminocyclopropane-1-carboxylate + H2O = 2-oxobutanoate +
+CC         NH4(+); Xref=Rhea:RHEA:16933, ChEBI:CHEBI:15377, ChEBI:CHEBI:16763,
+CC         ChEBI:CHEBI:28938, ChEBI:CHEBI:58360; EC=3.5.99.7;
+CC   -!- COFACTOR:
+CC       Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326;
+CC         Evidence={ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the ACC deaminase/D-cysteine desulfhydrase
+CC       family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAL80134.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AE009950; AAL80134.1; ALT_INIT; Genomic_DNA.
+DR   RefSeq; WP_011011122.1; NZ_CP023154.1.
+DR   AlphaFoldDB; Q8U4R3; -.
+DR   SMR; Q8U4R3; -.
+DR   STRING; 186497.PF0010; -.
+DR   PaxDb; 186497-PF0010; -.
+DR   GeneID; 41713902; -.
+DR   KEGG; pfu:PF0010; -.
+DR   PATRIC; fig|186497.12.peg.11; -.
+DR   eggNOG; arCOG01435; Archaea.
+DR   HOGENOM; CLU_048897_1_0_2; -.
+DR   OrthoDB; 371827at2157; -.
+DR   PhylomeDB; Q8U4R3; -.
+DR   Proteomes; UP000001013; Chromosome.
+DR   GO; GO:0008660; F:1-aminocyclopropane-1-carboxylate deaminase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019148; F:D-cysteine desulfhydrase activity; IEA:TreeGrafter.
+DR   Gene3D; 3.40.50.1100; -; 2.
+DR   InterPro; IPR027278; ACCD_DCysDesulf.
+DR   InterPro; IPR005966; D-Cys_desShydrase.
+DR   InterPro; IPR001926; TrpB-like_PALP.
+DR   InterPro; IPR036052; TrpB-like_PALP_sf.
+DR   NCBIfam; TIGR01275; ACC_deam_rel; 1.
+DR   PANTHER; PTHR43780; 1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED; 1.
+DR   PANTHER; PTHR43780:SF2; 1-AMINOCYCLOPROPANE-1-CARBOXYLATE DEAMINASE-RELATED; 1.
+DR   Pfam; PF00291; PALP; 1.
+DR   PIRSF; PIRSF006278; ACCD_DCysDesulf; 1.
+DR   SUPFAM; SSF53686; Tryptophan synthase beta subunit-like PLP-dependent enzymes; 1.
+PE   3: Inferred from homology;
+KW   Hydrolase; Pyridoxal phosphate; Reference proteome.
+FT   CHAIN           1..329
+FT                   /note="Putative 1-aminocyclopropane-1-carboxylate
+FT                   deaminase"
+FT                   /id="PRO_0000184522"
+FT   MOD_RES         54
+FT                   /note="N6-(pyridoxal phosphate)lysine"
+FT                   /evidence="ECO:0000250"
+SQ   SEQUENCE   329 AA;  35795 MW;  627852CFD0A450F8 CRC64;
+     MHPKVQSLLS KFPRVELIPW ETPIQYLPNI SKLVGADIYV KRDDLTGLGI GGNKIRKLEY
+     LLGDAIIRKA DVIITVGAVH SNHAFVTGLA AKKLGFDVVL VLRGKEELRG NYLLDKIMGI
+     ETRVYEAKDS FELMKYAEEV AKELEEKGRK PYIIPVGGAS PVGTLGYVRA SGEIAEQGNR
+     IGVNFDSIVV ATGSGGTLAG LSVGLAILRK ETRAIGMAVG KFGETMVNKV EELAKATGEF
+     IGVKNLKLKI ELYDYSFGEY GKITREVAET IRLVGTKEGV ILDPVYTGKA FYGLLDLAKK
+     GELGEKILFI HTGGISGTFH YGDKILSFL
+//
+ID   AMYA_PYRAB              Reviewed;         655 AA.
+AC   Q9V298; G8ZG11;
+DT   21-FEB-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   24-JUL-2024, entry version 121.
+DE   RecName: Full=Alpha-amylase;
+DE            EC=3.2.1.1;
+GN   Name=amyA; OrderedLocusNames=PYRAB01760; ORFNames=PAB0118;
+OS   Pyrococcus abyssi (strain GE5 / Orsay).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=272844;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=GE5 / Orsay;
+RX   PubMed=12622808; DOI=10.1046/j.1365-2958.2003.03381.x;
+RA   Cohen G.N., Barbe V., Flament D., Galperin M., Heilig R., Lecompte O.,
+RA   Poch O., Prieur D., Querellou J., Ripp R., Thierry J.-C., Van der Oost J.,
+RA   Weissenbach J., Zivanovic Y., Forterre P.;
+RT   "An integrated analysis of the genome of the hyperthermophilic archaeon
+RT   Pyrococcus abyssi.";
+RL   Mol. Microbiol. 47:1495-1512(2003).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=GE5 / Orsay;
+RX   PubMed=22057919; DOI=10.1007/s00284-011-0035-x;
+RA   Gao J., Wang J.;
+RT   "Re-annotation of two hyperthermophilic archaea Pyrococcus abyssi GE5 and
+RT   Pyrococcus furiosus DSM 3638.";
+RL   Curr. Microbiol. 64:118-129(2012).
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Endohydrolysis of (1->4)-alpha-D-glucosidic linkages in
+CC         polysaccharides containing three or more (1->4)-alpha-linked D-
+CC         glucose units.; EC=3.2.1.1;
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 57 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ248283; CAB49100.1; -; Genomic_DNA.
+DR   EMBL; HE613800; CCE69552.1; -; Genomic_DNA.
+DR   PIR; E75206; E75206.
+DR   RefSeq; WP_010867300.1; NC_000868.1.
+DR   AlphaFoldDB; Q9V298; -.
+DR   SMR; Q9V298; -.
+DR   STRING; 272844.PAB0118; -.
+DR   CAZy; GH57; Glycoside Hydrolase Family 57.
+DR   KEGG; pab:PAB0118; -.
+DR   PATRIC; fig|272844.11.peg.190; -.
+DR   eggNOG; arCOG03280; Archaea.
+DR   HOGENOM; CLU_026700_0_0_2; -.
+DR   OrthoDB; 18576at2157; -.
+DR   PhylomeDB; Q9V298; -.
+DR   Proteomes; UP000000810; Chromosome.
+DR   Proteomes; UP000009139; Chromosome.
+DR   GO; GO:0004556; F:alpha-amylase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   CDD; cd10793; GH57N_TLGT_like; 1.
+DR   Gene3D; 2.70.98.10; -; 1.
+DR   Gene3D; 3.20.110.20; -; 1.
+DR   InterPro; IPR015179; A-amylase/a-glucTrfase_C.
+DR   InterPro; IPR015178; A-amylase/a-glucTrfase_central.
+DR   InterPro; IPR011013; Gal_mutarotase_sf_dom.
+DR   InterPro; IPR014718; GH-type_carb-bd.
+DR   InterPro; IPR052046; GH57_Enzymes.
+DR   InterPro; IPR011330; Glyco_hydro/deAcase_b/a-brl.
+DR   InterPro; IPR028995; Glyco_hydro_57/38_cen_sf.
+DR   InterPro; IPR004300; Glyco_hydro_57_N.
+DR   PANTHER; PTHR36306:SF1; 4-ALPHA-GLUCANOTRANSFERASE; 1.
+DR   PANTHER; PTHR36306; ALPHA-AMYLASE-RELATED-RELATED; 1.
+DR   Pfam; PF09094; AmyA-A_glucT_m; 1.
+DR   Pfam; PF09095; AmyA-gluTrfs_C; 1.
+DR   Pfam; PF03065; Glyco_hydro_57; 1.
+DR   SUPFAM; SSF88688; Families 57/38 glycoside transferase middle domain; 1.
+DR   SUPFAM; SSF74650; Galactose mutarotase-like; 1.
+DR   SUPFAM; SSF88713; Glycoside hydrolase/deacetylase; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Glycosidase; Hydrolase.
+FT   CHAIN           1..655
+FT                   /note="Alpha-amylase"
+FT                   /id="PRO_0000184572"
+FT   ACT_SITE        123
+FT                   /note="Nucleophile"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        214
+FT                   /note="Proton donor"
+FT                   /evidence="ECO:0000250"
+SQ   SEQUENCE   655 AA;  77296 MW;  7F6F920B1A00EECE CRC64;
+     MPRINFIFGI HNHQPLGNFG WVMEEAYEKA YRPFLEILEE YPNMKVAIHI SGILVEWLEE
+     NKPDYIDLLK SLVRKGQVEI VVAGFYEPVL AAIPKEDRLE QIYLLKEWAK KIGYDAKGLW
+     LTERVWQPEL VKTLREAGIE YVVVDDYHFM SAGLSKDQLF WPYYTEDGGE VITVFPIDEK
+     LRYLIPFRPV DKVISYLHSL ASEDESKVAV FHDDGEKFGI WPMTYEWVYE KGWLREFFDR
+     VSSDEAINIM LYSEYLQKFK PKGLVYLPIA SYFEMSEWSL PAQQAKLFVE FVEKLKELNM
+     FERYRVFVRG GIWKNFFYKY PEANYMHKRM LMLSRLLRDN PSARRFVLRA QCNDAYWHGV
+     FGGIYLPHLR RAIWSNLIKA HSHLEPKNKI LDVDFDGREE VFLENDNFII VVKPHYGGSI
+     FELSSKRRAV NYADVIARRW EHYHNLGESE SDDNENQEGV SSIHEIGKRI PEDIRKELAY
+     DRYRRGILQD HFFSANETLD RYRLAKYWEL GDFIEGVYNY EVGNGLVLWR RGKVLNVTVD
+     VKKSIEVRED GFSVRYTVLS EEDIEALFGI ELNIAVHSIK ESPEELIGKR IKVNDKYGVG
+     EFEIVLNKKA RIWKYPVKTL SQSEAGWDYI QQGVSYTIIY PINGRLDIEL YFREL
+//
+ID   IF2A_PYRAB              Reviewed;         275 AA.
+AC   Q9V0E4; G8ZH56;
+DT   01-DEC-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   29-MAY-2024, entry version 132.
+DE   RecName: Full=Translation initiation factor 2 subunit alpha;
+DE   AltName: Full=aIF2-alpha;
+DE   AltName: Full=eIF-2-alpha;
+GN   Name=eif2a; Synonyms=aif2A; OrderedLocusNames=PYRAB08460; ORFNames=PAB0568;
+OS   Pyrococcus abyssi (strain GE5 / Orsay).
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+OX   NCBI_TaxID=272844;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=GE5 / Orsay;
+RX   PubMed=12622808; DOI=10.1046/j.1365-2958.2003.03381.x;
+RA   Cohen G.N., Barbe V., Flament D., Galperin M., Heilig R., Lecompte O.,
+RA   Poch O., Prieur D., Querellou J., Ripp R., Thierry J.-C., Van der Oost J.,
+RA   Weissenbach J., Zivanovic Y., Forterre P.;
+RT   "An integrated analysis of the genome of the hyperthermophilic archaeon
+RT   Pyrococcus abyssi.";
+RL   Mol. Microbiol. 47:1495-1512(2003).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=GE5 / Orsay;
+RX   PubMed=22057919; DOI=10.1007/s00284-011-0035-x;
+RA   Gao J., Wang J.;
+RT   "Re-annotation of two hyperthermophilic archaea Pyrococcus abyssi GE5 and
+RT   Pyrococcus furiosus DSM 3638.";
+RL   Curr. Microbiol. 64:118-129(2012).
+CC   -!- FUNCTION: eIF-2 functions in the early steps of protein synthesis by
+CC       forming a ternary complex with GTP and initiator tRNA. {ECO:0000250}.
+CC   -!- SUBUNIT: Heterotrimer composed of an alpha, a beta and a gamma chain.
+CC       {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the eIF-2-alpha family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AJ248285; CAB49760.1; -; Genomic_DNA.
+DR   EMBL; HE613800; CCE70251.1; -; Genomic_DNA.
+DR   PIR; G75130; G75130.
+DR   RefSeq; WP_010867969.1; NC_000868.1.
+DR   PDB; 1YZ6; X-ray; 3.37 A; A=2-275.
+DR   PDB; 1YZ7; X-ray; 2.26 A; A=89-275.
+DR   PDBsum; 1YZ6; -.
+DR   PDBsum; 1YZ7; -.
+DR   AlphaFoldDB; Q9V0E4; -.
+DR   SMR; Q9V0E4; -.
+DR   STRING; 272844.PAB0568; -.
+DR   KEGG; pab:PAB0568; -.
+DR   PATRIC; fig|272844.11.peg.895; -.
+DR   eggNOG; arCOG04107; Archaea.
+DR   HOGENOM; CLU_033458_0_2_2; -.
+DR   OrthoDB; 84794at2157; -.
+DR   PhylomeDB; Q9V0E4; -.
+DR   EvolutionaryTrace; Q9V0E4; -.
+DR   Proteomes; UP000000810; Chromosome.
+DR   Proteomes; UP000009139; Chromosome.
+DR   GO; GO:0043022; F:ribosome binding; IEA:TreeGrafter.
+DR   GO; GO:0003723; F:RNA binding; IEA:UniProtKB-UniRule.
+DR   GO; GO:0003743; F:translation initiation factor activity; IEA:UniProtKB-UniRule.
+DR   CDD; cd04452; S1_IF2_alpha; 1.
+DR   Gene3D; 3.30.70.1130; EIF_2_alpha; 1.
+DR   Gene3D; 2.40.50.140; Nucleic acid-binding proteins; 1.
+DR   HAMAP; MF_00231; eIF_2_alpha; 1.
+DR   InterPro; IPR012340; NA-bd_OB-fold.
+DR   InterPro; IPR003029; S1_domain.
+DR   InterPro; IPR044126; S1_IF2_alpha.
+DR   InterPro; IPR022964; TIF2_asu_arc.
+DR   InterPro; IPR024055; TIF2_asu_C.
+DR   InterPro; IPR024054; TIF2_asu_middle_sf.
+DR   InterPro; IPR011488; TIF_2_asu.
+DR   PANTHER; PTHR10602; EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT 1; 1.
+DR   PANTHER; PTHR10602:SF0; EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT 1; 1.
+DR   Pfam; PF07541; EIF_2_alpha; 1.
+DR   Pfam; PF00575; S1; 1.
+DR   SMART; SM00316; S1; 1.
+DR   SUPFAM; SSF110993; eIF-2-alpha, C-terminal domain; 1.
+DR   SUPFAM; SSF116742; eIF2alpha middle domain-like; 1.
+DR   SUPFAM; SSF50249; Nucleic acid-binding proteins; 1.
+DR   PROSITE; PS50126; S1; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Initiation factor; Protein biosynthesis; RNA-binding.
+FT   CHAIN           1..275
+FT                   /note="Translation initiation factor 2 subunit alpha"
+FT                   /id="PRO_0000137397"
+FT   DOMAIN          12..83
+FT                   /note="S1 motif"
+FT   STRAND          14..23
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   STRAND          26..31
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   STRAND          38..42
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   HELIX           43..45
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   STRAND          47..49
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   HELIX           54..56
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   STRAND          63..72
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   TURN            73..76
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   STRAND          77..84
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   HELIX           92..113
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           118..124
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           126..133
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           136..146
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           148..150
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           159..170
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   STRAND          176..185
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           191..207
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   STRAND          209..211
+FT                   /evidence="ECO:0007829|PDB:1YZ6"
+FT   STRAND          213..218
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   STRAND          223..232
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   HELIX           233..253
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+FT   STRAND          257..261
+FT                   /evidence="ECO:0007829|PDB:1YZ7"
+SQ   SEQUENCE   275 AA;  31912 MW;  B2659F3A49879B4F CRC64;
+     MPRRAREYPE EGEFVVATVK RIHNYGAFLE LDEYPGKEAF MHISEVASTW VRNIRDYLKE
+     GQKVVAKVIR VDPRKGHIDL SLRRVTQQQR KAKLQEFKRA QKAENLLKLA AEKLGKDFET
+     AWREVWVPLE EEWGEVYAAF EDAAKDGIDV LKGHVPDEWL PVLKEIIDNY VEVPTVTIDA
+     EFEITVPKPN GVEIIKEALI RARDRANKEK DVEVKFTYLG APRYRIDITA PDYYKAEEVL
+     ESIAEEILRV IKEAGGEATL LRKEKRIKKV KKRKK
+//

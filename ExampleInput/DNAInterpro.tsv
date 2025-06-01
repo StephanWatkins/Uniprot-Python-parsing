@@ -1,0 +1,979 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+IPR000035	Alkylbase DNA glycosidase, conserved site  Molecular Function	interpro	conserved_site		PS00516	GO:0003905,GO:0006281
+IPR000055	Type I restriction modification DNA specificity domain  Molecular Function	interpro	domain		PF01420	GO:0003677
+IPR000093	DNA recombination protein RecR  Molecular Function	interpro	family		PTHR30446,MF_00017,TIGR00615	GO:0003677,GO:0046872,GO:0006281,GO:0006310
+IPR000119	Histone-like DNA-binding protein  Molecular Function	interpro	family		PTHR33175,PF00216,SM00411,PR01727	GO:0003677,GO:0030527
+IPR000123	RNA-directed DNA polymerase (reverse transcriptase), msDNA  Molecular Function	interpro	family		cd03487,PR00866	GO:0003723,GO:0003964,GO:0006278
+IPR000201	Hepadnaviral P protein, N-terminal  Molecular Function	interpro	domain		PF00242	GO:0003677,GO:0003887,GO:0006260
+IPR000212	DNA helicase, UvrD/REP type  Molecular Function	interpro	family		PTHR11070	GO:0003677,GO:0003678,GO:0005524
+IPR000214	Zinc finger, DNA glycosylase/AP lyase-type  Molecular Function	interpro	domain		PS51066	GO:0003906,GO:0008270,GO:0016799,GO:0006284
+IPR000232	Heat shock factor (HSF)-type, DNA-binding  Molecular Function	interpro	domain		PS00434,SM00415,PF00447,PR00056	GO:0003700,GO:0043565,GO:0006355
+IPR000268	DNA-directed RNA polymerase subunit RPABC5/Rpb10  Molecular Function	interpro	family		PTHR23431,MF_00250,PIRSF005653,PF01194	GO:0003677,GO:0003899,GO:0006351
+IPR000380	DNA topoisomerase, type IA  Molecular Function	interpro	family		PTHR42785,PTHR11390	GO:0003677,GO:0003917,GO:0006265
+IPR000424	Primosome PriB/single-strand DNA-binding  Molecular Function	interpro	family		cd04496,PS50935,PF00436	GO:0003697
+IPR000432	DNA mismatch repair protein MutS, C-terminal  Molecular Function	interpro	domain		PS00486,PF00488,SM00534	GO:0005524,GO:0030983,GO:0006298
+IPR000565	DNA topoisomerase, type IIA, subunit B  Molecular Function	interpro	family		PR01159	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus  Molecular Function	interpro	domain		PF00910	GO:0003723,GO:0003724
+IPR000635	Viral ssDNA-binding protein  Molecular Function	interpro	family		MF_04007,PF00747	GO:0003697,GO:0006260,GO:0042025
+IPR000977	DNA ligase, ATP-dependent  Molecular Function	interpro	family		TIGR00574	GO:0003910,GO:0005524,GO:0071897
+IPR001001	DNA polymerase III, beta sliding clamp  Molecular Function	interpro	family		PIRSF000804,cd00140,PTHR30478,TIGR00663,SM00480	GO:0003677,GO:0006260,GO:0009360
+IPR001083	Copper fist DNA-binding domain  Molecular Function	interpro	domain		SM01090,SM00412,PR00617,PF00649,PS50073,PS01119	GO:0003677,GO:0003700,GO:0005507,GO:0006355
+IPR001091	Restriction/modification DNA-methyltransferase  Molecular Function	interpro	family		PR00508	GO:0003677,GO:0008170
+IPR001098	DNA-directed DNA polymerase, family A, palm domain  Molecular Function	interpro	domain		SM00482,PF00476	GO:0003677,GO:0003887,GO:0006260
+IPR001130	3'-5' ssDNA/RNA exonuclease TatD-like  Molecular Function	interpro	family		cd01310,PF01026,PIRSF005902	GO:0016788
+IPR001138	Zn(2)Cys(6) fungal-type DNA-binding domain  Molecular Function	interpro	domain		cd00067,PS50048,PS00463,SM00066,PF00172	GO:0000981,GO:0008270,GO:0006355
+IPR001154	DNA topoisomerase II, eukaryotic-type  Molecular Function	interpro	family		PR01158	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR001177	DNA helicase E1, C-terminal, Papillomavirus  Molecular Function	interpro	domain		PF00519	GO:0003677,GO:0003678,GO:0005524,GO:0006260
+IPR001238	DNA-binding, RecF  Molecular Function	interpro	family		MF_00365,TIGR00611	GO:0003697,GO:0005524,GO:0006281
+IPR001241	DNA topoisomerase, type IIA  Molecular Function	interpro	family		SM00433	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR001275	DM DNA-binding domain  Molecular Function	interpro	domain		PS50809,PF00751,PS40000,SM00301	GO:0043565,GO:0006355
+IPR001305	Heat shock protein DnaJ, cysteine-rich domain  Molecular Function	interpro	domain		PS51188,cd10719,PF00684	GO:0031072,GO:0051082
+IPR001346	Interferon regulatory factor, DNA-binding domain  Molecular Function	interpro	domain		cd00103,PF00605,SM00348,PS51507,PR00267	GO:0000976
+IPR001462	Hepadnaviral P protein, C-terminal  Molecular Function	interpro	domain		PF00336	GO:0004523
+IPR001497	Methylated-DNA-[protein]-cysteine S-methyltransferase, active site  Molecular Function	interpro	active_site		PS00374	GO:0003908,GO:0006281
+IPR001514	DNA-directed RNA polymerase, 30-40kDa subunit, conserved site  Molecular Function	interpro	conserved_site		PS00446	GO:0003677,GO:0003899,GO:0006351
+IPR001604	DNA/RNA non-specific endonuclease/pyrophosphatase/phosphodiesterase domain  Molecular Function	interpro	domain		SM00892,PF01223	GO:0003676,GO:0016787,GO:0046872
+IPR001606	ARID DNA-binding domain  Molecular Function	interpro	domain		PS51011,PF01388,SM00501	GO:0003677
+IPR001631	DNA topoisomerase I  Molecular Function	interpro	family		PR00416	GO:0003677,GO:0003917,GO:0006265
+IPR001647	DNA-binding HTH domain, TetR-type  Molecular Function	interpro	domain		PS50977,PR00455,PF00440	GO:0003677
+IPR001679	NAD-dependent DNA ligase  Molecular Function	interpro	family		MF_01588,TIGR00575,PIRSF001604	GO:0003911,GO:0006260,GO:0006281
+IPR001726	DNA nucleotidylexotransferase (TdT) / DNA-directed DNA/RNA polymerase mu  Molecular Function	interpro	family		PIRSF000817,PR00871	GO:0034061
+IPR001739	Methyl-CpG DNA binding  Molecular Function	interpro	domain		PS50982,PF01429,SM00391	GO:0003677
+IPR001801	DNA-binding protein H-NS-like  Molecular Function	interpro	family		PIRSF002096	GO:0003677,GO:0030527,GO:0006355
+IPR001845	HTH ArsR-type DNA-binding domain  Molecular Function	interpro	domain		PS50987,PF01022,SM00418,PR00778	GO:0003700,GO:0006355
+IPR001867	OmpR/PhoB-type DNA-binding domain  Molecular Function	interpro	domain		cd00383,SM00862,PS51755,PF00486	GO:0003677,GO:0000160,GO:0006355
+IPR001957	Chromosomal replication control, initiator DnaA  Molecular Function	interpro	family		MF_00377,TIGR00362	GO:0003677,GO:0003688,GO:0005524,GO:0006270,GO:0006275
+IPR002008	DNA polymerase family X, beta-like  Molecular Function	interpro	family		PR00870	GO:0003677,GO:0006281
+IPR002043	Uracil-DNA glycosylase family 1  Molecular Function	interpro	family		cd10027,MF_00148,TIGR00628,PTHR11264	GO:0004844,GO:0006281,GO:0006284
+IPR002052	DNA methylase, N-6 adenine-specific, conserved site  Molecular Function	interpro	conserved_site		PS00092	GO:0003676,GO:0008168,GO:0032259
+IPR002054	DNA-directed DNA polymerase X  Molecular Function	interpro	domain		cd00141,SM00483	GO:0003677,GO:0003887
+IPR002059	Cold-shock protein Csp, DNA-binding  Molecular Function	interpro	domain		cd04458,PS51857,PR00050,PF00313	GO:0003676
+IPR002092	DNA-directed RNA polymerase, phage-type  Molecular Function	interpro	family		PS00489,PS00900,PTHR10102	GO:0003677,GO:0003899,GO:0006351
+IPR002099	DNA mismatch repair protein MutL/Mlh/PMS  Molecular Function	interpro	family		TIGR00585	GO:0005524,GO:0030983,GO:0006298
+IPR002176	Crossover junction endodeoxyribonuclease RuvC  Molecular Function	interpro	family		cd16962,PTHR30194,MF_00034,TIGR00228,PR00696,PF02075	GO:0004520,GO:0006281,GO:0006310
+IPR002197	DNA binding HTH domain, Fis-type  Molecular Function	interpro	domain		PF02954,PR01590	GO:0043565
+IPR002205	DNA topoisomerase, type IIA, domain A  Molecular Function	interpro	domain		cd00187,PF00521,SM00434	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR002288	DNA gyrase B subunit, C-terminal  Molecular Function	interpro	domain		PF00986	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR002297	DNA-directed DNA-polymerase, family A, mitochondria  Molecular Function	interpro	family		PTHR10267,PIRSF000797,PR00867	GO:0003677,GO:0006260,GO:0005760
+IPR002298	DNA polymerase A  Molecular Function	interpro	family		PTHR10133,PR00868	GO:0003887,GO:0006261
+IPR002706	DNA-repair protein Xrcc1, N-terminal  Molecular Function	interpro	domain		PF01834	GO:0003684,GO:0000012,GO:0005634
+IPR002755	DNA primase, small subunit  Molecular Function	interpro	family		PF01896	GO:0003896,GO:0006269
+IPR002775	DNA/RNA-binding protein Alba-like  Molecular Function	interpro	domain		PF01918	GO:0003676
+IPR002815	Spo11/DNA topoisomerase VI subunit A  Molecular Function	interpro	family		PR01550,PTHR10848	GO:0003677,GO:0003918,GO:0005694
+IPR002941	DNA methylase N-4/N-6  Molecular Function	interpro	domain		PF01555	GO:0003677,GO:0008170
+IPR003133	T antigen, Ori-binding  Molecular Function	interpro	domain		PS51287,PF02217	GO:0003688,GO:0006260
+IPR003150	DNA-binding RFX-type winged-helix domain  Molecular Function	interpro	domain		PS51526,PF02257	GO:0003677,GO:0006355
+IPR003176	Adenovirus DNA-binding, all-alpha domain  Molecular Function	interpro	domain		PF02236	GO:0003677,GO:0006268
+IPR003180	Methylpurine-DNA glycosylase  Molecular Function	interpro	family		cd00540,MF_00527,PF02245,TIGR00567,PTHR10429	GO:0003677,GO:0003905,GO:0006284
+IPR003202	DNA polymerase processivity factor (UL42)  Molecular Function	interpro	family		PF02282	GO:0003677,GO:0006260
+IPR003212	DNA-binding protein 7a-e  Molecular Function	interpro	family		NF045555,PIRSF036912,PF02294	GO:0003677,GO:0004521
+IPR003310	G/T mismatch-specific thymine DNA glycosylasee TDG-like, eukaryotes  Molecular Function	interpro	family		TIGR00584	GO:0000700,GO:0006285
+IPR003340	B3 DNA binding domain  Molecular Function	interpro	domain		cd10017,SM01019,PS50863,PF02362	GO:0003677
+IPR003356	DNA methylase, adenine-specific  Molecular Function	interpro	domain		PF02384	GO:0003677,GO:0008170
+IPR003512	Bacteriophage M13, G5P, DNA-binding  Molecular Function	interpro	family		PF02303	GO:0003697,GO:0006260
+IPR003583	Helix-hairpin-helix DNA-binding motif, class 1  Molecular Function	interpro	domain		SM00278	GO:0003677,GO:0006281
+IPR003601	DNA topoisomerase, type IA, domain 2  Molecular Function	interpro	domain		SM00436	GO:0003677,GO:0003916,GO:0006265
+IPR003602	DNA topoisomerase, type IA, DNA-binding domain  Molecular Function	interpro	domain		SM00437	GO:0003677,GO:0003916,GO:0006265
+IPR003701	DNA double-strand break repair protein Mre11  Molecular Function	interpro	family		PIRSF000882,TIGR00583	GO:0004520,GO:0008296,GO:0006302,GO:0030870
+IPR003716	DNA-directed RNA polymerase, omega subunit  Molecular Function	interpro	family		PTHR34476,MF_00366,TIGR00690	GO:0003899,GO:0006351
+IPR003840	DNA replication helicase domain  Molecular Function	interpro	domain		PF02689	GO:0004386,GO:0005524
+IPR004026	Ada DNA repair, metal-binding  Molecular Function	interpro	domain		PF02805	GO:0003677,GO:0008168,GO:0008270,GO:0006281,GO:0006355
+IPR004085	DNA topoisomerase VI, subunit A  Molecular Function	interpro	family		MF_00132,PR01552	GO:0003677,GO:0003918,GO:0006265,GO:0005694
+IPR004149	Zinc-finger, NAD-dependent DNA ligase C4-type  Molecular Function	interpro	domain		PF03119	GO:0003911,GO:0006260,GO:0006281
+IPR004150	NAD-dependent DNA ligase, OB-fold  Molecular Function	interpro	domain		PF03120	GO:0003911,GO:0006260,GO:0006281
+IPR004186	Epstein Barr virus nuclear antigen-1, DNA-binding  Molecular Function	interpro	domain		PF02905	GO:0003677,GO:0006275,GO:0045893,GO:0042025
+IPR004191	Integrase, Tn916-type, N-terminal DNA binding  Molecular Function	interpro	domain		PF02920	GO:0003677,GO:0008907,GO:0015074
+IPR004230	DNA mismatch repair protein MutH  Molecular Function	interpro	family		MF_00759,TIGR02248	GO:0003677,GO:0004519,GO:0006304
+IPR004475	DNA polymerase II large subunit DP2  Molecular Function	interpro	family		PTHR42210,MF_00324,PIRSF016275,TIGR00354	GO:0003677,GO:0003887,GO:0006260
+IPR004504	DNA repair protein RadA  Molecular Function	interpro	family		MF_01498,TIGR00416	GO:0003684,GO:0005524,GO:0006281
+IPR004519	DNA-directed RNA polymerase, subunit E/RPC8  Molecular Function	interpro	family		TIGR00448	GO:0003677,GO:0003899,GO:0006351
+IPR004577	8-oxoguanine DNA-glycosylase  Molecular Function	interpro	family		TIGR00588	GO:0008534,GO:0034039,GO:0006284
+IPR004580	DNA repair protein Rad18, fungi  Molecular Function	interpro	family		TIGR00599	GO:0003697,GO:0061630,GO:0006301,GO:0006513
+IPR004583	DNA repair protein Rad4  Molecular Function	interpro	family		PTHR12135	GO:0003684,GO:0006289,GO:0005634
+IPR004584	DNA repair protein Rad50, eukaryotes  Molecular Function	interpro	family		TIGR00606	GO:0016887,GO:0000723,GO:0006281,GO:0005634,GO:0030870
+IPR004589	DNA helicase, ATP-dependent, RecQ type  Molecular Function	interpro	family		TIGR00614	GO:0004386,GO:0006310
+IPR004590	DNA single-strand annealing protein RecT  Molecular Function	interpro	family		TIGR00616	GO:0003677,GO:0006259
+IPR004597	DNA-3-methyladenine glycosylase I  Molecular Function	interpro	family		TIGR00624	GO:0008725,GO:0006284
+IPR004603	DNA mismatch endonuclease VSR  Molecular Function	interpro	family		cd00221,PIRSF018267,TIGR00632,PF03852	GO:0004519,GO:0006298
+IPR004604	DNA recombination/repair protein RecN  Molecular Function	interpro	family		PIRSF003128,TIGR00634,PTHR11059	GO:0005524,GO:0006281,GO:0006310
+IPR004605	Holliday junction branch migration complex subunit RuvB  Molecular Function	interpro	family		PTHR42848,MF_00016,TIGR00635	GO:0003677,GO:0005524,GO:0009378,GO:0006281,GO:0006310
+IPR004609	ATP-dependent DNA helicase RecG  Molecular Function	interpro	family		TIGR00643	GO:0003678,GO:0006281,GO:0006310
+IPR004615	DNA polymerase III, psi subunit  Molecular Function	interpro	family		PIRSF029225,PF03603	GO:0003887,GO:0008408,GO:0006260
+IPR004622	DNA polymerase III, delta prime subunit  Molecular Function	interpro	domain		TIGR00678	GO:0003887,GO:0008408,GO:0006260
+IPR004645	DNA-binding protein Tfx, archaea  Molecular Function	interpro	family		TIGR00721	GO:0003677
+IPR004805	Error-prone DNA polymerase/DNA polymerase III subunit alpha DnaE/PolC  Molecular Function	interpro	family		PTHR32294,TIGR00594	GO:0008408,GO:0006260
+IPR004868	DNA-directed DNA polymerase, family B, mitochondria/virus  Molecular Function	interpro	domain		PF03175	GO:0000166,GO:0003677,GO:0003887,GO:0006260
+IPR004947	Deoxyribonuclease II  Molecular Function	interpro	family		PTHR10858,PF03265	GO:0004531,GO:0006259
+IPR004973	DNA-directed RNA polymerase, 18kDa subunit, poxviral  Molecular Function	interpro	family		PF03293	GO:0003677,GO:0003899,GO:0019083
+IPR005059	DNA-directed RNA polymerase, 35kDa subunit, poxviral  Molecular Function	interpro	family		PF03396,PIRSF000746	GO:0003677,GO:0003899,GO:0019083
+IPR005104	Winged helix-turn-helix transcription repressor, HrcA DNA-binding domain  Molecular Function	interpro	domain		PF03444	GO:0003677,GO:0006355
+IPR005319	Peptidase S48, DNA-binding transcriptional activator HetR  Molecular Function	interpro	family		MF_00781,PF03574	GO:0003677,GO:0004252,GO:0043158
+IPR005376	Adenovirus DNA-binding, zinc-binding domain  Molecular Function	interpro	domain		PF03728	GO:0003677,GO:0008270,GO:0006260
+IPR005412	DNA-binding protein Fis  Molecular Function	interpro	family		MF_00166,PIRSF002097,PR01591	GO:0003677,GO:0006355
+IPR005559	CG-1 DNA-binding domain  Molecular Function	interpro	domain		SM01076,PS51437,PF03859	GO:0003677
+IPR005569	Arc-like DNA binding domain  Molecular Function	interpro	domain		PF03869	GO:0003677
+IPR005570	DNA-directed RNA polymerases I, II, and III subunit RPABC3  Molecular Function	interpro	family		PF03870,SM00658,PIRSF000779,PTHR10917	GO:0003899,GO:0006351
+IPR005584	DNA gyrase inhibitor YacG  Molecular Function	interpro	family		PTHR36150,MF_00649,PF03884	GO:0008270
+IPR005733	DNA topoisomerase I, bacterial-type  Molecular Function	interpro	family		TIGR01051	GO:0003677,GO:0003917,GO:0006265
+IPR005734	DNA topoisomerase VI, subunit B  Molecular Function	interpro	family		MF_00322,TIGR01052,PIRSF006553	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR005737	DNA topoisomerase IV, subunit B, Gram-negative  Molecular Function	interpro	family		MF_00938,TIGR01055,PR01098	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005738	DNA topoisomerase III  Molecular Function	interpro	family		MF_00953,TIGR01056	GO:0003677,GO:0003916,GO:0006265
+IPR005739	DNA topoisomerase I, archeal-type  Molecular Function	interpro	family		TIGR01057	GO:0003677,GO:0003916,GO:0006265
+IPR005740	DNA topoisomerase 4 subunit B, Firmicutes/Mollicutes  Molecular Function	interpro	family		MF_00939,TIGR01058	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005741	DNA topoisomerase IV subunit A, Gram-positive  Molecular Function	interpro	family		MF_00937,TIGR01061	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005742	DNA topoisomerase IV, subunit A, Gram-negative  Molecular Function	interpro	family		MF_00936	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005743	DNA gyrase, subunit A  Molecular Function	interpro	family		MF_01897	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005748	DNA mismatch repair protein MutS  Molecular Function	interpro	family		MF_00096,TIGR01070	GO:0005524,GO:0030983,GO:0006298
+IPR005751	ATP-dependent DNA helicase PcrA  Molecular Function	interpro	family		TIGR01073	GO:0003678,GO:0006268,GO:0005737
+IPR005752	ATP-dependent DNA helicase Rep  Molecular Function	interpro	family		MF_01920,TIGR01074	GO:0003677,GO:0003678,GO:0005524,GO:0006268
+IPR005753	DNA helicase, ATP-dependent, UvrD type  Molecular Function	interpro	family		TIGR01075	GO:0003678,GO:0006268,GO:0005737
+IPR005790	DNA polymerase III, delta subunit  Molecular Function	interpro	family		TIGR01128	GO:0003677,GO:0006260
+IPR006054	DNA polymerase III epsilon subunit, exonuclease domain  Molecular Function	interpro	domain		TIGR00573	GO:0003677,GO:0003887,GO:0006260
+IPR006085	XPG, N-terminal  Molecular Function	interpro	domain		SM00485,PF00752	GO:0004518
+IPR006134	DNA-directed DNA polymerase, family B, multifunctional domain  Molecular Function	interpro	domain		PF00136	GO:0000166,GO:0003677
+IPR006167	DNA repair protein XPF  Molecular Function	interpro	family		TIGR00596	GO:0003697,GO:0004520,GO:0006281
+IPR006172	DNA-directed DNA polymerase, family B  Molecular Function	interpro	family		SM00486,PR00106	GO:0000166,GO:0003676,GO:0003887
+IPR006199	LexA repressor, DNA-binding domain  Molecular Function	interpro	domain		PF01726	GO:0004252,GO:0006508
+IPR006293	DNA helicase, ATP-dependent, RecQ type, bacterial  Molecular Function	interpro	family		TIGR01389	GO:0003678,GO:0006310,GO:0009432
+IPR006295	DNA primase, DnaG  Molecular Function	interpro	domain		TIGR01391	GO:0003896,GO:0006269
+IPR006308	DNA polymerase III, alpha subunit, PolC-type, Gram-positive bacteria  Molecular Function	interpro	family		MF_00356,TIGR01405	GO:0003677,GO:0003887,GO:0006260,GO:0005737
+IPR006309	DNA polymerase 3, epsilon subunit  Molecular Function	interpro	family		cd06131,TIGR01406	GO:0003677,GO:0003887,GO:0006260
+IPR006345	ATP-dependent RecD2 DNA helicase  Molecular Function	interpro	family		TIGR01448,MF_01488	GO:0003677,GO:0043139,GO:0032508
+IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat  Molecular Function	interpro	repeat		PF03989	GO:0003677,GO:0003916,GO:0005524,GO:0006265
+IPR006754	Poxvirus I3 ssDNA-binding  Molecular Function	interpro	family		PF04661,PIRSF003767	GO:0003697
+IPR006779	DNA binding protein S1FA  Molecular Function	interpro	family		PTHR35298,PF04689	GO:0003677,GO:0006355,GO:0005634
+IPR006824	DNA helicase, Baculovirus  Molecular Function	interpro	family		PF04735	GO:0003678,GO:0019079
+IPR007015	DNA polymerase V/Myb-binding protein 1A  Molecular Function	interpro	family		PF04931,PTHR13213	GO:0003677,GO:0008134,GO:0006355,GO:0005730
+IPR007120	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain  Molecular Function	interpro	domain		PF00562	GO:0003677,GO:0003899,GO:0006351
+IPR007185	DNA polymerase alpha/delta/epsilon, subunit B  Molecular Function	interpro	domain		PF04042	GO:0003677,GO:0006260
+IPR007281	Mre11, DNA-binding  Molecular Function	interpro	domain		SM01347,PF04152	GO:0004519,GO:0030145,GO:0006302,GO:0005634
+IPR007459	DNA polymerase III chi subunit, HolC  Molecular Function	interpro	family		PTHR38767,PF04364	GO:0003677,GO:0003887,GO:0006260
+IPR007492	LytTR DNA-binding domain  Molecular Function	interpro	domain		PS50930,SM00850,PF04397	GO:0003677
+IPR007634	RNA polymerase sigma factor 54, DNA-binding  Molecular Function	interpro	domain		PF04552	GO:0001216
+IPR007692	DNA helicase, DnaB type  Molecular Function	interpro	family		TIGR00665	GO:0003677,GO:0003678,GO:0005524,GO:0006260
+IPR007693	DNA helicase, DnaB-like, N-terminal  Molecular Function	interpro	domain		PF00772	GO:0003678,GO:0005524,GO:0006260
+IPR007694	DNA helicase, DnaB-like, C-terminal  Molecular Function	interpro	domain		cd00984,PS51199,PF03796	GO:0003678,GO:0005524,GO:0006260
+IPR007695	DNA mismatch repair protein MutS-like, N-terminal  Molecular Function	interpro	domain		PF01624	GO:0005524,GO:0030983,GO:0006298
+IPR007696	DNA mismatch repair protein MutS, core  Molecular Function	interpro	domain		PF05192,SM00533	GO:0005524,GO:0030983,GO:0006298
+IPR007811	DNA-directed RNA polymerase III subunit RPC4  Molecular Function	interpro	family		PTHR13408,PF05132	GO:0003677,GO:0006383,GO:0005666
+IPR007860	DNA mismatch repair protein MutS, connector domain  Molecular Function	interpro	domain		PF05188	GO:0005524,GO:0030983,GO:0006298
+IPR007861	DNA mismatch repair protein MutS, clamp  Molecular Function	interpro	domain		PF05190	GO:0005524,GO:0030983,GO:0006298
+IPR007889	DNA binding HTH domain, Psq-type  Molecular Function	interpro	domain		PS50960,PF04218,PF05225	GO:0003677
+IPR007984	DNA-directed RNA polymerase, 19kDa subunit, poxviral  Molecular Function	interpro	family		PF05320,PIRSF000743	GO:0003677,GO:0003899,GO:0006351
+IPR008029	Bacteriophage T7, Gp3, endodeoxynuclease I  Molecular Function	interpro	family		cd22324,PF05367	GO:0008833,GO:0015074,GO:0016032
+IPR008045	DNA replication licensing factor Mcm2  Molecular Function	interpro	family		PF12619,PR01658	GO:0003677,GO:0005524,GO:0006270,GO:1905775,GO:0005634,GO:0042555
+IPR008046	DNA replication licensing factor Mcm3  Molecular Function	interpro	family		PR01659	GO:0003677,GO:0005524,GO:0006270,GO:0042555
+IPR008048	DNA replication licensing factor Mcm5  Molecular Function	interpro	family		PR01661	GO:0003688,GO:0005524,GO:0006270,GO:0005634,GO:0042555
+IPR008049	DNA replication licensing factor Mcm6  Molecular Function	interpro	family		PR01662	GO:0003677,GO:0003678,GO:0005524,GO:0006270,GO:0005634,GO:0042555
+IPR008050	DNA replication licensing factor Mcm7  Molecular Function	interpro	family		cd17758,PR01663	GO:0003677,GO:0003678,GO:0005524,GO:0006270,GO:0042555
+IPR008116	Sequence-specific single-strand DNA-binding protein  Molecular Function	interpro	family		PR01743	GO:0003697
+IPR008148	DNA photolyase class 2  Molecular Function	interpro	family		TIGR00591	GO:0003904,GO:0006281
+IPR008193	DNA-directed RNA polymerase Rpb11, 13-16kDa subunit, conserved site  Molecular Function	interpro	conserved_site		PS01154	GO:0003677,GO:0003899,GO:0006351
+IPR008332	Methylguanine DNA methyltransferase, ribonuclease-like domain  Molecular Function	interpro	domain		PF02870	GO:0003908,GO:0006281
+IPR008336	DNA topoisomerase I, DNA binding, eukaryotic-type  Molecular Function	interpro	domain		PF02919	GO:0003677,GO:0003917,GO:0006265
+IPR008448	DNA-directed RNA polymerase, 7kDa polypeptide, chordopoxviral  Molecular Function	interpro	family		PF05864	GO:0003677,GO:0003899,GO:0006351
+IPR008593	DNA N-6-adenine-methyltransferase  Molecular Function	interpro	family		PF05869,TIGR01712	GO:0003677,GO:0009007,GO:0009307
+IPR008865	DNA replication terminus site-binding protein  Molecular Function	interpro	family		MF_00483,PF05472,TIGR02648	GO:0003677,GO:0006274,GO:0005737
+IPR008917	Transcription factor, Skn-1-like, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF47454	GO:0003677,GO:0006355
+IPR008921	DNA polymerase III, clamp loader complex, gamma/delta/delta subunit, C-terminal  Molecular Function	interpro	homologous_superfamily		SSF48019	GO:0003677,GO:0006260
+IPR008967	p53-like transcription factor, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF49417	GO:0003700,GO:0006355
+IPR008971	HSP40/DnaJ peptide-binding  Molecular Function	interpro	homologous_superfamily		SSF49493	GO:0051082,GO:0006457
+IPR009025	DNA-directed RNA polymerase, RBP11-like dimerisation domain  Molecular Function	interpro	domain		PF13656	GO:0046983,GO:0006351
+IPR009044	ssDNA-binding transcriptional regulator  Molecular Function	interpro	homologous_superfamily		SSF54447,G3DSA:2.30.31.10	GO:0003677,GO:0006355
+IPR009052	DNA polymerase III-theta, bacterial  Molecular Function	interpro	family		PF06440	GO:0003677,GO:0003887,GO:0006260
+IPR009674	DNA-directed RNA polymerase I subunit RPA2, domain 4  Molecular Function	interpro	domain		PF06883	GO:0003899,GO:0006351,GO:0005634
+IPR009767	DNA helicase, TraI type, C-terminal  Molecular Function	interpro	domain		PF07057	GO:0003677,GO:0003678,GO:0005524,GO:0016818
+IPR009933	T-DNA border endonuclease VirD1  Molecular Function	interpro	family		PF07328	GO:0004519
+IPR010093	SinI-like, DNA-binding domain  Molecular Function	interpro	domain		TIGR01764	GO:0003677
+IPR010114	DNA-binding transcriptional regulator NtrC  Molecular Function	interpro	family		TIGR01818	GO:0000156,GO:0003677,GO:0005524,GO:0000160,GO:0006808
+IPR010243	DNA-directed RNA polymerase beta subunit, bacterial-type  Molecular Function	interpro	family		MF_01321,TIGR02013	GO:0003677,GO:0003899,GO:0006351
+IPR010285	DNA helicase Pif1-like, DEAD-box helicase domain  Molecular Function	interpro	domain		PF05970	GO:0003678,GO:0000723,GO:0006281
+IPR010347	Tyrosyl-DNA phosphodiesterase I  Molecular Function	interpro	family		PF06087,PTHR12415	GO:0008081,GO:0006281,GO:0005634
+IPR010372	DNA polymerase III delta, N-terminal  Molecular Function	interpro	domain		PF06144	GO:0003677,GO:0003887,GO:0006260,GO:0009360
+IPR010584	Exodeoxyribonuclease 8  Molecular Function	interpro	family		PF06630	GO:0051908
+IPR010585	DNA repair protein XRCC4  Molecular Function	interpro	family		PTHR28559	GO:0003677,GO:0006302,GO:0006310,GO:0005634
+IPR010982	Lambda repressor-like, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF47413,G3DSA:1.10.260.40	GO:0003677
+IPR010992	Integration host factor (IHF)-like DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:4.10.520.10,SSF47729	GO:0003677
+IPR010995	DNA repair Rad51/transcription factor NusA, alpha-helical  Molecular Function	interpro	homologous_superfamily		SSF47794	GO:0000166
+IPR011010	DNA breaking-rejoining enzyme, catalytic core  Molecular Function	interpro	homologous_superfamily		SSF56349	GO:0003677
+IPR011109	DNA-binding recombinase domain  Molecular Function	interpro	domain		PS51737,PF07508	GO:0000150,GO:0003677
+IPR011114	Holliday junction DNA helicase RuvA, C-terminal  Molecular Function	interpro	domain		cd14332,PF07499	GO:0005524,GO:0009378,GO:0006281,GO:0006310,GO:0009379
+IPR011149	DNA polymerase II small subunit, archaeal  Molecular Function	interpro	family		MF_00325,PIRSF000803	GO:0003676,GO:0003887,GO:0008408,GO:0006260
+IPR011184	DNA mismatch repair Msh2-type  Molecular Function	interpro	family		PIRSF005813	GO:0005524,GO:0030983,GO:0006298
+IPR011222	Double-stranded DNA virus, group I, capsid  Molecular Function	interpro	homologous_superfamily		SSF88648	GO:0005198,GO:0019028
+IPR011257	DNA glycosylase  Molecular Function	interpro	homologous_superfamily		SSF48150	GO:0003824,GO:0006281
+IPR011262	DNA-directed RNA polymerase, insert domain  Molecular Function	interpro	domain		PF01000	GO:0003899,GO:0046983,GO:0006351
+IPR011263	DNA-directed RNA polymerase, RpoA/D/Rpb3-type  Molecular Function	interpro	domain		PF01193,SM00662	GO:0003899,GO:0006351
+IPR011337	DNA mismatch repair MutH/Type II restriction enzyme Sau3AI  Molecular Function	interpro	domain		cd00583,SM00927,PF02976	GO:0003677,GO:0004519
+IPR011344	Single-stranded DNA-binding protein  Molecular Function	interpro	family		PIRSF002070,TIGR00621,MF_00984,PTHR10302	GO:0003697,GO:0006260
+IPR011539	Rel homology domain, DNA-binding domain  Molecular Function	interpro	domain		PS50254,PF00554	GO:0003677,GO:0003700,GO:0006355
+IPR011557	DNA gyrase, subunit B  Molecular Function	interpro	family		MF_01898,TIGR01059	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR011564	Telomeric single stranded DNA binding POT1/Cdc13  Molecular Function	interpro	domain		SM00976,PF02765	GO:0003677,GO:0000723,GO:0000781
+IPR011615	p53, DNA-binding domain  Molecular Function	interpro	domain		cd08367,PF00870	GO:0000976
+IPR011708	Bacterial DNA polymerase III, alpha subunit, NTPase domain  Molecular Function	interpro	domain		PF07733	GO:0008408,GO:0006260
+IPR011722	Hemimethylated DNA-binding domain  Molecular Function	interpro	domain		SM00992,PF08755,TIGR02097	GO:0003677
+IPR011773	DNA-directed RNA polymerase, alpha subunit  Molecular Function	interpro	family		MF_00059,TIGR02027	GO:0003677,GO:0003899,GO:0006351
+IPR011938	DNA recombination/repair protein RadA  Molecular Function	interpro	family		MF_00348,TIGR02236	GO:0003684,GO:0005524,GO:0008094,GO:0006281,GO:0006310
+IPR011939	DNA repair and recombination protein RadB  Molecular Function	interpro	family		MF_00350,PIRSF003336,TIGR02237	GO:0003684,GO:0005524,GO:0006281,GO:0006310
+IPR011941	DNA recombination/repair protein Rad51  Molecular Function	interpro	family		TIGR02239	GO:0000150,GO:0003690,GO:0003697,GO:0008094,GO:0000724,GO:1990426
+IPR012092	8-oxoguanine DNA glycosylase/AP lyase Ogg  Molecular Function	interpro	family		PF22175,MF_00241,PIRSF005954	GO:0003906,GO:0016799,GO:0006281
+IPR012112	DNA repair protein Rev1  Molecular Function	interpro	family		PIRSF036573	GO:0003684,GO:0016779,GO:0006281,GO:0042276
+IPR012164	DNA-directed RNA polymerase subunit/transcription factor S  Molecular Function	interpro	family		PIRSF005586,PTHR11239	GO:0003899,GO:0006351
+IPR012308	DNA ligase, ATP-dependent, N-terminal  Molecular Function	interpro	domain		PF04675	GO:0003677,GO:0003910,GO:0006281,GO:0006310
+IPR012309	DNA ligase, ATP-dependent, C-terminal  Molecular Function	interpro	domain		PF04679	GO:0003910,GO:0006281,GO:0006310
+IPR012310	DNA ligase, ATP-dependent, central  Molecular Function	interpro	domain		PS50160,PF01068	GO:0003910,GO:0005524,GO:0006281,GO:0006310
+IPR012319	Formamidopyrimidine-DNA glycosylase, catalytic domain  Molecular Function	interpro	domain		PS51068,SM00898,PF01149	GO:0003906,GO:0008270,GO:0019104,GO:0006284
+IPR012327	D12 class N6 adenine-specific DNA methyltransferase  Molecular Function	interpro	family		PTHR30481,TIGR00571,PR00505,PF02086	GO:0009007,GO:0009307
+IPR012339	Bacteriophage T4, Gp32, single-stranded DNA-binding domain  Molecular Function	interpro	domain		PF08804	GO:0003697
+IPR012346	p53/RUNT-type transcription factor, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.60.40.720	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR012724	Chaperone DnaJ  Molecular Function	interpro	family		MF_01152,TIGR02349	GO:0005524,GO:0051082,GO:0006457,GO:0009408
+IPR012725	Chaperone DnaK  Molecular Function	interpro	family		MF_00332,TIGR02350	GO:0005524,GO:0051082,GO:0006457
+IPR012754	DNA-directed RNA polymerase, subunit beta-prime, bacterial type  Molecular Function	interpro	family		MF_01322,TIGR02386	GO:0003677,GO:0003899,GO:0006351
+IPR012755	DNA-directed RNA polymerase, subunit gamma  Molecular Function	interpro	family		TIGR02387	GO:0003677,GO:0003899,GO:0006351
+IPR012756	DNA-directed RNA polymerase, subunit beta''  Molecular Function	interpro	family		MF_01324,TIGR02388	GO:0003677,GO:0003899,GO:0006351
+IPR012757	DNA-directed RNA polymerase subunit Rpo1C  Molecular Function	interpro	family		cd06528,MF_00411,TIGR02389	GO:0003677,GO:0003899,GO:0006351
+IPR012758	DNA-directed RNA polymerase subunit Rpo1N  Molecular Function	interpro	family		cd02582,MF_00863,TIGR02390	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR012763	DNA polymerase III, subunit gamma/ tau, N-terminal  Molecular Function	interpro	domain		TIGR02397	GO:0003887,GO:0005524,GO:0006260,GO:0009360
+IPR012904	8-oxoguanine DNA glycosylase, N-terminal  Molecular Function	interpro	domain		PF07934	GO:0003684,GO:0008534,GO:0006289
+IPR013030	DNA topoisomerase I, DNA binding, N-terminal domain 2  Molecular Function	interpro	homologous_superfamily		G3DSA:2.170.11.10	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR013034	DNA topoisomerase I, DNA binding, N-terminal domain 1  Molecular Function	interpro	homologous_superfamily		G3DSA:1.10.10.41	GO:0003917,GO:0006265
+IPR013049	Spo11/DNA topoisomerase VI, subunit A, N-terminal  Molecular Function	interpro	domain		PF04406	GO:0003677,GO:0003824,GO:0005524,GO:0006259,GO:0005694
+IPR013159	Chromosomal replication initiator, DnaA C-terminal  Molecular Function	interpro	domain		cd06571,SM00760,PF08299	GO:0005524,GO:0043565,GO:0006270,GO:0006275
+IPR013173	DNA primase DnaG, DnaB-binding domain  Molecular Function	interpro	domain		PF08278,SM00766	GO:0003896,GO:0006269
+IPR013237	Bacteriophage T7, Gp4, DNA primase/helicase, N-terminal  Molecular Function	interpro	domain		SM00778,PF08273	GO:0003896,GO:0004386,GO:0008270
+IPR013263	DNA topoisomerase I, zinc ribbon-like, bacterial-type  Molecular Function	interpro	domain		PF08272	GO:0003677,GO:0003917,GO:0006265
+IPR013497	DNA topoisomerase, type IA, central  Molecular Function	interpro	domain		PR00417,cd00186,PF01131	GO:0003677,GO:0003916,GO:0006265
+IPR013498	DNA topoisomerase, type IA, zn finger  Molecular Function	interpro	domain		PF01396	GO:0003677,GO:0003916,GO:0006265,GO:0005694
+IPR013499	DNA topoisomerase I, eukaryotic-type  Molecular Function	interpro	domain		SM00435	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR013500	DNA topoisomerase I, catalytic core, eukaryotic-type  Molecular Function	interpro	domain		cd00659,PF01028	GO:0003677,GO:0003917,GO:0006265
+IPR013506	DNA topoisomerase, type IIA, subunit B, domain 2  Molecular Function	interpro	domain		PF00204	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR013507	DNA mismatch repair protein, S5 domain 2-like  Molecular Function	interpro	domain		SM01340,PF01119	GO:0005524,GO:0030983,GO:0006298
+IPR013617	DNA-directed DNA polymerase, family B, viral insert domain  Molecular Function	interpro	domain		PF08408	GO:0003887
+IPR013660	DNA polymerase B exonuclease, N-terminal  Molecular Function	interpro	domain		PF08452	GO:0003887
+IPR013697	DNA polymerase epsilon, catalytic subunit A, C-terminal  Molecular Function	interpro	domain		SM01159,PF08490	GO:0003887,GO:0008270,GO:0006260,GO:0005634
+IPR013725	DNA replication factor RFC1, C-terminal  Molecular Function	interpro	domain		PF08519	GO:0003689,GO:0005524,GO:0006260,GO:0005663
+IPR013757	DNA topoisomerase, type IIA, alpha-helical domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:1.10.268.10	GO:0003677,GO:0003918,GO:0005524
+IPR013758	DNA topoisomerase, type IIA, domain A, alpha-beta  Molecular Function	interpro	homologous_superfamily		G3DSA:3.90.199.10	GO:0003677,GO:0003918,GO:0005524,GO:0006259,GO:0006265
+IPR013759	DNA topoisomerase, type IIA, subunit B, C-terminal  Molecular Function	interpro	homologous_superfamily		G3DSA:3.40.50.670	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR013760	DNA topoisomerase, type IIA-like domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF56719	GO:0003918,GO:0005524
+IPR013765	DNA recombination and repair protein RecA  Molecular Function	interpro	family		PTHR45900,MF_00268,TIGR02012,PR00142	GO:0003697,GO:0005524,GO:0006281
+IPR013795	DNA/RNA-binding protein Alba  Molecular Function	interpro	family		MF_01122,PIRSF028732,TIGR00285	GO:0003677,GO:0003723
+IPR013801	STAT transcription factor, DNA-binding  Molecular Function	interpro	domain		PF02864	GO:0003677
+IPR013839	NAD-dependent DNA ligase, adenylation  Molecular Function	interpro	domain		cd00114,PF01653	GO:0003911
+IPR013840	NAD-dependent DNA ligase, N-terminal  Molecular Function	interpro	domain		SM00532	GO:0003911
+IPR013849	DNA helicase, Holliday junction RuvA type, domain I, bacterial  Molecular Function	interpro	domain		PF01330	GO:0005524,GO:0009378,GO:0006281,GO:0006310
+IPR014000	DNA helicase E1, N-terminal, Papillomavirus  Molecular Function	interpro	domain		PF00524	GO:0016817
+IPR014017	UvrD-like DNA helicase, C-terminal  Molecular Function	interpro	domain		PF13361,PS51217	GO:0005524,GO:0016787
+IPR014048	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding  Molecular Function	interpro	domain		cd06445,TIGR00589,PF01035	GO:0003824,GO:0006281
+IPR014052	DNA primase, small subunit, eukaryotic/archaeal  Molecular Function	interpro	family		cd04860,TIGR00335	GO:0003896,GO:0006269
+IPR014140	DNA helicase subunit AddB  Molecular Function	interpro	family		TIGR02773,MF_01452	GO:0016788,GO:0000724
+IPR014141	DNA helicase subunit RexB  Molecular Function	interpro	family		TIGR02774,MF_01453	GO:0016788,GO:0016817
+IPR014381	DNA-directed RNA polymerase subunit Rpo5/Rpb5  Molecular Function	interpro	family		MF_00025,PIRSF000747,PTHR10535	GO:0003899
+IPR014382	DNA-directed DNA polymerase, family B, adenovirus  Molecular Function	interpro	family		PIRSF000788,MF_04055	GO:0003887,GO:0039693
+IPR014416	DNA-directed DNA polymerase, family B, phi29-like virus  Molecular Function	interpro	family		PIRSF004178	GO:0001882,GO:0003887,GO:0039693
+IPR014711	DNA topoisomerase I, catalytic core, alpha-helical subdomain, eukaryotic-type  Molecular Function	interpro	homologous_superfamily		G3DSA:3.90.15.10	GO:0003677,GO:0003917,GO:0006265
+IPR014727	DNA topoisomerase I, catalytic core, alpha/beta subdomain  Molecular Function	interpro	homologous_superfamily		G3DSA:1.10.132.10	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR015088	Zinc finger, DNA-directed DNA polymerase, family B, alpha  Molecular Function	interpro	domain		PF08996	GO:0003887,GO:0006260
+IPR015094	Integrase, lambda-type, N-terminal DNA-binding  Molecular Function	interpro	domain		PF09003	GO:0003677,GO:0008907,GO:0015074
+IPR015095	Alkylated DNA repair protein AlkB, homologue 8, N-terminal  Molecular Function	interpro	domain		PF09004	GO:0008168,GO:0016706
+IPR015199	DNA polymerase III, delta subunit, C-terminal  Molecular Function	interpro	domain		PF09115	GO:0003677,GO:0003887,GO:0006260,GO:0009360
+IPR015254	N-glycosylase/DNA lyase-like  Molecular Function	interpro	family		PF09171	GO:0003906,GO:0016799
+IPR015280	Rap1, DNA-binding domain  Molecular Function	interpro	domain		PF09197	GO:0003677
+IPR015281	DNA beta-glucosyltransferase, bacteriophage  Molecular Function	interpro	family		PF09198	GO:0033821,GO:0099018
+IPR015311	DNA fragmentation factor 40, C-terminal  Molecular Function	interpro	domain		PF09230	GO:0016787,GO:0006309,GO:0005634,GO:0005737
+IPR015320	DNA topoisomerase VI, subunit B, transducer  Molecular Function	interpro	domain		cd00823,PF09239	GO:0003677,GO:0003918,GO:0006265
+IPR015346	DNA topoisomerase I, N-terminal, viral  Molecular Function	interpro	domain		PF09266	GO:0003677,GO:0003916,GO:0006265
+IPR015350	Beta-trefoil DNA-binding domain  Molecular Function	interpro	domain		SM01268,PF09270	GO:0000978,GO:0006357
+IPR015351	RBP-J/Cbf11/Cbf12, DNA binding  Molecular Function	interpro	domain		SM01267,PF09271	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR015637	Uracil DNA glycosylase family 2  Molecular Function	interpro	family		PTHR12159,cd10028	GO:0000700,GO:0006285
+IPR015646	Nuclear factor of activated T-cells 5, Rel homology domain, DNA-binding domain  Molecular Function	interpro	domain		cd07882	GO:0000978
+IPR015712	DNA-directed RNA polymerase, subunit 2  Molecular Function	interpro	family		cd00653,PTHR20856	GO:0003899,GO:0032549,GO:0006351
+IPR015833	DNA-directed DNA polymerase, family B, mitochondrial linear plasmid  Molecular Function	interpro	family		PIRSF006517	GO:0003677,GO:0003887,GO:0006260,GO:0005739
+IPR015886	DNA glycosylase/AP lyase, H2TH DNA-binding  Molecular Function	interpro	domain		SM01232,PF06831	GO:0003684,GO:0003906,GO:0008270,GO:0016799,GO:0006284
+IPR015887	DNA glycosylase/AP lyase, zinc finger domain, DNA-binding site  Molecular Function	interpro	binding_site		PS01242	GO:0003677,GO:0003906,GO:0008270,GO:0016799,GO:0006281
+IPR016059	DNA ligase, ATP-dependent, conserved site  Molecular Function	interpro	conserved_site		PS00333,PS00697	GO:0003909
+IPR016151	DNA mismatch repair protein MutS, N-terminal  Molecular Function	interpro	homologous_superfamily		G3DSA:3.40.1170.10,SSF55271	GO:0005524,GO:0030983,GO:0006298
+IPR016177	DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF54171	GO:0003677
+IPR016202	Deoxyribonuclease I  Molecular Function	interpro	family		SM00476,PIRSF000988,PR00130	GO:0004536,GO:0006308
+IPR016266	DNA polymerase epsilon, subunit B  Molecular Function	interpro	family		PIRSF000799,PTHR12708	GO:0003677,GO:0006261,GO:0008622
+IPR016306	DNA ligase, bacteriophage T7-type  Molecular Function	interpro	family		PIRSF001600	GO:0003910,GO:0006266
+IPR016411	Single-stranded DNA-binding protein, bacteriophage T7  Molecular Function	interpro	family		MF_04153,PIRSF004311	GO:0003677
+IPR016413	Bacteriophage T4, DenA, endonuclease II  Molecular Function	interpro	family		PIRSF004362	GO:0004519,GO:0046872
+IPR016544	N-glycosylase/DNA lyase  Molecular Function	interpro	family		MF_01168,PIRSF008955	GO:0000702,GO:0003906,GO:0006284
+IPR016587	DNA damage checkpoint control protein Rad17  Molecular Function	interpro	family		PIRSF011769	GO:0003684,GO:0003690,GO:0000077,GO:0006302,GO:0007131,GO:0030896
+IPR016644	T-DNA border endonuclease virD2  Molecular Function	interpro	family		PIRSF016095	GO:0004520,GO:0051819
+IPR017198	DNA (cytosine-5)-methyltransferase 1-like  Molecular Function	interpro	family		PIRSF037404	GO:0003886,GO:0006346,GO:0005634
+IPR017261	DNA mismatch repair protein MutS/MSH  Molecular Function	interpro	family		PIRSF037677	GO:0030983,GO:0006298
+IPR017299	DNA fragmentation factor 45  Molecular Function	interpro	family		PIRSF037865	GO:0060703,GO:0006309
+IPR017956	AT hook, DNA-binding motif  Molecular Function	interpro	conserved_site		PF02178,SM00384,PR00929	GO:0003677
+IPR017961	DNA polymerase, Y-family, little finger domain  Molecular Function	interpro	domain		PF11799	GO:0003684,GO:0006281
+IPR017964	DNA-directed DNA polymerase, family B, conserved site  Molecular Function	interpro	conserved_site		PS00116	GO:0000166,GO:0003676
+IPR017967	HMG box A DNA-binding domain, conserved site  Molecular Function	interpro	conserved_site		PS00353	GO:0003677,GO:0005634
+IPR017985	DNA methylase, N-4 cytosine-specific, conserved site  Molecular Function	interpro	conserved_site		PS00093	GO:0003677,GO:0015667,GO:0009307
+IPR018060	DNA binding HTH domain, AraC-type  Molecular Function	interpro	domain		PF12833,PF00165,PS01124,SM00342	GO:0003700,GO:0043565,GO:0006355
+IPR018078	DNA-binding, RecF, conserved site  Molecular Function	interpro	conserved_site		PS00617,PS00618	GO:0003697,GO:0005524,GO:0006281
+IPR018085	Uracil-DNA glycosylase, active site  Molecular Function	interpro	active_site		PS00130	GO:0016799,GO:0006281
+IPR018312	Chromosomal replication control, initiator DnaA, conserved site  Molecular Function	interpro	conserved_site		PS01008	GO:0003677,GO:0003688,GO:0005524,GO:0006270,GO:0006275
+IPR018320	DNA polymerase 1  Molecular Function	interpro	family		TIGR00593	GO:0003887,GO:0006260
+IPR018382	DNA polymerase III, psi subunit, subgroup  Molecular Function	interpro	family		TIGR00664	GO:0003887,GO:0008408,GO:0006260
+IPR018384	DNA-binding protein Tfx, euryarchaeota  Molecular Function	interpro	family		MF_00620,PIRSF004932	GO:0003677
+IPR018521	DNA topoisomerase I, active site  Molecular Function	interpro	active_site		PS00176	GO:0003677,GO:0003917,GO:0006265
+IPR018522	DNA topoisomerase, type IIA, conserved site  Molecular Function	interpro	conserved_site		PS00177	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR018524	DNA/RNA non-specific endonuclease, active site  Molecular Function	interpro	active_site		PS01070	GO:0003676,GO:0016787,GO:0046872
+IPR018668	DNA-binding protein VF530-like  Molecular Function	interpro	family		PF09905	GO:0003677
+IPR018944	DNA polymerase lambda, fingers domain  Molecular Function	interpro	domain		PF10391	GO:0003677,GO:0034061
+IPR019462	DNA-directed RNA polymerase, beta subunit, external 1 domain  Molecular Function	interpro	domain		PF10385	GO:0003899,GO:0006351
+IPR019475	DNA primase, DnaB-helicase binding domain  Molecular Function	interpro	domain		PF10410	GO:0016779
+IPR019760	DNA-directed DNA polymerase, family A, conserved site  Molecular Function	interpro	conserved_site		PS00447	GO:0003887,GO:0006260
+IPR019843	DNA polymerase family X, binding site  Molecular Function	interpro	binding_site		PS00522	GO:0016779
+IPR019969	DNA-directed RNA polymerase subunit Rpo2  Molecular Function	interpro	family		TIGR03670	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR020045	DNA polymerase I-like, H3TH domain  Molecular Function	interpro	domain		cd09898,PF01367	GO:0003677,GO:0003824
+IPR020448	Maltose fermentation regulatory protein, DNA-binding domain  Molecular Function	interpro	domain		PR00054	GO:0000981,GO:0003677,GO:0008270,GO:0006355,GO:0005634
+IPR020563	Crossover junction endodeoxyribonuclease RuvC, magnesium-binding site  Molecular Function	interpro	binding_site		PS01321	GO:0008821
+IPR020584	DNA recombination/repair protein RecA, conserved site  Molecular Function	interpro	conserved_site		PS00321	GO:0003677,GO:0005524,GO:0008094,GO:0006259
+IPR020587	DNA recombination and repair protein RecA, monomer-monomer interface  Molecular Function	interpro	domain		PS50163	GO:0003677,GO:0005524,GO:0008094,GO:0006259
+IPR020588	DNA recombination and repair protein RecA-like, ATP-binding domain  Molecular Function	interpro	domain		PS50162	GO:0003677,GO:0005524,GO:0140664,GO:0006281
+IPR020604	CTF transcription factor/nuclear factor 1, DNA-binding domain  Molecular Function	interpro	domain		PS51080	GO:0003700,GO:0006355,GO:0005634
+IPR020607	DNA primase DnaG, archaea  Molecular Function	interpro	family		MF_00007	GO:0003896,GO:0008143,GO:0000178
+IPR020629	Formamidopyrimidine-DNA glycosylase  Molecular Function	interpro	family		MF_00103,TIGR00577	GO:0003906,GO:0008270,GO:0008534,GO:0006281
+IPR020708	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site  Molecular Function	interpro	conserved_site		PS01111	GO:0003677,GO:0003899,GO:0006351
+IPR020816	Histone-like DNA-binding protein, conserved site  Molecular Function	interpro	conserved_site		PS00045	GO:0003677
+IPR020900	Arginine repressor, DNA-binding domain  Molecular Function	interpro	domain		PF01316	GO:0003700,GO:0006355,GO:0006525
+IPR020906	Double-stranded DNA-binding Cren7  Molecular Function	interpro	family		PF11520,MF_01387	GO:0003690,GO:0005737
+IPR020923	DNA ligase B  Molecular Function	interpro	family		MF_01587	GO:0003911,GO:0006259,GO:0006260
+IPR021029	DNA polymerase III, tau subunit, domain V  Molecular Function	interpro	domain		PF12170	GO:0003887
+IPR021170	DnaJ homologue subfamily C member 10  Molecular Function	interpro	family		PIRSF037293	GO:0015036,GO:0034975,GO:0005783
+IPR021536	DNA ligase IV domain  Molecular Function	interpro	domain		PF11411	GO:0003910
+IPR021639	DNA polymerase catalytic subunit Pol, C-terminal  Molecular Function	interpro	domain		PF11590	GO:0003887,GO:0004523
+IPR021668	Telomere-length maintenance and DNA damage repair  Molecular Function	interpro	domain		SM01342,PF11640	GO:0004674
+IPR022312	DNA polymerase family X  Molecular Function	interpro	family		PTHR11276,PR00869	GO:0003677,GO:0003887,GO:0006281
+IPR022634	DNA polymerase III, beta sliding clamp, N-terminal  Molecular Function	interpro	domain		PF00712	GO:0003677,GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022635	DNA polymerase III, beta sliding clamp, C-terminal  Molecular Function	interpro	domain		PF02768	GO:0003677,GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022637	DNA polymerase III, beta sliding clamp, central  Molecular Function	interpro	domain		PF02767	GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022754	DNA polymerase III, gamma subunit, domain III  Molecular Function	interpro	domain		PF12169	GO:0003887
+IPR022842	DNA-directed RNA polymerase subunit Rpo3/Rpb3/RPAC1  Molecular Function	interpro	family		MF_00320	GO:0003899,GO:0006351
+IPR022865	DNA ligase, ATP-dependent, bacterial/archaeal  Molecular Function	interpro	family		MF_00407	GO:0003910
+IPR022880	DNA polymerase IV  Molecular Function	interpro	family		cd03586,MF_01113	GO:0003887
+IPR022905	DNA-directed RNA polymerase subunit Rpo11-like  Molecular Function	interpro	family		MF_00261	GO:0003899,GO:0006351
+IPR022965	ATP-dependent DNA helicase Hel308  Molecular Function	interpro	family		MF_00442	GO:0004386
+IPR023067	DNA protection during starvation protein, gammaproteobacteria  Molecular Function	interpro	family		MF_01441	GO:0016722
+IPR023073	DNA polymerase, error-prone  Molecular Function	interpro	family		MF_01902	GO:0003887
+IPR023188	DNA-binding protein Dps, conserved site  Molecular Function	interpro	conserved_site		PS00819,PS00818	GO:0016722
+IPR023278	Ethylene insensitive 3-like protein, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF116768,G3DSA:1.10.3180.10	GO:0003700,GO:0005634
+IPR023406	DNA topoisomerase, type IA, active site  Molecular Function	interpro	active_site		PS00396	GO:0003917
+IPR023464	DNA-directed RNA polymerase subunit Rpo12  Molecular Function	interpro	family		MF_00615	GO:0003677,GO:0003899,GO:0006351
+IPR023502	G/U mismatch-specific DNA glycosylase MUG, bacterial  Molecular Function	interpro	family		MF_01956	GO:0000700,GO:0006285
+IPR023546	Methylated-DNA--protein-cysteine methyltransferase  Molecular Function	interpro	family		MF_00772	GO:0003824,GO:0006281
+IPR023639	DNA primase small subunit PriS  Molecular Function	interpro	family		MF_00700	GO:0003896
+IPR023642	DNA primase large subunit PriL  Molecular Function	interpro	family		cd06560,MF_00701	GO:0003896
+IPR024061	NDT80 DNA-binding domain  Molecular Function	interpro	domain		PF05224,PS51517	GO:0003677
+IPR024075	DNA-directed RNA polymerase, helix hairpin domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:1.10.287.260	GO:0003899
+IPR024911	DNA gyrase inhibitor GyrI  Molecular Function	interpro	family		MF_01896	GO:0008657
+IPR024918	3'-5' ssDNA/RNA exonuclease TatD  Molecular Function	interpro	family		MF_00901	GO:0008408
+IPR025382	CD-NTase associated protein 4-like, DNA endonuclease domain  Molecular Function	interpro	domain		PF14130	GO:0004518
+IPR025830	DNA-binding domain, ovate family-like  Molecular Function	interpro	domain		PF13724	GO:0003677
+IPR025898	Tc3 transposase, DNA binding domain  Molecular Function	interpro	domain		PF11427	GO:0003677
+IPR026213	DNA-directed RNA polymerase II subunit GRINL1  Molecular Function	interpro	family		PR02085,PF15328	GO:0003711,GO:0006368,GO:0005634
+IPR026577	Replication modulator SeqA, C-terminal DNA-binding domain  Molecular Function	interpro	domain		PF03925	GO:0003677
+IPR026697	Dynein axonemal assembly factor 6  Molecular Function	interpro	family		PTHR21083	GO:0051087,GO:0070286
+IPR026851	DNA replication ATP-dependent helicase/nuclease Dna2/JHS1, DEXXQ-box helicase domain  Molecular Function	interpro	domain		cd18041	GO:0017116
+IPR027249	DNA-directed DNA/RNA polymerase mu  Molecular Function	interpro	family		PIRSF501176	GO:0003887,GO:0006281,GO:0005634
+IPR027292	DNA nucleotidylexotransferase (TdT)  Molecular Function	interpro	family		PIRSF501175	GO:0003912
+IPR027444	DNA-binding protein H-NS-like, C-terminal domain  Molecular Function	interpro	domain		SM00528,PF00816	GO:0003677
+IPR028088	Helix-turn-helix DNA-binding domain of Spt6  Molecular Function	interpro	domain		PF14641	GO:0003677
+IPR028363	DNA-directed RNA polymerase, subunit RPB6  Molecular Function	interpro	family		PIRSF500154	GO:0003899,GO:0006351,GO:0005634,GO:0005665
+IPR028612	DNA topoisomerase I, type IA  Molecular Function	interpro	family		MF_00952	GO:0003677,GO:0003916,GO:0006265
+IPR028727	Chromodomain-helicase-DNA-binding protein 5, DEAH-box helicase domain  Molecular Function	interpro	domain		cd18057	GO:0005524
+IPR028880	ATP-dependent DNA helicase Rrm3  Molecular Function	interpro	family		MF_03177	GO:0003678,GO:0000723,GO:0006260,GO:0005657
+IPR029703	DNA polymerase epsilon catalytic subunit  Molecular Function	interpro	family		PTHR10670	GO:0003677,GO:0003887,GO:0006260,GO:0006281,GO:0008622
+IPR029710	DNA ligase 4  Molecular Function	interpro	family		PTHR45997	GO:0003677,GO:0003910,GO:0005524,GO:0006281,GO:0051103
+IPR029839	Signal transducer and activator of transcription 4, DNA-binding domain  Molecular Function	interpro	domain		cd16848	GO:0003700
+IPR030094	AT-rich interactive domain-containing protein 1A, ARID/BRIGHT DNA binding domain  Molecular Function	interpro	domain		cd16876	GO:0003677
+IPR030488	DNA (cytosine-5)-methyltransferase 3B, ADD domain  Molecular Function	interpro	domain		cd11728	GO:0009008,GO:0010468
+IPR030548	DNA repair protein RAD51 homologue 2  Molecular Function	interpro	family		PTHR46456	GO:0003677,GO:0000724,GO:0006281,GO:0033063
+IPR030846	DNA primase DnaG, bacteria  Molecular Function	interpro	family		PIRSF002811,MF_00974	GO:0003896,GO:0008270,GO:0006269
+IPR031047	DNA helicase INO80, DEAQ-box helicase domain  Molecular Function	interpro	domain		cd18002	GO:0005524,GO:0140658,GO:0006281,GO:0006338,GO:0006351,GO:0005634,GO:0031011
+IPR031053	Chromodomain-helicase-DNA-binding protein 1-like  Molecular Function	interpro	family		PTHR47157	GO:0003678,GO:0006281,GO:0006338
+IPR031531	Dynein axonemal assembly factor 8  Molecular Function	interpro	family		PTHR35977,PF15773	GO:0070840
+IPR032042	Protection of telomeres protein 1, ssDNA-binding domain  Molecular Function	interpro	domain		PF16686	GO:0043047
+IPR032200	Transcription factor COE, DNA-binding domain  Molecular Function	interpro	domain		cd11606,PF16422	GO:0003677
+IPR032355	SATB, CUT1-like DNA-binding domain  Molecular Function	interpro	domain		PS51983,PF16557	GO:0003677
+IPR032642	DNA mismatch repair protein Msh2, ATP-binding cassette domain  Molecular Function	interpro	domain		cd03285	GO:0005524
+IPR032854	Alkylated DNA repair protein alkB homologue 3  Molecular Function	interpro	family		PTHR31212	GO:0051213,GO:0006281,GO:0006307
+IPR033246	DNA-binding protein BIN4  Molecular Function	interpro	family		PTHR34810	GO:0003690,GO:0042023,GO:0009330
+IPR033312	DNA damage-binding protein 2  Molecular Function	interpro	family		PTHR15169	GO:0003684,GO:0006281,GO:0005634,GO:0080008
+IPR033685	DNA primase  Molecular Function	interpro	family		MF_04011	GO:0003896,GO:0039686
+IPR033787	ssDNA-binding protein ThermoDBP  Molecular Function	interpro	domain		PF18361,cd11603	GO:0003697
+IPR033901	DNA-directed RNA polymerases I and III subunit AC40  Molecular Function	interpro	family		cd07032	GO:0001054,GO:0001056
+IPR034678	DNA-directed RNA polymerase subunit RpoC1  Molecular Function	interpro	family		MF_01323	GO:0003899,GO:0006351
+IPR034699	DNA-directed DNA polymerase T7  Molecular Function	interpro	family		MF_04101	GO:0008408,GO:0006261
+IPR034749	DNA-directed DNA polymerase T4 type  Molecular Function	interpro	family		MF_04100	GO:0003677,GO:0003887,GO:0008408,GO:0039693
+IPR035209	Floricaula/leafy, DNA-binding C-terminal domain  Molecular Function	interpro	domain		PF17538	GO:0003677
+IPR035858	STAT5a/5b, DNA-binding domain  Molecular Function	interpro	domain		cd16849	GO:0003700
+IPR036078	Spo11/DNA topoisomerase VI subunit A superfamily  Molecular Function	interpro	homologous_superfamily		SSF56726	GO:0003677,GO:0005694
+IPR036185	DNA helicase, DnaB-like, N-terminal domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF48024	GO:0003678,GO:0005524,GO:0006260
+IPR036202	DNA topoisomerase I, DNA binding, eukaryotic-type, N-terminal domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF56741	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR036362	Adenovirus DNA-binding, N-terminal domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF47724,G3DSA:1.10.269.10	GO:0003677,GO:0006260,GO:0006351
+IPR036367	Adenovirus DNA-binding, C-terminal domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:3.90.148.10	GO:0003677
+IPR036368	Adenovirus DNA-binding, zinc binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF57917	GO:0003677
+IPR036395	Copper fist DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF57879,G3DSA:3.90.430.10	GO:0003677,GO:0003700,GO:0005507,GO:0006355,GO:0005634
+IPR036407	DM DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:4.10.1040.10,SSF82927	GO:0043565,GO:0006355
+IPR036431	ARID DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:1.10.150.60,SSF46774	GO:0003677
+IPR036599	DNA ligase, ATP-dependent, N-terminal domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF117018,G3DSA:1.10.3260.10	GO:0003677,GO:0003910,GO:0006281,GO:0006310
+IPR036623	Hemimethylated DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.30.30.390,SSF141255	GO:0003677
+IPR036631	Methylated DNA-protein cysteine methyltransferase domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF53155	GO:0003908,GO:0006281
+IPR036638	Helix-loop-helix DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:4.10.280.10,SSF47459	GO:0046983
+IPR036654	DNA polymerase III, psi subunit superfamily  Molecular Function	interpro	homologous_superfamily		SSF102220,G3DSA:3.40.50.10220	GO:0003887,GO:0008408,GO:0006260
+IPR036657	DNA-binding protein Tfx superfamily, archaea  Molecular Function	interpro	homologous_superfamily		G3DSA:3.30.1190.10,SSF89915	GO:0003677
+IPR036745	DNA polymerase III-theta superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:1.20.58.250,SSF46575	GO:0003677,GO:0003887,GO:0006260
+IPR036775	DNA polymerase, Y-family, little finger domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF100879,G3DSA:3.30.1490.100	GO:0003684,GO:0006281
+IPR036835	Replication modulator SeqA, C-terminal DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF82808,G3DSA:1.20.1380.10	GO:0003677
+IPR036864	Zn(2)-C6 fungal-type DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:4.10.240.10,SSF57701	GO:0000981,GO:0008270,GO:0006355
+IPR036887	HTH APSES-type DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		SSF54616,G3DSA:3.10.260.10	GO:0003677
+IPR036977	DNA Primase, CHC2-type zinc finger  Molecular Function	interpro	homologous_superfamily		G3DSA:3.90.580.10	GO:0003677,GO:0008270,GO:0006260
+IPR036995	Methylpurine-DNA glycosylase superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:3.10.300.10	GO:0003677,GO:0003905,GO:0006284
+IPR037007	Epstein Barr virus nuclear antigen-1, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:3.30.70.390	GO:0003677,GO:0042025
+IPR037033	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.40.270.10	GO:0003677,GO:0003899,GO:0006351
+IPR037057	DNA mismatch repair MutH/Type II restriction endonuclease superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:3.40.600.10	GO:0003677,GO:0004519
+IPR037059	Rel homology domain (RHD), DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.60.40.340	GO:0003677,GO:0003700,GO:0006355
+IPR037095	RBP-J/Cbf11, DNA binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.60.40.1450	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR037141	NDT80 DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.60.40.1390	GO:0003700
+IPR037146	Colicin/pyocin, DNase domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:3.90.540.10	GO:0004519
+IPR037392	YfmP, Helix-Turn-Helix DNA binding domain  Molecular Function	interpro	domain		cd04774	GO:0003677,GO:0006355
+IPR037489	DNA repair RAD52-like protein  Molecular Function	interpro	family		PTHR34050	GO:0003677,GO:0000724
+IPR037540	DNA-binding protein, Adenovirus  Molecular Function	interpro	family		MF_04054	GO:0003677,GO:0006268
+IPR037706	DNA-dependent protein kinase catalytic subunit, catalytic domain  Molecular Function	interpro	domain		cd05172	GO:0004677,GO:0006281
+IPR038173	Transcription factor COE, DNA-binding domain superfamily  Molecular Function	interpro	homologous_superfamily		G3DSA:2.60.40.3180	GO:0003677
+IPR038859	DNA-binding protein RHL1  Molecular Function	interpro	family		PTHR35698	GO:0003677,GO:0042023
+IPR038973	DNA mismatch repair protein MutL/Mlh/Pms-like  Molecular Function	interpro	family		PTHR10073	GO:0016887,GO:0140664,GO:0006298,GO:0032300
+IPR039000	ATP-dependent DNA helicase DinG  Molecular Function	interpro	family		MF_02205	GO:0003678
+IPR039134	Single-strand selective monofunctional uracil DNA glycosylase  Molecular Function	interpro	family		cd19374,PTHR13235	GO:0017065,GO:0006284
+IPR039673	DNA-binding protein SATB1/SATB2  Molecular Function	interpro	family		PTHR15116	GO:0003677,GO:0006338
+IPR039729	DNA fragmentation factor 40  Molecular Function	interpro	family		PTHR13067	GO:0004520,GO:0006309
+IPR039747	DNA-directed RNA polymerases I, II, and III subunit RPABC4  Molecular Function	interpro	family		PTHR12056	GO:0003899,GO:0008270
+IPR039748	DNA-directed RNA polymerase III subunit RPC3  Molecular Function	interpro	family		PTHR12949	GO:0003697,GO:0005666
+IPR039779	RFX-like DNA-binding protein  Molecular Function	interpro	family		PTHR12619	GO:0003700
+IPR041222	Primosomal protein N', 3' DNA-binding domain  Molecular Function	interpro	domain		PF17764	GO:0003677
+IPR041559	DNA ligase, ATP-dependent, bacteriophage T7-type, C-terminal  Molecular Function	interpro	domain		PF17879	GO:0003690
+IPR041677	DNA2/NAM7 helicase, helicase domain  Molecular Function	interpro	domain		PF13086	GO:0004386
+IPR042153	VDR, DNA-binding domain  Molecular Function	interpro	domain		cd06955	GO:0043565
+IPR042361	Z-DNA-binding protein 1  Molecular Function	interpro	family		PTHR14966	GO:0003677,GO:0060340
+IPR042429	Swi5-dependent recombination DNA repair protein 1 homolog  Molecular Function	interpro	family		PTHR28643	GO:0030374,GO:0000724,GO:0032798
+IPR043182	Paired DNA-binding domain  Molecular Function	interpro	domain		PS00034	GO:0003677
+IPR043183	DnaJ homolog subfamily B member 2/6-like  Molecular Function	interpro	family		PTHR45168	GO:0030544,GO:0051082,GO:0061077
+IPR044101	Retinoid-related orphan receptors, DNA-binding domain  Molecular Function	interpro	domain		cd06968	GO:0043565
+IPR044125	DNA Ligase 4, adenylation domain  Molecular Function	interpro	domain		cd07903	GO:0005524
+IPR044147	Uracil DNA glycosylase family 5  Molecular Function	interpro	domain		cd10031	GO:0004844,GO:0033958,GO:0051536,GO:0006284
+IPR044298	Adenine/Thymine-DNA glycosylase  Molecular Function	interpro	family		PTHR42944	GO:0016798,GO:0006284
+IPR044634	J-protein Zuotin/DnaJC2  Molecular Function	interpro	family		PTHR43999	GO:0030544,GO:0043022,GO:0006450,GO:0051083
+IPR044713	DnaJ homolog subfamily A member 1/2-like  Molecular Function	interpro	family		PTHR43888	GO:0030544,GO:0006457
+IPR044811	DNA glycosylase, plant  Molecular Function	interpro	family		PTHR46213	GO:0019104,GO:0035514,GO:0141166
+IPR044917	DNA-directed primase/polymerase protein  Molecular Function	interpro	family		PTHR31399	GO:0003887,GO:0003896,GO:0042276
+IPR045076	DNA mismatch repair MutS  Molecular Function	interpro	family		PTHR48466,PTHR11361	GO:0005524,GO:0030983,GO:0140664,GO:0006298
+IPR045173	DNA replication factor Cdt1  Molecular Function	interpro	family		PTHR28637	GO:0003677,GO:0030174,GO:0071163
+IPR045303	HMGB9-like, ARID/BRIGHT DNA binding domain  Molecular Function	interpro	domain		cd16872	GO:0003677
+IPR045830	AraR-like, winged helix DNA-binding domain  Molecular Function	interpro	domain		PF19368	GO:0003677
+IPR045846	DNA polymerase alpha catalytic subunit, catalytic domain  Molecular Function	interpro	domain		cd05532	GO:0003887,GO:1902975
+IPR045867	DNA-directed RNA polymerase, subunit beta-prime  Molecular Function	interpro	family		PTHR19376	GO:0003899,GO:0006351
+IPR046360	T-box transcription factor, DNA-binding domain  Molecular Function	interpro	domain		PS50252,PF00907,SM00425,PR00937	GO:0003700,GO:0045893
+IPR046367	GapR-like, DNA-binding domain  Molecular Function	interpro	domain		PF10073	GO:0003677
+IPR046392	DNA primase, bacteriophage T4  Molecular Function	interpro	family		MF_04157	GO:0003896
+IPR046393	Bacteriophage T4 DnaB-like replicative helicase  Molecular Function	interpro	family		MF_04155	GO:0003678,GO:0005524,GO:0032508
+IPR046394	Bacteriophage T7 DNA helicase/primase  Molecular Function	interpro	family		MF_04154	GO:0003678,GO:0003896,GO:0005524
+IPR046832	DNA helicase E1, DNA-binding domain, papillomavirus  Molecular Function	interpro	domain		PF20450	GO:0003677
+IPR047091	Ethylene insensitive 3-like, DNA-binding domain  Molecular Function	interpro	domain		PF04873	GO:0003700
+IPR047159	Retinoic acid receptor, DNA-binding domain  Molecular Function	interpro	domain		cd06964	GO:0003700
+IPR047580	DNA polymerase gamma, palm domain  Molecular Function	interpro	domain		cd08641	GO:0003887,GO:0006264
+IPR047587	DNA-(apurinic or apyrimidinic site) endonuclease  Molecular Function	interpro	family		MF_04167	GO:0003906,GO:0099015
+IPR048576	DNA-binding protein Rv2175c, wHTH domain  Molecular Function	interpro	domain		PF21531	GO:0003677
+IPR049636	Hepatocyte nuclear factor 4-like, DNA-binding domain  Molecular Function	interpro	domain		cd06960	GO:0000978
+IPR053848	DNA polymerase IV/DNA polymerase iota-like, thumb domain  Molecular Function	interpro	domain		PF21999	GO:0003887
+Accession	Name Biological Process	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+IPR000035	Alkylbase DNA glycosidase, conserved site  Biological Process	interpro	conserved_site		PS00516	GO:0003905,GO:0006281
+IPR000093	DNA recombination protein RecR  Biological Process	interpro	family		PTHR30446,MF_00017,TIGR00615	GO:0003677,GO:0046872,GO:0006281,GO:0006310
+IPR000123	RNA-directed DNA polymerase (reverse transcriptase), msDNA  Biological Process	interpro	family		cd03487,PR00866	GO:0003723,GO:0003964,GO:0006278
+IPR000201	Hepadnaviral P protein, N-terminal  Biological Process	interpro	domain		PF00242	GO:0003677,GO:0003887,GO:0006260
+IPR000214	Zinc finger, DNA glycosylase/AP lyase-type  Biological Process	interpro	domain		PS51066	GO:0003906,GO:0008270,GO:0016799,GO:0006284
+IPR000232	Heat shock factor (HSF)-type, DNA-binding  Biological Process	interpro	domain		PS00434,SM00415,PF00447,PR00056	GO:0003700,GO:0043565,GO:0006355
+IPR000268	DNA-directed RNA polymerase subunit RPABC5/Rpb10  Biological Process	interpro	family		PTHR23431,MF_00250,PIRSF005653,PF01194	GO:0003677,GO:0003899,GO:0006351
+IPR000380	DNA topoisomerase, type IA  Biological Process	interpro	family		PTHR42785,PTHR11390	GO:0003677,GO:0003917,GO:0006265
+IPR000432	DNA mismatch repair protein MutS, C-terminal  Biological Process	interpro	domain		PS00486,PF00488,SM00534	GO:0005524,GO:0030983,GO:0006298
+IPR000565	DNA topoisomerase, type IIA, subunit B  Biological Process	interpro	family		PR01159	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR000635	Viral ssDNA-binding protein  Biological Process	interpro	family		MF_04007,PF00747	GO:0003697,GO:0006260,GO:0042025
+IPR000637	HMG-I/HMG-Y, DNA-binding, conserved site  Biological Process	interpro	conserved_site		PS00354	GO:0006355
+IPR000977	DNA ligase, ATP-dependent  Biological Process	interpro	family		TIGR00574	GO:0003910,GO:0005524,GO:0071897
+IPR001001	DNA polymerase III, beta sliding clamp  Biological Process	interpro	family		PIRSF000804,cd00140,PTHR30478,TIGR00663,SM00480	GO:0003677,GO:0006260,GO:0009360
+IPR001083	Copper fist DNA-binding domain  Biological Process	interpro	domain		SM01090,SM00412,PR00617,PF00649,PS50073,PS01119	GO:0003677,GO:0003700,GO:0005507,GO:0006355
+IPR001098	DNA-directed DNA polymerase, family A, palm domain  Biological Process	interpro	domain		SM00482,PF00476	GO:0003677,GO:0003887,GO:0006260
+IPR001138	Zn(2)Cys(6) fungal-type DNA-binding domain  Biological Process	interpro	domain		cd00067,PS50048,PS00463,SM00066,PF00172	GO:0000981,GO:0008270,GO:0006355
+IPR001154	DNA topoisomerase II, eukaryotic-type  Biological Process	interpro	family		PR01158	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR001177	DNA helicase E1, C-terminal, Papillomavirus  Biological Process	interpro	domain		PF00519	GO:0003677,GO:0003678,GO:0005524,GO:0006260
+IPR001238	DNA-binding, RecF  Biological Process	interpro	family		MF_00365,TIGR00611	GO:0003697,GO:0005524,GO:0006281
+IPR001241	DNA topoisomerase, type IIA  Biological Process	interpro	family		SM00433	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR001275	DM DNA-binding domain  Biological Process	interpro	domain		PS50809,PF00751,PS40000,SM00301	GO:0043565,GO:0006355
+IPR001497	Methylated-DNA-[protein]-cysteine S-methyltransferase, active site  Biological Process	interpro	active_site		PS00374	GO:0003908,GO:0006281
+IPR001514	DNA-directed RNA polymerase, 30-40kDa subunit, conserved site  Biological Process	interpro	conserved_site		PS00446	GO:0003677,GO:0003899,GO:0006351
+IPR001529	DNA-directed RNA polymerase, M/15kDa subunit  Biological Process	interpro	domain		SM00661,PF02150	GO:0006351
+IPR001631	DNA topoisomerase I  Biological Process	interpro	family		PR00416	GO:0003677,GO:0003917,GO:0006265
+IPR001679	NAD-dependent DNA ligase  Biological Process	interpro	family		MF_01588,TIGR00575,PIRSF001604	GO:0003911,GO:0006260,GO:0006281
+IPR001801	DNA-binding protein H-NS-like  Biological Process	interpro	family		PIRSF002096	GO:0003677,GO:0030527,GO:0006355
+IPR001845	HTH ArsR-type DNA-binding domain  Biological Process	interpro	domain		PS50987,PF01022,SM00418,PR00778	GO:0003700,GO:0006355
+IPR001867	OmpR/PhoB-type DNA-binding domain  Biological Process	interpro	domain		cd00383,SM00862,PS51755,PF00486	GO:0003677,GO:0000160,GO:0006355
+IPR001957	Chromosomal replication control, initiator DnaA  Biological Process	interpro	family		MF_00377,TIGR00362	GO:0003677,GO:0003688,GO:0005524,GO:0006270,GO:0006275
+IPR002008	DNA polymerase family X, beta-like  Biological Process	interpro	family		PR00870	GO:0003677,GO:0006281
+IPR002043	Uracil-DNA glycosylase family 1  Biological Process	interpro	family		cd10027,MF_00148,TIGR00628,PTHR11264	GO:0004844,GO:0006281,GO:0006284
+IPR002052	DNA methylase, N-6 adenine-specific, conserved site  Biological Process	interpro	conserved_site		PS00092	GO:0003676,GO:0008168,GO:0032259
+IPR002092	DNA-directed RNA polymerase, phage-type  Biological Process	interpro	family		PS00489,PS00900,PTHR10102	GO:0003677,GO:0003899,GO:0006351
+IPR002099	DNA mismatch repair protein MutL/Mlh/PMS  Biological Process	interpro	family		TIGR00585	GO:0005524,GO:0030983,GO:0006298
+IPR002176	Crossover junction endodeoxyribonuclease RuvC  Biological Process	interpro	family		cd16962,PTHR30194,MF_00034,TIGR00228,PR00696,PF02075	GO:0004520,GO:0006281,GO:0006310
+IPR002205	DNA topoisomerase, type IIA, domain A  Biological Process	interpro	domain		cd00187,PF00521,SM00434	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR002288	DNA gyrase B subunit, C-terminal  Biological Process	interpro	domain		PF00986	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR002297	DNA-directed DNA-polymerase, family A, mitochondria  Biological Process	interpro	family		PTHR10267,PIRSF000797,PR00867	GO:0003677,GO:0006260,GO:0005760
+IPR002298	DNA polymerase A  Biological Process	interpro	family		PTHR10133,PR00868	GO:0003887,GO:0006261
+IPR002706	DNA-repair protein Xrcc1, N-terminal  Biological Process	interpro	domain		PF01834	GO:0003684,GO:0000012,GO:0005634
+IPR002755	DNA primase, small subunit  Biological Process	interpro	family		PF01896	GO:0003896,GO:0006269
+IPR003133	T antigen, Ori-binding  Biological Process	interpro	domain		PS51287,PF02217	GO:0003688,GO:0006260
+IPR003150	DNA-binding RFX-type winged-helix domain  Biological Process	interpro	domain		PS51526,PF02257	GO:0003677,GO:0006355
+IPR003166	Transcription factor TFIIE beta subunit, DNA-binding domain  Biological Process	interpro	domain		cd07977,PF02186,PS51351	GO:0006367
+IPR003176	Adenovirus DNA-binding, all-alpha domain  Biological Process	interpro	domain		PF02236	GO:0003677,GO:0006268
+IPR003180	Methylpurine-DNA glycosylase  Biological Process	interpro	family		cd00540,MF_00527,PF02245,TIGR00567,PTHR10429	GO:0003677,GO:0003905,GO:0006284
+IPR003202	DNA polymerase processivity factor (UL42)  Biological Process	interpro	family		PF02282	GO:0003677,GO:0006260
+IPR003310	G/T mismatch-specific thymine DNA glycosylasee TDG-like, eukaryotes  Biological Process	interpro	family		TIGR00584	GO:0000700,GO:0006285
+IPR003316	E2F/DP family, winged-helix DNA-binding domain  Biological Process	interpro	domain		SM01372,PF02319	GO:0006355,GO:0005667
+IPR003488	DNA recombination-mediator protein A  Biological Process	interpro	family		PTHR43022,TIGR00732,PF02481	GO:0009294
+IPR003498	Probable DNA packing protein, C-terminal  Biological Process	interpro	domain		PF02499	GO:0051276
+IPR003499	Probable DNA packing protein, N-terminal  Biological Process	interpro	domain		PF02500	GO:0051276
+IPR003512	Bacteriophage M13, G5P, DNA-binding  Biological Process	interpro	family		PF02303	GO:0003697,GO:0006260
+IPR003583	Helix-hairpin-helix DNA-binding motif, class 1  Biological Process	interpro	domain		SM00278	GO:0003677,GO:0006281
+IPR003601	DNA topoisomerase, type IA, domain 2  Biological Process	interpro	domain		SM00436	GO:0003677,GO:0003916,GO:0006265
+IPR003602	DNA topoisomerase, type IA, DNA-binding domain  Biological Process	interpro	domain		SM00437	GO:0003677,GO:0003916,GO:0006265
+IPR003701	DNA double-strand break repair protein Mre11  Biological Process	interpro	family		PIRSF000882,TIGR00583	GO:0004520,GO:0008296,GO:0006302,GO:0030870
+IPR003716	DNA-directed RNA polymerase, omega subunit  Biological Process	interpro	family		PTHR34476,MF_00366,TIGR00690	GO:0003899,GO:0006351
+IPR004026	Ada DNA repair, metal-binding  Biological Process	interpro	domain		PF02805	GO:0003677,GO:0008168,GO:0008270,GO:0006281,GO:0006355
+IPR004085	DNA topoisomerase VI, subunit A  Biological Process	interpro	family		MF_00132,PR01552	GO:0003677,GO:0003918,GO:0006265,GO:0005694
+IPR004149	Zinc-finger, NAD-dependent DNA ligase C4-type  Biological Process	interpro	domain		PF03119	GO:0003911,GO:0006260,GO:0006281
+IPR004150	NAD-dependent DNA ligase, OB-fold  Biological Process	interpro	domain		PF03120	GO:0003911,GO:0006260,GO:0006281
+IPR004186	Epstein Barr virus nuclear antigen-1, DNA-binding  Biological Process	interpro	domain		PF02905	GO:0003677,GO:0006275,GO:0045893,GO:0042025
+IPR004190	DNA polymerase processivity factor  Biological Process	interpro	domain		PF02916	GO:0006260
+IPR004191	Integrase, Tn916-type, N-terminal DNA binding  Biological Process	interpro	domain		PF02920	GO:0003677,GO:0008907,GO:0015074
+IPR004230	DNA mismatch repair protein MutH  Biological Process	interpro	family		MF_00759,TIGR02248	GO:0003677,GO:0004519,GO:0006304
+IPR004475	DNA polymerase II large subunit DP2  Biological Process	interpro	family		PTHR42210,MF_00324,PIRSF016275,TIGR00354	GO:0003677,GO:0003887,GO:0006260
+IPR004504	DNA repair protein RadA  Biological Process	interpro	family		MF_01498,TIGR00416	GO:0003684,GO:0005524,GO:0006281
+IPR004519	DNA-directed RNA polymerase, subunit E/RPC8  Biological Process	interpro	family		TIGR00448	GO:0003677,GO:0003899,GO:0006351
+IPR004577	8-oxoguanine DNA-glycosylase  Biological Process	interpro	family		TIGR00588	GO:0008534,GO:0034039,GO:0006284
+IPR004580	DNA repair protein Rad18, fungi  Biological Process	interpro	family		TIGR00599	GO:0003697,GO:0061630,GO:0006301,GO:0006513
+IPR004583	DNA repair protein Rad4  Biological Process	interpro	family		PTHR12135	GO:0003684,GO:0006289,GO:0005634
+IPR004584	DNA repair protein Rad50, eukaryotes  Biological Process	interpro	family		TIGR00606	GO:0016887,GO:0000723,GO:0006281,GO:0005634,GO:0030870
+IPR004585	DNA recombination/repair protein Rad52  Biological Process	interpro	family		TIGR00607	GO:0000724,GO:0000730,GO:0045002,GO:0005634
+IPR004589	DNA helicase, ATP-dependent, RecQ type  Biological Process	interpro	family		TIGR00614	GO:0004386,GO:0006310
+IPR004590	DNA single-strand annealing protein RecT  Biological Process	interpro	family		TIGR00616	GO:0003677,GO:0006259
+IPR004597	DNA-3-methyladenine glycosylase I  Biological Process	interpro	family		TIGR00624	GO:0008725,GO:0006284
+IPR004603	DNA mismatch endonuclease VSR  Biological Process	interpro	family		cd00221,PIRSF018267,TIGR00632,PF03852	GO:0004519,GO:0006298
+IPR004604	DNA recombination/repair protein RecN  Biological Process	interpro	family		PIRSF003128,TIGR00634,PTHR11059	GO:0005524,GO:0006281,GO:0006310
+IPR004605	Holliday junction branch migration complex subunit RuvB  Biological Process	interpro	family		PTHR42848,MF_00016,TIGR00635	GO:0003677,GO:0005524,GO:0009378,GO:0006281,GO:0006310
+IPR004609	ATP-dependent DNA helicase RecG  Biological Process	interpro	family		TIGR00643	GO:0003678,GO:0006281,GO:0006310
+IPR004615	DNA polymerase III, psi subunit  Biological Process	interpro	family		PIRSF029225,PF03603	GO:0003887,GO:0008408,GO:0006260
+IPR004622	DNA polymerase III, delta prime subunit  Biological Process	interpro	domain		TIGR00678	GO:0003887,GO:0008408,GO:0006260
+IPR004805	Error-prone DNA polymerase/DNA polymerase III subunit alpha DnaE/PolC  Biological Process	interpro	family		PTHR32294,TIGR00594	GO:0008408,GO:0006260
+IPR004868	DNA-directed DNA polymerase, family B, mitochondria/virus  Biological Process	interpro	domain		PF03175	GO:0000166,GO:0003677,GO:0003887,GO:0006260
+IPR004947	Deoxyribonuclease II  Biological Process	interpro	family		PTHR10858,PF03265	GO:0004531,GO:0006259
+IPR004973	DNA-directed RNA polymerase, 18kDa subunit, poxviral  Biological Process	interpro	family		PF03293	GO:0003677,GO:0003899,GO:0019083
+IPR004996	DNA helicase/primase complex-associated protein  Biological Process	interpro	family		MF_04010,PF03324	GO:0019079
+IPR005059	DNA-directed RNA polymerase, 35kDa subunit, poxviral  Biological Process	interpro	family		PF03396,PIRSF000746	GO:0003677,GO:0003899,GO:0019083
+IPR005104	Winged helix-turn-helix transcription repressor, HrcA DNA-binding domain  Biological Process	interpro	domain		PF03444	GO:0003677,GO:0006355
+IPR005319	Peptidase S48, DNA-binding transcriptional activator HetR  Biological Process	interpro	family		MF_00781,PF03574	GO:0003677,GO:0004252,GO:0043158
+IPR005376	Adenovirus DNA-binding, zinc-binding domain  Biological Process	interpro	domain		PF03728	GO:0003677,GO:0008270,GO:0006260
+IPR005412	DNA-binding protein Fis  Biological Process	interpro	family		MF_00166,PIRSF002097,PR01591	GO:0003677,GO:0006355
+IPR005570	DNA-directed RNA polymerases I, II, and III subunit RPABC3  Biological Process	interpro	family		PF03870,SM00658,PIRSF000779,PTHR10917	GO:0003899,GO:0006351
+IPR005733	DNA topoisomerase I, bacterial-type  Biological Process	interpro	family		TIGR01051	GO:0003677,GO:0003917,GO:0006265
+IPR005734	DNA topoisomerase VI, subunit B  Biological Process	interpro	family		MF_00322,TIGR01052,PIRSF006553	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR005737	DNA topoisomerase IV, subunit B, Gram-negative  Biological Process	interpro	family		MF_00938,TIGR01055,PR01098	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005738	DNA topoisomerase III  Biological Process	interpro	family		MF_00953,TIGR01056	GO:0003677,GO:0003916,GO:0006265
+IPR005739	DNA topoisomerase I, archeal-type  Biological Process	interpro	family		TIGR01057	GO:0003677,GO:0003916,GO:0006265
+IPR005740	DNA topoisomerase 4 subunit B, Firmicutes/Mollicutes  Biological Process	interpro	family		MF_00939,TIGR01058	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005741	DNA topoisomerase IV subunit A, Gram-positive  Biological Process	interpro	family		MF_00937,TIGR01061	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005742	DNA topoisomerase IV, subunit A, Gram-negative  Biological Process	interpro	family		MF_00936	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005743	DNA gyrase, subunit A  Biological Process	interpro	family		MF_01897	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005748	DNA mismatch repair protein MutS  Biological Process	interpro	family		MF_00096,TIGR01070	GO:0005524,GO:0030983,GO:0006298
+IPR005751	ATP-dependent DNA helicase PcrA  Biological Process	interpro	family		TIGR01073	GO:0003678,GO:0006268,GO:0005737
+IPR005752	ATP-dependent DNA helicase Rep  Biological Process	interpro	family		MF_01920,TIGR01074	GO:0003677,GO:0003678,GO:0005524,GO:0006268
+IPR005753	DNA helicase, ATP-dependent, UvrD type  Biological Process	interpro	family		TIGR01075	GO:0003678,GO:0006268,GO:0005737
+IPR005790	DNA polymerase III, delta subunit  Biological Process	interpro	family		TIGR01128	GO:0003677,GO:0006260
+IPR006054	DNA polymerase III epsilon subunit, exonuclease domain  Biological Process	interpro	domain		TIGR00573	GO:0003677,GO:0003887,GO:0006260
+IPR006167	DNA repair protein XPF  Biological Process	interpro	family		TIGR00596	GO:0003697,GO:0004520,GO:0006281
+IPR006199	LexA repressor, DNA-binding domain  Biological Process	interpro	domain		PF01726	GO:0004252,GO:0006508
+IPR006293	DNA helicase, ATP-dependent, RecQ type, bacterial  Biological Process	interpro	family		TIGR01389	GO:0003678,GO:0006310,GO:0009432
+IPR006295	DNA primase, DnaG  Biological Process	interpro	domain		TIGR01391	GO:0003896,GO:0006269
+IPR006308	DNA polymerase III, alpha subunit, PolC-type, Gram-positive bacteria  Biological Process	interpro	family		MF_00356,TIGR01405	GO:0003677,GO:0003887,GO:0006260,GO:0005737
+IPR006309	DNA polymerase 3, epsilon subunit  Biological Process	interpro	family		cd06131,TIGR01406	GO:0003677,GO:0003887,GO:0006260
+IPR006345	ATP-dependent RecD2 DNA helicase  Biological Process	interpro	family		TIGR01448,MF_01488	GO:0003677,GO:0043139,GO:0032508
+IPR006691	DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat  Biological Process	interpro	repeat		PF03989	GO:0003677,GO:0003916,GO:0005524,GO:0006265
+IPR006779	DNA binding protein S1FA  Biological Process	interpro	family		PTHR35298,PF04689	GO:0003677,GO:0006355,GO:0005634
+IPR006824	DNA helicase, Baculovirus  Biological Process	interpro	family		PF04735	GO:0003678,GO:0019079
+IPR006886	DNA-directed RNA polymerase III subunit Rpc5  Biological Process	interpro	family		PTHR12069,PF04801	GO:0006351,GO:0005634
+IPR007015	DNA polymerase V/Myb-binding protein 1A  Biological Process	interpro	family		PF04931,PTHR13213	GO:0003677,GO:0008134,GO:0006355,GO:0005730
+IPR007120	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain  Biological Process	interpro	domain		PF00562	GO:0003677,GO:0003899,GO:0006351
+IPR007185	DNA polymerase alpha/delta/epsilon, subunit B  Biological Process	interpro	domain		PF04042	GO:0003677,GO:0006260
+IPR007218	DNA polymerase delta, subunit 4  Biological Process	interpro	family		PTHR14303,PF04081	GO:0000731,GO:0006260
+IPR007232	DNA repair protein Rad52/59/22  Biological Process	interpro	family		PTHR12132	GO:0006281,GO:0006310
+IPR007238	DNA primase large subunit, eukaryotic/archaeal  Biological Process	interpro	family		PF04104,PTHR10537	GO:0006269
+IPR007257	DNA replication complex GINS protein Psf2  Biological Process	interpro	family		PIRSF028998,PTHR12772	GO:0006260,GO:0005634
+IPR007281	Mre11, DNA-binding  Biological Process	interpro	domain		SM01347,PF04152	GO:0004519,GO:0030145,GO:0006302,GO:0005634
+IPR007459	DNA polymerase III chi subunit, HolC  Biological Process	interpro	family		PTHR38767,PF04364	GO:0003677,GO:0003887,GO:0006260
+IPR007692	DNA helicase, DnaB type  Biological Process	interpro	family		TIGR00665	GO:0003677,GO:0003678,GO:0005524,GO:0006260
+IPR007693	DNA helicase, DnaB-like, N-terminal  Biological Process	interpro	domain		PF00772	GO:0003678,GO:0005524,GO:0006260
+IPR007694	DNA helicase, DnaB-like, C-terminal  Biological Process	interpro	domain		cd00984,PS51199,PF03796	GO:0003678,GO:0005524,GO:0006260
+IPR007695	DNA mismatch repair protein MutS-like, N-terminal  Biological Process	interpro	domain		PF01624	GO:0005524,GO:0030983,GO:0006298
+IPR007696	DNA mismatch repair protein MutS, core  Biological Process	interpro	domain		PF05192,SM00533	GO:0005524,GO:0030983,GO:0006298
+IPR007811	DNA-directed RNA polymerase III subunit RPC4  Biological Process	interpro	family		PTHR13408,PF05132	GO:0003677,GO:0006383,GO:0005666
+IPR007860	DNA mismatch repair protein MutS, connector domain  Biological Process	interpro	domain		PF05188	GO:0005524,GO:0030983,GO:0006298
+IPR007861	DNA mismatch repair protein MutS, clamp  Biological Process	interpro	domain		PF05190	GO:0005524,GO:0030983,GO:0006298
+IPR007984	DNA-directed RNA polymerase, 19kDa subunit, poxviral  Biological Process	interpro	family		PF05320,PIRSF000743	GO:0003677,GO:0003899,GO:0006351
+IPR008029	Bacteriophage T7, Gp3, endodeoxynuclease I  Biological Process	interpro	family		cd22324,PF05367	GO:0008833,GO:0015074,GO:0016032
+IPR008045	DNA replication licensing factor Mcm2  Biological Process	interpro	family		PF12619,PR01658	GO:0003677,GO:0005524,GO:0006270,GO:1905775,GO:0005634,GO:0042555
+IPR008046	DNA replication licensing factor Mcm3  Biological Process	interpro	family		PR01659	GO:0003677,GO:0005524,GO:0006270,GO:0042555
+IPR008048	DNA replication licensing factor Mcm5  Biological Process	interpro	family		PR01661	GO:0003688,GO:0005524,GO:0006270,GO:0005634,GO:0042555
+IPR008049	DNA replication licensing factor Mcm6  Biological Process	interpro	family		PR01662	GO:0003677,GO:0003678,GO:0005524,GO:0006270,GO:0005634,GO:0042555
+IPR008050	DNA replication licensing factor Mcm7  Biological Process	interpro	family		cd17758,PR01663	GO:0003677,GO:0003678,GO:0005524,GO:0006270,GO:0042555
+IPR008148	DNA photolyase class 2  Biological Process	interpro	family		TIGR00591	GO:0003904,GO:0006281
+IPR008193	DNA-directed RNA polymerase Rpb11, 13-16kDa subunit, conserved site  Biological Process	interpro	conserved_site		PS01154	GO:0003677,GO:0003899,GO:0006351
+IPR008332	Methylguanine DNA methyltransferase, ribonuclease-like domain  Biological Process	interpro	domain		PF02870	GO:0003908,GO:0006281
+IPR008336	DNA topoisomerase I, DNA binding, eukaryotic-type  Biological Process	interpro	domain		PF02919	GO:0003677,GO:0003917,GO:0006265
+IPR008448	DNA-directed RNA polymerase, 7kDa polypeptide, chordopoxviral  Biological Process	interpro	family		PF05864	GO:0003677,GO:0003899,GO:0006351
+IPR008468	DNA methyltransferase 1-associated 1  Biological Process	interpro	domain		PF05499	GO:0045892,GO:0005634
+IPR008593	DNA N-6-adenine-methyltransferase  Biological Process	interpro	family		PF05869,TIGR01712	GO:0003677,GO:0009007,GO:0009307
+IPR008770	DNA terminal protein Gp3  Biological Process	interpro	family		PF05435,PIRSF004179	GO:0006260,GO:0006269
+IPR008865	DNA replication terminus site-binding protein  Biological Process	interpro	family		MF_00483,PF05472,TIGR02648	GO:0003677,GO:0006274,GO:0005737
+IPR008917	Transcription factor, Skn-1-like, DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		SSF47454	GO:0003677,GO:0006355
+IPR008921	DNA polymerase III, clamp loader complex, gamma/delta/delta subunit, C-terminal  Biological Process	interpro	homologous_superfamily		SSF48019	GO:0003677,GO:0006260
+IPR008967	p53-like transcription factor, DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		SSF49417	GO:0003700,GO:0006355
+IPR008971	HSP40/DnaJ peptide-binding  Biological Process	interpro	homologous_superfamily		SSF49493	GO:0051082,GO:0006457
+IPR009025	DNA-directed RNA polymerase, RBP11-like dimerisation domain  Biological Process	interpro	domain		PF13656	GO:0046983,GO:0006351
+IPR009044	ssDNA-binding transcriptional regulator  Biological Process	interpro	homologous_superfamily		SSF54447,G3DSA:2.30.31.10	GO:0003677,GO:0006355
+IPR009052	DNA polymerase III-theta, bacterial  Biological Process	interpro	family		PF06440	GO:0003677,GO:0003887,GO:0006260
+IPR009595	Bacteriophage DNA replication protein Gp16.7  Biological Process	interpro	family		PF06720	GO:0039693
+IPR009674	DNA-directed RNA polymerase I subunit RPA2, domain 4  Biological Process	interpro	domain		PF06883	GO:0003899,GO:0006351,GO:0005634
+IPR009718	Rex DNA-binding, C-terminal domain  Biological Process	interpro	domain		PF06971	GO:0045892,GO:0051775
+IPR010114	DNA-binding transcriptional regulator NtrC  Biological Process	interpro	family		TIGR01818	GO:0000156,GO:0003677,GO:0005524,GO:0000160,GO:0006808
+IPR010243	DNA-directed RNA polymerase beta subunit, bacterial-type  Biological Process	interpro	family		MF_01321,TIGR02013	GO:0003677,GO:0003899,GO:0006351
+IPR010285	DNA helicase Pif1-like, DEAD-box helicase domain  Biological Process	interpro	domain		PF05970	GO:0003678,GO:0000723,GO:0006281
+IPR010347	Tyrosyl-DNA phosphodiesterase I  Biological Process	interpro	family		PF06087,PTHR12415	GO:0008081,GO:0006281,GO:0005634
+IPR010372	DNA polymerase III delta, N-terminal  Biological Process	interpro	domain		PF06144	GO:0003677,GO:0003887,GO:0006260,GO:0009360
+IPR010585	DNA repair protein XRCC4  Biological Process	interpro	family		PTHR28559	GO:0003677,GO:0006302,GO:0006310,GO:0005634
+IPR011114	Holliday junction DNA helicase RuvA, C-terminal  Biological Process	interpro	domain		cd14332,PF07499	GO:0005524,GO:0009378,GO:0006281,GO:0006310,GO:0009379
+IPR011149	DNA polymerase II small subunit, archaeal  Biological Process	interpro	family		MF_00325,PIRSF000803	GO:0003676,GO:0003887,GO:0008408,GO:0006260
+IPR011184	DNA mismatch repair Msh2-type  Biological Process	interpro	family		PIRSF005813	GO:0005524,GO:0030983,GO:0006298
+IPR011257	DNA glycosylase  Biological Process	interpro	homologous_superfamily		SSF48150	GO:0003824,GO:0006281
+IPR011262	DNA-directed RNA polymerase, insert domain  Biological Process	interpro	domain		PF01000	GO:0003899,GO:0046983,GO:0006351
+IPR011263	DNA-directed RNA polymerase, RpoA/D/Rpb3-type  Biological Process	interpro	domain		PF01193,SM00662	GO:0003899,GO:0006351
+IPR011344	Single-stranded DNA-binding protein  Biological Process	interpro	family		PIRSF002070,TIGR00621,MF_00984,PTHR10302	GO:0003697,GO:0006260
+IPR011539	Rel homology domain, DNA-binding domain  Biological Process	interpro	domain		PS50254,PF00554	GO:0003677,GO:0003700,GO:0006355
+IPR011557	DNA gyrase, subunit B  Biological Process	interpro	family		MF_01898,TIGR01059	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR011564	Telomeric single stranded DNA binding POT1/Cdc13  Biological Process	interpro	domain		SM00976,PF02765	GO:0003677,GO:0000723,GO:0000781
+IPR011708	Bacterial DNA polymerase III, alpha subunit, NTPase domain  Biological Process	interpro	domain		PF07733	GO:0008408,GO:0006260
+IPR011773	DNA-directed RNA polymerase, alpha subunit  Biological Process	interpro	family		MF_00059,TIGR02027	GO:0003677,GO:0003899,GO:0006351
+IPR011938	DNA recombination/repair protein RadA  Biological Process	interpro	family		MF_00348,TIGR02236	GO:0003684,GO:0005524,GO:0008094,GO:0006281,GO:0006310
+IPR011939	DNA repair and recombination protein RadB  Biological Process	interpro	family		MF_00350,PIRSF003336,TIGR02237	GO:0003684,GO:0005524,GO:0006281,GO:0006310
+IPR011941	DNA recombination/repair protein Rad51  Biological Process	interpro	family		TIGR02239	GO:0000150,GO:0003690,GO:0003697,GO:0008094,GO:0000724,GO:1990426
+IPR012092	8-oxoguanine DNA glycosylase/AP lyase Ogg  Biological Process	interpro	family		PF22175,MF_00241,PIRSF005954	GO:0003906,GO:0016799,GO:0006281
+IPR012112	DNA repair protein Rev1  Biological Process	interpro	family		PIRSF036573	GO:0003684,GO:0016779,GO:0006281,GO:0042276
+IPR012164	DNA-directed RNA polymerase subunit/transcription factor S  Biological Process	interpro	family		PIRSF005586,PTHR11239	GO:0003899,GO:0006351
+IPR012308	DNA ligase, ATP-dependent, N-terminal  Biological Process	interpro	domain		PF04675	GO:0003677,GO:0003910,GO:0006281,GO:0006310
+IPR012309	DNA ligase, ATP-dependent, C-terminal  Biological Process	interpro	domain		PF04679	GO:0003910,GO:0006281,GO:0006310
+IPR012310	DNA ligase, ATP-dependent, central  Biological Process	interpro	domain		PS50160,PF01068	GO:0003910,GO:0005524,GO:0006281,GO:0006310
+IPR012319	Formamidopyrimidine-DNA glycosylase, catalytic domain  Biological Process	interpro	domain		PS51068,SM00898,PF01149	GO:0003906,GO:0008270,GO:0019104,GO:0006284
+IPR012327	D12 class N6 adenine-specific DNA methyltransferase  Biological Process	interpro	family		PTHR30481,TIGR00571,PR00505,PF02086	GO:0009007,GO:0009307
+IPR012346	p53/RUNT-type transcription factor, DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:2.60.40.720	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR012582	DNA-dependent protein kinase catalytic subunit, CC3  Biological Process	interpro	domain		PF08163,SM01344	GO:0006303,GO:0005634
+IPR012724	Chaperone DnaJ  Biological Process	interpro	family		MF_01152,TIGR02349	GO:0005524,GO:0051082,GO:0006457,GO:0009408
+IPR012725	Chaperone DnaK  Biological Process	interpro	family		MF_00332,TIGR02350	GO:0005524,GO:0051082,GO:0006457
+IPR012754	DNA-directed RNA polymerase, subunit beta-prime, bacterial type  Biological Process	interpro	family		MF_01322,TIGR02386	GO:0003677,GO:0003899,GO:0006351
+IPR012755	DNA-directed RNA polymerase, subunit gamma  Biological Process	interpro	family		TIGR02387	GO:0003677,GO:0003899,GO:0006351
+IPR012756	DNA-directed RNA polymerase, subunit beta''  Biological Process	interpro	family		MF_01324,TIGR02388	GO:0003677,GO:0003899,GO:0006351
+IPR012757	DNA-directed RNA polymerase subunit Rpo1C  Biological Process	interpro	family		cd06528,MF_00411,TIGR02389	GO:0003677,GO:0003899,GO:0006351
+IPR012758	DNA-directed RNA polymerase subunit Rpo1N  Biological Process	interpro	family		cd02582,MF_00863,TIGR02390	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR012763	DNA polymerase III, subunit gamma/ tau, N-terminal  Biological Process	interpro	domain		TIGR02397	GO:0003887,GO:0005524,GO:0006260,GO:0009360
+IPR012904	8-oxoguanine DNA glycosylase, N-terminal  Biological Process	interpro	domain		PF07934	GO:0003684,GO:0008534,GO:0006289
+IPR013030	DNA topoisomerase I, DNA binding, N-terminal domain 2  Biological Process	interpro	homologous_superfamily		G3DSA:2.170.11.10	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR013034	DNA topoisomerase I, DNA binding, N-terminal domain 1  Biological Process	interpro	homologous_superfamily		G3DSA:1.10.10.41	GO:0003917,GO:0006265
+IPR013049	Spo11/DNA topoisomerase VI, subunit A, N-terminal  Biological Process	interpro	domain		PF04406	GO:0003677,GO:0003824,GO:0005524,GO:0006259,GO:0005694
+IPR013159	Chromosomal replication initiator, DnaA C-terminal  Biological Process	interpro	domain		cd06571,SM00760,PF08299	GO:0005524,GO:0043565,GO:0006270,GO:0006275
+IPR013173	DNA primase DnaG, DnaB-binding domain  Biological Process	interpro	domain		PF08278,SM00766	GO:0003896,GO:0006269
+IPR013240	DNA-directed RNA polymerase I, subunit RPA34  Biological Process	interpro	family		PTHR15484,PF08208	GO:0006360
+IPR013263	DNA topoisomerase I, zinc ribbon-like, bacterial-type  Biological Process	interpro	domain		PF08272	GO:0003677,GO:0003917,GO:0006265
+IPR013497	DNA topoisomerase, type IA, central  Biological Process	interpro	domain		PR00417,cd00186,PF01131	GO:0003677,GO:0003916,GO:0006265
+IPR013498	DNA topoisomerase, type IA, zn finger  Biological Process	interpro	domain		PF01396	GO:0003677,GO:0003916,GO:0006265,GO:0005694
+IPR013499	DNA topoisomerase I, eukaryotic-type  Biological Process	interpro	domain		SM00435	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR013500	DNA topoisomerase I, catalytic core, eukaryotic-type  Biological Process	interpro	domain		cd00659,PF01028	GO:0003677,GO:0003917,GO:0006265
+IPR013506	DNA topoisomerase, type IIA, subunit B, domain 2  Biological Process	interpro	domain		PF00204	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR013507	DNA mismatch repair protein, S5 domain 2-like  Biological Process	interpro	domain		SM01340,PF01119	GO:0005524,GO:0030983,GO:0006298
+IPR013697	DNA polymerase epsilon, catalytic subunit A, C-terminal  Biological Process	interpro	domain		SM01159,PF08490	GO:0003887,GO:0008270,GO:0006260,GO:0005634
+IPR013725	DNA replication factor RFC1, C-terminal  Biological Process	interpro	domain		PF08519	GO:0003689,GO:0005524,GO:0006260,GO:0005663
+IPR013758	DNA topoisomerase, type IIA, domain A, alpha-beta  Biological Process	interpro	homologous_superfamily		G3DSA:3.90.199.10	GO:0003677,GO:0003918,GO:0005524,GO:0006259,GO:0006265
+IPR013759	DNA topoisomerase, type IIA, subunit B, C-terminal  Biological Process	interpro	homologous_superfamily		G3DSA:3.40.50.670	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR013765	DNA recombination and repair protein RecA  Biological Process	interpro	family		PTHR45900,MF_00268,TIGR02012,PR00142	GO:0003697,GO:0005524,GO:0006281
+IPR013849	DNA helicase, Holliday junction RuvA type, domain I, bacterial  Biological Process	interpro	domain		PF01330	GO:0005524,GO:0009378,GO:0006281,GO:0006310
+IPR013882	DNA endonuclease activator Ctp1, C-terminal  Biological Process	interpro	domain		PF08573	GO:0006281
+IPR014048	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding  Biological Process	interpro	domain		cd06445,TIGR00589,PF01035	GO:0003824,GO:0006281
+IPR014052	DNA primase, small subunit, eukaryotic/archaeal  Biological Process	interpro	family		cd04860,TIGR00335	GO:0003896,GO:0006269
+IPR014140	DNA helicase subunit AddB  Biological Process	interpro	family		TIGR02773,MF_01452	GO:0016788,GO:0000724
+IPR014382	DNA-directed DNA polymerase, family B, adenovirus  Biological Process	interpro	family		PIRSF000788,MF_04055	GO:0003887,GO:0039693
+IPR014416	DNA-directed DNA polymerase, family B, phi29-like virus  Biological Process	interpro	family		PIRSF004178	GO:0001882,GO:0003887,GO:0039693
+IPR014711	DNA topoisomerase I, catalytic core, alpha-helical subdomain, eukaryotic-type  Biological Process	interpro	homologous_superfamily		G3DSA:3.90.15.10	GO:0003677,GO:0003917,GO:0006265
+IPR014727	DNA topoisomerase I, catalytic core, alpha/beta subdomain  Biological Process	interpro	homologous_superfamily		G3DSA:1.10.132.10	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR015088	Zinc finger, DNA-directed DNA polymerase, family B, alpha  Biological Process	interpro	domain		PF08996	GO:0003887,GO:0006260
+IPR015094	Integrase, lambda-type, N-terminal DNA-binding  Biological Process	interpro	domain		PF09003	GO:0003677,GO:0008907,GO:0015074
+IPR015199	DNA polymerase III, delta subunit, C-terminal  Biological Process	interpro	domain		PF09115	GO:0003677,GO:0003887,GO:0006260,GO:0009360
+IPR015281	DNA beta-glucosyltransferase, bacteriophage  Biological Process	interpro	family		PF09198	GO:0033821,GO:0099018
+IPR015311	DNA fragmentation factor 40, C-terminal  Biological Process	interpro	domain		PF09230	GO:0016787,GO:0006309,GO:0005634,GO:0005737
+IPR015320	DNA topoisomerase VI, subunit B, transducer  Biological Process	interpro	domain		cd00823,PF09239	GO:0003677,GO:0003918,GO:0006265
+IPR015346	DNA topoisomerase I, N-terminal, viral  Biological Process	interpro	domain		PF09266	GO:0003677,GO:0003916,GO:0006265
+IPR015350	Beta-trefoil DNA-binding domain  Biological Process	interpro	domain		SM01268,PF09270	GO:0000978,GO:0006357
+IPR015351	RBP-J/Cbf11/Cbf12, DNA binding  Biological Process	interpro	domain		SM01267,PF09271	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR015408	Zinc finger, Mcm10/DnaG-type  Biological Process	interpro	domain		PF09329	GO:0006260,GO:0005634
+IPR015637	Uracil DNA glycosylase family 2  Biological Process	interpro	family		PTHR12159,cd10028	GO:0000700,GO:0006285
+IPR015712	DNA-directed RNA polymerase, subunit 2  Biological Process	interpro	family		cd00653,PTHR20856	GO:0003899,GO:0032549,GO:0006351
+IPR015833	DNA-directed DNA polymerase, family B, mitochondrial linear plasmid  Biological Process	interpro	family		PIRSF006517	GO:0003677,GO:0003887,GO:0006260,GO:0005739
+IPR015886	DNA glycosylase/AP lyase, H2TH DNA-binding  Biological Process	interpro	domain		SM01232,PF06831	GO:0003684,GO:0003906,GO:0008270,GO:0016799,GO:0006284
+IPR015887	DNA glycosylase/AP lyase, zinc finger domain, DNA-binding site  Biological Process	interpro	binding_site		PS01242	GO:0003677,GO:0003906,GO:0008270,GO:0016799,GO:0006281
+IPR016151	DNA mismatch repair protein MutS, N-terminal  Biological Process	interpro	homologous_superfamily		G3DSA:3.40.1170.10,SSF55271	GO:0005524,GO:0030983,GO:0006298
+IPR016202	Deoxyribonuclease I  Biological Process	interpro	family		SM00476,PIRSF000988,PR00130	GO:0004536,GO:0006308
+IPR016266	DNA polymerase epsilon, subunit B  Biological Process	interpro	family		PIRSF000799,PTHR12708	GO:0003677,GO:0006261,GO:0008622
+IPR016306	DNA ligase, bacteriophage T7-type  Biological Process	interpro	family		PIRSF001600	GO:0003910,GO:0006266
+IPR016544	N-glycosylase/DNA lyase  Biological Process	interpro	family		MF_01168,PIRSF008955	GO:0000702,GO:0003906,GO:0006284
+IPR016587	DNA damage checkpoint control protein Rad17  Biological Process	interpro	family		PIRSF011769	GO:0003684,GO:0003690,GO:0000077,GO:0006302,GO:0007131,GO:0030896
+IPR016644	T-DNA border endonuclease virD2  Biological Process	interpro	family		PIRSF016095	GO:0004520,GO:0051819
+IPR016810	DNA repair protein Rad59  Biological Process	interpro	family		PIRSF022936	GO:0045002
+IPR017198	DNA (cytosine-5)-methyltransferase 1-like  Biological Process	interpro	family		PIRSF037404	GO:0003886,GO:0006346,GO:0005634
+IPR017261	DNA mismatch repair protein MutS/MSH  Biological Process	interpro	family		PIRSF037677	GO:0030983,GO:0006298
+IPR017299	DNA fragmentation factor 45  Biological Process	interpro	family		PIRSF037865	GO:0060703,GO:0006309
+IPR017788	DnaA regulatory inactivator Hda  Biological Process	interpro	family		TIGR03420	GO:0032297
+IPR017961	DNA polymerase, Y-family, little finger domain  Biological Process	interpro	domain		PF11799	GO:0003684,GO:0006281
+IPR017985	DNA methylase, N-4 cytosine-specific, conserved site  Biological Process	interpro	conserved_site		PS00093	GO:0003677,GO:0015667,GO:0009307
+IPR018060	DNA binding HTH domain, AraC-type  Biological Process	interpro	domain		PF12833,PF00165,PS01124,SM00342	GO:0003700,GO:0043565,GO:0006355
+IPR018078	DNA-binding, RecF, conserved site  Biological Process	interpro	conserved_site		PS00617,PS00618	GO:0003697,GO:0005524,GO:0006281
+IPR018085	Uracil-DNA glycosylase, active site  Biological Process	interpro	active_site		PS00130	GO:0016799,GO:0006281
+IPR018312	Chromosomal replication control, initiator DnaA, conserved site  Biological Process	interpro	conserved_site		PS01008	GO:0003677,GO:0003688,GO:0005524,GO:0006270,GO:0006275
+IPR018320	DNA polymerase 1  Biological Process	interpro	family		TIGR00593	GO:0003887,GO:0006260
+IPR018382	DNA polymerase III, psi subunit, subgroup  Biological Process	interpro	family		TIGR00664	GO:0003887,GO:0008408,GO:0006260
+IPR018521	DNA topoisomerase I, active site  Biological Process	interpro	active_site		PS00176	GO:0003677,GO:0003917,GO:0006265
+IPR018522	DNA topoisomerase, type IIA, conserved site  Biological Process	interpro	conserved_site		PS00177	GO:0003677,GO:0003918,GO:0005524,GO:0006265
+IPR018622	DNA damage checkpoint protein, Lcd1  Biological Process	interpro	family		PF09798	GO:0000077
+IPR019038	DNA polymerase delta subunit 3  Biological Process	interpro	family		PF09507,PTHR17598	GO:0006260,GO:0005634,GO:0043625
+IPR019462	DNA-directed RNA polymerase, beta subunit, external 1 domain  Biological Process	interpro	domain		PF10385	GO:0003899,GO:0006351
+IPR019760	DNA-directed DNA polymerase, family A, conserved site  Biological Process	interpro	conserved_site		PS00447	GO:0003887,GO:0006260
+IPR019969	DNA-directed RNA polymerase subunit Rpo2  Biological Process	interpro	family		TIGR03670	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR020448	Maltose fermentation regulatory protein, DNA-binding domain  Biological Process	interpro	domain		PR00054	GO:0000981,GO:0003677,GO:0008270,GO:0006355,GO:0005634
+IPR020584	DNA recombination/repair protein RecA, conserved site  Biological Process	interpro	conserved_site		PS00321	GO:0003677,GO:0005524,GO:0008094,GO:0006259
+IPR020587	DNA recombination and repair protein RecA, monomer-monomer interface  Biological Process	interpro	domain		PS50163	GO:0003677,GO:0005524,GO:0008094,GO:0006259
+IPR020588	DNA recombination and repair protein RecA-like, ATP-binding domain  Biological Process	interpro	domain		PS50162	GO:0003677,GO:0005524,GO:0140664,GO:0006281
+IPR020604	CTF transcription factor/nuclear factor 1, DNA-binding domain  Biological Process	interpro	domain		PS51080	GO:0003700,GO:0006355,GO:0005634
+IPR020629	Formamidopyrimidine-DNA glycosylase  Biological Process	interpro	family		MF_00103,TIGR00577	GO:0003906,GO:0008270,GO:0008534,GO:0006281
+IPR020667	DNA mismatch repair protein, MutL  Biological Process	interpro	family		MF_00149	GO:0006298
+IPR020708	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site  Biological Process	interpro	conserved_site		PS01111	GO:0003677,GO:0003899,GO:0006351
+IPR020900	Arginine repressor, DNA-binding domain  Biological Process	interpro	domain		PF01316	GO:0003700,GO:0006355,GO:0006525
+IPR020917	Primosomal protein 1  Biological Process	interpro	family		MF_01061	GO:0006260,GO:1990077
+IPR020923	DNA ligase B  Biological Process	interpro	family		MF_01587	GO:0003911,GO:0006259,GO:0006260
+IPR021110	DNA replication/checkpoint protein  Biological Process	interpro	family		PF11719	GO:0006260
+IPR021170	DnaJ homologue subfamily C member 10  Biological Process	interpro	family		PIRSF037293	GO:0015036,GO:0034975,GO:0005783
+IPR022312	DNA polymerase family X  Biological Process	interpro	family		PTHR11276,PR00869	GO:0003677,GO:0003887,GO:0006281
+IPR022634	DNA polymerase III, beta sliding clamp, N-terminal  Biological Process	interpro	domain		PF00712	GO:0003677,GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022635	DNA polymerase III, beta sliding clamp, C-terminal  Biological Process	interpro	domain		PF02768	GO:0003677,GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022637	DNA polymerase III, beta sliding clamp, central  Biological Process	interpro	domain		PF02767	GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022842	DNA-directed RNA polymerase subunit Rpo3/Rpb3/RPAC1  Biological Process	interpro	family		MF_00320	GO:0003899,GO:0006351
+IPR022905	DNA-directed RNA polymerase subunit Rpo11-like  Biological Process	interpro	family		MF_00261	GO:0003899,GO:0006351
+IPR023464	DNA-directed RNA polymerase subunit Rpo12  Biological Process	interpro	family		MF_00615	GO:0003677,GO:0003899,GO:0006351
+IPR023502	G/U mismatch-specific DNA glycosylase MUG, bacterial  Biological Process	interpro	family		MF_01956	GO:0000700,GO:0006285
+IPR023546	Methylated-DNA--protein-cysteine methyltransferase  Biological Process	interpro	family		MF_00772	GO:0003824,GO:0006281
+IPR024661	DNA-directed RNA polymerase III, subunit Rpc31  Biological Process	interpro	family		PF11705,PIRSF000777,PTHR15367	GO:0006383
+IPR024824	Growth arrest and DNA damage-inducible protein GADD45  Biological Process	interpro	family		PTHR10411	GO:0051726,GO:0005634
+IPR026052	DNA-binding protein inhibitor  Biological Process	interpro	family		PTHR11723	GO:0000122,GO:0045892,GO:0005737
+IPR026213	DNA-directed RNA polymerase II subunit GRINL1  Biological Process	interpro	family		PR02085,PF15328	GO:0003711,GO:0006368,GO:0005634
+IPR026256	DNA transformation protein TfoX-like, gammaproteobacteria  Biological Process	interpro	family		PIRSF028788	GO:0030420
+IPR026697	Dynein axonemal assembly factor 6  Biological Process	interpro	family		PTHR21083	GO:0051087,GO:0070286
+IPR027109	SWR1-complex protein 4/DNA methyltransferase 1-associated protein 1  Biological Process	interpro	family		PTHR12855	GO:0006281,GO:0006338,GO:0035267
+IPR027249	DNA-directed DNA/RNA polymerase mu  Biological Process	interpro	family		PIRSF501176	GO:0003887,GO:0006281,GO:0005634
+IPR028040	Type 2 DNA topoisomerase 6 subunit B-like  Biological Process	interpro	family		PTHR14652,PF15091	GO:0042138
+IPR028363	DNA-directed RNA polymerase, subunit RPB6  Biological Process	interpro	family		PIRSF500154	GO:0003899,GO:0006351,GO:0005634,GO:0005665
+IPR028612	DNA topoisomerase I, type IA  Biological Process	interpro	family		MF_00952	GO:0003677,GO:0003916,GO:0006265
+IPR028880	ATP-dependent DNA helicase Rrm3  Biological Process	interpro	family		MF_03177	GO:0003678,GO:0000723,GO:0006260,GO:0005657
+IPR029703	DNA polymerase epsilon catalytic subunit  Biological Process	interpro	family		PTHR10670	GO:0003677,GO:0003887,GO:0006260,GO:0006281,GO:0008622
+IPR029710	DNA ligase 4  Biological Process	interpro	family		PTHR45997	GO:0003677,GO:0003910,GO:0005524,GO:0006281,GO:0051103
+IPR029757	DNA-directed RNA polymerase subunit delta  Biological Process	interpro	family		TIGR04567,MF_00357	GO:0006351,GO:0006355
+IPR030488	DNA (cytosine-5)-methyltransferase 3B, ADD domain  Biological Process	interpro	domain		cd11728	GO:0009008,GO:0010468
+IPR030547	DNA repair protein XRCC2  Biological Process	interpro	family		PTHR46644	GO:0000724,GO:0006281,GO:0005657,GO:0033063
+IPR030548	DNA repair protein RAD51 homologue 2  Biological Process	interpro	family		PTHR46456	GO:0003677,GO:0000724,GO:0006281,GO:0033063
+IPR030559	DNA polymerase zeta catalytic subunit  Biological Process	interpro	family		PTHR45812	GO:0006281,GO:0019985,GO:0016035
+IPR030846	DNA primase DnaG, bacteria  Biological Process	interpro	family		PIRSF002811,MF_00974	GO:0003896,GO:0008270,GO:0006269
+IPR031047	DNA helicase INO80, DEAQ-box helicase domain  Biological Process	interpro	domain		cd18002	GO:0005524,GO:0140658,GO:0006281,GO:0006338,GO:0006351,GO:0005634,GO:0031011
+IPR031053	Chromodomain-helicase-DNA-binding protein 1-like  Biological Process	interpro	family		PTHR47157	GO:0003678,GO:0006281,GO:0006338
+IPR032852	DNA oxidative demethylase ALKBH2  Biological Process	interpro	family		PTHR31573	GO:0006281
+IPR032854	Alkylated DNA repair protein alkB homologue 3  Biological Process	interpro	family		PTHR31212	GO:0051213,GO:0006281,GO:0006307
+IPR032885	DNA double-strand break repair protein Mre11, archaea-type  Biological Process	interpro	family		MF_02044	GO:0006302
+IPR033246	DNA-binding protein BIN4  Biological Process	interpro	family		PTHR34810	GO:0003690,GO:0042023,GO:0009330
+IPR033312	DNA damage-binding protein 2  Biological Process	interpro	family		PTHR15169	GO:0003684,GO:0006281,GO:0005634,GO:0080008
+IPR033685	DNA primase  Biological Process	interpro	family		MF_04011	GO:0003896,GO:0039686
+IPR034566	Type 2 DNA topoisomerase 6 subunit B-like, plants  Biological Process	interpro	family		PTHR36722	GO:0042138
+IPR034678	DNA-directed RNA polymerase subunit RpoC1  Biological Process	interpro	family		MF_01323	GO:0003899,GO:0006351
+IPR034699	DNA-directed DNA polymerase T7  Biological Process	interpro	family		MF_04101	GO:0008408,GO:0006261
+IPR034724	Chromodomain-helicase-DNA-binding protein 8  Biological Process	interpro	family		MF_03071	GO:0006338
+IPR034749	DNA-directed DNA polymerase T4 type  Biological Process	interpro	family		MF_04100	GO:0003677,GO:0003887,GO:0008408,GO:0039693
+IPR035184	DNA replication protein 17  Biological Process	interpro	family		PF17549	GO:0039693
+IPR036185	DNA helicase, DnaB-like, N-terminal domain superfamily  Biological Process	interpro	homologous_superfamily		SSF48024	GO:0003678,GO:0005524,GO:0006260
+IPR036202	DNA topoisomerase I, DNA binding, eukaryotic-type, N-terminal domain superfamily  Biological Process	interpro	homologous_superfamily		SSF56741	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR036362	Adenovirus DNA-binding, N-terminal domain superfamily  Biological Process	interpro	homologous_superfamily		SSF47724,G3DSA:1.10.269.10	GO:0003677,GO:0006260,GO:0006351
+IPR036395	Copper fist DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		SSF57879,G3DSA:3.90.430.10	GO:0003677,GO:0003700,GO:0005507,GO:0006355,GO:0005634
+IPR036407	DM DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:4.10.1040.10,SSF82927	GO:0043565,GO:0006355
+IPR036599	DNA ligase, ATP-dependent, N-terminal domain superfamily  Biological Process	interpro	homologous_superfamily		SSF117018,G3DSA:1.10.3260.10	GO:0003677,GO:0003910,GO:0006281,GO:0006310
+IPR036631	Methylated DNA-protein cysteine methyltransferase domain superfamily  Biological Process	interpro	homologous_superfamily		SSF53155	GO:0003908,GO:0006281
+IPR036654	DNA polymerase III, psi subunit superfamily  Biological Process	interpro	homologous_superfamily		SSF102220,G3DSA:3.40.50.10220	GO:0003887,GO:0008408,GO:0006260
+IPR036745	DNA polymerase III-theta superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:1.20.58.250,SSF46575	GO:0003677,GO:0003887,GO:0006260
+IPR036775	DNA polymerase, Y-family, little finger domain superfamily  Biological Process	interpro	homologous_superfamily		SSF100879,G3DSA:3.30.1490.100	GO:0003684,GO:0006281
+IPR036864	Zn(2)-C6 fungal-type DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:4.10.240.10,SSF57701	GO:0000981,GO:0008270,GO:0006355
+IPR036977	DNA Primase, CHC2-type zinc finger  Biological Process	interpro	homologous_superfamily		G3DSA:3.90.580.10	GO:0003677,GO:0008270,GO:0006260
+IPR036995	Methylpurine-DNA glycosylase superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:3.10.300.10	GO:0003677,GO:0003905,GO:0006284
+IPR037033	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:2.40.270.10	GO:0003677,GO:0003899,GO:0006351
+IPR037059	Rel homology domain (RHD), DNA-binding domain superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:2.60.40.340	GO:0003677,GO:0003700,GO:0006355
+IPR037095	RBP-J/Cbf11, DNA binding domain superfamily  Biological Process	interpro	homologous_superfamily		G3DSA:2.60.40.1450	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR037211	Bacteriophage DNA replication protein Gp16.7 superfamily  Biological Process	interpro	homologous_superfamily		SSF140713,G3DSA:1.10.8.600	GO:0039693
+IPR037392	YfmP, Helix-Turn-Helix DNA binding domain  Biological Process	interpro	domain		cd04774	GO:0003677,GO:0006355
+IPR037489	DNA repair RAD52-like protein  Biological Process	interpro	family		PTHR34050	GO:0003677,GO:0000724
+IPR037540	DNA-binding protein, Adenovirus  Biological Process	interpro	family		MF_04054	GO:0003677,GO:0006268
+IPR037706	DNA-dependent protein kinase catalytic subunit, catalytic domain  Biological Process	interpro	domain		cd05172	GO:0004677,GO:0006281
+IPR038846	DNA-directed RNA polymerase III subunit RPC9  Biological Process	interpro	family		PTHR15561	GO:0006384,GO:0005666
+IPR038859	DNA-binding protein RHL1  Biological Process	interpro	family		PTHR35698	GO:0003677,GO:0042023
+IPR038973	DNA mismatch repair protein MutL/Mlh/Pms-like  Biological Process	interpro	family		PTHR10073	GO:0016887,GO:0140664,GO:0006298,GO:0032300
+IPR039134	Single-strand selective monofunctional uracil DNA glycosylase  Biological Process	interpro	family		cd19374,PTHR13235	GO:0017065,GO:0006284
+IPR039304	Dynein assembly factor 3, axonemal  Biological Process	interpro	family		PTHR22118	GO:0070286
+IPR039673	DNA-binding protein SATB1/SATB2  Biological Process	interpro	family		PTHR15116	GO:0003677,GO:0006338
+IPR039729	DNA fragmentation factor 40  Biological Process	interpro	family		PTHR13067	GO:0004520,GO:0006309
+IPR039920	DNA repair/transcription protein MET18/MMS19  Biological Process	interpro	family		PTHR12891	GO:0097428
+IPR040203	DNA replication regulator Sld2  Biological Process	interpro	family		PTHR28124	GO:0006270
+IPR042238	DNA excision repair protein Rad28/ERCC8/Ckn1/ATCSA-1  Biological Process	interpro	family		PTHR46202	GO:0006283
+IPR042361	Z-DNA-binding protein 1  Biological Process	interpro	family		PTHR14966	GO:0003677,GO:0060340
+IPR042429	Swi5-dependent recombination DNA repair protein 1 homolog  Biological Process	interpro	family		PTHR28643	GO:0030374,GO:0000724,GO:0032798
+IPR042511	DNA replication regulator Sld3  Biological Process	interpro	family		PTHR28067	GO:0006270
+IPR043183	DnaJ homolog subfamily B member 2/6-like  Biological Process	interpro	family		PTHR45168	GO:0030544,GO:0051082,GO:0061077
+IPR043522	DNA damage-induced apoptosis suppressor protein  Biological Process	interpro	family		PTHR35537	GO:1902230
+IPR044108	DNA (cytosine-5)-methyltransferase 3A, ADD domain  Biological Process	interpro	domain		cd11729	GO:0010468
+IPR044147	Uracil DNA glycosylase family 5  Biological Process	interpro	domain		cd10031	GO:0004844,GO:0033958,GO:0051536,GO:0006284
+IPR044298	Adenine/Thymine-DNA glycosylase  Biological Process	interpro	family		PTHR42944	GO:0016798,GO:0006284
+IPR044632	DnaJ homolog subfamily C member 25-like  Biological Process	interpro	family		PTHR44176	GO:0006457
+IPR044634	J-protein Zuotin/DnaJC2  Biological Process	interpro	family		PTHR43999	GO:0030544,GO:0043022,GO:0006450,GO:0051083
+IPR044713	DnaJ homolog subfamily A member 1/2-like  Biological Process	interpro	family		PTHR43888	GO:0030544,GO:0006457
+IPR044811	DNA glycosylase, plant  Biological Process	interpro	family		PTHR46213	GO:0019104,GO:0035514,GO:0141166
+IPR044917	DNA-directed primase/polymerase protein  Biological Process	interpro	family		PTHR31399	GO:0003887,GO:0003896,GO:0042276
+IPR044978	DnaJ homologue subfamily C, GRV2/DNAJC13  Biological Process	interpro	family		PTHR36983	GO:0007032,GO:2000641
+IPR045076	DNA mismatch repair MutS  Biological Process	interpro	family		PTHR48466,PTHR11361	GO:0005524,GO:0030983,GO:0140664,GO:0006298
+IPR045173	DNA replication factor Cdt1  Biological Process	interpro	family		PTHR28637	GO:0003677,GO:0030174,GO:0071163
+IPR045177	Factor of DNA methylation 1-5/IDN2  Biological Process	interpro	family		PTHR21596	GO:0080188
+IPR045581	DNA-dependent protein kinase catalytic subunit, CC5  Biological Process	interpro	domain		PF19704	GO:0006303
+IPR045846	DNA polymerase alpha catalytic subunit, catalytic domain  Biological Process	interpro	domain		cd05532	GO:0003887,GO:1902975
+IPR045867	DNA-directed RNA polymerase, subunit beta-prime  Biological Process	interpro	family		PTHR19376	GO:0003899,GO:0006351
+IPR046360	T-box transcription factor, DNA-binding domain  Biological Process	interpro	domain		PS50252,PF00907,SM00425,PR00937	GO:0003700,GO:0045893
+IPR046393	Bacteriophage T4 DnaB-like replicative helicase  Biological Process	interpro	family		MF_04155	GO:0003678,GO:0005524,GO:0032508
+IPR046399	DNA-directed RNA polymerase subunit Rpo7  Biological Process	interpro	family		MF_00865	GO:0006351,GO:0000428
+IPR047112	ATP-dependent DNA helicase RecG/Transcription-repair-coupling factor  Biological Process	interpro	family		PTHR47964	GO:0006281
+IPR047580	DNA polymerase gamma, palm domain  Biological Process	interpro	domain		cd08641	GO:0003887,GO:0006264
+IPR047587	DNA-(apurinic or apyrimidinic site) endonuclease  Biological Process	interpro	family		MF_04167	GO:0003906,GO:0099015
+IPR049912	CRESS-DNA virus replication initiator protein, endonuclease domain  Biological Process	interpro	domain		PF02407,PF00799,PS52020	GO:0006260
+IPR054745	DNA double-strand break repair protein Mre11, thermococcales  Biological Process	interpro	family		NF041029	GO:0000729
+Accession	Name Cellular Components	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+IPR000635	Viral ssDNA-binding protein Cellular Component	interpro	family		MF_04007,PF00747	GO:0003697,GO:0006260,GO:0042025
+IPR001001	DNA polymerase III, beta sliding clamp Cellular Component	interpro	family		PIRSF000804,cd00140,PTHR30478,TIGR00663,SM00480	GO:0003677,GO:0006260,GO:0009360
+IPR002297	DNA-directed DNA-polymerase, family A, mitochondria Cellular Component	interpro	family		PTHR10267,PIRSF000797,PR00867	GO:0003677,GO:0006260,GO:0005760
+IPR002706	DNA-repair protein Xrcc1, N-terminal Cellular Component	interpro	domain		PF01834	GO:0003684,GO:0000012,GO:0005634
+IPR002815	Spo11/DNA topoisomerase VI subunit A Cellular Component	interpro	family		PR01550,PTHR10848	GO:0003677,GO:0003918,GO:0005694
+IPR003316	E2F/DP family, winged-helix DNA-binding domain Cellular Component	interpro	domain		SM01372,PF02319	GO:0006355,GO:0005667
+IPR003701	DNA double-strand break repair protein Mre11 Cellular Component	interpro	family		PIRSF000882,TIGR00583	GO:0004520,GO:0008296,GO:0006302,GO:0030870
+IPR004085	DNA topoisomerase VI, subunit A Cellular Component	interpro	family		MF_00132,PR01552	GO:0003677,GO:0003918,GO:0006265,GO:0005694
+IPR004186	Epstein Barr virus nuclear antigen-1, DNA-binding Cellular Component	interpro	domain		PF02905	GO:0003677,GO:0006275,GO:0045893,GO:0042025
+IPR004583	DNA repair protein Rad4 Cellular Component	interpro	family		PTHR12135	GO:0003684,GO:0006289,GO:0005634
+IPR004584	DNA repair protein Rad50, eukaryotes Cellular Component	interpro	family		TIGR00606	GO:0016887,GO:0000723,GO:0006281,GO:0005634,GO:0030870
+IPR004585	DNA recombination/repair protein Rad52 Cellular Component	interpro	family		TIGR00607	GO:0000724,GO:0000730,GO:0045002,GO:0005634
+IPR005737	DNA topoisomerase IV, subunit B, Gram-negative Cellular Component	interpro	family		MF_00938,TIGR01055,PR01098	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005740	DNA topoisomerase 4 subunit B, Firmicutes/Mollicutes Cellular Component	interpro	family		MF_00939,TIGR01058	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005741	DNA topoisomerase IV subunit A, Gram-positive Cellular Component	interpro	family		MF_00937,TIGR01061	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005742	DNA topoisomerase IV, subunit A, Gram-negative Cellular Component	interpro	family		MF_00936	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005743	DNA gyrase, subunit A Cellular Component	interpro	family		MF_01897	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR005751	ATP-dependent DNA helicase PcrA Cellular Component	interpro	family		TIGR01073	GO:0003678,GO:0006268,GO:0005737
+IPR005753	DNA helicase, ATP-dependent, UvrD type Cellular Component	interpro	family		TIGR01075	GO:0003678,GO:0006268,GO:0005737
+IPR006308	DNA polymerase III, alpha subunit, PolC-type, Gram-positive bacteria Cellular Component	interpro	family		MF_00356,TIGR01405	GO:0003677,GO:0003887,GO:0006260,GO:0005737
+IPR006779	DNA binding protein S1FA Cellular Component	interpro	family		PTHR35298,PF04689	GO:0003677,GO:0006355,GO:0005634
+IPR006821	Intermediate filament head, DNA-binding domain Cellular Component	interpro	domain		PF04732	GO:0005882
+IPR006886	DNA-directed RNA polymerase III subunit Rpc5 Cellular Component	interpro	family		PTHR12069,PF04801	GO:0006351,GO:0005634
+IPR007015	DNA polymerase V/Myb-binding protein 1A Cellular Component	interpro	family		PF04931,PTHR13213	GO:0003677,GO:0008134,GO:0006355,GO:0005730
+IPR007257	DNA replication complex GINS protein Psf2 Cellular Component	interpro	family		PIRSF028998,PTHR12772	GO:0006260,GO:0005634
+IPR007281	Mre11, DNA-binding Cellular Component	interpro	domain		SM01347,PF04152	GO:0004519,GO:0030145,GO:0006302,GO:0005634
+IPR007811	DNA-directed RNA polymerase III subunit RPC4 Cellular Component	interpro	family		PTHR13408,PF05132	GO:0003677,GO:0006383,GO:0005666
+IPR008045	DNA replication licensing factor Mcm2 Cellular Component	interpro	family		PF12619,PR01658	GO:0003677,GO:0005524,GO:0006270,GO:1905775,GO:0005634,GO:0042555
+IPR008046	DNA replication licensing factor Mcm3 Cellular Component	interpro	family		PR01659	GO:0003677,GO:0005524,GO:0006270,GO:0042555
+IPR008048	DNA replication licensing factor Mcm5 Cellular Component	interpro	family		PR01661	GO:0003688,GO:0005524,GO:0006270,GO:0005634,GO:0042555
+IPR008049	DNA replication licensing factor Mcm6 Cellular Component	interpro	family		PR01662	GO:0003677,GO:0003678,GO:0005524,GO:0006270,GO:0005634,GO:0042555
+IPR008050	DNA replication licensing factor Mcm7 Cellular Component	interpro	family		cd17758,PR01663	GO:0003677,GO:0003678,GO:0005524,GO:0006270,GO:0042555
+IPR008468	DNA methyltransferase 1-associated 1 Cellular Component	interpro	domain		PF05499	GO:0045892,GO:0005634
+IPR008865	DNA replication terminus site-binding protein Cellular Component	interpro	family		MF_00483,PF05472,TIGR02648	GO:0003677,GO:0006274,GO:0005737
+IPR009674	DNA-directed RNA polymerase I subunit RPA2, domain 4 Cellular Component	interpro	domain		PF06883	GO:0003899,GO:0006351,GO:0005634
+IPR010347	Tyrosyl-DNA phosphodiesterase I Cellular Component	interpro	family		PF06087,PTHR12415	GO:0008081,GO:0006281,GO:0005634
+IPR010372	DNA polymerase III delta, N-terminal Cellular Component	interpro	domain		PF06144	GO:0003677,GO:0003887,GO:0006260,GO:0009360
+IPR010585	DNA repair protein XRCC4 Cellular Component	interpro	family		PTHR28559	GO:0003677,GO:0006302,GO:0006310,GO:0005634
+IPR011114	Holliday junction DNA helicase RuvA, C-terminal Cellular Component	interpro	domain		cd14332,PF07499	GO:0005524,GO:0009378,GO:0006281,GO:0006310,GO:0009379
+IPR011222	Double-stranded DNA virus, group I, capsid Cellular Component	interpro	homologous_superfamily		SSF88648	GO:0005198,GO:0019028
+IPR011557	DNA gyrase, subunit B Cellular Component	interpro	family		MF_01898,TIGR01059	GO:0003677,GO:0003918,GO:0005524,GO:0006265,GO:0005694
+IPR011564	Telomeric single stranded DNA binding POT1/Cdc13 Cellular Component	interpro	domain		SM00976,PF02765	GO:0003677,GO:0000723,GO:0000781
+IPR012346	p53/RUNT-type transcription factor, DNA-binding domain superfamily Cellular Component	interpro	homologous_superfamily		G3DSA:2.60.40.720	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR012582	DNA-dependent protein kinase catalytic subunit, CC3 Cellular Component	interpro	domain		PF08163,SM01344	GO:0006303,GO:0005634
+IPR012763	DNA polymerase III, subunit gamma/ tau, N-terminal Cellular Component	interpro	domain		TIGR02397	GO:0003887,GO:0005524,GO:0006260,GO:0009360
+IPR013030	DNA topoisomerase I, DNA binding, N-terminal domain 2 Cellular Component	interpro	homologous_superfamily		G3DSA:2.170.11.10	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR013049	Spo11/DNA topoisomerase VI, subunit A, N-terminal Cellular Component	interpro	domain		PF04406	GO:0003677,GO:0003824,GO:0005524,GO:0006259,GO:0005694
+IPR013498	DNA topoisomerase, type IA, zn finger Cellular Component	interpro	domain		PF01396	GO:0003677,GO:0003916,GO:0006265,GO:0005694
+IPR013499	DNA topoisomerase I, eukaryotic-type Cellular Component	interpro	domain		SM00435	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR013697	DNA polymerase epsilon, catalytic subunit A, C-terminal Cellular Component	interpro	domain		SM01159,PF08490	GO:0003887,GO:0008270,GO:0006260,GO:0005634
+IPR013725	DNA replication factor RFC1, C-terminal Cellular Component	interpro	domain		PF08519	GO:0003689,GO:0005524,GO:0006260,GO:0005663
+IPR014727	DNA topoisomerase I, catalytic core, alpha/beta subdomain Cellular Component	interpro	homologous_superfamily		G3DSA:1.10.132.10	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR015199	DNA polymerase III, delta subunit, C-terminal Cellular Component	interpro	domain		PF09115	GO:0003677,GO:0003887,GO:0006260,GO:0009360
+IPR015236	Methylated DNA-protein cysteine methyltransferase, ribonuclease H-like domain Cellular Component	interpro	domain		PF09153	GO:0005737
+IPR015311	DNA fragmentation factor 40, C-terminal Cellular Component	interpro	domain		PF09230	GO:0016787,GO:0006309,GO:0005634,GO:0005737
+IPR015351	RBP-J/Cbf11/Cbf12, DNA binding Cellular Component	interpro	domain		SM01267,PF09271	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR015408	Zinc finger, Mcm10/DnaG-type Cellular Component	interpro	domain		PF09329	GO:0006260,GO:0005634
+IPR015833	DNA-directed DNA polymerase, family B, mitochondrial linear plasmid Cellular Component	interpro	family		PIRSF006517	GO:0003677,GO:0003887,GO:0006260,GO:0005739
+IPR016266	DNA polymerase epsilon, subunit B Cellular Component	interpro	family		PIRSF000799,PTHR12708	GO:0003677,GO:0006261,GO:0008622
+IPR016587	DNA damage checkpoint control protein Rad17 Cellular Component	interpro	family		PIRSF011769	GO:0003684,GO:0003690,GO:0000077,GO:0006302,GO:0007131,GO:0030896
+IPR017198	DNA (cytosine-5)-methyltransferase 1-like Cellular Component	interpro	family		PIRSF037404	GO:0003886,GO:0006346,GO:0005634
+IPR017967	HMG box A DNA-binding domain, conserved site Cellular Component	interpro	conserved_site		PS00353	GO:0003677,GO:0005634
+IPR019038	DNA polymerase delta subunit 3 Cellular Component	interpro	family		PF09507,PTHR17598	GO:0006260,GO:0005634,GO:0043625
+IPR020085	DNA delivery protein, P32/P34 Cellular Component	interpro	family		PF11087	GO:0039641
+IPR020448	Maltose fermentation regulatory protein, DNA-binding domain Cellular Component	interpro	domain		PR00054	GO:0000981,GO:0003677,GO:0008270,GO:0006355,GO:0005634
+IPR020604	CTF transcription factor/nuclear factor 1, DNA-binding domain Cellular Component	interpro	domain		PS51080	GO:0003700,GO:0006355,GO:0005634
+IPR020607	DNA primase DnaG, archaea Cellular Component	interpro	family		MF_00007	GO:0003896,GO:0008143,GO:0000178
+IPR020906	Double-stranded DNA-binding Cren7 Cellular Component	interpro	family		PF11520,MF_01387	GO:0003690,GO:0005737
+IPR020917	Primosomal protein 1 Cellular Component	interpro	family		MF_01061	GO:0006260,GO:1990077
+IPR021170	DnaJ homologue subfamily C member 10 Cellular Component	interpro	family		PIRSF037293	GO:0015036,GO:0034975,GO:0005783
+IPR022634	DNA polymerase III, beta sliding clamp, N-terminal Cellular Component	interpro	domain		PF00712	GO:0003677,GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022635	DNA polymerase III, beta sliding clamp, C-terminal Cellular Component	interpro	domain		PF02768	GO:0003677,GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR022637	DNA polymerase III, beta sliding clamp, central Cellular Component	interpro	domain		PF02767	GO:0003887,GO:0008408,GO:0006260,GO:0009360
+IPR023278	Ethylene insensitive 3-like protein, DNA-binding domain superfamily Cellular Component	interpro	homologous_superfamily		SSF116768,G3DSA:1.10.3180.10	GO:0003700,GO:0005634
+IPR024824	Growth arrest and DNA damage-inducible protein GADD45 Cellular Component	interpro	family		PTHR10411	GO:0051726,GO:0005634
+IPR026052	DNA-binding protein inhibitor Cellular Component	interpro	family		PTHR11723	GO:0000122,GO:0045892,GO:0005737
+IPR026213	DNA-directed RNA polymerase II subunit GRINL1 Cellular Component	interpro	family		PR02085,PF15328	GO:0003711,GO:0006368,GO:0005634
+IPR027109	SWR1-complex protein 4/DNA methyltransferase 1-associated protein 1 Cellular Component	interpro	family		PTHR12855	GO:0006281,GO:0006338,GO:0035267
+IPR027249	DNA-directed DNA/RNA polymerase mu Cellular Component	interpro	family		PIRSF501176	GO:0003887,GO:0006281,GO:0005634
+IPR028363	DNA-directed RNA polymerase, subunit RPB6 Cellular Component	interpro	family		PIRSF500154	GO:0003899,GO:0006351,GO:0005634,GO:0005665
+IPR028880	ATP-dependent DNA helicase Rrm3 Cellular Component	interpro	family		MF_03177	GO:0003678,GO:0000723,GO:0006260,GO:0005657
+IPR029703	DNA polymerase epsilon catalytic subunit Cellular Component	interpro	family		PTHR10670	GO:0003677,GO:0003887,GO:0006260,GO:0006281,GO:0008622
+IPR030547	DNA repair protein XRCC2 Cellular Component	interpro	family		PTHR46644	GO:0000724,GO:0006281,GO:0005657,GO:0033063
+IPR030548	DNA repair protein RAD51 homologue 2 Cellular Component	interpro	family		PTHR46456	GO:0003677,GO:0000724,GO:0006281,GO:0033063
+IPR030559	DNA polymerase zeta catalytic subunit Cellular Component	interpro	family		PTHR45812	GO:0006281,GO:0019985,GO:0016035
+IPR031047	DNA helicase INO80, DEAQ-box helicase domain Cellular Component	interpro	domain		cd18002	GO:0005524,GO:0140658,GO:0006281,GO:0006338,GO:0006351,GO:0005634,GO:0031011
+IPR033246	DNA-binding protein BIN4 Cellular Component	interpro	family		PTHR34810	GO:0003690,GO:0042023,GO:0009330
+IPR033312	DNA damage-binding protein 2 Cellular Component	interpro	family		PTHR15169	GO:0003684,GO:0006281,GO:0005634,GO:0080008
+IPR036078	Spo11/DNA topoisomerase VI subunit A superfamily Cellular Component	interpro	homologous_superfamily		SSF56726	GO:0003677,GO:0005694
+IPR036202	DNA topoisomerase I, DNA binding, eukaryotic-type, N-terminal domain superfamily Cellular Component	interpro	homologous_superfamily		SSF56741	GO:0003677,GO:0003917,GO:0006265,GO:0005694
+IPR036395	Copper fist DNA-binding domain superfamily Cellular Component	interpro	homologous_superfamily		SSF57879,G3DSA:3.90.430.10	GO:0003677,GO:0003700,GO:0005507,GO:0006355,GO:0005634
+IPR037007	Epstein Barr virus nuclear antigen-1, DNA-binding domain superfamily Cellular Component	interpro	homologous_superfamily		G3DSA:3.30.70.390	GO:0003677,GO:0042025
+IPR037095	RBP-J/Cbf11, DNA binding domain superfamily Cellular Component	interpro	homologous_superfamily		G3DSA:2.60.40.1450	GO:0003677,GO:0003700,GO:0006355,GO:0005634
+IPR038846	DNA-directed RNA polymerase III subunit RPC9 Cellular Component	interpro	family		PTHR15561	GO:0006384,GO:0005666
+IPR038973	DNA mismatch repair protein MutL/Mlh/Pms-like Cellular Component	interpro	family		PTHR10073	GO:0016887,GO:0140664,GO:0006298,GO:0032300
+IPR039748	DNA-directed RNA polymerase III subunit RPC3 Cellular Component	interpro	family		PTHR12949	GO:0003697,GO:0005666
+IPR042429	Swi5-dependent recombination DNA repair protein 1 homolog Cellular Component	interpro	family		PTHR28643	GO:0030374,GO:0000724,GO:0032798
+IPR046399	DNA-directed RNA polymerase subunit Rpo7 Cellular Component	interpro	family		MF_00865	GO:0006351,GO:0000428

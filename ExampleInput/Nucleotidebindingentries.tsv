@@ -1,0 +1,64 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	pfam	domain	IPR000194		
+PF00027	Cyclic nucleotide-binding domain	pfam	domain	IPR000595		
+PF00070	Pyridine nucleotide-disulphide oxidoreductase	pfam	domain	IPR039648		
+PF00233	3'5'-cyclic nucleotide phosphodiesterase	pfam	domain	IPR002073		
+PF00268	Ribonucleotide reductase, small chain	pfam	domain	IPR000358		
+PF00317	Ribonucleotide reductase, all-alpha domain	pfam	domain	IPR013509		
+PF00736	EF-1 guanine nucleotide exchange domain	pfam	domain	IPR014038		
+PF01568	Molydopterin dinucleotide binding domain	pfam	domain	IPR006657		
+PF01656	CobQ/CobB/MinD/ParA nucleotide binding domain	pfam	domain	IPR002586		
+PF01663	Type I phosphodiesterase / nucleotide pyrophosphatase	pfam	family	IPR002591		
+PF02153	Prephenate dehydrogenase, nucleotide-binding domain	pfam	domain	IPR046826		
+PF02457	DisA bacterial checkpoint controller nucleotide-binding	pfam	family	IPR003390		
+PF02492	CobW/HypB/UreG, nucleotide-binding domain	pfam	domain	IPR003495		
+PF02852	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain	pfam	domain	IPR004099		
+PF02867	Ribonucleotide reductase, barrel domain	pfam	family	IPR000788		
+PF03205	Molybdopterin guanine dinucleotide synthesis protein B	pfam	domain	IPR004435		
+PF03407	Nucleotide-diphospho-sugar transferase	pfam	family	IPR005069		
+PF03726	Polyribonucleotide nucleotidyltransferase, RNA binding domain	pfam	domain	IPR015848		
+PF03759	PRONE (Plant-specific Rop nucleotide exchanger)	pfam	family	IPR005512		
+PF03819	MazG nucleotide pyrophosphohydrolase domain	pfam	domain	IPR004518		
+PF04142	Nucleotide-sugar transporter	pfam	family	IPR007271		
+PF04973	Nicotinamide mononucleotide transporter	pfam	family	IPR006419		
+PF05881	2',3'-cyclic nucleotide 3'-phosphodiesterase (CNP or CNPase)	pfam	family	IPR047325		
+PF07461	Nicotine adenine dinucleotide glycohydrolase (NADase)	pfam	family	IPR010900		
+PF07659	Nucleotide modification associated domain 1	pfam	domain	IPR011630		
+PF07717	Oligonucleotide/oligosaccharide-binding (OB)-fold	pfam	domain	IPR011709		
+PF07992	Pyridine nucleotide-disulphide oxidoreductase	pfam	domain	IPR023753		
+PF08343	Ribonucleotide reductase N-terminal	pfam	family	IPR013554		
+PF08471	Class II vitamin B12-dependent ribonucleotide reductase	pfam	family	IPR013678		
+PF08499	3'5'-cyclic nucleotide phosphodiesterase N-terminal	pfam	family	IPR013706		
+PF08591	Ribonucleotide reductase inhibitor	pfam	family	IPR013900		
+PF08609	Nucleotide exchange factor Fes1	pfam	repeat	IPR013918		
+PF08645	Polynucleotide kinase 3 phosphatase	pfam	family	IPR013954		
+PF09103	BRCA2, oligonucleotide/oligosaccharide-binding, domain 1	pfam	domain	IPR015187		
+PF09104	BRCA2, oligonucleotide/oligosaccharide-binding, domain 3	pfam	domain	IPR015188		
+PF10165	Guanine nucleotide exchange factor synembryn	pfam	family	IPR019318		
+PF11892	Pyrimidine/purine nucleotide monophosphate nucleosidase, C-terminal	pfam	family	IPR021826		
+PF12111	Polyribonucleotide phosphorylase C terminal	pfam	domain	IPR021968		
+PF12769	4TM region of pyridine nucleotide transhydrogenase, mitoch	pfam	family	IPR024605		
+PF13738	Pyridine nucleotide-disulphide oxidoreductase	pfam	family			
+PF13869	Nucleotide hydrolase	pfam	domain	IPR016706		
+PF14793	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidases	pfam	domain	IPR027820		
+PF16526	C-terminal leucine zipper domain of cyclic nucleotide-gated channels	pfam	coiled_coil	IPR032406		
+PF16559	GIT coiled-coil Rho guanine nucleotide exchange factor	pfam	coiled_coil	IPR032352		
+PF16782	Nucleotide exchange factor SIL1	pfam	repeat	IPR031884		
+PF16830	Nucleotide-Binding Domain 94 of RH	pfam	domain	IPR031789		
+PF17042	Nucleotide-binding C-terminal domain	pfam	domain	IPR031475		
+PF17839	C-terminal domain of cyclic nucleotide phosphodiesterase	pfam	domain	IPR040869		
+PF17845	FbpC C-terminal regulatory nucleotide binding domain	pfam	domain	IPR041230		
+PF17975	Ribonucleotide reductase alpha domain	pfam	domain	IPR040763		
+PF18072	Formylglycinamide ribonucleotide amidotransferase linker domain	pfam	domain	IPR041609		
+PF18076	Formylglycinamide ribonucleotide amidotransferase N-terminal	pfam	domain	IPR040707		
+PF18144	Second Messenger Oligonucleotide or Dinucleotide Synthetase domain	pfam	domain			
+PF18371	Flavin adenine dinucleotide (FAD)-dependent sulfhydryl oxidase	pfam	domain	IPR040986		
+PF18751	P-loop Nucleotide Kinase3	pfam	family	IPR040717		
+PF18753	Nucleotide modification associated domain 2	pfam	domain	IPR041180		
+PF18754	Nucleotide modification associated domain 3	pfam	domain	IPR041135		
+PF18756	Nucleotide modification associated domain 4	pfam	domain	IPR040613		
+PF18757	Nucleotide modification associated domain 5	pfam	domain	IPR040835		
+PF20301	Predicted novel nucleotide synthetase	pfam	family	IPR046875		
+PF21448	Deoxynucleotide monophosphate kinase	pfam	domain	IPR048444		
+PF21995	B12-dependent ribonucleotide reductase, insertion domain	pfam	domain	IPR054158		
+PF22660	Ribonucleotide synthetase preATP-grasp domain	pfam	domain	IPR054350		

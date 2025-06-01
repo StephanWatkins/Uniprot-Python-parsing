@@ -1,0 +1,1902 @@
+Accession	Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms
+IPR000081	Peptidase C3, picornavirus core protein 2A	interpro	domain		PF00947	GO:0008233,GO:0006508,GO:0016032
+IPR000100	Ribonuclease P	interpro	family		PTHR33992,MF_00227,TIGR00188,PF00825	GO:0000049,GO:0004526,GO:0008033
+IPR000123	RNA-directed DNA polymerase (reverse transcriptase), msDNA	interpro	family		cd03487,PR00866	GO:0003723,GO:0003964,GO:0006278
+IPR000176	mRNA methyltransferase-like	interpro	family		PF01358	
+IPR000199	Peptidase C3A/C3B, picornaviral	interpro	domain		PF00548	GO:0004197,GO:0006508
+IPR000208	RNA-directed RNA polymerase, fingers/palm subdomains, flavivirus	interpro	domain		PF00972	GO:0003968,GO:0005524
+IPR000228	RNA 3'-terminal phosphate cyclase	interpro	family		PIRSF005378,PTHR11096	GO:0006396
+IPR000241	Ribosomal RNA large subunit methyltransferase K/L-like, methyltransferase domain	interpro	domain		PF01170	
+IPR000268	DNA-directed RNA polymerase subunit RPABC5/Rpb10	interpro	family		PTHR23431,MF_00250,PIRSF005653,PF01194	GO:0003677,GO:0003899,GO:0006351
+IPR000343	Glutamyl-tRNA reductase	interpro	family		MF_00087,PIRSF000445,TIGR01035	GO:0008883,GO:0050661,GO:0033014
+IPR000394	RNA polymerase sigma factor 54	interpro	family		PIRSF000774,PTHR32248,PS00718,PS00717,PF00309,TIGR02395,PR00045	GO:0001216,GO:0016987
+IPR000468	Barstar (barnase inhibitor)	interpro	domain		PF01337	
+IPR000504	RNA recognition motif domain	interpro	domain		PF16367,PF00076,PS50102,SM00360	GO:0003723
+IPR000541	Cytoplasmic tRNA 2-thiolation protein 1	interpro	family		MF_03053,TIGR00269	GO:0000049,GO:0002098,GO:0034227
+IPR000605	Helicase, superfamily 3, single-stranded DNA/RNA virus	interpro	domain		PF00910	GO:0003723,GO:0003724
+IPR000629	ATP-dependent RNA helicase DEAD-box, conserved site	interpro	conserved_site		PS00039	
+IPR000684	RNA polymerase II, heptapeptide repeat, eukaryotic	interpro	repeat		PS00115,PF05001	GO:0003677,GO:0006366
+IPR000692	rRNA 2'-O-methyltransferase fibrillarin-like	interpro	family		SM01206,MF_00351,PF01269,PIRSF006540,PR00052	GO:0003723,GO:0008168,GO:0006364
+IPR000722	RNA polymerase, alpha subunit	interpro	domain		PF00623	GO:0003677,GO:0003899,GO:0006351
+IPR000783	RNA polymerase, subunit H/Rpb5 C-terminal	interpro	domain		PF01191	GO:0003677,GO:0003899,GO:0006351
+IPR000838	RNA polymerase sigma factor 70, ECF, conserved site	interpro	conserved_site		PS01063	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR000924	Glutamyl/glutaminyl-tRNA synthetase	interpro	family		PR00987	GO:0000166,GO:0004812,GO:0005524,GO:0043039
+IPR000943	RNA polymerase sigma-70	interpro	domain		PS00716,PS00715,PIRSF000770,PR00046	GO:0003700,GO:0006352,GO:0006355
+IPR000999	Ribonuclease III domain	interpro	domain		cd00593,PF14622,PF00636,PS50142,PS00517,SM00535	GO:0004525,GO:0006396
+IPR001009	Influenza RNA-dependent RNA polymerase subunit PA	interpro	family		PF00603	GO:0003723,GO:0039694
+IPR001072	RNA ligase, Pab1020 family	interpro	family		cd07894,TIGR01209,PR01048	
+IPR001130	3'-5' ssDNA/RNA exonuclease TatD-like	interpro	family		cd01310,PF01026,PIRSF005902	GO:0016788
+IPR001162	UvrC, RNAse H endonuclease domain	interpro	domain		PS50165,PF08459	GO:0009381
+IPR001205	RNA-directed RNA polymerase, C-terminal domain	interpro	domain		PF00680	GO:0003723,GO:0003968,GO:0006351
+IPR001233	RNA-splicing ligase, RtcB	interpro	family		PF01139,PS01288,PTHR11118	GO:0008452,GO:0006396
+IPR001247	Exoribonuclease, phosphorolytic domain 1	interpro	domain		PF01138	
+IPR001269	tRNA-dihydrouridine synthase	interpro	family		PIRSF006621	GO:0017150,GO:0050660,GO:0008033
+IPR001278	Arginine-tRNA ligase	interpro	family		MF_00123,TIGR00456,PTHR11956,PR01038	GO:0004814,GO:0005524,GO:0006420
+IPR001313	Pumilio RNA-binding repeat	interpro	repeat		PF22493,PF00806,PS50302,SM00025	GO:0003723
+IPR001328	Peptidyl-tRNA hydrolase	interpro	family		cd00462,MF_00083,PF01195,TIGR00447,PTHR17224	GO:0004045
+IPR001339	mRNA capping enzyme, adenylation domain	interpro	domain		cd07895,PF01331	GO:0004484,GO:0005524,GO:0006370
+IPR001352	Ribonuclease HII/HIII	interpro	family		PTHR10954	GO:0003723,GO:0004523
+IPR001407	Influenza RNA-dependent RNA polymerase subunit PB1	interpro	family		PIRSF000827,MF_04065,PF00602	GO:0003723,GO:0003968,GO:0039694
+IPR001412	Aminoacyl-tRNA synthetase, class I, conserved site	interpro	conserved_site		PS00178	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR001427	Pancreatic ribonuclease	interpro	family		PTHR11437,PR00794	GO:0003676
+IPR001514	DNA-directed RNA polymerase, 30-40kDa subunit, conserved site	interpro	conserved_site		PS00446	GO:0003677,GO:0003899,GO:0006351
+IPR001529	DNA-directed RNA polymerase, M/15kDa subunit	interpro	domain		SM00661,PF02150	GO:0006351
+IPR001537	tRNA/rRNA methyltransferase, SpoU type	interpro	domain		PF00588	GO:0003723,GO:0008173,GO:0006396
+IPR001566	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD	interpro	family		MF_01010	GO:0003723,GO:0008173,GO:0006396
+IPR001568	Ribonuclease T2-like	interpro	family		PTHR11240,PF00445	GO:0003723,GO:0033897
+IPR001587	Ribonuclease J, conserved site	interpro	conserved_site		PS01292	
+IPR001591	Influenza RNA-dependent RNA polymerase subunit PB2	interpro	family		MF_04062	GO:0003723,GO:0039694
+IPR001604	DNA/RNA non-specific endonuclease/pyrophosphatase/phosphodiesterase domain	interpro	domain		SM00892,PF01223	GO:0003676,GO:0016787,GO:0046872
+IPR001676	Picornavirus capsid	interpro	domain		PF00073	GO:0005198
+IPR001726	DNA nucleotidylexotransferase (TdT) / DNA-directed DNA/RNA polymerase mu	interpro	family		PIRSF000817,PR00871	GO:0034061
+IPR001737	Ribosomal RNA adenine methyltransferase KsgA/Erm	interpro	family		PS51689,PTHR11727,PF00398	
+IPR001748	Pre-mRNA-splicing factor BUD31	interpro	family		PF01125,PTHR19411,PR00322	GO:0005634
+IPR001788	RNA-dependent RNA polymerase, alsuviricetes	interpro	domain		PF00978	GO:0003723,GO:0003968,GO:0006351
+IPR001795	RNA-directed RNA polymerase, luteovirus	interpro	family		PF02123,PR00914	GO:0003723,GO:0003968,GO:0006351
+IPR001887	Barnase	interpro	family		cd00933,PR00117,PIRSF001013	GO:0003723,GO:0004521
+IPR001890	RNA-binding, CRM domain	interpro	domain		SM01103,PS51295,PF01985	GO:0003723
+IPR001900	Ribonuclease II/R	interpro	domain		SM00955,PF00773	GO:0003723,GO:0004540
+IPR002078	RNA polymerase sigma factor 54 interaction domain	interpro	domain		PF14532,PF00158,PS50045	GO:0005524,GO:0008134,GO:0006355
+IPR002092	DNA-directed RNA polymerase, phage-type	interpro	family		PS00489,PS00900,PTHR10102	GO:0003677,GO:0003899,GO:0006351
+IPR002156	Ribonuclease H domain	interpro	domain		PF13456,PF00075,PS50879	GO:0003676,GO:0004523
+IPR002166	RNA dependent RNA polymerase, hepatitis C virus	interpro	family		PF00998	GO:0003723,GO:0003968,GO:0039694
+IPR002218	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG-related	interpro	family		PTHR11806	GO:0050660,GO:0008033
+IPR002300	Aminoacyl-tRNA synthetase, class Ia	interpro	domain		PF00133	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR002301	Isoleucine-tRNA ligase	interpro	family		PR00984,TIGR00392	GO:0000166,GO:0004822,GO:0005524,GO:0006428
+IPR002302	Leucine-tRNA ligase	interpro	family		PTHR43740,MF_00049_B,TIGR00396,PR00985	GO:0000166,GO:0004823,GO:0005524,GO:0006429
+IPR002303	Valine-tRNA ligase	interpro	family		MF_02004,TIGR00422,PTHR11946,PR00986	GO:0000166,GO:0004832,GO:0005524,GO:0006438
+IPR002305	Aminoacyl-tRNA synthetase, class Ic	interpro	family		PF00579	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR002306	Tryptophan-tRNA ligase	interpro	family		cd00806,PR01039,TIGR00233	GO:0000166,GO:0004830,GO:0005524,GO:0006436
+IPR002307	Tyrosine-tRNA ligase	interpro	family		cd00805,TIGR00234,PR01040	GO:0000166,GO:0004831,GO:0005524,GO:0006437
+IPR002310	Glycine-tRNA ligase, alpha subunit	interpro	family		cd00733,MF_00254,TIGR00388,PF02091,PR01044	GO:0000166,GO:0004820,GO:0005524,GO:0006426,GO:0005737
+IPR002312	Aspartyl/Asparaginyl-tRNA synthetase, class IIb	interpro	family		PR01042	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR002313	Lysine-tRNA ligase, class II	interpro	family		MF_00252,TIGR00499	GO:0004824,GO:0005524,GO:0006430
+IPR002314	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)	interpro	domain		PF00587	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR002315	Glycyl-tRNA synthetase	interpro	family		TIGR00389	GO:0000166,GO:0004820,GO:0005524,GO:0006426,GO:0005737
+IPR002316	Proline-tRNA ligase, class IIa	interpro	family		PR01046	GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR002317	Serine-tRNA ligase, type1	interpro	family		MF_00176,TIGR00414,PIRSF001529,PTHR11778,PR00981	GO:0000166,GO:0004828,GO:0005524,GO:0006434
+IPR002318	Alanine-tRNA ligase, class IIc	interpro	family		TIGR00344,PR00980	GO:0000166,GO:0005737
+IPR002319	Phenylalanyl-tRNA synthetase	interpro	domain		PF01409	GO:0000049,GO:0004812,GO:0005524,GO:0043039
+IPR002320	Threonine-tRNA ligase, class IIa	interpro	family		MF_00184,TIGR00418,PR01047	GO:0004829,GO:0005524,GO:0006435,GO:0005737
+IPR002343	Paraneoplastic encephalomyelitis antigen	interpro	family		PR00961	GO:0003723,GO:1990904
+IPR002381	Ribonuclease PH, bacterial-type	interpro	family		cd11362,MF_00564,TIGR01966	GO:0000049,GO:0009022,GO:0008033
+IPR002463	Ornatin	interpro	family		PF02088,PR01184	GO:0007155,GO:0030193,GO:0005576
+IPR002464	DNA/RNA helicase, ATP-dependent, DEAH-box type, conserved site	interpro	conserved_site		PS00690	
+IPR002508	N-acetylmuramoyl-L-alanine amidase, catalytic domain	interpro	domain		cd02696,SM00646,PF01520	GO:0008745,GO:0009253
+IPR002527	Picornavirus 2B protein	interpro	domain		PF01552	
+IPR002547	tRNA-binding domain	interpro	domain		PS50886,PF01588	GO:0000049
+IPR002616	tRNA-guanine(15) transglycosylase-like	interpro	domain		PF01702,TIGR00449	GO:0006400
+IPR002649	tRNA (guanine-N1-)-methyltransferase TrmD	interpro	family		cd18080,PTHR46417,MF_00605,PIRSF000386,TIGR00088	GO:0052906,GO:0008033
+IPR002662	Birnavirus VP2 protein	interpro	family		PF01766	GO:0005198
+IPR002663	Birnavirus VP3 protein	interpro	family		PF01767	GO:0005198
+IPR002680	Alternative oxidase	interpro	family		cd01053,PTHR31803,PF01786,PIRSF005229	GO:0009916
+IPR002738	RNase P subunit p30	interpro	family		PF01876,PTHR13031	GO:0008033
+IPR002739	RNA-binding protein PAB1135-like	interpro	family		PTHR39652,MF_01112,PF01877	
+IPR002759	RNase P subunit Pop5/Rpp14/Rnp2-like	interpro	family		MF_00755,PF01900	GO:0001682,GO:0030677
+IPR002775	DNA/RNA-binding protein Alba-like	interpro	domain		PF01918	GO:0003676
+IPR002782	Mut7-C RNAse domain	interpro	domain		PF01927	
+IPR002833	Peptidyl-tRNA hydrolase, PTH2	interpro	family		cd02430,PF01981,PTHR12649,TIGR00283	GO:0004045
+IPR002845	tRNA ribose 2'-O-methyltransferase, aTrm56	interpro	family		PTHR42197,MF_00077,PF01994,PIRSF016123	GO:0008175,GO:0002128,GO:0005737
+IPR002877	Ribosomal RNA methyltransferase, FtsJ domain	interpro	domain		PF01728	GO:0008168,GO:0032259
+IPR002903	Ribosomal RNA small subunit methyltransferase H	interpro	family		PTHR11265,MF_01007,PF01795,PIRSF004486,TIGR00006	GO:0008168
+IPR002904	Lysine-tRNA ligase	interpro	family		PTHR37940,MF_00177,TIGR00467,PF01921	GO:0000166,GO:0004824,GO:0005524,GO:0006430,GO:0005737
+IPR002905	tRNA methyltransferase, Trm1	interpro	family		PTHR10631,PS51626,PF02005,TIGR00308	GO:0003723,GO:0016423,GO:0008033
+IPR002942	RNA-binding S4 domain	interpro	domain		PF01479,SM00363	GO:0003723
+IPR003138	Picornavirus coat protein VP4	interpro	family		PF02226	GO:0005198,GO:0019028
+IPR003182	RNA2 polyprotein	interpro	family		PF02248	GO:0046740,GO:0019028,GO:0044219
+IPR003358	tRNA (guanine-N-7) methyltransferase, Trmb type	interpro	family		PS51625,MF_01057,PF02390,PTHR23417,TIGR00091	GO:0008176,GO:0006400
+IPR003442	tRNA threonylcarbamoyl adenosine modification protein TsaE	interpro	family		TIGR00150,PF02367	GO:0002949
+IPR003477	mRNA interferase PemK-like	interpro	family		PTHR33988,PF02452,PIRSF033490	GO:0003677
+IPR003489	Ribosome hibernation promoting factor/RaiA	interpro	family		cd00552,PF02482,TIGR00741	GO:0044238
+IPR003676	Small auxin-up RNA	interpro	family		PTHR35296,PTHR31374,PTHR31929,PTHR31175,PF02519	GO:0009733
+IPR003682	rRNA small subunit methyltransferase G	interpro	family		PTHR31760,MF_00074,PIRSF003078,TIGR00138,PF02527	GO:0008649,GO:0006364,GO:0005737
+IPR003699	S-adenosylmethionine:tRNA ribosyltransferase-isomerase, QueA	interpro	family		PTHR30307,MF_00113,PF02547,TIGR00113	GO:0016740,GO:0016853
+IPR003711	CarD-like/TRCF, RNAP-interacting domain	interpro	domain		SM01058,PF02559	
+IPR003716	DNA-directed RNA polymerase, omega subunit	interpro	family		PTHR34476,MF_00366,TIGR00690	GO:0003899,GO:0006351
+IPR003720	tRNA sulfurtransferase ThiI	interpro	family		MF_00021	GO:0016783,GO:0034227
+IPR003732	D-aminoacyl-tRNA deacylase DTD	interpro	family		cd00563,MF_00518,PF02580,TIGR00256,PTHR10472	GO:0002161,GO:0051499,GO:0005737
+IPR003742	RNA methyltransferase RlmH	interpro	family		cd18081,PTHR33603,MF_00658,PIRSF004505,TIGR00246,PF02590	GO:0008168,GO:0006364
+IPR003750	Putative RNA methyltransferase	interpro	family		cd18086,PF02598,PTHR12150	
+IPR003772	Large ribosomal RNA subunit accumulation protein YceD	interpro	family		PF02620	
+IPR003789	Aspartyl/glutamyl-tRNA amidotransferase subunit B-like	interpro	homologous_superfamily		SSF89095	GO:0016884
+IPR003827	tRNA wybutosine-synthesizing protein	interpro	domain		PF02676	
+IPR003837	Glu-tRNAGln amidotransferase C subunit	interpro	family		MF_00122,PF02686,TIGR00135,PTHR15004	GO:0006450
+IPR003954	RNA recognition motif domain, eukaryote	interpro	domain		SM00361	GO:0003676
+IPR004175	RNA 2',3'-cyclic phosphodiesterase	interpro	family		PTHR35561,TIGR02258,MF_01940	GO:0004113,GO:0008664
+IPR004188	Phenylalanine-tRNA ligase, class II, N-terminal	interpro	domain		PF02912	GO:0000166,GO:0004826,GO:0005524,GO:0006432,GO:0005737
+IPR004206	mRNA triphosphatase Cet1-like	interpro	domain		cd07470,PF02940	GO:0004651
+IPR004284	Birnavirus VP5 protein	interpro	family		PF03042	
+IPR004341	CAT RNA-binding domain	interpro	domain		SM01061,PF03123	GO:0003723
+IPR004349	Vanadium/alternative nitrogenase delta subunit	interpro	family		PF03139	GO:0016163,GO:0009399
+IPR004364	Aminoacyl-tRNA synthetase, class II (D/K/N)	interpro	domain		PF00152	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR004365	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type	interpro	domain		PF01336	GO:0003676
+IPR004369	Prolyl-tRNA editing protein, YbaK/EbsC	interpro	family		cd00002,TIGR00011,PIRSF006181	
+IPR004383	Ribosomal RNA large subunit methyltransferase RlmN/Cfr	interpro	family		SFLDF00275,PIRSF006004	GO:0008173,GO:0006364
+IPR004384	RNA methyltransferase TrmJ/LasT	interpro	family		PTHR42786,PIRSF004808,TIGR00050	GO:0008173,GO:0006396
+IPR004398	RNA methyltransferase, RsmD	interpro	family		PTHR43542,PIRSF004553,TIGR00095	GO:0008168,GO:0031167
+IPR004412	Glutamyl-tRNA(Gln) amidotransferase A subunit	interpro	family		MF_00120,TIGR00132	GO:0050567,GO:0006412,GO:0030956
+IPR004413	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	interpro	family		MF_00121,TIGR00133	GO:0016884
+IPR004414	Glutamyl-tRNA(Gln) amidotransferase subunit E	interpro	family		MF_00588,TIGR00134	GO:0016884
+IPR004416	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	interpro	family		MF_00129,TIGR00136	GO:0002098
+IPR004417	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	interpro	family		MF_01037,TIGR00137	GO:0047151,GO:0050660,GO:0008033,GO:0005737
+IPR004441	RNA methyltransferase TrmH	interpro	family		PTHR46429,TIGR00186	GO:0008173,GO:0006396
+IPR004466	Ribonuclease M5	interpro	family		MF_01469,TIGR00334	GO:0043822
+IPR004476	Ribonuclease II/ribonuclease R	interpro	family		TIGR00358	GO:0003723,GO:0004540,GO:0016070
+IPR004493	Leucyl-tRNA synthetase, class Ia, archaeal/eukaryotic cytosolic	interpro	family		PTHR45794,TIGR00395	GO:0000166,GO:0004823,GO:0005524,GO:0006429
+IPR004495	Methionyl-tRNA synthetase, beta subunit, C-terminal	interpro	domain		cd02800,TIGR00399	GO:0000166,GO:0004825,GO:0005524,GO:0006431
+IPR004499	Proline-tRNA ligase, class IIa, archaeal-type	interpro	family		PTHR43382,MF_01571,TIGR00408	GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR004500	Prolyl-tRNA synthetase, class IIa, bacterial-type	interpro	family		TIGR00409	GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR004503	Serine-tRNA ligase type 2, archaea	interpro	family		MF_01278,TIGR00415	GO:0000166,GO:0004828,GO:0005524,GO:0006434,GO:0005737
+IPR004506	tRNA-specific 2-thiouridylase	interpro	family		cd01998,MF_00144,TIGR00420	GO:0016740,GO:0008033
+IPR004512	Ribosomal RNA methyltransferase E, gammaproteobacteria	interpro	family		TIGR00438	GO:0016436,GO:0006364
+IPR004514	Glutamine-tRNA synthetase	interpro	family		TIGR00440	GO:0000166,GO:0004819,GO:0005524,GO:0006425,GO:0005737
+IPR004516	Histidine-tRNA ligase/ATP phosphoribosyltransferase regulatory subunit	interpro	family		PTHR43707,PIRSF001549	GO:0005737
+IPR004519	DNA-directed RNA polymerase, subunit E/RPC8	interpro	family		TIGR00448	GO:0003677,GO:0003899,GO:0006351
+IPR004520	tRNA modification GTPase MnmE	interpro	family		MF_00379,TIGR00450	GO:0003924,GO:0005525,GO:0006400
+IPR004522	Asparagine-tRNA ligase	interpro	family		MF_00534,TIGR00457	GO:0000166,GO:0004816,GO:0005524,GO:0006421
+IPR004523	Aspartate-tRNA synthetase, type 2	interpro	family		MF_02075,PTHR43450,TIGR00458	GO:0000166,GO:0004815,GO:0005524,GO:0006422,GO:0005737
+IPR004524	Aspartate-tRNA ligase, type 1	interpro	family		MF_00044,TIGR00459	GO:0005524,GO:0016874
+IPR004526	Glutamyl-tRNA synthetase, archaeal/eukaryotic cytosolic	interpro	family		MF_02076,TIGR00463	GO:0000166,GO:0004818,GO:0005524,GO:0006424,GO:0005737
+IPR004527	Glutamate-tRNA ligase, bacterial/mitochondrial	interpro	family		MF_00022,TIGR00464	GO:0000166,GO:0004818,GO:0005524,GO:0006424
+IPR004529	Phenylalanyl-tRNA synthetase, class IIc, alpha subunit	interpro	family		TIGR00468	GO:0000166,GO:0004826,GO:0005524,GO:0006432,GO:0005737
+IPR004530	Phenylalanyl-tRNA synthetase, class IIc, mitochondrial	interpro	family		TIGR00469	GO:0000166,GO:0004826,GO:0005524,GO:0006432,GO:0005737
+IPR004531	Phenylalanyl-tRNA synthetase, class IIc, beta subunit, archaeal/eukaryotic type	interpro	family		TIGR00471	GO:0000166,GO:0004826,GO:0005524,GO:0006432,GO:0005737
+IPR004532	Phenylalanine-tRNA ligase, class IIc, beta subunit, bacterial type	interpro	family		MF_00283,TIGR00472	GO:0000287,GO:0004826,GO:0005524,GO:0006432
+IPR004534	L-seryl-tRNA(Sec) selenium transferase	interpro	family		MF_00423,TIGR00474	GO:0004125,GO:0001514,GO:0005737
+IPR004538	Hemolysin A /rRNA methyltransferase TlyA	interpro	family		PIRSF005578,TIGR00478	
+IPR004573	rRNA small subunit methyltransferase B	interpro	family		TIGR00563	GO:0008649,GO:0006364
+IPR004613	Ribonuclease J	interpro	family		TIGR00649	GO:0003723,GO:0046872
+IPR004616	Leucyl/phenylalanyl-tRNA-protein transferase	interpro	family		PTHR30098,MF_00688,TIGR00667,PF03588	GO:0008914,GO:0030163
+IPR004641	Ribonuclease HIII	interpro	family		MF_00053,TIGR00716,PIRSF037748	GO:0004523,GO:0016070,GO:0005737
+IPR004649	Ribonuclease H2, subunit A	interpro	family		TIGR00729	GO:0004523,GO:0016070
+IPR004652	tRNA-dihydrouridine synthase DusB-like	interpro	family		TIGR00737	GO:0016491,GO:0050660,GO:0008033
+IPR004653	tRNA-dihydrouridine(20/20a) synthase	interpro	family		PTHR42907,TIGR00742,MF_02041	GO:0017150,GO:0002943
+IPR004659	Ribonuclease E/G	interpro	family		PTHR30001,TIGR00757	GO:0003723,GO:0004540,GO:0006396
+IPR004802	tRNA pseudouridine synthase B family	interpro	family		TIGR00425,PTHR23127	GO:0006396
+IPR004803	tRNA-guanine transglycosylase	interpro	family		MF_00168,TIGR00430	GO:0008479,GO:0101030
+IPR004804	tRNA-guanine(15) transglycosylase	interpro	family		MF_01634,TIGR00432	GO:0016763,GO:0006400
+IPR004971	mRNA (guanine-N(7))-methyltransferase domain	interpro	domain		PF03291,PS51562	
+IPR004973	DNA-directed RNA polymerase, 18kDa subunit, poxviral	interpro	family		PF03293	GO:0003677,GO:0003899,GO:0019083
+IPR004974	RNA polymerase-associated transcription specificity factor Rap94	interpro	family		PF03294	GO:0003700
+IPR005001	RNA-binding protein Hfq	interpro	family		PF17209,cd01716,PTHR34772,MF_00436,TIGR02383	GO:0003723,GO:0006355
+IPR005009	Poxvirus mRNA capping enzyme, small subunit	interpro	family		PF03341	GO:0004482,GO:0006370
+IPR005037	Pre-mRNA-splicing factor 38	interpro	family		PF03371,PTHR23142	
+IPR005059	DNA-directed RNA polymerase, 35kDa subunit, poxviral	interpro	family		PF03396,PIRSF000746	GO:0003677,GO:0003899,GO:0019083
+IPR005093	RNA-directed RNA polymerase beta-chain	interpro	family		PF03431	GO:0003968,GO:0039694
+IPR005146	B3/B4 tRNA-binding domain	interpro	domain		SM00873,PF03483	GO:0003723,GO:0004826
+IPR005147	tRNA synthetase, B5-domain	interpro	domain		SM00874,PS51483,PF03484	GO:0000287,GO:0003723,GO:0005524,GO:0006432
+IPR005148	Arginyl tRNA synthetase N-terminal domain	interpro	domain		SM01016,PF03485	GO:0000166,GO:0004814,GO:0005524,GO:0006420,GO:0005737
+IPR005227	Putative pre-16S rRNA nuclease	interpro	family		cd16964,PF03652,PTHR33317,MF_00651,TIGR00250	GO:0006364
+IPR005246	O-phosphoseryl-tRNA(Cys) ligase	interpro	family		MF_01674,TIGR00470	GO:0004812,GO:0005524,GO:0043039
+IPR005270	tRNA-dihydrouridine synthase, TIM-barrel, NifR3-related	interpro	family		TIGR00736	
+IPR005570	DNA-directed RNA polymerases I, II, and III subunit RPABC3	interpro	family		PF03870,SM00658,PIRSF000779,PTHR10917	GO:0003899,GO:0006351
+IPR005571	RNA polymerase, Rpb5, N-terminal	interpro	domain		PF03871	GO:0003677,GO:0003899,GO:0006351
+IPR005574	RNA polymerase subunit Rpb4/RPC9	interpro	family		PF03874	GO:0006352,GO:0030880
+IPR005576	RNA polymerase Rpb7-like , N-terminal	interpro	domain		PF03876	GO:0006351
+IPR005580	DEAD box helicase DbpA/CsdA, RNA-binding domain	interpro	domain		PF03880	
+IPR005589	Alternative ribosome-rescue factor A	interpro	family		PF03889	GO:0072344
+IPR005794	Methionyl-tRNA formyltransferase	interpro	family		MF_00182,TIGR00460	GO:0004479,GO:0071951
+IPR005885	tRNA guanine(10)-N2-dimethyltransferase	interpro	family		TIGR01177	GO:0160102,GO:0030488
+IPR005912	tRNA pseudouridine synthase, Pus10	interpro	family		MF_01893	GO:0000049,GO:0009982,GO:0001522,GO:0006400
+IPR005987	Ribonuclease T	interpro	family		cd06134,MF_00157,TIGR01298	GO:0004540,GO:0006396
+IPR006075	Aspartyl/Glutamyl-tRNA(Gln) amidotransferase, subunit B/E, catalytic	interpro	domain		PF02934	GO:0016874
+IPR006110	RNA polymerase, subunit omega/Rpo6/RPB6	interpro	family		SM01409,PF01192	GO:0003677,GO:0003899,GO:0006351
+IPR006111	Archaeal Rpo6/eukaryotic RPB6 RNA polymerase subunit	interpro	family		PIRSF000778,MF_00192	GO:0003677,GO:0003899,GO:0006351
+IPR006151	Quinate/shikimate 5-dehydrogenase/glutamyl-tRNA reductase	interpro	domain		PF01488	
+IPR006194	Glycine-tRNA synthetase, heterodimeric	interpro	family		PTHR30075,PS50861	GO:0000166,GO:0004820,GO:0005524,GO:0006426,GO:0005737
+IPR006195	Aminoacyl-tRNA synthetase, class II	interpro	domain		PS50862	
+IPR006196	RNA-binding domain, S1, IF1 type	interpro	domain		PS50832,PF01176	GO:0003723,GO:0003743,GO:0006413
+IPR006292	Ribonuclease D	interpro	family		MF_01899,TIGR01388	GO:0008408,GO:0033890,GO:0008033
+IPR006463	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase MiaB	interpro	family		SFLDF00273,MF_01864	GO:0016740,GO:0051539,GO:0006400
+IPR006466	MiaB-like tRNA modifying enzyme, archaea/eukaryota	interpro	family		TIGR01578	GO:0035598,GO:0035600
+IPR006467	MiaB-like tRNA modifying enzyme, bacteria	interpro	family		TIGR01579	GO:0016740
+IPR006590	RNA polymerase Rpb4/RPC9, core	interpro	domain		SM00657	
+IPR006591	RNA polymerase archaeal subunit P/eukaryotic subunit RPABC4	interpro	family		PF03604,SM00659	GO:0003677,GO:0003899,GO:0006351
+IPR006592	RNA polymerase, N-terminal	interpro	domain		SM00663	GO:0003677,GO:0003899,GO:0006351
+IPR006641	YqgF/RNase H-like domain	interpro	domain		SM00732	GO:0006139
+IPR006676	tRNA-splicing endonuclease	interpro	family		TIGR00324,PTHR21227	GO:0000213,GO:0006388
+IPR006677	tRNA intron endonuclease, catalytic domain-like	interpro	domain		cd22363,PF01974	GO:0000213,GO:0006388
+IPR006678	tRNA intron endonuclease, N-terminal	interpro	domain		PF02778	GO:0000213,GO:0006388
+IPR006700	Ribosomal RNA small subunit methyltransferase E	interpro	family		PIRSF015601,PTHR30027,TIGR00046	GO:0008168,GO:0006364
+IPR006811	RNA polymerase II subunit A	interpro	family		PF04722,PTHR20383	GO:0004721,GO:0006397,GO:0005634
+IPR006861	Hyaluronan/mRNA-binding protein	interpro	domain		SM01233,PF04774	
+IPR006886	DNA-directed RNA polymerase III subunit Rpc5	interpro	family		PTHR12069,PF04801	GO:0006351,GO:0005634
+IPR006901	tRNA methyltransferase TrmK	interpro	family		PIRSF018637,PF04816	GO:0160105
+IPR006941	Ribonuclease CAF1	interpro	family		PF04857	
+IPR006973	Pre-mRNA-splicing factor Cwf15/Cwc15	interpro	family		PF04889,PTHR12718	GO:0000398,GO:0005681
+IPR006984	rRNA-processing protein Fcf1/Utp23	interpro	family		PF04900	GO:0032040
+IPR007010	Poly(A) polymerase, RNA-binding domain	interpro	domain		PF04926	GO:0003723
+IPR007046	RNA polymerase sigma factor 54, core-binding domain	interpro	domain		PF04963	GO:0003677,GO:0006352
+IPR007066	RNA polymerase Rpb1, domain 3	interpro	domain		PF04983	GO:0003677,GO:0003899,GO:0006351
+IPR007073	RNA polymerase Rpb1, domain 7	interpro	domain		PF04990	GO:0003677,GO:0003899,GO:0006351
+IPR007075	RNA polymerase Rpb1, domain 6	interpro	domain		PF04992	GO:0003677,GO:0003899,GO:0006351
+IPR007080	RNA polymerase Rpb1, domain 1	interpro	domain		PF04997	GO:0003677,GO:0003899,GO:0006351
+IPR007081	RNA polymerase Rpb1, domain 5	interpro	domain		PF04998	GO:0003677,GO:0003899,GO:0006351
+IPR007083	RNA polymerase Rpb1, domain 4	interpro	domain		PF05000	GO:0003677,GO:0003899,GO:0006351
+IPR007094	RNA-directed RNA polymerase, catalytic domain	interpro	domain		PS50507	GO:0003968,GO:0039694
+IPR007096	RNA-directed RNA polymerase, catalytic domain, bacteriophage	interpro	domain		PS50522	GO:0003968,GO:0019079
+IPR007097	RNA-directed RNA polymerase, reovirus	interpro	domain		PS50523	GO:0003723,GO:0003968,GO:0019079
+IPR007099	RNA-directed RNA polymerase, negative-strand RNA virus	interpro	domain		PS50525	GO:0003968,GO:0039694
+IPR007100	Birnavirus RNA-directed RNA polymerase, palm domain	interpro	domain		PF04197	GO:0003968,GO:0019079
+IPR007120	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain	interpro	domain		PF00562	GO:0003677,GO:0003899,GO:0006351
+IPR007121	RNA polymerase, beta subunit, conserved site	interpro	conserved_site		PS01166	GO:0003677,GO:0003899,GO:0006351
+IPR007127	RNA polymerase sigma factor 70, region 1.1	interpro	domain		PF03979	GO:0003677,GO:0006355
+IPR007133	RNA polymerase II associated factor Paf1	interpro	family		PF03985,PTHR23188	GO:0006368,GO:0016593
+IPR007158	tRNA (pseudouridine(54)-N(1))-methyltransferase, TrmY	interpro	family		cd18087,PTHR40703,MF_00587,PF04013	GO:0008175
+IPR007177	16S/18S rRNA aminocarboxypropyltransferase Tsr3, C-terminal	interpro	domain		PF04034	
+IPR007201	Mei2-like, C-terminal RNA recognition motif	interpro	domain		PF04059	
+IPR007209	RNase L inhibitor RLI-like, possible metal-binding domain	interpro	domain		PF04068	
+IPR007214	YbaK/aminoacyl-tRNA synthetase-associated domain	interpro	domain		PF04073	GO:0002161
+IPR007306	tRNA A64-2'-O-ribosylphosphate transferase	interpro	family		PTHR31811,PIRSF007747	GO:0043399,GO:0019988
+IPR007322	RNA-dependent RNA polymerase, bunyaviral	interpro	domain		PF04196	GO:0003968,GO:0006351,GO:0019079
+IPR007356	tRNA (guanine-N1-)-methyltransferase, eukaryotic	interpro	family		PTHR13563	
+IPR007448	Regulator of RNA polymerase sigma(70) subunit, Rsd/AlgQ	interpro	family		PF04353,PIRSF016548	GO:0006355
+IPR007473	Ribosomal RNA large subunit methyltransferase J	interpro	family		PF04378,MF_00934,PTHR37426	GO:0008649,GO:0070475
+IPR007508	D-aminoacyl-tRNA deacylase DtdA	interpro	family		PTHR34667,PF04414	GO:0016788,GO:0051499
+IPR007536	Ribosomal RNA small subunit methyltransferase J	interpro	family		PTHR36112,MF_01523,PF04445	GO:0008990,GO:0031167
+IPR007537	tRNAHis guanylyltransferase Thg1	interpro	family		PIRSF028980,PTHR12729	GO:0000287,GO:0008193,GO:0006400
+IPR007609	ssRNA positive strand viral 18kDa cysteine-rich protein	interpro	family		PF04521	
+IPR007624	RNA polymerase sigma-70 region 3	interpro	domain		PF04539	GO:0003700,GO:0006352,GO:0006355
+IPR007627	RNA polymerase sigma-70 region 2	interpro	domain		PF04542	GO:0003700,GO:0006352,GO:0006355
+IPR007630	RNA polymerase sigma-70 region 4	interpro	domain		PF04545	GO:0003700,GO:0006352,GO:0006355
+IPR007631	RNA polymerase sigma factor 70, non-essential domain	interpro	domain		PF04546	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR007634	RNA polymerase sigma factor 54, DNA-binding	interpro	domain		PF04552	GO:0001216
+IPR007638	Glutaminyl-tRNA synthetase, class Ib, non-specific RNA-binding domain 2	interpro	domain		PF04557	GO:0000166,GO:0004819,GO:0005524,GO:0006425,GO:0005737
+IPR007639	Glutaminyl-tRNA synthetase, class Ib, non-specific RNA-binding domain, N-terminal	interpro	domain		PF04558	GO:0000166,GO:0004812,GO:0005524,GO:0006418,GO:0005737
+IPR007641	RNA polymerase Rpb2, domain 7	interpro	domain		PF04560	GO:0003677,GO:0003899,GO:0006351
+IPR007642	RNA polymerase Rpb2, domain 2	interpro	domain		PF04561	GO:0003677,GO:0003899,GO:0006351
+IPR007644	RNA polymerase, beta subunit, protrusion	interpro	domain		PF04563	GO:0003677,GO:0003899,GO:0006351
+IPR007645	RNA polymerase Rpb2, domain 3	interpro	domain		PF04565	GO:0003677,GO:0003899,GO:0006351
+IPR007646	RNA polymerase Rpb2, domain 4	interpro	domain		PF04566	GO:0003677,GO:0003899,GO:0006351
+IPR007647	RNA polymerase Rpb2, domain 5	interpro	domain		PF04567	GO:0006351
+IPR007722	mRNA decapping protein 2, Box A domain	interpro	domain		SM01125,PF05026	GO:0003723
+IPR007811	DNA-directed RNA polymerase III subunit RPC4	interpro	family		PTHR13408,PF05132	GO:0003677,GO:0006383,GO:0005666
+IPR007823	Ribosomal RNA processing protein 8	interpro	family		PTHR12787,PF05148	GO:0008168
+IPR007832	RNA polymerase Rpc34	interpro	family		PF05158,PIRSF028763	GO:0006383,GO:0005666
+IPR007846	RNA-recognition motif (RRM) Nup35-type domain	interpro	domain		PF05172,PS51472	
+IPR007854	Pre-mRNA polyadenylation factor Fip1 domain	interpro	domain		PF05182	
+IPR007855	RNA-dependent RNA polymerase, eukaryotic-type	interpro	family		PF05183,PTHR23079	GO:0003968
+IPR007898	RNA polymerase I-specific transcription initiation factor Rrn10, Saccharomycetes	interpro	family		PIRSF009867	GO:0001165,GO:0042790,GO:0000500
+IPR007937	RNA polymerase, 22kDa subunit, poxviral	interpro	family		PF05273,PIRSF000744	GO:0003677,GO:0003899,GO:0019083
+IPR007984	DNA-directed RNA polymerase, 19kDa subunit, poxviral	interpro	family		PF05320,PIRSF000743	GO:0003677,GO:0003899,GO:0006351
+IPR007991	RNA polymerase I specific transcription initiation factor RRN3	interpro	family		PF05327,PTHR12790	GO:0001181,GO:0006361
+IPR008111	RNA-binding motif protein 8	interpro	family		PTHR45894,PR01738	GO:0003723,GO:0006396,GO:0005634,GO:0005737
+IPR008189	rRNA small subunit methyltransferase I	interpro	family		PIRSF005917,TIGR00096,cd11648,PTHR46111,MF_01877	GO:0008168
+IPR008193	DNA-directed RNA polymerase Rpb11, 13-16kDa subunit, conserved site	interpro	conserved_site		PS01154	GO:0003677,GO:0003899,GO:0006351
+IPR008229	tRNA nucleotidyltransferase, archaea	interpro	family		MF_01264,TIGR03671,PIRSF005335,PTHR39643	GO:0003723,GO:0004810,GO:0001680
+IPR008409	Pre-mRNA-splicing factor SPF27	interpro	family		PF05700,PTHR13296	GO:0006397
+IPR008448	DNA-directed RNA polymerase, 7kDa polypeptide, chordopoxviral	interpro	family		PF05864	GO:0003677,GO:0003899,GO:0006351
+IPR008513	tRNA(Met) cytidine acetate ligase	interpro	family		PTHR37825,MF_01539,PF05636	
+IPR008532	NFACT, RNA-binding domain	interpro	domain		PF05670	
+IPR008594	Scavenger mRNA decapping enzyme DcpS/DCS2	interpro	family		PF05652,PIRSF028973,PTHR12978	GO:0016787,GO:0000290
+IPR008610	Eukaryotic rRNA processing	interpro	family		PF05890,PTHR13028	
+IPR008638	Filamentous haemagglutinin FhaB/tRNA nuclease CdiA-like, TPS domain	interpro	domain		SM00912,PF05860,TIGR01901	
+IPR008686	RNA-dependent RNA polymerase, mitoviral	interpro	family		PTHR34456,PF05919	
+IPR008723	RNA-dependent RNA polymerase, orbiviral	interpro	family		PF05788,PIRSF000821	GO:0003723,GO:0003968,GO:0006351
+IPR008744	RNA-directed RNA polymerase, apple chlorotic leaf spot virus	interpro	domain		PF05413	GO:0003723,GO:0003968,GO:0005524,GO:0019079
+IPR008806	RNA polymerase III Rpc82, C -terminal	interpro	domain		PF05645	GO:0003677,GO:0006351
+IPR008925	Aminoacyl-tRNA synthetase, class I, anticodon-binding superfamily	interpro	homologous_superfamily		SSF48163	GO:0000049
+IPR009008	Valyl/Leucyl/Isoleucyl-tRNA synthetase, editing domain	interpro	homologous_superfamily		SSF50677,G3DSA:3.90.740.10	GO:0002161,GO:0006418
+IPR009025	DNA-directed RNA polymerase, RBP11-like dimerisation domain	interpro	domain		PF13656	GO:0046983,GO:0006351
+IPR009027	Large ribosomal subunit protein bL9/RNase H1, N-terminal	interpro	homologous_superfamily		SSF55658	
+IPR009042	RNA polymerase sigma-70 region 1.2	interpro	domain		PF00140	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR009068	uS15/NS1, RNA-binding domain superfamily	interpro	homologous_superfamily		SSF47060	
+IPR009080	Aminoacyl-tRNA synthetase, class Ia, anticodon-binding	interpro	homologous_superfamily		SSF47323	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR009162	RNA polymerase, 30kDa subunit, chordopox-type	interpro	family		PIRSF000745	GO:0003677,GO:0003899,GO:0006351
+IPR009220	Probable bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein	interpro	family		MF_01447,PIRSF036401	GO:0004222,GO:0008270
+IPR009292	rRNA biogenesis protein RRP36	interpro	family		PTHR21738,PF06102	
+IPR009332	Mediator of RNA polymerase II transcription subunit 22	interpro	family		PF06179,PTHR12434	GO:0003712,GO:0006357,GO:0016592
+IPR009344	Borna disease virus G	interpro	family		PF06208	
+IPR009360	Pre-mRNA-splicing factor Isy1	interpro	family		PF06246,PTHR13021	GO:0000350
+IPR009391	23S rRNA methylase leader peptide	interpro	family		PF06308	GO:0046677
+IPR009441	P40 nucleoprotein, Borna disease virus	interpro	family		PF06407	
+IPR009469	RNA-dependent RNA polymerase, N-terminal, coronavirus	interpro	domain		PF06478	GO:0003723,GO:0003968,GO:0005524,GO:0006351
+IPR009485	Borna disease virus P10	interpro	family		PF06515	
+IPR009517	Borna disease virus P24	interpro	family		PF06595	
+IPR009668	RNA polymerase I associated factor, A49-like	interpro	family		PTHR14440,PF06870	GO:0003677,GO:0006351
+IPR009674	DNA-directed RNA polymerase I subunit RPA2, domain 4	interpro	domain		PF06883	GO:0003899,GO:0006351,GO:0005634
+IPR009715	Regulator of RNA terminal phosphate cyclase	interpro	domain		PF06956	
+IPR009871	Movement and RNA silencing protein	interpro	family		PF07234	
+IPR009907	RNA polymerase epsilon subunit	interpro	family		MF_01553,PF07288	
+IPR009930	Structural protein Vp10, Seadornavirus	interpro	family		PF07322	
+IPR009973	Seadornavirus VP7	interpro	family		PF07387	
+IPR009982	Seadornavirus VP6	interpro	family		PF07407	
+IPR010017	tRNA U34 carboxymethyltransferase	interpro	family		MF_01590,TIGR00452	GO:0016765,GO:0002098
+IPR010120	Probable glutamyl-tRNA(Gln) amidotransferase subunit C, archaea	interpro	family		TIGR01827	
+IPR010155	CRISPR pre-crRNA endoribonuclease Cas5d	interpro	family		PIRSF029950,TIGR01876	GO:0004519,GO:0051607
+IPR010222	RNA helicase HrpA	interpro	family		TIGR01967	GO:0003724
+IPR010243	DNA-directed RNA polymerase beta subunit, bacterial-type	interpro	family		MF_01321,TIGR02013	GO:0003677,GO:0003899,GO:0006351
+IPR010301	Ribosomal RNA processing protein 1	interpro	family		PTHR13026,PF05997	GO:0006364,GO:0030688
+IPR010334	mRNA-decapping enzyme subunit 1	interpro	family		PTHR16290,PF06058	GO:0008047,GO:0000290,GO:0043085
+IPR010386	tRNA-hydroxylase MiaE	interpro	family		cd07910,PF06175,PIRSF020736,PTHR42637	GO:0045301,GO:0006400
+IPR010453	RNA polymerase, arenaviral	interpro	family		MF_04086,PIRSF000836,PF06317	GO:0003968,GO:0019079
+IPR010559	Signal transduction histidine kinase, internal region	interpro	domain		PF06580	GO:0000155,GO:0000160,GO:0016020
+IPR010655	Pre-mRNA cleavage complex subunit Clp1, C-terminal	interpro	domain		PF06807	GO:0031124
+IPR010675	RNA methyltransferase bin3, C-terminal	interpro	domain		PF06859	GO:0008168
+IPR010678	U3 small nucleolar RNA-associated protein 25	interpro	family		PTHR12933	GO:0034511,GO:0006364,GO:0005730
+IPR010684	RNA polymerase II transcription factor SIII, subunit A	interpro	family		PF06881	GO:0006368,GO:0005634,GO:0070449
+IPR010769	Ribosomal RNA aminoglycoside-resistance methyltransferase, Gram-negative bacteria	interpro	family		PIRSF015852	GO:0008649,GO:0046677
+IPR010923	tRNA threonylcarbamoyladenosine biosynthesis protein SUA5	interpro	family		PIRSF004930	
+IPR010924	DNA-directed RNA polymerase subunit Rpo4	interpro	family		PTHR39646,MF_00864,PIRSF005053	
+IPR010978	Class I and II aminoacyl-tRNA synthetase, tRNA-binding arm	interpro	homologous_superfamily		SSF46589	GO:0000166
+IPR011035	Large ribosomal subunit protein bL25/Gln-tRNA synthetase, anti-codon-binding domain superfamily	interpro	homologous_superfamily		SSF50715	GO:0006412
+IPR011063	tRNA(Ile)-lysidine/2-thiocytidine synthase, N-terminal	interpro	domain		PF01171	
+IPR011108	Zn-dependent metallo-hydrolase, RNA specificity domain	interpro	domain		PF07521	
+IPR011113	Rho termination factor, RNA-binding domain	interpro	domain		cd04459,PS51856,PF07497	GO:0003723,GO:0006353
+IPR011145	Scavenger mRNA decapping enzyme, N-terminal	interpro	homologous_superfamily		SSF102860,G3DSA:3.30.200.40	GO:0016787,GO:0000290
+IPR011224	Ribosomal RNA large subunit methyltransferase M	interpro	family		MF_01551,PIRSF028774	GO:0008168
+IPR011260	RNA polymerase, alpha subunit, C-terminal	interpro	domain		PF03118	GO:0003677,GO:0003899,GO:0006351
+IPR011262	DNA-directed RNA polymerase, insert domain	interpro	domain		PF01000	GO:0003899,GO:0046983,GO:0006351
+IPR011263	DNA-directed RNA polymerase, RpoA/D/Rpb3-type	interpro	domain		PF01193,SM00662	GO:0003899,GO:0006351
+IPR011320	Ribonuclease H1, N-terminal	interpro	domain		PF01693	
+IPR011416	Predicted RNA-binding protein YdrC-type, Chlamydia	interpro	family		PIRSF036543	
+IPR011425	Mediator of RNA polymerase II transcription subunit 9	interpro	family		PF07544	GO:0003712,GO:0006357,GO:0016592
+IPR011430	U3 small nucleolar RNA-associated protein 20, N-terminal	interpro	domain		PF07539	
+IPR011517	RNA polymerase sigma-70 ECF-like	interpro	family		TIGR02999	
+IPR011530	Ribosomal RNA adenine dimethylase	interpro	family		MF_00607,TIGR00755	GO:0000179,GO:0006364
+IPR011671	tRNA (uracil-O(2)-)-methyltransferase	interpro	family		PF07757,PTHR21210	GO:0008168
+IPR011745	RNA polymerase sigma-70, Myxococcus xanthus	interpro	family		TIGR03001	
+IPR011773	DNA-directed RNA polymerase, alpha subunit	interpro	family		MF_00059,TIGR02027	GO:0003677,GO:0003899,GO:0006351
+IPR011804	Ribonuclease II	interpro	family		MF_01036,TIGR02062	GO:0003723,GO:0008859,GO:0006401
+IPR011805	Ribonuclease R	interpro	family		MF_01895,TIGR02063	GO:0003723,GO:0004518
+IPR011825	23S rRNA (uracil(747)-C(5))-methyltransferase RlmC	interpro	family		MF_01012,TIGR02085	GO:0016436,GO:0016070
+IPR011856	tRNA endonuclease-like domain superfamily	interpro	homologous_superfamily		G3DSA:3.40.1350.10	GO:0003676
+IPR011869	tRNA/tmRNA (uracil-C(5))-methyltransferase, TrmA	interpro	family		PTHR47790,MF_01011,TIGR02143	GO:0030697,GO:0006396
+IPR011878	Glutamyl-tRNA(Gln) amidotransferase subunit D	interpro	family		cd08962,PIRSF500175,MF_00586,TIGR02153	GO:0006450
+IPR011907	Ribonuclease III	interpro	family		MF_00104,TIGR02191	GO:0003723,GO:0004525,GO:0006364
+IPR012006	tRNA nucleotidyltransferase, proteobacteria	interpro	family		MF_01261,MF_01262,PIRSF000813	GO:0003723,GO:0004810,GO:0005524,GO:0001680
+IPR012089	tRNA-cytidine(32) 2-sulfurtransferase	interpro	family		MF_01850	GO:0008033
+IPR012094	tRNA(Ile)-lysidine synthase	interpro	family		PTHR43033,MF_01161	GO:0000166,GO:0005524,GO:0016879,GO:0008033
+IPR012164	DNA-directed RNA polymerase subunit/transcription factor S	interpro	family		PIRSF005586,PTHR11239	GO:0003899,GO:0006351
+IPR012337	Ribonuclease H-like superfamily	interpro	homologous_superfamily		SSF53098	
+IPR012387	tRNA ligase Trl1, fungi	interpro	family		PIRSF019634	GO:0003972,GO:0005524,GO:0008081,GO:0051730,GO:0006388
+IPR012459	Ribosomal RNA-processing protein 15	interpro	family		PTHR13245,PF07890	GO:0006364
+IPR012476	mRNA export factor GLE1-like	interpro	family		PTHR12960,PF07817	GO:0016973,GO:0005643
+IPR012569	Internalin, Ig-like inter-repeat region	interpro	domain		PF08191	
+IPR012579	U3 small nucleolar RNA-associated protein NOL7, C-terminal	interpro	domain		PF08157	GO:0005634
+IPR012583	Pre-rRNA-processing protein RIX1, N-terminal	interpro	domain		PF08167	
+IPR012586	28S rRNA (cytosine-C(5))-methyltransferase repeat	interpro	repeat		PF08062	
+IPR012587	RNA helicase p68 repeat	interpro	repeat		SM01414,PF08061	
+IPR012607	Ribosome hibernation factor SRA	interpro	family		PF08136	GO:0006412
+IPR012646	RNA ligase, DRB0094	interpro	family		TIGR02306	
+IPR012647	RNA ligase, Rnl2	interpro	family		TIGR02307	GO:0003972,GO:0005524,GO:0016874
+IPR012648	T4 RNA ligase 1	interpro	family		MF_04149,TIGR02308	GO:0003972
+IPR012657	23S rRNA-intervening sequence protein	interpro	family		cd16377,PTHR38471,PIRSF035652,TIGR02436,PF05635	
+IPR012739	Pyrrolysyl-tRNA ligase	interpro	family		MF_01573	GO:0004812,GO:0005524,GO:0006418,GO:0005737
+IPR012754	DNA-directed RNA polymerase, subunit beta-prime, bacterial type	interpro	family		MF_01322,TIGR02386	GO:0003677,GO:0003899,GO:0006351
+IPR012755	DNA-directed RNA polymerase, subunit gamma	interpro	family		TIGR02387	GO:0003677,GO:0003899,GO:0006351
+IPR012756	DNA-directed RNA polymerase, subunit beta''	interpro	family		MF_01324,TIGR02388	GO:0003677,GO:0003899,GO:0006351
+IPR012757	DNA-directed RNA polymerase subunit Rpo1C	interpro	family		cd06528,MF_00411,TIGR02389	GO:0003677,GO:0003899,GO:0006351
+IPR012758	DNA-directed RNA polymerase subunit Rpo1N	interpro	family		cd02582,MF_00863,TIGR02390	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR012759	RNA polymerase sigma factor RpoH, proteobacteria	interpro	family		MF_00961,TIGR02392	GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR012760	RNA polymerase sigma factor RpoD, C-terminal	interpro	domain		TIGR02393	GO:0003677,GO:0016987,GO:0006352,GO:0006355
+IPR012761	RNA polymerase sigma factor RpoS	interpro	family		MF_00959,TIGR02394	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR012784	RNA polymerase-binding transcription factor DksA	interpro	family		MF_00926,TIGR02420	GO:0008270
+IPR012795	tRNA(Ile)-lysidine synthase, N-terminal	interpro	domain		cd01992,TIGR02432	GO:0000166,GO:0005524,GO:0016879,GO:0008033
+IPR012796	Lysidine-tRNA(Ile) synthetase, C-terminal	interpro	domain		PF11734,SM00977,TIGR02433	GO:0000166,GO:0005524,GO:0016879,GO:0008033,GO:0005737
+IPR012845	RNA polymerase sigma factor, FliA/WhiG	interpro	family		TIGR02479	GO:0003677,GO:0003899,GO:0016987,GO:0006352,GO:0006355
+IPR012915	Reovirus RNA-dependent RNA polymerase lambda 3	interpro	family		PF07925	GO:0003723,GO:0003968,GO:0032774,GO:0019013
+IPR012920	Ribosomal RNA methyltransferase, SPB1-like, C-terminal	interpro	domain		PF07780	GO:0008168,GO:0006364,GO:0005634
+IPR012933	HicA mRNA interferase family	interpro	family		PF07927	GO:0003729
+IPR012947	Threonyl/alanyl tRNA synthetase, SAD	interpro	domain		SM00863,PF07973	GO:0004812,GO:0005524,GO:0043039
+IPR012961	ATP-dependent RNA helicase Ski2/MTR4, C-terminal	interpro	domain		SM01142,PF08148	
+IPR012978	Ribosomal RNA-processing protein 12-like, conserved domain	interpro	domain		PF08161	
+IPR013103	Reverse transcriptase, RNA-dependent DNA polymerase	interpro	domain		PF07727	
+IPR013123	RNA 2-O ribose methyltransferase, substrate binding	interpro	domain		SM00967,PF08032	GO:0008168
+IPR013155	Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding	interpro	domain		PF08264	GO:0004812,GO:0006418
+IPR013169	mRNA splicing factor Cwf18-like	interpro	family		PTHR31551,PF08315	
+IPR013170	mRNA splicing factor Cwf21 domain	interpro	domain		SM01115,PF08312	
+IPR013197	RNA polymerase III subunit RPC82-related, helix-turn-helix	interpro	domain		PF08221	
+IPR013223	Ribonuclease B, N-terminal OB domain	interpro	domain		PF08206	
+IPR013238	RNA polymerase III, subunit Rpc25	interpro	domain		PF08292	
+IPR013239	RNA polymerase I, subunit Rpa14, fungi	interpro	family		PF08203	
+IPR013240	DNA-directed RNA polymerase I, subunit RPA34	interpro	family		PTHR15484,PF08208	GO:0006360
+IPR013241	RNase P, subunit Pop3	interpro	family		PTHR28272,PF08228	GO:0006364,GO:0008033
+IPR013249	RNA polymerase sigma factor 70, region 4 type 2	interpro	domain		PF08281	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR013260	mRNA splicing factor SYF2	interpro	family		PTHR13264,PF08231	
+IPR013268	U3 small nucleolar RNA-associated protein 16	interpro	family		PF08297	GO:0030515,GO:0006364
+IPR013324	RNA polymerase sigma factor, region 3/4-like	interpro	homologous_superfamily		SSF88659	
+IPR013325	RNA polymerase sigma factor, region 2	interpro	homologous_superfamily		SSF88946	GO:0003700,GO:0006352,GO:0006355
+IPR013375	O-phosphoseryl-tRNA:Cys-tRNA synthase, archaea	interpro	family		MF_01675,TIGR02539	GO:0043766
+IPR013378	Internalin B-like, B-repeat	interpro	repeat		PF09479,TIGR02543	
+IPR013469	Ribonuclease BN	interpro	family		TIGR02649	GO:0016891
+IPR013470	Ribonuclease Z, Thermotoga-type	interpro	family		TIGR02650	
+IPR013471	Ribonuclease Z/BN	interpro	family		cd07717,MF_01818,TIGR02651	GO:0016891
+IPR013492	CRISPR system subtype II-B RNA-guided endonuclease Cas9/Csx12	interpro	family		TIGR03031	
+IPR013520	Exonuclease, RNase T/DNA polymerase III	interpro	domain		PF00929,SM00479	
+IPR013562	tRNA(Met) cytidine acetyltransferase TmcA, N-terminal	interpro	domain		PF08351	
+IPR013633	siRNA-mediated silencing protein NRDE-2	interpro	family		PTHR13471,PF08424	
+IPR013641	Protein KTI12/L-seryl-tRNA(Sec) kinase	interpro	family		PF08433	
+IPR013668	Ribonuclease R winged-helix domain	interpro	domain		PF08461	
+IPR013674	Luteovirus RNA polymerase P1-P2/replicase	interpro	domain		PF08467	GO:0003968
+IPR013689	ATP-dependent RNA helicase HrpB, C-terminal	interpro	domain		PF08482	
+IPR013699	Signal recognition particle, SRP72 subunit, RNA-binding	interpro	domain		PF08492	GO:0008312,GO:0006614,GO:0048500
+IPR013791	RNA 3'-terminal phosphate cyclase, insert domain	interpro	domain		PF05189	
+IPR013792	RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta	interpro	homologous_superfamily		SSF55205	GO:0003824
+IPR013795	DNA/RNA-binding protein Alba	interpro	family		MF_01122,PIRSF028732,TIGR00285	GO:0003677,GO:0003723
+IPR013846	mRNA capping enzyme, C-terminal	interpro	domain		PF03919	
+IPR013881	Pre-mRNA-splicing factor 3 domain	interpro	domain		PF08572	
+IPR013888	Ribonuclease P, Rpm2, mitochondrial	interpro	family		PF08579	
+IPR013893	Ribonuclease P protein subunit Rpp40	interpro	family		PTHR15396,PF08584	GO:0001682,GO:0030677
+IPR013915	Pre-mRNA-splicing factor 19	interpro	domain		PF08606	
+IPR013917	tRNA wybutosine-synthesis	interpro	domain		PF08608	
+IPR013924	Ribonuclease H2, subunit C	interpro	family		cd09271,PF08615	GO:0006401,GO:0032299
+IPR013929	RNA polymerase II-associated protein 1, C-terminal	interpro	domain		PF08620	
+IPR013930	RNA polymerase II-associated protein 1, N-terminal	interpro	domain		PF08621	
+IPR013934	U3 small nucleolar RNA-associated protein 13, C-terminal	interpro	domain		PF08625	GO:0006364,GO:0032040
+IPR013949	U3 small nucleolar RNA-associated protein 6	interpro	family		PF08640,PTHR23271	GO:0030515,GO:0000462
+IPR014014	RNA helicase, DEAD-box type, Q motif	interpro	domain		PS51195	GO:0003724
+IPR014023	Mononegavirales RNA-directed RNA polymerase catalytic domain	interpro	domain		PS50526,PF00946	GO:0003968,GO:0004482,GO:0005524,GO:0006370
+IPR014065	tRNA adenylyltransferase	interpro	family		TIGR02692	
+IPR014200	RNA polymerase sigma-E type	interpro	family		TIGR02835	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014209	RNA polymerase sigma-K type	interpro	family		TIGR02846	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014212	RNA polymerase sigma-G type	interpro	family		TIGR02850	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014218	RNA polymerase sigma-H type	interpro	family		TIGR02859	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014236	RNA polymerase sigma-F type	interpro	family		TIGR02885	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014244	RNA polymerase sigma-I type	interpro	family		MF_02064,TIGR02895,PIRSF038953	
+IPR014284	RNA polymerase sigma-70-like domain	interpro	domain		TIGR02937	GO:0003700,GO:0006352,GO:0006355
+IPR014286	RNA polymerase sigma-70 RpoE type	interpro	family		TIGR02939	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014288	RNA polymerase sigma-B factor	interpro	family		TIGR02941	GO:0016987
+IPR014289	RNA polymerase sigma-24-related	interpro	family		TIGR02943	
+IPR014293	RNA polymerase sigma-70, actinobacteria	interpro	family		TIGR02947	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014294	RNA polymerase sigma-W, bacillaceae	interpro	family		TIGR02948	
+IPR014296	RNA polymerase sigma-M, bacillaceae	interpro	family		TIGR02950	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014298	ECF RNA polymerase sigma factor BldN-like	interpro	family		TIGR02952	
+IPR014300	RNA polymerase sigma-V type	interpro	family		TIGR02954	
+IPR014303	RNA polymerase sigma-70, ECF type	interpro	family		TIGR02957	
+IPR014304	RNA polymerase sigma-Z type	interpro	family		TIGR02959	
+IPR014305	RNA polymerase sigma-G type, actinobacteria	interpro	family		TIGR02960	
+IPR014322	RNA polymerase sigma-B/F/G type	interpro	family		TIGR02980	GO:0003677,GO:0003700,GO:0016987,GO:0006352,GO:0006355
+IPR014325	RNA polymerase sigma-E factor, actinobacteria	interpro	family		TIGR02983	GO:0016987
+IPR014326	RNA polymerase sigma-70 factor, Planctomycetaceae	interpro	family		TIGR02984	
+IPR014327	RNA polymerase sigma-70, Bacteroidetes type	interpro	family		TIGR02985	
+IPR014330	RNA-binding S4-related,YaaA	interpro	family		TIGR02988	
+IPR014331	RNA polymerase sigma-70 ECF-like, Rhodopirellula baltica	interpro	family		TIGR02989	
+IPR014381	DNA-directed RNA polymerase subunit Rpo5/Rpb5	interpro	family		MF_00025,PIRSF000747,PTHR10535	GO:0003899
+IPR014383	RNA-directed RNA polymerase, phytoreovirus	interpro	family		PIRSF000822	GO:0019079
+IPR014384	RNA-directed RNA polymerase, orthobunyavirus	interpro	family		PIRSF000824	
+IPR014385	RNA-directed RNA polymerase, phlebovirus	interpro	family		PIRSF000826	GO:0001882,GO:0003968,GO:0019079
+IPR014560	Uncharacterised conserved protein UCP030333, DNA/RNA-binding Alba-related	interpro	family		PTHR31947,PIRSF030333	
+IPR014636	RNase H, phosphoglycerate mutase domain-containing	interpro	family		PIRSF036922	
+IPR014720	Double-stranded RNA-binding domain	interpro	domain		PS50137,PF00035,SM00358	
+IPR014724	RNA polymerase Rpb2, OB-fold	interpro	homologous_superfamily		G3DSA:2.40.50.150	GO:0003899
+IPR014755	Copper resistance protein CopC/internalin, immunoglobulin-like	interpro	homologous_superfamily		G3DSA:2.60.40.1220	
+IPR014758	Methionyl-tRNA synthetase	interpro	family		TIGR00398	GO:0000166,GO:0004825,GO:0005524,GO:0006431
+IPR014759	Helicase, superfamily 3, single-stranded RNA virus	interpro	domain		PS51218	
+IPR014780	tRNA pseudouridine synthase II, TruB	interpro	family		cd02573,MF_01080,TIGR00431,PTHR13767	GO:0003723,GO:0009982,GO:0001522,GO:0009451
+IPR014789	Poly(A)-specific ribonuclease, RNA-binding	interpro	domain		PF08675	GO:0003723,GO:0004535,GO:0046872,GO:0006402,GO:0005634,GO:0005737
+IPR014810	Fcf2 pre-rRNA processing, C-terminal	interpro	domain		PF08698	
+IPR014816	tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14	interpro	family		PTHR12133,PS51620,PIRSF017269	GO:0160107,GO:0030488,GO:0031515
+IPR014856	RNA-free ribonuclease P	interpro	family		TIGR03875,PTHR41173,MF_01078,PF08745	
+IPR014906	Pre-mRNA processing factor 4 (PRP4)-like	interpro	domain		PF08799,SM00500	
+IPR015011	Threonyl-tRNA synthetase, editing domain, archaea	interpro	domain		PF08915	GO:0004829,GO:0005524,GO:0008270,GO:0005737
+IPR015031	Capsid protein VP4, Picornavirus	interpro	domain		PF08935	GO:0019030
+IPR015047	Synaptojanin-1/2, RNA recognition motif	interpro	domain		SM01165,PF08952	
+IPR015225	tRNA pseudouridine synthase II, TruB, subfamily 2, C-terminal	interpro	domain		PF09142	GO:0003723,GO:0009982,GO:0001522,GO:0009451
+IPR015240	tRNA pseudouridine synthase II, TruB, subfamily 1, C-terminal	interpro	domain		PF09157	GO:0003723,GO:0009982,GO:0001522,GO:0009451
+IPR015245	Nuclear RNA export factor Tap, RNA-binding domain	interpro	domain		PF09162	GO:0003723,GO:0006406,GO:0005737
+IPR015257	Repressor of RNA polymerase III transcription Maf1	interpro	family		PIRSF037240,PF09174,PTHR22504	GO:0016480
+IPR015262	tRNA(Ile)-lysidine synthase, substrate-binding domain	interpro	domain		PF09179	GO:0000166,GO:0005524,GO:0016879,GO:0008033,GO:0005737
+IPR015264	Prolyl-tRNA synthetase, class II, C-terminal, archaeal-type	interpro	domain		PF09181	GO:0000166,GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR015273	Cysteinyl-tRNA synthetase, class Ia, DALR	interpro	domain		SM00840,PF09190	GO:0000166,GO:0004817,GO:0005524,GO:0006423,GO:0005737
+IPR015329	tRNA nucleotidyltransferase, substrate binding	interpro	domain		PF09249	GO:0004810
+IPR015413	Methionyl/Leucyl tRNA synthetase	interpro	domain		PF09334	GO:0000166,GO:0004812,GO:0005524,GO:0006418
+IPR015507	Ribosomal RNA large subunit methyltransferase E	interpro	family		MF_01547,PIRSF005461	GO:0008168,GO:0001510
+IPR015699	DNA-directed RNA pol I, largest subunit, N-terminal domain	interpro	domain		cd01435	
+IPR015700	DNA-directed RNA polymerase III subunit RPC1	interpro	family		PTHR48446	
+IPR015712	DNA-directed RNA polymerase, subunit 2	interpro	family		cd00653,PTHR20856	GO:0003899,GO:0032549,GO:0006351
+IPR015803	Cysteine-tRNA ligase	interpro	family		MF_00041,TIGR00435	GO:0004817,GO:0005524,GO:0006423
+IPR015807	Histidine-tRNA ligase	interpro	family		MF_00127,TIGR00442	GO:0004821,GO:0005524,GO:0006427
+IPR015841	RNA-directed RNA polymerase, tospovirus	interpro	family		PIRSF036872	
+IPR015842	RNA-directed RNA polymerase, tenuivirus	interpro	family		PIRSF036873	
+IPR015843	RNA-directed RNA polymerase, nairovirus	interpro	family		PIRSF036900	
+IPR015847	Exoribonuclease, phosphorolytic domain 2	interpro	domain		PF03725	
+IPR015848	Polyribonucleotide nucleotidyltransferase, RNA-binding domain	interpro	domain		PF03726	GO:0003723,GO:0006396
+IPR015866	Serine-tRNA synthetase, type1, N-terminal	interpro	domain		PF02403	
+IPR015895	Glutamyl-tRNA reductase, N-terminal	interpro	domain		PF05201	GO:0008883,GO:0050661,GO:0033014
+IPR015896	Tetrapyrrole biosynthesis, glutamyl-tRNA reductase, dimerisation domain	interpro	domain		PF00745	GO:0008883,GO:0050661,GO:0033014
+IPR015944	Glycine-tRNA ligase, beta subunit	interpro	family		MF_00255,TIGR00211,PF02092,PR01045	GO:0000166,GO:0004820,GO:0005524,GO:0006426,GO:0005737
+IPR015954	Bacteriophage RNA-type, capsid	interpro	homologous_superfamily		G3DSA:3.30.380.10,SSF55405	
+IPR015965	tRNA ligase, phosphodiesterase	interpro	domain		PF08302	GO:0003972,GO:0005524,GO:0006388
+IPR015966	tRNA ligase, kinase domain, fungi	interpro	domain		PF08303	GO:0003972,GO:0005524,GO:0006388
+IPR015969	P40 nucleoprotein, subdomain 1, Borna disease virus	interpro	homologous_superfamily		G3DSA:1.10.3040.10	
+IPR015970	P40 nucleoprotein, subdomain 2, Borna disease virus	interpro	homologous_superfamily		G3DSA:1.10.3050.10	
+IPR016009	tRNA methyltransferase TRMD/TRM10-type domain	interpro	domain		PF01746	
+IPR016031	Tryptophan RNA-binding attenuator protein-like domain superfamily	interpro	homologous_superfamily		G3DSA:2.60.40.50,SSF51219	
+IPR016049	RNA polymerase Rpc34-like	interpro	family		PTHR12780	
+IPR016061	Proline-tRNA ligase, class II, C-terminal	interpro	domain		SM00946,PF09180	GO:0000166,GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR016075	RNA polymerase, phosphoprotein P, C-terminal XD, paramyxovirinae	interpro	homologous_superfamily		SSF101089	GO:0003723,GO:0003968,GO:0006351,GO:0019079
+IPR016262	RNA polymerase sigma factor, SigB/C/D/F, plastid	interpro	family		PIRSF000767	
+IPR016268	RNA-directed RNA polymerase, hantavirus	interpro	family		PIRSF000825	GO:0003968,GO:0019079
+IPR016269	RNA-directed RNA polymerase, paramyxovirus	interpro	family		PIRSF000830	GO:0016740,GO:0006139
+IPR016371	RNA polymerase sigma-H factor	interpro	family		PIRSF002939	GO:0003677,GO:0016987,GO:0006351
+IPR016406	Cystovirus, RNA-directed RNA polymerase	interpro	family		PIRSF004131	GO:0039694
+IPR016412	RNA polymerase inhibitor	interpro	family		PF16857,PIRSF004348	
+IPR016424	Cytochrome B pre-mRNA-processing protein 2	interpro	family		PIRSF004611	GO:0003723,GO:0000372,GO:0005739
+IPR016438	ATP-dependent RNA helicase SKI2-like	interpro	family		PIRSF005198	GO:0003723,GO:0003724,GO:0006401
+IPR016442	tRNA-splicing endonuclease, archaeal short subfamily	interpro	family		MF_01833,PIRSF005285	
+IPR016443	RNA 3'-terminal phosphate cyclase type 2	interpro	family		cd00875,TIGR03400	GO:0042254,GO:0005730
+IPR016479	tRNA/rRNA methyltransferase, YfiF, predicted	interpro	family		PIRSF006280	GO:0008168
+IPR016521	RNA-processing, Lsm12	interpro	family		PIRSF007783	
+IPR016530	Mediator of RNA polymerase II transcription subunit 22, Saccharomycetes	interpro	family		PIRSF007936	GO:0003712,GO:0006357,GO:0016592
+IPR016531	RNA polymerase I-specific transcription initiation factor Rrn6	interpro	family		PIRSF007939	GO:0006361,GO:0070860
+IPR016532	Mediator of RNA polymerase II transcription subunit 20	interpro	family		PIRSF007945	GO:0003712,GO:0006357,GO:0016592
+IPR016589	tRNA-splicing endonuclease, SEN2 subunit	interpro	family		PIRSF011789	GO:0000213,GO:0006388,GO:0000214
+IPR016629	TATA box-binding protein-associated factor RNA polymerase I subunit A, chordata	interpro	family		PIRSF015161	GO:0006360,GO:0000120
+IPR016653	tRNA (guanine(9)-N(1))-methyltransferase TRM10/TRM10A	interpro	family		PIRSF016323	GO:0008168
+IPR016654	U6 snRNA-associated Sm-like protein LSm2	interpro	family		cd01725,PIRSF016394,PTHR13829	GO:0006397
+IPR016685	RNA-induced silencing complex, nuclease component Tudor-SN	interpro	family		PIRSF017179	GO:0031047,GO:0031332
+IPR016690	tRNA-splicing endonuclease, SEN34 subunit	interpro	family		PIRSF017250	GO:0000213,GO:0000379,GO:0000214
+IPR016691	tRNA guanosine-2'-O-methyltransferase, TRM11	interpro	family		PS51627	GO:0160102
+IPR016718	rRNA (guanine-N1-)-methyltransferase A, predicted	interpro	family		PIRSF018249	GO:0008168
+IPR016730	RNA-binding FAU-1	interpro	family		MF_01910,PIRSF018644	GO:0003723
+IPR016742	tRNA methyltransferase, archaea	interpro	family		PIRSF018978	GO:0008175,GO:0030488
+IPR016819	Ribonuclease P/MRP protein subunit Pop5	interpro	family		PIRSF023803	GO:0033204,GO:0001682
+IPR016848	Ribonuclease P/MRP subunit Rpp29	interpro	family		PIRSF027081,PTHR13348	GO:0033204,GO:0001682,GO:0006396,GO:0000172,GO:0030677
+IPR016899	mRNA cap guanine-N7 methyltransferase, eukaryotes	interpro	family		PIRSF028762	GO:0004482,GO:0006370
+IPR016909	Ribosomal RNA large subunit methyltransferase F	interpro	family		MF_01848,PIRSF029038	GO:0008988,GO:0006364,GO:0005737
+IPR016914	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmL	interpro	family		cd18094,MF_01885,PIRSF029256,PTHR42971	GO:0008168,GO:0001510
+IPR017067	Ribonuclease H1, eukaryote	interpro	family		PIRSF036852	GO:0000287,GO:0004523
+IPR017074	mRNA capping enzyme, bifunctional	interpro	family		PIRSF036958	GO:0004484,GO:0140818,GO:0006370
+IPR017075	mRNA capping enzyme, alpha subunit	interpro	family		PIRSF036959	GO:0004484,GO:0006370,GO:0031533
+IPR017083	RNA editing complex, nuclease subunit MP42	interpro	family		PIRSF036999	
+IPR017084	RNA editing complex, subunit MP18	interpro	family		PIRSF037000	
+IPR017085	RNA editing complex, structural subunit MP81	interpro	family		PIRSF037001	
+IPR017086	RNA editing complex, structural subunit MP63	interpro	family		PIRSF037002	
+IPR017137	Arginine-tRNA-protein transferase 1, eukaryotic	interpro	family		PIRSF037207	GO:0004057,GO:0016598
+IPR017170	Lhr-like ATP-dependent RNA helicase, predicted	interpro	family		PIRSF037307	GO:0005524,GO:0016818
+IPR017173	Nuclear mRNA export protein Sac3	interpro	family		PIRSF037320	GO:0006406,GO:0070390
+IPR017234	RNA-directed RNA polymerase, rhabdovirus	interpro	family		PIRSF037546	GO:0016740,GO:0006139
+IPR017235	RNA-directed RNA polymerase L, filovirus	interpro	family		PIRSF037548	GO:0016740,GO:0006139
+IPR017237	rRNA (guanine-N2-)-methyltransferase, RlmG	interpro	family		MF_01859,PIRSF037565	GO:0008990,GO:0031167,GO:0005737
+IPR017244	Ribosomal RNA large subunit methyltransferase K/L	interpro	family		MF_01858,PIRSF037618	GO:0008990,GO:0031167,GO:0005737
+IPR017265	rRNA-processing protein Fyv7, fungi	interpro	family		PIRSF037708	GO:0006364,GO:0005730
+IPR017290	Ribonuclease H, Bacteroides-type	interpro	family		PIRSF037839	GO:0004523
+IPR017325	RNA binding protein fox-1 homolog 1-3	interpro	family		PIRSF037932	GO:0003723,GO:0043484
+IPR017415	Putative RNA polymerase II transcriptional coactivator KELP	interpro	family		PIRSF038156	
+IPR017423	tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6	interpro	family		PF04189,PTHR12945,PIRSF038170	GO:0030488,GO:0031515
+IPR017449	Prolyl-tRNA synthetase, class II	interpro	homologous_superfamily		G3DSA:3.30.110.30,SSF64586	GO:0000166,GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR017510	RNA-splicing ligase RtcB2	interpro	family		TIGR03073	
+IPR017582	tRNA 2-selenouridine synthase	interpro	family		PTHR30401,MF_01622,TIGR03167	GO:0043828,GO:0002098
+IPR017610	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC, C-terminal	interpro	domain		TIGR03197	GO:0008168,GO:0016645
+IPR017692	Alternate ATP synthase, F0complex, subunit A	interpro	family		TIGR03306	
+IPR017707	Alternate ATP synthase, F0 complex, subunit b	interpro	family		TIGR03321	
+IPR017708	Alternate ATP synthase, F0 complex, subunit C, bacterial/archaeal	interpro	family		TIGR03322	
+IPR017709	Alternate ATP synthase, F1 complex, subunit gamma	interpro	family		TIGR03323	
+IPR017710	Alternate ATP synthase, F1 complex, subunit alpha	interpro	family		TIGR03324	GO:0046933,GO:0015986,GO:0045261
+IPR017770	RNA 3'-terminal phosphate cyclase type 1	interpro	family		MF_00200,TIGR03399	GO:0003963,GO:0006396
+IPR017848	RNA polymerase sigma factor, RpoD/SigA, cyanobacteria	interpro	family		TIGR02997	
+IPR017924	RNA-binding protein YhbY	interpro	family		TIGR00253	GO:0003723
+IPR017958	Glutamyl-tRNA(Gln) amidotransferase, subunit B, conserved site	interpro	conserved_site		PS01234	GO:0016884
+IPR017959	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, subunit B /E	interpro	family		PTHR11659	GO:0016884
+IPR018033	D-aminoacyl-tRNA deacylase, archaea	interpro	family		MF_00562,PIRSF016210	GO:0016788,GO:0051499,GO:0019478
+IPR018149	Lysyl-tRNA synthetase, class II, C-terminal	interpro	domain		cd00775,PR00982	GO:0000166,GO:0004824,GO:0005524,GO:0006430,GO:0005737
+IPR018162	Alanine-tRNA ligase, class IIc, anti-codon-binding domain superfamily	interpro	homologous_superfamily		SSF101353	GO:0000166,GO:0004813,GO:0005524,GO:0006419,GO:0005737
+IPR018163	Threonyl/alanyl tRNA synthetase, class II-like, putative editing domain superfamily	interpro	homologous_superfamily		SSF55186	GO:0000166
+IPR018164	Alanyl-tRNA synthetase, class IIc, N-terminal	interpro	domain		PF01411	GO:0000166,GO:0004813,GO:0005524,GO:0006419
+IPR018165	Alanyl-tRNA synthetase, class IIc, core domain	interpro	domain		PS50860	GO:0003676,GO:0004813,GO:0005524,GO:0006419
+IPR018171	Peptidyl-tRNA hydrolase, conserved site	interpro	conserved_site		PS01196,PS01195	GO:0004045
+IPR018188	Ribonuclease T2, His active site 1	interpro	active_site		PS00530	GO:0003723,GO:0033897
+IPR018214	Glutamyl-tRNA reductase, conserved site	interpro	conserved_site		PS00747	GO:0008883
+IPR018285	Methionyl-tRNA synthetase, N-terminal heteromerisation domain	interpro	domain		PF09635	
+IPR018319	L-seryl-tRNA selenium transferase-like	interpro	family		PF03841	
+IPR018336	Ribonuclease PH, conserved site	interpro	conserved_site		PS01277	
+IPR018517	tRNA-dihydrouridine synthase, conserved site	interpro	conserved_site		PS01136	GO:0017150,GO:0050660,GO:0008033
+IPR018524	DNA/RNA non-specific endonuclease, active site	interpro	active_site		PS01070	GO:0003676,GO:0016787,GO:0046872
+IPR018593	tRNA-splicing endonuclease subunit Sen15	interpro	domain		PF09631	
+IPR018647	Schlafen group 3-like, DNA/RNA helicase domain	interpro	domain		PF09848	
+IPR018669	Toxin-antitoxin system, mRNA interferase HigB	interpro	family		PF09907	GO:0003723,GO:0004519,GO:0090304,GO:0110001
+IPR018775	RNA repair pathway DNA polymerase beta	interpro	family		PTHR34817,PF10127	
+IPR018812	Swiss Army Knife RNA repair protein, HAD domain	interpro	domain		PF10307	
+IPR018834	DNA/RNA-binding domain, Est1-type	interpro	domain		PF10373	
+IPR018835	RNA-binding domain, putative	interpro	domain		PF10378	
+IPR018849	Nucleolar 27S pre-rRNA processing, Urb2/Npa2, C-terminal	interpro	domain		PF10441	
+IPR018885	mRNA-binding domain	interpro	domain		PF10567	
+IPR018983	U3 small nucleolar RNA-associated protein 15, C-terminal	interpro	domain		PF09384	GO:0006364,GO:0005730
+IPR018995	RNA synthesis protein NSP10, coronavirus	interpro	domain		PS51952,PF09401	GO:0003723,GO:0008270,GO:0019079
+IPR018999	RNA helicase UPF1, Cys/His rich zinc-binding domain	interpro	domain		PS51997,cd21400,PF09416	GO:0003723,GO:0003724,GO:0005524,GO:0008270,GO:0000184,GO:0005737
+IPR019012	RNA cap guanine-N2 methyltransferase	interpro	family		PF09445	GO:0008168,GO:0001510,GO:0036261
+IPR019024	Ribonuclease H2 subunit B, wHTH domain	interpro	domain		PF09468	
+IPR019039	T4 RNA ligase 1-like, N-terminal	interpro	domain		PF09511	
+IPR019087	Mediator of RNA polymerase II transcription subunit 15, N-terminal	interpro	domain		PF09606	
+IPR019167	mRNA decay factor PAT1 domain	interpro	domain		PF09770	
+IPR019188	snRNA-activating protein complex subunit 1	interpro	family		PF09808	
+IPR019230	tRNA (guanine-N(1)-)-methyltransferase, C-terminal	interpro	domain		cd18085,PF09936	
+IPR019265	RNA transcription, translation and transport factor protein	interpro	family		PF10036,PTHR15924	
+IPR019307	RNA-binding protein AU-1/Ribonuclease E/G	interpro	family		PF10150	GO:0003723
+IPR019310	rRNA-processing protein Efg1	interpro	family		PF10153	GO:0006364
+IPR019350	RNA polymerase I-specific transcription initiation factor RRN6-like	interpro	family		PTHR28221	
+IPR019354	Nonsense-mediated mRNA decay factor SMG8-like	interpro	family		PTHR13091,PF10220	GO:0000184
+IPR019385	Phosphorylated adapter RNA export protein, RNA-binding domain	interpro	domain		PF10258	
+IPR019398	Pre-rRNA-processing protein TSR2	interpro	family		PTHR21250,PF10273	
+IPR019407	Cytoplasmic tRNA 2-thiolation protein 2	interpro	family		PTHR20882,MF_03054,PF10288	GO:0000049,GO:0002098,GO:0034227
+IPR019414	RNA polymerase II assembly factor Rtp1, C-terminal domain 2	interpro	domain		PF10304	
+IPR019446	25S rRNA (uridine-N(3))-methyltransferase BMT5-like	interpro	domain		PF10354	GO:0070042,GO:0070475
+IPR019447	DNA/RNA-binding protein Kin17, WH-like domain	interpro	domain		SM01253,PF10357	
+IPR019451	RNA polymerase II assembly factor Rtp1, C-terminal	interpro	domain		PF10363	
+IPR019462	DNA-directed RNA polymerase, beta subunit, external 1 domain	interpro	domain		PF10385	GO:0003899,GO:0006351
+IPR019464	RNA polymerase II elongation factor ELL, N-terminal	interpro	domain		PF10390	GO:0006368,GO:0008023
+IPR019488	Nuclear pore RNA shuttling protein Mtr2	interpro	family		PF10429	
+IPR019499	Valyl-tRNA synthetase, tRNA-binding arm	interpro	domain		PF10458	GO:0000166,GO:0004832,GO:0005524,GO:0006438,GO:0005737
+IPR019532	Nuclear RNA-splicing-associated protein, SR-25	interpro	family		PF10500	
+IPR019580	Pre-mRNA-processing-splicing factor 8, U6-snRNA-binding	interpro	domain		PF10596	GO:0017070
+IPR019581	Pre-mRNA-processing-splicing factor 8, U5-snRNA-binding	interpro	domain		PF10597	GO:0030623
+IPR019582	RNA recognition motif, spliceosomal PrP8	interpro	domain		PF10598	GO:0003723
+IPR019602	mRNA capping enzyme catalytic subunit, RNA triphosphatase domain, virus	interpro	domain		PF10640	GO:0004484,GO:0004651
+IPR019725	Bacteriophage T4, P15K, RNA polymerase binding	interpro	family		PF10789	
+IPR019761	DNA-directed RNA polymerase M, 15kDa subunit, conserved site	interpro	conserved_site		PS01030	
+IPR019872	O-phosphoseryl-tRNA(Sec) selenium transferase	interpro	family		TIGR03531,PTHR12944,PIRSF017689	GO:0098621,GO:0001717
+IPR019969	DNA-directed RNA polymerase subunit Rpo2	interpro	family		TIGR03670	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR020024	L-seryl-tRNA(Sec) kinase, archaea	interpro	family		TIGR03574	GO:0016301,GO:0016773,GO:0001717
+IPR020028	L-seryl-tRNA(Sec)kinase, eukaryote	interpro	family		TIGR03575	
+IPR020056	Large ribosomal subunit protein bL25/Gln-tRNA synthetase, N-terminal	interpro	homologous_superfamily		G3DSA:2.40.240.10	
+IPR020058	Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain	interpro	domain		PF00749	GO:0004812,GO:0005524,GO:0043039
+IPR020059	Glutamyl/glutaminyl-tRNA synthetase, class Ib, anti-codon binding domain	interpro	domain		PF03950	GO:0000166,GO:0004812,GO:0005524,GO:0006418,GO:0005737
+IPR020061	Glutamine-tRNA ligase, alpha-bundle domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.1160.10	GO:0005524
+IPR020241	Ribonuclease P/MRP subunit Pop7, fungi	interpro	family		PTHR28256	GO:0001682,GO:0006396,GO:0000172,GO:0005655
+IPR020353	mRNA interferase toxin YafO	interpro	family		PF13957	
+IPR020401	mRNA transport factor GFD1	interpro	family		PF17331	
+IPR020539	Ribonuclease P, conserved site	interpro	conserved_site		PS00648	GO:0004526
+IPR020596	Ribosomal RNA adenine methylase transferase, conserved site	interpro	conserved_site		PS01131	GO:0000179,GO:0000154
+IPR020598	Ribosomal RNA adenine methylase transferase, N-terminal	interpro	domain		SM00650	GO:0000179,GO:0000154
+IPR020608	RNA polymerase, subunit H/Rpb5, conserved site	interpro	conserved_site		PS01110	
+IPR020627	RNA-binding protein KhpA	interpro	family		PTHR34654,cd22533,MF_00088	GO:0003723
+IPR020653	Tryptophan-tRNA ligase, archaea	interpro	family		MF_00140_A	GO:0004830,GO:0005524,GO:0006436,GO:0005737
+IPR020708	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site	interpro	conserved_site		PS01111	GO:0003677,GO:0003899,GO:0006351
+IPR020719	RNA 3'-terminal phosphate cyclase-like, conserved site	interpro	conserved_site		PS01287	
+IPR020751	Aminoacyl-tRNA synthetase, class I, anticodon-binding domain, subdomain 2	interpro	homologous_superfamily		G3DSA:1.10.10.350	
+IPR020752	Glutamate-tRNA synthetase, class I, anticodon-binding domain, subdomain 1	interpro	homologous_superfamily		G3DSA:1.10.8.70	GO:0000049
+IPR020787	Ribonuclease HII, archaea	interpro	family		MF_00052_A	GO:0004523,GO:0030145,GO:0006401,GO:0005737
+IPR020789	RNA polymerases, subunit N, zinc binding site	interpro	binding_site		PS01112	GO:0003677,GO:0003899,GO:0008270,GO:0006351
+IPR020791	Leucine-tRNA ligase, archaeal	interpro	family		MF_00049_A	GO:0000166,GO:0004823,GO:0005524,GO:0006429,GO:0005737
+IPR020825	Phenylalanyl-tRNA synthetase-like, B3/B4	interpro	homologous_superfamily		G3DSA:3.50.40.10	
+IPR020936	tRNA uridine(34) hydroxylase	interpro	family		MF_00469,PTHR43268	
+IPR020998	Mediator of RNA polymerase II transcription subunit 3	interpro	family		PF11593	GO:0003712,GO:0006357,GO:0016592
+IPR021081	Nepovirus subgroup A, RNA2 polyprotein, Protein 2A	interpro	domain		PF12312	
+IPR021083	Nuclear abundant poly(A) RNA-binding protein Nab2, N-terminal	interpro	domain		PF11517	
+IPR021099	Plant organelle RNA recognition domain	interpro	domain		PF11955	GO:0003723
+IPR021122	RNA ligase domain, REL/Rln2	interpro	domain		PF09414	
+IPR021168	Bifunctional polymyxin resistance protein, ArnA	interpro	family		MF_01166,PIRSF036506	GO:0016742
+IPR021172	Uncharacterised conserved protein, RNA methylase-related	interpro	family		PIRSF006607	
+IPR021281	Small nuclear RNA activating complex subunit 2	interpro	family		PTHR15132,PF11035	GO:0016251,GO:0009301
+IPR021310	Plant viral coat protein nucleocapsid	interpro	family		PF11128	
+IPR021419	Mediator of RNA polymerase II transcription subunit 25, von Willebrand factor type A domain	interpro	domain		PF11265	
+IPR021573	Leader peptide, picornavirus	interpro	family		PF11475	
+IPR021575	RNA silencing suppressor P21, C-terminal	interpro	domain		PF11479	
+IPR021715	Pre-mRNA-splicing factor SLU7 domain	interpro	domain		PF11708	
+IPR021718	Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term	interpro	domain		SM01098,PF11718	
+IPR021742	Suppressor of RNA silencing P21-like, N-terminal	interpro	domain		PF11757	
+IPR021776	Alternative complex III, ActD subunit	interpro	family		PF11821	
+IPR021786	Pre-mRNA splicing factor component Cdc5p/Cef1, C-terminal	interpro	domain		PF11831	
+IPR021790	PTBP1-like, RNA recognition motif 2	interpro	domain		PF11835	
+IPR021869	Ribonuclease Zc3h12a-like, NYN domain	interpro	domain		PF11977	
+IPR021891	Telomerase ribonucleoprotein complex - RNA-binding domain	interpro	domain		PF12009,SM00975	GO:0003964
+IPR021892	RNA helicase NPH-II	interpro	family		PF12011	GO:0017111
+IPR021985	RNA polymerase Rpo13 subunit HTH domain	interpro	domain		PF12136	
+IPR022042	snRNA-activating protein complex, subunit 3	interpro	family		PF12251,PTHR13421	
+IPR022071	Rotavirus VP1 RNA-directed RNA polymerase, C-terminal	interpro	domain		PF12289	GO:0003968
+IPR022077	ATP-dependent RNA helicase RhlB	interpro	family		PF12300	GO:0016817
+IPR022125	U3 small nucleolar RNA-associated protein 10, N-terminal	interpro	domain		PF12397	
+IPR022192	Mitochondrial degradasome RNA helicase subunit, C-terminal domain	interpro	domain		PF12513	GO:0016817
+IPR022209	Pre-mRNA splicing factor	interpro	family		PF12542	
+IPR022238	18S rRNA (guanine(1575)-N(7))-methyltransferase Bud23, C-terminal	interpro	domain		PF12589	GO:0016435,GO:0070476
+IPR022380	Glutamyl-Q tRNA(Asp) synthetase	interpro	family		TIGR03838,MF_01428	GO:0000166,GO:0004812,GO:0008270,GO:0006400,GO:0006424
+IPR022429	Alanine-tRNA ligase, archaea	interpro	family		TIGR03683,MF_00036_A	GO:0000166,GO:0006419,GO:0005737
+IPR022450	tRNA N6-adenosine threonylcarbamoyltransferase, TsaD	interpro	family		TIGR03723,MF_01445	GO:0002949
+IPR022496	tRNA threonylcarbamoyl adenosine modification protein TsaB	interpro	family		TIGR03725	GO:0002949
+IPR022531	RNA-directed RNA polymerase L, PA-C-like domain	interpro	domain		PF12603	
+IPR022539	Picornavirus VP1, conserved C-terminal region	interpro	conserved_site		PF12521	
+IPR022666	Large ribosomal subunit protein uL2, RNA-binding domain	interpro	domain		PF00181	GO:0003735,GO:0006412,GO:0005840
+IPR022701	tRNA-queuosine alpha-mannosyltransferase, N-terminal	interpro	domain		PF12038	
+IPR022711	Ribonuclease Y, N-terminal	interpro	domain		PF12072	
+IPR022724	RNA methyltransferase, SpoU/TrmH type, C-terminal domain	interpro	domain		PF12105	GO:0141100
+IPR022737	RNA polymerase recycling, bacterial, C-terminal	interpro	domain		PF12137	GO:0016817
+IPR022755	Zinc finger, double-stranded RNA binding	interpro	domain		PF12171	
+IPR022793	RNA polymerase I-specific transcription initiation factor Rrn10	interpro	family		PTHR28054,PF05234	GO:0006360
+IPR022842	DNA-directed RNA polymerase subunit Rpo3/Rpb3/RPAC1	interpro	family		MF_00320	GO:0003899,GO:0006351
+IPR022861	Glutamine-tRNA ligase, bacterial	interpro	family		MF_00126	GO:0004819
+IPR022874	Valine-tRNA ligase, type 2	interpro	family		MF_02005	GO:0004832
+IPR022881	Ribosomal RNA large subunit methyltransferase, Cfr	interpro	family		SFLDF00296,TIGR04432,MF_01873	GO:0070475
+IPR022882	tRNA1(Val) (adenine(37)-N6)-methyltransferase	interpro	family		MF_01872	GO:0016430
+IPR022892	Ribonuclease HI	interpro	family		cd09278,MF_00042	GO:0004523
+IPR022898	Ribonuclease HII	interpro	family		cd07182,MF_00052_B	GO:0004523
+IPR022905	DNA-directed RNA polymerase subunit Rpo11-like	interpro	family		MF_00261	GO:0003899,GO:0006351
+IPR022908	tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase	interpro	family		MF_00266	GO:0008175,GO:0030488,GO:0031591
+IPR022911	Phenylalanine-tRNA ligase alpha chain 1, bacterial	interpro	family		MF_00281	GO:0004826
+IPR022917	Phenylalanine-tRNA ligase alpha subunit, bacterial/archaeal	interpro	family		MF_00282	GO:0004826
+IPR022918	Phenylalanine-tRNA ligase beta chain 2, archaeal type	interpro	family		MF_00284	GO:0004826,GO:0006432
+IPR022923	tRNA (guanine(26)-N(2))-dimethyltransferase, archaeal and bacterial	interpro	family		MF_00290	GO:0160104
+IPR022925	NAD-capped RNA hydrolase NudC	interpro	family		MF_00297	GO:0000210
+IPR022927	RNA pyrophosphohydrolase RppH	interpro	family		cd03671,MF_00298	
+IPR022928	RNA 2'-phosphotransferase KptA, putative	interpro	family		MF_00299	GO:0003950
+IPR022960	Glycine-tRNA ligase, archaeal	interpro	family		MF_00253_A	GO:0004820
+IPR022961	Glycine-tRNA ligase, bacterial	interpro	family		MF_00253_B	GO:0004820
+IPR022966	Ribonuclease II/R, conserved site	interpro	conserved_site		PS01175	
+IPR022968	16S/18S rRNA aminocarboxypropyltransferase Tsr3	interpro	family		MF_01116,PTHR20426	GO:0016740,GO:0106388,GO:0006364
+IPR023032	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC	interpro	family		MF_01102	GO:0004808,GO:0008168,GO:0016645,GO:0008033
+IPR023033	Alanine-tRNA ligase, eukaryota/bacteria	interpro	family		MF_00036_B	GO:0004813
+IPR023148	tRNA (guanine-N(1)-)-methyltransferase, C-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.1270.20	GO:0052906,GO:0008033
+IPR023160	Ribonuclease HII, helix-loop-helix cap domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.460	GO:0004523
+IPR023165	rRNA adenine dimethylase-like, C-terminal	interpro	homologous_superfamily		G3DSA:1.10.8.100	
+IPR023168	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C-terminal, domain 2	interpro	homologous_superfamily		G3DSA:1.10.10.410	
+IPR023251	Pre-mRNA-splicing factor Brr1	interpro	family		PR02039	GO:0030532
+IPR023267	RNA (C5-cytosine) methyltransferase	interpro	family		PR02008,PTHR22808,PTHR22807	GO:0008173,GO:0001510
+IPR023268	RNA (C5-cytosine) methyltransferase, putative Rsm-related, plant	interpro	family		PR02009	
+IPR023269	RNA (C5-cytosine) methyltransferase, subfamily 9	interpro	family		PR02010	
+IPR023270	tRNA (C5-cytosine) methyltransferase, NCL1	interpro	family		PR02011	GO:0016428
+IPR023273	RNA (C5-cytosine) methyltransferase, NOP2	interpro	family		PR02012	GO:0008168
+IPR023356	Leucyl-tRNA synthetase, domain 3	interpro	domain		PF14795	
+IPR023382	tRNA-specific 2-thiouridylase MnmA-like, central domain superfamily	interpro	homologous_superfamily		G3DSA:2.30.30.280	GO:0016783
+IPR023411	Ribonuclease A, active site	interpro	active_site		PS00127	
+IPR023412	Ribonuclease A-domain	interpro	domain		PF00074,SM00092	
+IPR023457	Methionine-tRNA synthetase, type 2	interpro	family		PTHR43326,MF_01228	GO:0004825
+IPR023458	Methionine-tRNA ligase, type 1	interpro	family		PTHR45765,MF_00098	GO:0004825
+IPR023460	RNA-binding family, YbxF-like	interpro	family		MF_00574	
+IPR023464	DNA-directed RNA polymerase subunit Rpo12	interpro	family		MF_00615	GO:0003677,GO:0003899,GO:0006351
+IPR023476	Peptidyl-tRNA hydrolase II domain superfamily	interpro	homologous_superfamily		SSF102462,G3DSA:3.40.1490.10	
+IPR023509	D-aminoacyl-tRNA deacylase-like superfamily	interpro	homologous_superfamily		G3DSA:3.50.80.10,SSF69500	
+IPR023516	tRNA-splicing endonuclease, archaeal long subfamily	interpro	family		MF_01834	GO:0000213
+IPR023529	RNA chaperone ProQ	interpro	family		PTHR38106,MF_00749	GO:0003723,GO:0033592,GO:0034057,GO:0010608
+IPR023534	Rof/RNase P-like	interpro	homologous_superfamily		SSF101744	
+IPR023539	Ribonuclease P, protein component 3, archaeal	interpro	family		MF_00756	GO:0004526,GO:0001682
+IPR023541	rRNA small subunit methyltransferase B, enterobacteriaceae	interpro	family		MF_01856	GO:0008649
+IPR023542	Ribosomal RNA large subunit methyltransferase I	interpro	family		MF_01857	GO:0008649
+IPR023543	rRNA small subunit methyltransferase C	interpro	family		MF_01862	GO:0008649
+IPR023545	rRNA small subunit methyltransferase F	interpro	family		MF_01579	GO:0008649
+IPR023554	ATP-dependent RNA helicase RhlB type	interpro	family		MF_00661	GO:0003724
+IPR023558	Tryptophan RNA-binding attenuator protein domain	interpro	domain		PF02081	
+IPR023580	RNA polymerase subunit RPB10	interpro	homologous_superfamily		SSF46924	
+IPR023585	Isoleucine-tRNA ligase, type 1	interpro	family		MF_02002	GO:0004822
+IPR023586	Isoleucine-tRNA ligase, type 2	interpro	family		PTHR42780,MF_02003	GO:0004822
+IPR023617	Tyrosine-tRNA ligase, archaeal/eukaryotic-type	interpro	family		PIRSF006588	GO:0004831
+IPR023678	Tyrosine-tRNA ligase, type 4	interpro	family		MF_02009	GO:0004831,GO:0005524,GO:0006437,GO:0005737
+IPR023684	Tyrosine-tRNA ligase, type 3	interpro	family		MF_02008	GO:0004831,GO:0005524,GO:0006437,GO:0005737
+IPR023716	Proline-tRNA ligase, class IIa, type 2	interpro	family		MF_01570	GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR023717	Prolyl-tRNA synthetase, class IIa, type 1	interpro	family		PIRSF001535,MF_01569	GO:0004827,GO:0005524,GO:0006433,GO:0005737
+IPR023758	tRNA-modifying protein YgfZ	interpro	family		MF_01175	GO:0005542,GO:0009451
+IPR023785	Regulator of RNA polymerase sigma(70) subunit, Rsd	interpro	family		MF_01181	
+IPR023797	RNA 3'-terminal phosphate cyclase domain	interpro	domain		PF01137	
+IPR023869	tRNA adenosine deaminase-associated protein, putative	interpro	family		TIGR03941	
+IPR023877	Pyrrolysyl-tRNA ligase, C-terminal	interpro	domain		TIGR02367	GO:0004812
+IPR023878	Pyrrolysyl-tRNA ligase, N-terminal	interpro	domain		TIGR03912	GO:0004812
+IPR023949	RNA polymerase-associated protein RapA	interpro	family		MF_01821	GO:0006355
+IPR023993	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase, archaea	interpro	family		TIGR03972,MF_01921	GO:0016829,GO:0051539,GO:0008033
+IPR024006	Alternate signal-mediated exported protein, actinobacteria	interpro	family		TIGR04089	
+IPR024026	3'-RNA ribose 2'-O-methyltransferase, Hen1, bacterial	interpro	family		TIGR04074	
+IPR024036	tRNA-dihydrouridine synthase, putative, C-terminal	interpro	homologous_superfamily		G3DSA:1.10.1200.80	GO:0016491
+IPR024037	Alternate ATP synthase, F1 complex, subunit epsilon	interpro	family		TIGR03166	
+IPR024075	DNA-directed RNA polymerase, helix hairpin domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.287.260	GO:0003899
+IPR024088	Tyrosine-tRNA ligase, bacterial-type	interpro	family		PTHR11766	GO:0004831
+IPR024107	Tyrosine-tRNA ligase, bacterial-type, type 1	interpro	family		MF_02006	GO:0004831
+IPR024108	Tyrosine-tRNA ligase, bacterial-type, type 2	interpro	family		MF_02007	GO:0004831
+IPR024109	Tryptophan-tRNA ligase, bacterial-type	interpro	family		MF_00140_B	GO:0004830
+IPR024166	Ribosomal RNA assembly KRR1	interpro	family		PIRSF006515,PTHR12581	
+IPR024261	RNA binding protein She2	interpro	domain		PF11435	GO:0003723
+IPR024268	rRNA methyltransferase AviRa	interpro	family		PF11599	
+IPR024326	Ribosomal RNA-processing protein 7, C-terminal domain	interpro	domain		PF12923	
+IPR024336	tRNA-splicing endonuclease, subunit Sen54, N-terminal	interpro	domain		PF12928	
+IPR024337	tRNA-splicing endonuclease, subunit Sen54	interpro	family		PTHR21027	
+IPR024377	RNA-binding protein, B2	interpro	family		PF11473	
+IPR024378	RNA-directed RNA polymerase, hantavirus, N-terminal	interpro	domain		PF12426	
+IPR024387	Peptidase C3G, Picornavirus	interpro	domain		PF12381	
+IPR024390	RNA polymerase, 132kDa subunit, poxvirus-type	interpro	family		PF12415	
+IPR024394	RNA polymerase, 30kDa subunit, chordopox-type, N-terminal	interpro	domain		PF12410	
+IPR024413	Bacteriophage phiKZ, Orf92, internal head	interpro	family		PF12699	
+IPR024435	Histidyl tRNA synthetase-related domain	interpro	domain		PF12745	
+IPR024567	Ribonuclease HII/HIII domain	interpro	domain		PS51975,PF01351	GO:0004523
+IPR024568	Ribonuclease HIII, N-terminal	interpro	domain		cd14796,PF11858	
+IPR024576	Ribosomal RNA methyltransferase Spb1, domain of unknown function DUF3381	interpro	domain		PF11861	
+IPR024590	RNA helicase HrpA, C-terminal	interpro	domain		PF11898	
+IPR024596	DNA-directed RNA polymerase subunit beta/EpuA	interpro	family		PF11772	
+IPR024634	Internalin, N-terminal	interpro	domain		PF12354	
+IPR024661	DNA-directed RNA polymerase III, subunit Rpc31	interpro	family		PF11705,PIRSF000777,PTHR15367	GO:0006383
+IPR024679	Pre-rRNA-processing protein Ipi1, N-terminal	interpro	domain		PF12333	
+IPR024767	Pre-mRNA-splicing factor 38, C-terminal	interpro	domain		PF12871	
+IPR024768	Meiosis regulator and mRNA stability factor 1	interpro	family		PTHR14379	GO:0010468,GO:0005777
+IPR024909	Cysteinyl-tRNA synthetase/mycothiol ligase	interpro	family		PTHR10890,PR00983	
+IPR024913	tRNA(Ile2) 2-agmatinylcytidine synthetase TiaS	interpro	family		MF_01892	GO:0016879,GO:0002101
+IPR024914	tRNA(Met) cytidine acetyltransferase TmcA	interpro	family		MF_01886	GO:0000049,GO:0051392,GO:0002101,GO:0051391
+IPR024915	23S rRNA (guanosine-2-O-)-methyltransferase RlmB	interpro	family		MF_01887	
+IPR024918	3'-5' ssDNA/RNA exonuclease TatD	interpro	family		MF_00901	GO:0008408
+IPR024956	tRNAHis guanylyltransferase catalytic domain	interpro	domain		PF04446	GO:0000287,GO:0008193,GO:0006400
+IPR024996	pPIWI_RE, RNaseH domain	interpro	domain		PF13032	
+IPR025156	Ribonuclease M5, C-terminal domain	interpro	domain		PF13331	
+IPR025182	RNA polymerase-binding protein RbpA	interpro	family		MF_01483,PF13397	GO:0001000,GO:0045893
+IPR025210	ATP25 mRNA stabilisation domain	interpro	domain		PF13929	GO:0048255
+IPR025223	S1-like RNA binding domain	interpro	domain		PF14444	
+IPR025313	ATP-dependent rRNA helicase SPB4-like, C-terminal extension	interpro	domain		SM01178,PF13959	
+IPR025490	RNA-binding protein, HP1423 type	interpro	family		PIRSF038881	
+IPR025525	hAT-like transposase, RNase-H fold	interpro	domain		PF14372	GO:0003677
+IPR025528	BrnA antitoxin of type II toxin-antitoxin system	interpro	family		PF14384	
+IPR025564	Cyanobacterial aminoacyl-tRNA synthetase, CAAD domain	interpro	domain		PF14159	
+IPR025696	Exosome RNA helicase MTR4-like, beta-barrel domain	interpro	domain		PF13234	
+IPR025709	Leucyl-tRNA synthetase, editing domain	interpro	domain		PF13603	GO:0002161,GO:0006418
+IPR025757	Ternary complex factor MIP1, leucine-zipper	interpro	domain		PF14389	
+IPR025759	tRNA guanosine-2'-O-methyltransferase, Trm3	interpro	family		PS51623	GO:0016423,GO:0030488
+IPR025763	tRNA (guanine-N-7) methyltransferase catalytic subunit Trm8, eukaryote	interpro	family		MF_03055	GO:0008176
+IPR025775	Birnavirus VP4 protease domain	interpro	domain		PS51548,PF01768	
+IPR025792	tRNA (guanine(37)-N(1))-methyltransferase, eukaryotic	interpro	family		MF_03152	GO:0052906,GO:0030488
+IPR025795	tRNA (uracil-5-)-methyltransferase	interpro	family		PS51622	GO:0030697,GO:0008033
+IPR025812	tRNA methyltransferase 10 homolog C, TRM10-type domain	interpro	domain		cd18102	GO:0008033,GO:0005739
+IPR025823	tRNA (uracil-5-)-methyltransferase homolog B, chordates	interpro	family		PS51621	GO:0030697
+IPR025849	AF2226-like SPOUT RNA methylase fused to THUMP	interpro	family		PF14419	
+IPR025862	L-seryl-tRNA selenium transferase N-terminal domain	interpro	domain		PF12390	
+IPR025981	Ribosomal RNA aminoglycoside-resistance methyltransferase	interpro	family		PF07091	
+IPR025986	RNA-polymerase II-associated protein 3-like, C-terminal domain	interpro	domain		PF13877	
+IPR025995	RNA binding activity-knot of a chromodomain	interpro	domain		PF11717	
+IPR026113	tRNA N(3)-methylcytidine methyltransferase METTL2/6/8-like	interpro	family		PTHR22809,PIRSF037755	
+IPR026213	DNA-directed RNA polymerase II subunit GRINL1	interpro	family		PR02085,PF15328	GO:0003711,GO:0006368,GO:0005634
+IPR026274	tRNA wybutosine synthesizing protein 2	interpro	family		PIRSF038972	GO:0008757,GO:0031591
+IPR026326	Probable tRNA pseudouridine synthase B, archaeal	interpro	family		MF_01081	GO:0006396
+IPR026373	Seadornavirus VP5/VP6 protein	interpro	family		TIGR04231	
+IPR026378	Seadornavirus VP11 protein	interpro	family		TIGR04230	
+IPR026379	Seadornavirus VP3 protein	interpro	family		TIGR04232	
+IPR026380	Seadornavirus VP8 protein	interpro	family		TIGR04233	
+IPR026381	RNA-directed RNA polymerase	interpro	family		TIGR04234	
+IPR026382	RNA endonuclease, cap-snatching, arenaviral	interpro	domain		PF17296	
+IPR026383	Seadornavirus VP4 protein	interpro	family		TIGR04235	
+IPR026384	Seadornavirus VP2 protein	interpro	family		TIGR04236	
+IPR026388	Seadornavirus double-stranded RNA-binding protein	interpro	family		TIGR04238	
+IPR026405	Chlamydiae/Verrucomicrobia/Planctomycetes small basic protein	interpro	family		TIGR04137	
+IPR026490	mRNA cap 0/1 methyltransferase	interpro	domain		cd20761,PS51591	GO:0004482,GO:0004483
+IPR026502	Histone RNA stem-loop-binding protein SLBP1/SLBP2	interpro	family		PTHR17408	GO:0003729
+IPR026610	3'-RNA ribose 2'-O-methyltransferase, Hen1	interpro	family		PTHR21404	GO:0008171,GO:0008173,GO:0001510
+IPR026699	Exosome complex RNA-binding protein 1/RRP40/RRP4	interpro	family		PTHR21321	GO:0003723,GO:0000178
+IPR026770	Ribonuclease kappa	interpro	family		PTHR31733	GO:0004521,GO:0090304
+IPR026890	Mononegavirales mRNA-capping domain V	interpro	domain		PF14318	
+IPR026904	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG, C-terminal	interpro	domain		PF13932	
+IPR027031	Glycyl-tRNA synthetase/DNA polymerase subunit gamma-2	interpro	family		PTHR10745	
+IPR027249	DNA-directed DNA/RNA polymerase mu	interpro	family		PIRSF501176	GO:0003887,GO:0006281,GO:0005634
+IPR027351	(+) RNA virus helicase core domain	interpro	domain		PS51657,PF01443	GO:0005524
+IPR027368	tRNA modification GTPase MnmE domain 2	interpro	homologous_superfamily		G3DSA:1.20.120.430	
+IPR027391	rRNA small subunit methyltransferase F, RNA-binding PUA-like domain	interpro	domain		PF13636	
+IPR027408	PNPase/RNase PH domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.230.70	
+IPR027492	Dual-specificity RNA methyltransferase RlmN	interpro	family		MF_01849,TIGR00048	GO:0030488,GO:0070475
+IPR027499	Glutamyl-tRNA(Gln) amidotransferase subunit F, mitochondrial	interpro	family		MF_03151	GO:0050567,GO:0070681,GO:0005739,GO:0030956
+IPR027513	RNA-splicing ligase RtcB homologue, eukaryotic	interpro	family		MF_03144	GO:0170057,GO:0006388,GO:0072669
+IPR027521	U6 snRNA phosphodiesterase 1	interpro	family		PF09749,MF_03040,PTHR13522	GO:0004518,GO:0034477
+IPR027522	Probable alanine--tRNA ligase, plants	interpro	family		MF_03134	GO:0009507
+IPR027555	tRNA (Mo5U34)-methyltransferase-like	interpro	family		PF08003	
+IPR027652	Pre-mRNA-processing-splicing factor 8	interpro	family		PTHR11140	GO:0000398,GO:0005681
+IPR027794	tRNase Z endonuclease	interpro	domain		PF13691	GO:0008033
+IPR027992	Possible tRNA binding domain	interpro	domain		PF13725	
+IPR028079	Zc3h12a-like Ribonuclease NYN domain	interpro	domain		PF14626	
+IPR028157	PELOTA RNA-binding domain	interpro	domain		PF15608	
+IPR028211	Pre-mRNA-splicing factor Ntr2	interpro	family		PF15458	GO:0000390,GO:0071008
+IPR028271	RNA guanine-N7 methyltransferase activating subunit	interpro	family		PTHR48168,PF15320	GO:0003723,GO:0106005,GO:0031533
+IPR028363	DNA-directed RNA polymerase, subunit RPB6	interpro	family		PIRSF500154	GO:0003899,GO:0006351,GO:0005634,GO:0005665
+IPR028564	tRNA methyltransferase TRM10-type domain	interpro	domain		PS51675	
+IPR028589	AdoMet-dependent rRNA methyltransferase SPB1-like	interpro	family		MF_03163	GO:0008649,GO:0031167
+IPR028590	tRNA (cytidine(32)/guanosine(34)-2-O)-methyltransferase TRM7	interpro	family		MF_03162	GO:0008175,GO:0008033
+IPR028592	Queuine tRNA-ribosyltransferase accessory subunit QTRTD1	interpro	family		MF_03043	GO:0101030
+IPR028617	RNA polymerase sigma factor FliA	interpro	family		MF_00962	GO:0003677,GO:0003899,GO:0016987,GO:0006352,GO:0006355
+IPR028618	ATP-dependent RNA helicase DeaD	interpro	family		MF_00964	GO:0003724,GO:0000027,GO:0070417
+IPR028619	ATP-dependent RNA helicase DbpA	interpro	family		MF_00965	GO:0003724,GO:0000027
+IPR028621	ATP-dependent RNA helicase SrmB	interpro	family		MF_00967	GO:0003724,GO:0000027
+IPR028622	ATP-dependent RNA helicase RhlE	interpro	family		MF_00968	GO:0003724,GO:0042255
+IPR028630	RNA polymerase sigma factor RpoD	interpro	family		MF_00963	GO:0016987,GO:0006352
+IPR028878	Ribonuclease E	interpro	family		MF_00970	GO:0008995,GO:0006396
+IPR028883	tRNA-specific adenosine deaminase	interpro	family		MF_00972,PF14437	GO:0008251,GO:0002100
+IPR028884	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit	interpro	family		MF_03056,PTHR16288	GO:0036265
+IPR029026	tRNA (guanine-N1-)-methyltransferase, N-terminal	interpro	homologous_superfamily		G3DSA:3.40.1280.10	
+IPR029038	Methionyl-tRNA synthetase, Zn-domain	interpro	homologous_superfamily		G3DSA:2.20.28.20,SSF57770	
+IPR029040	RNA polymerase subunit RPABC4/transcription elongation factor Spt4	interpro	homologous_superfamily		SSF63393	
+IPR029124	RNA-directed RNA polymerase L, N-terminal	interpro	domain		PF15518	
+IPR029137	Putative RNase-like toxin, toxin1	interpro	domain		PF15500	
+IPR029138	snRNA-activating protein complex subunit 5	interpro	family		PTHR15333,PF15497	GO:0006366,GO:0006384,GO:0005634
+IPR029188	Ribosomal RNA-processing protein 14, N-terminal	interpro	domain		PF15459	
+IPR029190	Ribosomal RNA-processing protein 14/surfeit locus protein 6, C-terminal domain	interpro	domain		PF04935	
+IPR029262	DNA-directed RNA polymerase, N-terminal	interpro	domain		SM01311,PF14700	
+IPR029344	Histone RNA hairpin-binding protein, RNA-binding domain	interpro	domain		PF15247	GO:0003723
+IPR029402	tRNA-guanine transglycosylase, patch-forming domain C2	interpro	domain		PF14810	
+IPR029538	Serine/arginine-rich splicing factor 1, RNA recognition motif 2	interpro	domain		cd12767	
+IPR029757	DNA-directed RNA polymerase subunit delta	interpro	family		TIGR04567,MF_00357	GO:0006351,GO:0006355
+IPR030217	Nuclear RNA export factor	interpro	family		PTHR10662	
+IPR030390	RNA methyltransferase TrmA, active site	interpro	active_site		PS01230	
+IPR030391	RNA methyltransferase TrmA, conserved site	interpro	conserved_site		PS01231	
+IPR030666	tRNA isopentenyltransferase, eukaryotes	interpro	family		PIRSF039110	GO:0005524,GO:0052381,GO:0008033
+IPR030854	Ribonuclease J, bacteria	interpro	family		PIRSF004803,MF_01491	GO:0004521,GO:0004534,GO:0008270,GO:0006396
+IPR030867	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase	interpro	family		MF_01922	GO:0016765,GO:0006400
+IPR030879	Ribonuclease J, archaea	interpro	family		MF_01492	GO:0003723,GO:0004534
+IPR030880	DEAD-box ATP-dependent RNA helicase CshA	interpro	family		MF_01493	GO:0003724,GO:0005524,GO:0010501
+IPR030881	DEAD-box ATP-dependent RNA helicase CshB	interpro	family		MF_01494	GO:0004386,GO:0009409
+IPR031101	RNA polymerase-associated protein Ctr9	interpro	family		PTHR14027	GO:0006355
+IPR031340	Ribosomal RNA small subunit methyltransferase F, first C-terminal domain	interpro	domain		PF17126	
+IPR031341	Ribosomal RNA small subunit methyltransferase F, N-terminal	interpro	domain		PF17125	
+IPR031451	mRNA interferase toxin MqsR	interpro	family		cd12869,PF15723	GO:0009372,GO:0017148,GO:0044010
+IPR031538	Tryptophan RNA-binding attenuator protein inhibitory protein	interpro	family		PF15777	
+IPR031553	Lysyl-tRNA synthetase, N-terminal transmembrane region	interpro	domain		PF16995	
+IPR031555	DNA-directed RNA polymerase subunit Rpo8	interpro	family		PF16992,MF_00866	
+IPR031590	Pre-mRNA-splicing factor Prp9, N-terminal	interpro	domain		PF16958	
+IPR031595	Protein-only RNase P, C-terminal	interpro	domain		PF16953	
+IPR031736	RNA exonuclease 1 homolog-like domain	interpro	domain		PF15870	
+IPR031766	Occluded RNA-recognition motif	interpro	domain		cd12299,PF16842	
+IPR031845	Bacterial toxin, RNase RnlA/LsoA, N-terminal repeated domain	interpro	domain		PF15935	
+IPR031889	AIMP2, lysyl-tRNA synthetase binding domain	interpro	domain		PF16780	
+IPR031952	KH-like RNA-binding domain	interpro	domain		cd12795,PF16005	
+IPR031953	mRNA-decapping enzyme, C-terminal	interpro	domain		PF16741	
+IPR032005	Tyrosyl-tRNA synthetase, C-terminal	interpro	domain		PF16714	GO:0003723
+IPR032174	RNA helicase aquarius, N-terminal domain	interpro	domain		PF16399	
+IPR032382	Alternaria alternata allergen 1	interpro	domain		PS51895,PF16541	
+IPR032401	Enhancer of mRNA-decapping protein 4, WD40 repeat region	interpro	domain		PF16529	
+IPR032414	Matrix protein, Bornaviridae	interpro	family		PF16520	
+IPR032442	Cytoplasmic tRNA 2-thiolation protein 1, C-terminal	interpro	domain		PF16503	
+IPR032678	tRNA synthetases class I, catalytic domain	interpro	domain		cd00672,PF01406	
+IPR032729	tRNA-guanine(15) transglycosylase, C1 domain	interpro	domain		PF14809	
+IPR032782	RNA-binding protein KhpB, N-terminal	interpro	domain		SM01245,PF14804	
+IPR032819	tRNA pseudouridylate synthase B, C-terminal	interpro	domain		PF16198	
+IPR032828	tRNA nucleotidyltransferase/poly(A) polymerase, RNA and SrmB- binding domain	interpro	domain		PF12627	
+IPR032847	Pre-mRNA-processing factor 17	interpro	family		PTHR43979	GO:0000398,GO:0071013
+IPR032860	RNA demethylase ALKBH5	interpro	family		PTHR32074	GO:0035515,GO:0006397
+IPR032886	tRNA-dihydrouridine(16) synthase	interpro	family		MF_02043	GO:0017150,GO:0002943
+IPR032887	tRNA-dihydrouridine synthase B	interpro	family		MF_02042	GO:0017150,GO:0002943
+IPR033096	Zinc finger protein 638, RNA recognition motif 1/2	interpro	domain		cd12716	GO:0008380
+IPR033107	Eukaryotic translation initiation factor 4B, RNA recognition motif	interpro	domain		cd12402	
+IPR033110	ROD1, RNA recognition motif 4	interpro	domain		cd12703	GO:0003723,GO:0045595
+IPR033130	Ribonuclease T2, His active site 2	interpro	active_site		PS00531	
+IPR033244	Mediator of RNA polymerase II transcription subunit 32	interpro	family		PTHR35989	GO:0006355,GO:0009631,GO:0010150,GO:0048364,GO:0016592
+IPR033442	tRNA(Met) cytidine acetyltransferase TmcA, tRNA-binding domain	interpro	domain		PF17176	
+IPR033503	Gawky, RNA recognition motif	interpro	domain		cd12435	GO:0035278
+IPR033599	RNA polymerase I transcription initiation factor TAF1B/Rrn7	interpro	family		PTHR31576	GO:0001164,GO:0001188,GO:0006360,GO:0070860
+IPR033664	tRNA 5-carboxymethoxyuridine methyltransferase	interpro	family		MF_02057	GO:0008168
+IPR033665	D-aminoacyl-tRNA deacylase DTD3	interpro	family		MF_02048	
+IPR033671	tRNA (guanosine(18)-2'-O)-methyltransferase	interpro	family		cd18092,MF_02060,PTHR43453	GO:0008168,GO:0030488
+IPR033688	RNA cytidine acetyltransferase NAT10	interpro	family		MF_03211	GO:0005524,GO:0008080,GO:0016072,GO:1904812
+IPR033703	Picornavirus/Calicivirus coat protein	interpro	domain		cd00205	
+IPR033705	Valyl tRNA synthetase, anticodon-binding domain	interpro	domain		cd07962	
+IPR033708	Isoleucyl tRNA synthetase type 1, anticodon-binding domain	interpro	domain		cd07960	GO:0000049
+IPR033709	Isoleucyl tRNA synthetase type 2, anticodon-binding domain	interpro	domain		cd07961	GO:0000049
+IPR033712	Pumilio, RNA binding domain	interpro	domain		cd07920	GO:0003723
+IPR033714	Phenylalanly tRNA synthetase, tRNA-binding-domain	interpro	domain		cd02796	GO:0000049
+IPR033721	Prolyl-tRNA synthetase, catalytic domain	interpro	domain		cd00778	
+IPR033728	Threonine-tRNA ligase catalytic core domain	interpro	domain		cd00771	
+IPR033729	Serine-tRNA ligase catalytic core domain	interpro	domain		cd00770	
+IPR033730	Prokaryote proline-tRNA ligase core domain	interpro	domain		cd00779	
+IPR033731	Glycyl-tRNA synthetase-like core domain	interpro	domain		cd00774	
+IPR033744	RBM8, RNA recognition motif	interpro	domain		cd12324	GO:0003729
+IPR033757	Pre-mRNA-splicing regulator WTAP	interpro	family		PF17098,PTHR15217	GO:0000381,GO:0016556,GO:0005634
+IPR033759	Systemic RNA interference defective protein 5	interpro	family		PF17204	GO:0035194,GO:0050658,GO:0005770
+IPR033763	Polycomb group protein, RNA binding region	interpro	domain		PF17208	
+IPR033898	DNA-directed RNA polymerases I and III subunit AC19	interpro	family		cd07029	
+IPR033901	DNA-directed RNA polymerases I and III subunit AC40	interpro	family		cd07032	GO:0001054,GO:0001056
+IPR033910	Glutamyl-tRNA synthetase	interpro	domain		cd00808	GO:0008270,GO:0006424
+IPR033911	Methioninyl-tRNA synthetase core domain	interpro	domain		cd00814,PR01041	GO:0004825,GO:0006431
+IPR034079	RNA-binding protein KhpB, R3H domain	interpro	domain		cd02644	GO:0003676
+IPR034083	DExH-box ATP-dependent RNA helicase, R3H domain	interpro	domain		cd06007	GO:0003676
+IPR034123	RBM6, RNA recognition motif 1	interpro	domain		cd12314	GO:0003723
+IPR034125	RBM6, RNA recognition motif 2	interpro	domain		cd12563	GO:0003723
+IPR034126	RNA-binding protein Musashi homologue, RNA recognition motif 2	interpro	domain		cd12323	GO:0003723
+IPR034131	DAZ-associated protein 1, RNA recognition motif 2	interpro	domain		cd12327	GO:0003723
+IPR034134	DAZ-associated protein 1, RNA recognition motif 1	interpro	domain		cd12574	GO:0003723
+IPR034138	Nucleolar protein 8, RNA recognition motif	interpro	domain		cd12226	
+IPR034140	Ecto-NOX disulfide-thiol exchanger, RNA recognition motif	interpro	domain		cd12228	
+IPR034141	Ribonuclease M5-like, TOPRIM domain	interpro	domain		cd01027	
+IPR034143	snRNP70, RNA recognition motif	interpro	domain		cd12236	GO:0030619
+IPR034146	snRNP35, RNA recognition motif	interpro	domain		cd12237	
+IPR034147	RBM40, RNA recognition motif 1	interpro	domain		cd12238	GO:0005515
+IPR034148	NCBP2, RNA recognition motif	interpro	domain		cd12240	
+IPR034150	SF3B6, RNA recognition motif	interpro	domain		cd12241	
+IPR034152	SLIRP, RNA recognition motif	interpro	domain		cd12242	
+IPR034156	HRP1, RNA recognition motif 1	interpro	domain		cd12577	
+IPR034158	SF3B4, RNA recognition motif 1	interpro	domain		cd12334	
+IPR034159	SF3B4, RNA recognition motif 2	interpro	domain		cd12335	
+IPR034166	Npl3, RNA recognition motif 1	interpro	domain		cd12340	
+IPR034167	Nab3, RNA recognition motif	interpro	domain		cd12342	GO:0003723
+IPR034168	Peptidyl-prolyl cis-trans isomerase E, RNA recognition motif	interpro	domain		cd12347	GO:0003723
+IPR034172	SHARP, RNA recognition motif 1	interpro	domain		cd12348	
+IPR034173	SHARP, RNA recognition motif 2	interpro	domain		cd12349	
+IPR034174	SHARP, RNA recognition motif 3	interpro	domain		cd12350	
+IPR034175	SHARP, RNA recognition motif 4	interpro	domain		cd12351	
+IPR034177	PPARGC1B, RNA recognition motif	interpro	domain		cd12356	
+IPR034181	Pre-mRNA-splicing factor Cwc2, RNA recognition motif	interpro	domain		cd12360	GO:0003723
+IPR034186	Pin4-like, RNA recognition motif	interpro	domain		cd12253	
+IPR034189	MARF1, RNA recognition motif 1	interpro	domain		cd12255,PF11608	
+IPR034191	MARF1, RNA recognition motif 2	interpro	domain		cd12256	
+IPR034192	SREK1, RNA recognition motif 2	interpro	domain		cd12260	
+IPR034195	Mrn1, RNA recognition motif 1	interpro	domain		cd12520	
+IPR034196	CELF1/2, RNA recognition motif 1	interpro	domain		cd12631	
+IPR034198	CELF1/2, RNA recognition motif 2	interpro	domain		cd12634	
+IPR034199	CELF1/2, RNA recognition motif 3	interpro	domain		cd12638	
+IPR034200	RDM1, RNA recognition motif	interpro	domain		cd12364	GO:0003723
+IPR034201	RNPS1, RNA recognition motif	interpro	domain		cd12365	
+IPR034203	RBM45, RNA recognition motif 1	interpro	domain		cd12366	
+IPR034206	RBM45, RNA recognition motif 2	interpro	domain		cd12367	
+IPR034207	RBM45, RNA recognition motif 3	interpro	domain		cd12368	
+IPR034208	RBM45, RNA recognition motif 4	interpro	domain		cd12369	
+IPR034209	PUF60, RNA recognition motif 1	interpro	domain		cd12370	
+IPR034211	PUF60, RNA recognition motif 2	interpro	domain		cd12371	
+IPR034212	PUF60, RNA recognition motif 3	interpro	domain		cd12648	
+IPR034215	RBM42, RNA recognition motif	interpro	domain		cd12383	
+IPR034217	SART3, RNA recognition motif 1	interpro	domain		cd12391	
+IPR034218	SART3, RNA recognition motif 2	interpro	domain		cd12392	
+IPR034219	ZCRB1, RNA recognition motif	interpro	domain		cd12393	
+IPR034221	RBM34, RNA recognition motif 2	interpro	domain		cd12395	
+IPR034225	Nop13/Rnp24, RNA recognition motif 1	interpro	domain		cd12396	
+IPR034226	Nop13/Rnp24, RNA recognition motif 2	interpro	domain		cd12397	
+IPR034228	Nop6, RNA recognition motif	interpro	domain		cd12400	
+IPR034229	eIF4H, RNA recognition motif	interpro	domain		cd12401	
+IPR034230	Nucleolin, RNA recognition motif 1	interpro	domain		cd12403	
+IPR034233	Nucleolin, RNA recognition motif 2	interpro	domain		cd12404	
+IPR034234	Nucleolin, RNA recognition motif 3	interpro	domain		cd12405	
+IPR034235	Nucleolin, RNA recognition motif 4	interpro	domain		cd12406	
+IPR034237	FOX1, RNA recognition motif	interpro	domain		cd12407	GO:0003723
+IPR034240	eIF3G, RNA recognition motif	interpro	domain		cd12408	
+IPR034244	Rrt5, RNA recognition motif 1	interpro	domain		cd12409	
+IPR034247	Rrt5, RNA recognition motif 2	interpro	domain		cd12410	
+IPR034254	DNAJC17, RNA recognition motif	interpro	domain		cd12429	
+IPR034256	ALKBH8, RNA recognition motif	interpro	domain		cd12431	
+IPR034257	Acinus, RNA recognition motif	interpro	domain		cd12432	
+IPR034260	Yme2, RNA recognition motif	interpro	domain		cd12433	
+IPR034261	CNOT4, RNA recognition motif	interpro	domain		cd12438	
+IPR034262	TRMT2A, RNA recognition motif	interpro	domain		cd12439	
+IPR034264	RBM48, RNA recognition motif	interpro	domain		cd12442	
+IPR034265	MCM3AP, RNA recognition motif	interpro	domain		cd12443	
+IPR034268	RBM25, RNA recognition motif	interpro	domain		cd12446	
+IPR034276	Gar2, RNA recognition motif 2	interpro	domain		cd12448	
+IPR034278	RBM3/CIRBP, RNA recognition motif	interpro	domain		cd12449	
+IPR034326	ROD1, RNA recognition motif 1	interpro	domain		cd12779	GO:0003723
+IPR034349	NUCL, RNA recognition motif 1	interpro	domain		cd12450	
+IPR034350	NUCL, RNA recognition motif 2	interpro	domain		cd12451	
+IPR034351	Nrp1, RNA recognition motif	interpro	domain		cd12452	
+IPR034352	Rim4/Msa1, RNA recognition motif 1	interpro	domain		cd12453	
+IPR034353	ABT1/ESF2, RNA recognition motif	interpro	domain		cd12263	
+IPR034356	Slt11, RNA recognition motif	interpro	domain		cd12265	
+IPR034357	Yra1/Mlo3, RNA recognition motif	interpro	domain		cd12267	
+IPR034358	Vip1, RNA recognition motif	interpro	domain		cd12268	
+IPR034359	MTHFSD, RNA recognition motif	interpro	domain		cd12270	
+IPR034360	Vip1-like, RNA recognition motif, plant	interpro	domain		cd12269	
+IPR034361	PHIP1, RNA recognition motif 1	interpro	domain		cd12271	
+IPR034362	PHIP1, RNA recognition motif 2	interpro	domain		cd12272	
+IPR034363	eIF3B, RNA recognition motif	interpro	domain		cd12278	
+IPR034364	PABP, RNA recognition motif 1	interpro	domain		cd12378	
+IPR034365	AtC3H46-like, RNA recognition motif	interpro	domain		cd12458	
+IPR034366	Protein xmas, RNA recognition motif	interpro	domain		cd12457	
+IPR034369	SCAF4, RNA recognition motif	interpro	domain		cd12461	
+IPR034370	SCAF8, RNA recognition motif	interpro	domain		cd12462	
+IPR034371	UHMK1, RNA recognition motif	interpro	domain		cd12465	
+IPR034374	G3BP1, RNA recognition motif	interpro	domain		cd12463	GO:0003723
+IPR034376	G3BP2, RNA recognition motif	interpro	domain		cd12464	GO:0003723
+IPR034388	Star-PAP, RNA recognition motif	interpro	domain		cd12279	
+IPR034392	TatSF1-like, RNA recognition motif 1	interpro	domain		cd12281	GO:0000398
+IPR034394	MAN1, RNA recognition motif	interpro	domain		cd12286	
+IPR034396	Yra2, RNA recognition motif	interpro	domain		cd12295	
+IPR034397	Prp24, RNA recognition motif1	interpro	domain		cd12296	
+IPR034398	Prp24, RNA recognition motif2	interpro	domain		cd12297	
+IPR034403	Srp1, RNA recognition motif	interpro	domain		cd12467	
+IPR034404	MSSP-1, RNA recognition motif 1	interpro	domain		cd12470	GO:0003723
+IPR034406	RBMS3, RNA recognition motif 2	interpro	domain		cd12475	
+IPR034407	U1 small nuclear ribonucleoprotein A, RNA recognition motif 1	interpro	domain		cd12477	GO:0003723
+IPR034409	U1 small nuclear ribonucleoprotein A, RNA recognition motif 2	interpro	domain		cd12480	
+IPR034410	Heterogeneous nuclear ribonucleoprotein R, RNA recognition motif 1	interpro	domain		cd12482	
+IPR034411	Heterogeneous nuclear ribonucleoprotein R, RNA recognition motif 2	interpro	domain		cd12488	
+IPR034414	Dead end protein 1, RNA recognition motif 1	interpro	domain		cd12487	
+IPR034415	CsdA, RNA recognition motif	interpro	domain		cd12499	GO:0003723
+IPR034417	Probable RNA-binding protein 19, RNA recognition motif 2	interpro	domain		cd12502	
+IPR034418	Probable RNA-binding protein 19, RNA recognition motif 1	interpro	domain		cd12564	
+IPR034419	Probable RNA-binding protein 19, RNA recognition motif 3	interpro	domain		cd12567	
+IPR034420	Probable RNA-binding protein 19, RNA recognition motif 4	interpro	domain		cd12569	
+IPR034421	Probable RNA-binding protein 19, RNA recognition motif 6	interpro	domain		cd12571	
+IPR034423	Probable RNA-binding protein 19, RNA recognition motif 5	interpro	domain		cd12318	
+IPR034424	GRSF-1, RNA recognition motif 2	interpro	domain		cd12505	
+IPR034425	GRSF-1, RNA recognition motif 1	interpro	domain		cd12730	
+IPR034426	GRSF-1, RNA recognition motif 3	interpro	domain		cd12733	
+IPR034427	ESRP1, RNA recognition motif 1	interpro	domain		cd12736	
+IPR034434	Probable RNA-binding protein 46, RNA recognition motif 1	interpro	domain		cd12484	
+IPR034435	Probable RNA-binding protein 46, RNA recognition motif 2	interpro	domain		cd12492	
+IPR034440	RNA-binding protein 47, RNA recognition motif 2	interpro	domain		cd12491	
+IPR034445	RNA-binding protein 47, RNA recognition motif 3	interpro	domain		cd12497	
+IPR034451	RNA-binding protein 27, RNA recognition motif	interpro	domain		cd12517	
+IPR034453	MEI2-like, RNA recognition motif 1	interpro	domain		cd12524	
+IPR034454	MEI2-like, RNA recognition motif 3	interpro	domain		cd12531	
+IPR034456	Mediator of RNA polymerase II transcription subunit 28	interpro	family		PTHR39117	GO:0006355,GO:0016592
+IPR034458	Terminal EAR1-like, RNA recognition motif 3	interpro	domain		cd12530	
+IPR034464	PARP-10, RNA recognition motif 1 and 2	interpro	domain		cd12547	
+IPR034467	Set1A, RNA recognition motif	interpro	domain		cd12548	
+IPR034468	Set1B, RNA recognition motif	interpro	domain		cd12549	
+IPR034469	Ribosome biogenesis protein 15, RNA recognition motif	interpro	domain		cd12552	
+IPR034470	RBM15, RNA recognition motif 1	interpro	domain		cd12553	
+IPR034472	RBM15, RNA recognition motif 2	interpro	domain		cd12555	
+IPR034473	RBM15, RNA recognition motif 3	interpro	domain		cd12557	
+IPR034475	RBM15B, RNA recognition motif 1	interpro	domain		cd12554	
+IPR034479	Alternative heme biosynthesis C (AhbC-like)	interpro	family		SFLDF00543	GO:0003824
+IPR034482	Mrd1, RNA recognition motif 3	interpro	domain		cd12568	
+IPR034486	hnRNP A2/B1, RNA recognition motif 1	interpro	domain		cd12762	
+IPR034492	TIAR, RNA recognition motif 1	interpro	domain		cd12616	
+IPR034494	TIAR, RNA recognition motif 2	interpro	domain		cd12617	GO:0003677,GO:0003723
+IPR034496	TIAR, RNA recognition motif 3	interpro	domain		cd12620	
+IPR034500	RBM7, RNA recognition motif	interpro	domain		cd12592	
+IPR034501	RBM11, RNA recognition motif	interpro	domain		cd12593	GO:0003723
+IPR034502	Raly, RNA recognition motif	interpro	domain		cd12604	
+IPR034503	SRSF9, RNA recognition motif 1	interpro	domain		cd12598	
+IPR034506	RBM14, RNA recognition motif 1	interpro	domain		cd12608	
+IPR034507	RBM14, RNA recognition motif 2	interpro	domain		cd12609	
+IPR034510	SECp43, RNA recognition motif 2	interpro	domain		cd12612	
+IPR034511	SRSF6, RNA recognition motif 1	interpro	domain		cd12596	
+IPR034513	hnRNP A3, RNA recognition motif 1	interpro	domain		cd12763	
+IPR034516	hnRNP A1/3, RNA recognition motif 2	interpro	domain		cd12582	
+IPR034517	PARP-14, RNA recognition motif 2	interpro	domain		cd12543	
+IPR034520	SRSF1, RNA recognition motif 1	interpro	domain		cd12597	GO:0003723
+IPR034522	PSP1, RNA recognition motif 1	interpro	domain		cd12586	
+IPR034523	PSP1, RNA recognition motif 2	interpro	domain		cd12589	
+IPR034525	PSF, RNA recognition motif 1	interpro	domain		cd12587	
+IPR034535	RBM15B, RNA recognition motif 2	interpro	domain		cd12556	
+IPR034536	RBM15B, RNA recognition motif 3	interpro	domain		cd12558	
+IPR034538	ACF, RNA recognition motif 1	interpro	domain		cd12486	
+IPR034540	Prp24, RNA recognition motif 3	interpro	domain		cd12298	
+IPR034544	Heterogeneous nuclear ribonucleoprotein Q, RNA recognition motif 1	interpro	domain		cd12483	
+IPR034548	Heterogeneous nuclear ribonucleoprotein Q, RNA recognition motif 2	interpro	domain		cd12489	
+IPR034552	p54nrb, RNA recognition motif 1	interpro	domain		cd12588	
+IPR034556	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase	interpro	family		SFLDF00284,PTHR13930	GO:0051539,GO:0008033
+IPR034557	Threonylcarbamoyladenosine tRNA methylthiotransferase	interpro	family		SFLDF00295	GO:0035598,GO:0035600
+IPR034558	p54nrb, RNA recognition motif 2	interpro	domain		cd12591	
+IPR034562	U2 small nuclear ribonucleoprotein B'', RNA recognition motif 2	interpro	domain		cd12481	
+IPR034564	U2 small nuclear ribonucleoprotein B'', RNA recognition motif 1	interpro	domain		cd12478	
+IPR034568	Mediator of RNA polymerase II transcription subunit 30	interpro	family		PTHR36406	GO:0016592
+IPR034588	RBM12B, RNA recognition motif 2	interpro	domain		cd12746	
+IPR034591	RBM12, RNA recognition motif 1	interpro	domain		cd12745	
+IPR034594	RBM12, RNA recognition motif 2	interpro	domain		cd12747	
+IPR034630	MEF-2, RNA recognition motif 1	interpro	domain		cd12658	
+IPR034631	MEF-2, RNA recognition motif 3	interpro	domain		cd12662	
+IPR034633	Ribonucleoprotein PTB-binding 1, RNA recognition motif 1	interpro	domain		cd12663	
+IPR034635	Ribonucleoprotein PTB-binding 1, RNA recognition motif 3	interpro	domain		cd12667	
+IPR034636	Ribonucleoprotein PTB-binding 2, RNA recognition motif 2	interpro	domain		cd12666	
+IPR034637	Negative elongation factor E, RNA recognition motif	interpro	domain		cd12305	
+IPR034648	CELF-3/4/5/6, RNA recognition motif 1	interpro	domain		cd12632	GO:0003723
+IPR034651	SRSF7, RNA recognition motif	interpro	domain		cd12646	
+IPR034652	Signal recognition particle subunit SRP68, RNA-binding domain	interpro	domain		cd15481	GO:0003723
+IPR034653	SPF45, RNA recognition motif	interpro	domain		cd12647	
+IPR034673	Maternal embryonic leucine zipper kinase, catalytic domain	interpro	domain		cd14078	GO:0004674,GO:0006468
+IPR034678	DNA-directed RNA polymerase subunit RpoC1	interpro	family		MF_01323	GO:0003899,GO:0006351
+IPR034680	tRNA N6-adenosine threonylcarbamoyltransferase Kae1, archaeal/eukaryotic	interpro	family		MF_01446	GO:0002949,GO:0000408
+IPR034694	Ribosome hibernation promoting factor, long/plastid	interpro	family		MF_00839	
+IPR034730	ATP-dependent RNA helicase DHX29	interpro	family		MF_03068	GO:0003724,GO:0006413
+IPR034759	Peptidyl-tRNA hydrolase, archaea	interpro	family		MF_00628	GO:0004045
+IPR034762	Bacterial/eukaryotic lysine-tRNA ligase, class II	interpro	family		PIRSF039101	GO:0004824,GO:0005524,GO:0006430
+IPR034769	Cleavage and polyadenylation specificity factor subunit 6, RNA recognition motif	interpro	domain		cd12643	
+IPR034773	CPSF7, RNA recognition motif	interpro	domain		cd12644	
+IPR034775	Protein elav, RNA recognition motif 1	interpro	domain		cd12650	
+IPR034777	Nop12, RNA recognition motif 1	interpro	domain		cd12669	
+IPR034781	Scaffold attachment factor B1/2, RNA binding domain	interpro	domain		cd12679	
+IPR034784	PDIP3, RNA recognition motif	interpro	domain		cd12681	
+IPR034787	RBPMS2, RNA recognition motif	interpro	domain		cd12683	GO:0003723,GO:0042803
+IPR034788	Protein couch potato, RNA recognition motif	interpro	domain		cd12684	
+IPR034790	RBM20, RNA recognition motif	interpro	domain		cd12685	
+IPR034792	PTBPH1/PTBPH2, RNA recognition motif 1	interpro	domain		cd12686	
+IPR034793	PTBPH1/PTBPH2, RNA recognition motif 2	interpro	domain		cd12691	
+IPR034794	PTBPH1/PTBPH2, RNA recognition motif 3	interpro	domain		cd12690	
+IPR034795	PTBPH3, RNA recognition motif 1	interpro	domain		cd12687	
+IPR034796	PTBPH3, RNA recognition motif 2	interpro	domain		cd12692	
+IPR034797	PTBPH3, RNA recognition motif 3	interpro	domain		cd12698	
+IPR034799	PTBP2, RNA recognition motif 3	interpro	domain		cd12696	
+IPR034800	PTBP2, RNA recognition motif 4	interpro	domain		cd12702	
+IPR034801	hnRNP A0, RNA recognition motif 1	interpro	domain		cd12326	
+IPR034803	hnRNP A1, RNA recognition motif 2	interpro	domain		cd12580	
+IPR034805	Nop4, RNA recognition motif 1	interpro	domain		cd12674	
+IPR034806	Nop4, RNA recognition motif 2	interpro	domain		cd12675	
+IPR034808	Nop4, RNA recognition motif 3	interpro	domain		cd12676	
+IPR034809	Nop4, RNA recognition motif 4	interpro	domain		cd12677	
+IPR034816	hnRNP-L, RNA recognition motif 3	interpro	domain		cd12699	
+IPR034817	hnRNP-L, RNA recognition motif 4	interpro	domain		cd12704	
+IPR034823	CID8-like protein, RNA recognition motif 1	interpro	domain		cd12459	
+IPR034825	CID8-like protein, RNA recognition motif 2	interpro	domain		cd12460	
+IPR034827	TIA-1, RNA recognition motif 1	interpro	domain		cd12615	
+IPR034830	TIA-1, RNA recognition motif 2	interpro	domain		cd12618	
+IPR034833	PGC-1alpha, RNA recognition motif	interpro	domain		cd12623	
+IPR034834	PGC-1-related coactivator, RNA recognition motif	interpro	domain		cd12624	
+IPR034837	IGF2BP1, RNA recognition motif 1	interpro	domain		cd12625	
+IPR034842	IGF2BP1, RNA recognition motif 2	interpro	domain		cd12628	
+IPR034843	IGF2BP2, RNA recognition motif 1	interpro	domain		cd12626	
+IPR034845	hnRNP A1, RNA recognition motif 1	interpro	domain		cd12761	
+IPR034846	hnRNPAB, RNA recognition motif 1	interpro	domain		cd12757	
+IPR034847	hnRNP DL, RNA recognition motif 1	interpro	domain		cd12758	
+IPR034854	RBM12, RNA recognition motif 5	interpro	domain		cd12751	
+IPR034855	RBM12, RNA recognition motif 3	interpro	domain		cd12512	
+IPR034856	RBM12, RNA recognition motif 4	interpro	domain		cd12749	
+IPR034858	RBM12B, RNA recognition motif 3	interpro	domain		cd12513	
+IPR034859	RBM26, RNA recognition motif 1	interpro	domain		cd12516	
+IPR034862	Fungal Mei2-like, RNA recognition motif 3	interpro	domain		cd12532	
+IPR034863	Fungal Mei2-like, RNA recognition motif 2	interpro	domain		cd12528	
+IPR034869	EWS, RNA recognition motif	interpro	domain		cd12533	
+IPR034878	Plant La-related protein, RNA recognition motif	interpro	domain		cd12288	GO:0003723
+IPR034880	La-related protein 6, RNA recognition motif	interpro	domain		cd12289	
+IPR034887	LARP7, RNA recognition motif 1	interpro	domain		cd12290	
+IPR034890	Rrp7A, RNA recognition motif	interpro	domain		cd12294	
+IPR034894	Nrd1/Seb1, RNA recognition motif	interpro	domain		cd12331	GO:0003723
+IPR034897	RBM4, RNA recognition motif 1	interpro	domain		cd12606	
+IPR034898	RBM4, RNA recognition motif 2	interpro	domain		cd12607	
+IPR034900	LARP5, RNA recognition motif	interpro	domain		cd12706	
+IPR034903	LARP4, RNA recognition motif	interpro	domain		cd12707	
+IPR034906	Calcipressin-1, RNA recognition motif	interpro	domain		cd12708	
+IPR034910	LARP7, RNA recognition motif 2	interpro	domain		cd12542	
+IPR034914	HuB, RNA recognition motif 3	interpro	domain		cd12654	
+IPR034915	HuC, RNA recognition motif 3	interpro	domain		cd12655	
+IPR034918	HuD, RNA recognition motif 3	interpro	domain		cd12656	
+IPR034919	Calcipressin-2, RNA recognition motif	interpro	domain		cd12709	
+IPR034922	RNA exonuclease 1-like, exonuclease domain	interpro	domain		cd06145	
+IPR034924	TNRC6A, RNA recognition motif	interpro	domain		cd12711	
+IPR034925	TNRC6B, RNA recognition motif	interpro	domain		cd12712	
+IPR034927	TNRC6C, RNA recognition motif	interpro	domain		cd12713	
+IPR034928	Matrin-3, RNA recognition motif 1	interpro	domain		cd12714	
+IPR034930	Matrin-3, RNA recognition motif 2	interpro	domain		cd12715	
+IPR034931	ETP1, RNA recognition motif	interpro	domain		cd12717	
+IPR034932	BRAP2, RNA recognition motif	interpro	domain		cd12718	
+IPR034969	hnRNPH3, RNA recognition motif 3	interpro	domain		cd12735	
+IPR034970	hnRNPH3, RNA recognition motif 2	interpro	domain		cd12732	
+IPR034971	Synaptojanin-1, RNA recognition motif	interpro	domain		cd12719	
+IPR034973	Synaptojanin-2, RNA recognition motif	interpro	domain		cd12720	
+IPR034977	CPEB-1, RNA recognition motif 1	interpro	domain		cd12723	
+IPR034979	UPF3B, RNA recognition motif-like domain	interpro	domain		cd12728	
+IPR034980	RNA-binding protein fusilli, RNA recognition motif 2	interpro	domain		cd12741	
+IPR034983	hnRPLL, RNA recognition motif 3	interpro	domain		cd12700	
+IPR034985	hnRPLL, RNA recognition motif 1	interpro	domain		cd12781	
+IPR034986	hnRPLL, RNA recognition motif 2	interpro	domain		cd12786	
+IPR034987	hnRPLL, RNA recognition motif 4	interpro	domain		cd12705	
+IPR034988	DAZ/BOULE, RNA recognition motif	interpro	domain		cd12412	
+IPR034990	hnRNPM, RNA recognition motif 3	interpro	domain		cd12661	
+IPR034991	RNA-binding protein 5, RNA recognition motif 1	interpro	domain		cd12752	
+IPR034992	RNA-binding protein 10, RNA recognition motif 2	interpro	domain		cd12754	
+IPR034993	RNA-binding protein 5, RNA recognition motif 2	interpro	domain		cd12755	
+IPR034995	SRSF9, RNA recognition motif 2	interpro	domain		cd12768	
+IPR034996	HuR, RNA recognition motif 2	interpro	domain		cd12773	
+IPR034999	HuB, RNA recognition motif 2	interpro	domain		cd12775	
+IPR035000	PTBP1, RNA recognition motif 1	interpro	domain		cd12777	GO:0003723
+IPR035001	PTBP1, RNA recognition motif 3	interpro	domain		cd12695	GO:0003723
+IPR035002	PTBP2, RNA recognition motif 1	interpro	domain		cd12778	
+IPR035005	hnRNP-L, RNA recognition motif 1	interpro	domain		cd12780	
+IPR035008	hnRNP-L, RNA recognition motif 2	interpro	domain		cd12785	
+IPR035009	SR140, RNA recognition motif	interpro	domain		cd12223	
+IPR035107	tRNA thiolation protein, TtcA/Ctu1 type	interpro	family		PIRSF004976	GO:0008033
+IPR035137	Discriminator of mRNA degradation	interpro	family		PF17587	
+IPR035236	RNA chaperone ProQ, C-terminal	interpro	domain		PF17516	
+IPR035312	Satellite RNA 48kDa protein	interpro	family		PF17485	
+IPR035467	Putative ATP-dependent RNA helicase YLR419W-like, UBA domain	interpro	domain		cd14271	
+IPR035542	Cyclophilin-RNA interacting protein	interpro	family		PTHR45843	
+IPR035684	Arginyl-tRNA synthetase, catalytic core domain	interpro	domain		cd00671,PF00750	
+IPR035697	DNA-directed RNA polymerase III subunit RPC1, N-terminal	interpro	domain		cd02583	
+IPR035698	DNA-directed RNA polymerase III subunit RPC1, C-terminal	interpro	domain		cd02736	
+IPR035913	RPB5-like RNA polymerase subunit superfamily	interpro	homologous_superfamily		SSF55287,G3DSA:3.90.940.20	
+IPR035979	RNA-binding domain superfamily	interpro	homologous_superfamily		SSF54928	GO:0003676
+IPR036025	tRNA-splicing ligase RtcB-like superfamily	interpro	homologous_superfamily		SSF103365,G3DSA:3.90.1860.10	GO:0008452,GO:0006396
+IPR036100	S-adenosylmethionine:tRNA ribosyltransferase-isomerase, QueA superfamily	interpro	homologous_superfamily		SSF111337	GO:0016740,GO:0016853
+IPR036101	CarD-like/TRCF, RNAP-interacting domain superfamily	interpro	homologous_superfamily		SSF141259	
+IPR036113	Glu-tRNAGln amidotransferase superfamily, subunit C	interpro	homologous_superfamily		SSF141000	GO:0006450
+IPR036167	tRNA intron endonuclease, catalytic domain-like superfamily	interpro	homologous_superfamily		SSF53032	GO:0006388
+IPR036189	mRNA decapping protein 2, Box A domain superfamily	interpro	homologous_superfamily		SSF140586,G3DSA:1.10.10.1050	GO:0003723,GO:0016787,GO:0030145
+IPR036260	P40 nucleoprotein superfamily, Borna disease virus	interpro	homologous_superfamily		SSF101399	
+IPR036276	T4 RNase H, C-terminal	interpro	domain		PF09293	
+IPR036333	RNA synthesis protein NSP10 superfamily, coronavirus	interpro	homologous_superfamily		SSF144246	GO:0003723,GO:0008270,GO:0019079
+IPR036343	Glutamyl-tRNA reductase, N-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.460.30,SSF69742	GO:0008883,GO:0050661,GO:0033014
+IPR036345	Exoribonuclease, PH domain 2 superfamily	interpro	homologous_superfamily		SSF55666	
+IPR036389	Ribonuclease III, endonuclease domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.1520.10,SSF69065	GO:0004525,GO:0006396
+IPR036397	Ribonuclease H superfamily	interpro	homologous_superfamily		G3DSA:3.30.420.10	GO:0003676
+IPR036416	Peptidyl-tRNA hydrolase superfamily	interpro	homologous_superfamily		G3DSA:3.40.50.1470,SSF53178	GO:0004045
+IPR036430	Ribonuclease T2-like superfamily	interpro	homologous_superfamily		G3DSA:3.90.730.10,SSF55895	GO:0003723,GO:0033897
+IPR036453	Glutamyl tRNA-reductase dimerization domain superfamily	interpro	homologous_superfamily		SSF69075	GO:0008883,GO:0050661,GO:0033014
+IPR036456	Polyribonucleotide nucleotidyltransferase, RNA-binding domain superfamily	interpro	homologous_superfamily		SSF46915	GO:0003723,GO:0006396
+IPR036511	Queuine tRNA-ribosyltransferase-like	interpro	homologous_superfamily		G3DSA:3.20.20.105,SSF51713	GO:0006400
+IPR036553	RNA 3'-terminal phosphate cyclase, insert domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.360.20,SSF52913	
+IPR036567	Ribosome hibernation promotion factor-like	interpro	homologous_superfamily		G3DSA:3.30.160.100,SSF69754	
+IPR036583	23S rRNA-intervening sequence superfamily	interpro	homologous_superfamily		SSF158446,G3DSA:1.20.1440.60	
+IPR036602	tRNA wybutosine-synthesizing-like superfamily	interpro	homologous_superfamily		G3DSA:3.30.1960.10,SSF111278	
+IPR036603	RNA polymerase, RBP11-like subunit	interpro	homologous_superfamily		G3DSA:3.30.1360.10,SSF55257	GO:0046983,GO:0006351
+IPR036643	DNA-directed RNA polymerase, insert domain superfamily	interpro	homologous_superfamily		SSF56553,G3DSA:2.170.120.12	
+IPR036650	CAT RNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:2.30.24.10,SSF50151	GO:0003723
+IPR036695	Arginyl tRNA synthetase N-terminal domain superfamily	interpro	homologous_superfamily		SSF55190,G3DSA:3.30.1360.70	GO:0000166,GO:0004814,GO:0005524,GO:0006420,GO:0005737
+IPR036710	RNA polymerase Rpb5, N-terminal domain superfamily	interpro	homologous_superfamily		SSF53036,G3DSA:3.40.1340.10	GO:0003677,GO:0003899,GO:0006351
+IPR036740	tRNA intron endonuclease, N-terminal domain superfamily	interpro	homologous_superfamily		SSF55267	GO:0000213,GO:0006388
+IPR036754	YbaK/aminoacyl-tRNA synthetase-associated domain superfamily	interpro	homologous_superfamily		SSF55826,G3DSA:3.90.960.10	GO:0002161
+IPR036816	Ribonuclease A-like domain superfamily	interpro	homologous_superfamily		G3DSA:3.10.130.10,SSF54076	
+IPR036898	RNA polymerase Rpb7-like, N-terminal domain superfamily	interpro	homologous_superfamily		SSF88798,G3DSA:3.30.1490.120	
+IPR036980	Ribonuclease P/MRP subunit Rpp29 superfamily	interpro	homologous_superfamily		G3DSA:2.30.30.210	GO:0003723,GO:0008033,GO:0030677
+IPR036986	RNA-binding S4 domain superfamily	interpro	homologous_superfamily		G3DSA:3.10.290.10	GO:0003723
+IPR036988	Picornavirus coat protein VP4 superfamily	interpro	homologous_superfamily		G3DSA:4.10.80.10	
+IPR037009	mRNA triphosphatase Cet1-like superfamily	interpro	homologous_superfamily		G3DSA:3.20.100.10	GO:0004651
+IPR037027	YqgF/RNase H-like domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.420.140	GO:0006139
+IPR037033	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain superfamily	interpro	homologous_superfamily		G3DSA:2.40.270.10	GO:0003677,GO:0003899,GO:0006351
+IPR037034	RNA polymerase Rpb2, domain 2 superfamily	interpro	homologous_superfamily		G3DSA:3.90.1110.10	GO:0003677,GO:0003899,GO:0006351
+IPR037038	tRNA nuclease HepT-like superfamily	interpro	homologous_superfamily		G3DSA:1.20.120.580	
+IPR037056	Ribonuclease H1, N-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:3.40.970.10	
+IPR037080	Capsid protein VP4 superfamily, Picornavirus	interpro	homologous_superfamily		G3DSA:4.10.90.10	GO:0019030
+IPR037118	Valyl-tRNA synthetase, tRNA-binding arm superfamily	interpro	homologous_superfamily		G3DSA:1.10.287.380	
+IPR037136	RNA 3'-terminal phosphate cyclase domain superfamily	interpro	homologous_superfamily		G3DSA:3.65.10.20	
+IPR037159	DNA-directed RNA polymerase, N-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.1320.10	
+IPR037200	Pre-mRNA-splicing factor Isy1 superfamily	interpro	homologous_superfamily		SSF140102	GO:0000350
+IPR037209	RNA-binding protein B2 superfamily	interpro	homologous_superfamily		SSF140506	
+IPR037431	RNA exonuclease 4, DEDDh 3'-5' exonuclease domain	interpro	domain		cd06144	GO:0008408,GO:0006364
+IPR037503	rRNA-processing protein Fcf1, PIN domain	interpro	domain		cd09864	
+IPR037551	DAZ, RNA recognition motif, vertebrates	interpro	domain		cd12672	GO:0003730
+IPR037653	Cytochrome B pre-mRNA-processing protein 6	interpro	family		PTHR28250	GO:0043022,GO:0005739,GO:0061671
+IPR037685	RNA polymerase RBP11	interpro	family		cd06926	GO:0001055,GO:0006366,GO:0005665
+IPR037998	Maternal protein exuperantia	interpro	family		PTHR12384	GO:0003723,GO:0042803,GO:0045450
+IPR038085	RNase P subunit Pop5/Rpp14/Rnp2-like domain superfamily	interpro	homologous_superfamily		SSF160350,G3DSA:3.30.70.3250	
+IPR038087	DNA-directed RNA polymerase subunit delta, N-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.1250	
+IPR038089	Mediator of RNA polymerase II, subunit Med31 superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.1340	
+IPR038092	Phosphorylated adapter RNA export protein, RNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.1440	
+IPR038120	RNA polymerase Rpb1, funnel domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.132.30	
+IPR038254	DNA/RNA-binding protein KIN17, WH-like domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.2030	
+IPR038294	SLBP, RNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.8.1120	
+IPR038309	Regulator of RNA polymerase sigma(70) subunit, Rsd/AlgQ superfamily	interpro	homologous_superfamily		G3DSA:1.20.120.1370	
+IPR038372	Influenza RNA-dependent RNA polymerase subunit PA, endonuclease domain	interpro	homologous_superfamily		G3DSA:3.40.91.90	
+IPR038459	tRNA methyltransferase TRM10-type domain superfamily	interpro	homologous_superfamily		G3DSA:3.40.1280.30	
+IPR038469	tRNAHis guanylyltransferase Thg1 superfamily	interpro	homologous_superfamily		G3DSA:3.30.70.3000	
+IPR038476	UvrC, RNAse H endonuclease domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.420.340	
+IPR038564	Repressor of RNA polymerase III transcription Maf1 superfamily	interpro	homologous_superfamily		G3DSA:3.40.1000.50	
+IPR038593	RNA polymerase Rpb1, domain 7 superfamily	interpro	homologous_superfamily		G3DSA:3.30.1360.140	
+IPR038659	Alternative oxidase superfamily	interpro	homologous_superfamily		G3DSA:1.20.1260.140	
+IPR038709	RNA polymerase sigma-54 factor, core-binding domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.1330	
+IPR038715	RNA polymerase inhibitor superfamily	interpro	homologous_superfamily		G3DSA:3.10.20.510	
+IPR038720	YprB, ribonuclease H-like domain	interpro	domain		PF13482	
+IPR038790	Mediator of RNA polymerase II transcription subunit 9, plant	interpro	family		PTHR37188	GO:0016592
+IPR038795	Mediator of RNA polymerase II transcription subunit 8, plant	interpro	family		PTHR35552	GO:0016592
+IPR038801	TATA box-binding protein-associated factor RNA polymerase I subunit C	interpro	family		PTHR15319	GO:0006360
+IPR038836	Mediator of RNA polymerase II transcription subunit 16	interpro	family		PTHR35130	GO:0006355,GO:0016592
+IPR038837	tRNA ligase 1	interpro	family		PTHR35460	GO:0003972,GO:0006388
+IPR038838	Telomerase RNA component interacting RNase	interpro	family		PTHR34753	GO:0008408,GO:0008409
+IPR038846	DNA-directed RNA polymerase III subunit RPC9	interpro	family		PTHR15561	GO:0006384,GO:0005666
+IPR038959	Pre-mRNA-processing factor 19	interpro	family		PTHR43995	GO:0061630,GO:0000398,GO:0006281,GO:0000974
+IPR038993	Internal virion protein Gp15	interpro	family		MF_04122	GO:0039678
+IPR038994	Internal virion protein Gp16	interpro	family		MF_04121	GO:0039678
+IPR038996	Internal virion protein Gp14	interpro	family		MF_04118	GO:0039678
+IPR039044	tRNA:m(4)X modification enzyme Trm13	interpro	family		PTHR12998	GO:0106050,GO:0030488
+IPR039047	Phosphorylated adapter RNA export protein	interpro	family		PTHR13135	GO:0006408
+IPR039157	RNA-binding protein 18, RNA recognition motif	interpro	domain		cd12355	
+IPR039171	Pre-mRNA-splicing factor Cwc2/Slt11	interpro	family		PTHR14089	GO:0003723
+IPR039177	Nonsense-mediated mRNA decay factor SMG9	interpro	family		PTHR14270	GO:0000184
+IPR039241	Ribosomal RNA-processing protein Rrp9-like	interpro	family		PTHR19865	GO:0034511
+IPR039242	Mediator of RNA polymerase II transcription subunit 9, metazoan	interpro	family		PTHR20844	
+IPR039247	RNA-binding protein KhpB	interpro	family		NF041568,MF_00867,PTHR35800	GO:0003723
+IPR039255	Large ribosomal RNA subunit accumulation protein YceD, bacteria	interpro	family		PTHR38099	
+IPR039267	U7 snRNA-associated Sm-like protein Lsm11	interpro	family		PTHR21415	GO:0071209
+IPR039294	Probable RNA-binding protein EIF1AD	interpro	family		PTHR21641	
+IPR039378	Ribonuclease T2, prokaryotic	interpro	family		cd01062	
+IPR039425	RNA polymerase sigma-70-like	interpro	family		PTHR43133	
+IPR039495	TATA box-binding protein-associated factor RNA polymerase I subunit A	interpro	family		PF14929	GO:0006360,GO:0000120
+IPR039511	RBM26-like, RNA recognition motif 2	interpro	domain		cd12258	
+IPR039530	RNA-directed RNA polymerase L methyltransferase domain, rhabdovirus	interpro	domain		PF14314	
+IPR039599	RNA-binding protein 48	interpro	family		PTHR20957	
+IPR039601	RNA polymerase I-specific transcription initiation factor Rrn5	interpro	family		PTHR28079	GO:0042790,GO:0000500
+IPR039635	Endoplasmic reticulum membrane-associated RNA degradation protein	interpro	family		PTHR31701	
+IPR039638	Mediator of RNA polymerase II transcription subunit 33A/B	interpro	family		PTHR33739	GO:2000762,GO:0016592
+IPR039722	Nonsense-mediated mRNA decay protein 3	interpro	family		PTHR13112	GO:0000184
+IPR039726	Pre-mRNA-processing factor Prp40	interpro	family		PTHR11864	GO:0045292
+IPR039736	RNA-directed RNA polymerase L, C-terminal	interpro	domain		TIGR04198	
+IPR039747	DNA-directed RNA polymerases I, II, and III subunit RPABC4	interpro	family		PTHR12056	GO:0003899,GO:0008270
+IPR039748	DNA-directed RNA polymerase III subunit RPC3	interpro	family		PTHR12949	GO:0003697,GO:0005666
+IPR039753	mRNA cap guanine-N7 methyltransferase	interpro	family		PTHR12189	GO:0004482
+IPR039754	Pre-rRNA-processing protein Esf1	interpro	family		PTHR12202	GO:0006364
+IPR039762	Nonsense-mediated mRNA decay protein Nmd2/UPF2	interpro	family		PTHR12839	GO:0000184
+IPR039764	RNA binding protein HABP4/SERBP1-like	interpro	family		PTHR12299	GO:0003723
+IPR039769	18S rRNA (guanine(1575)-N(7))-methyltransferase Bud23-like	interpro	family		PTHR12734	GO:0016435,GO:0070476
+IPR039772	RNA methyltransferase Bin3-like	interpro	family		PTHR12315	
+IPR039878	RNA-binding protein 33	interpro	family		PTHR22014	
+IPR039881	mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase PCIF1-like	interpro	family		PTHR21727	GO:0016422,GO:0099122
+IPR039894	tRNA pseudouridine synthase Pus10-like	interpro	family		PTHR21568	
+IPR039907	RNA-binding protein NOB1	interpro	family		PTHR12814	
+IPR039913	RNA polymerase II-associated protein RPAP1/Rba50	interpro	family		PTHR21483	GO:0006366
+IPR039971	Pre-mRNA-splicing factor CWC24-like	interpro	family		PTHR12930	
+IPR039974	Pre-mRNA-splicing factor SLU7	interpro	family		PTHR12942	GO:0030628,GO:0000398
+IPR039979	Pre-mRNA-splicing factor 18	interpro	family		PTHR13007	GO:0008380
+IPR040002	U6 snRNA-associated Sm-like protein Lsm3	interpro	family		PTHR13110	GO:0003723
+IPR040078	CTD small RNA polymerase II polypeptide A phosphatase-like	interpro	family		SFLDG01124	GO:0008420
+IPR040150	RNA polymerase II nuclear localization protein Iwr1	interpro	family		PTHR28063	GO:0006606
+IPR040191	U3 small nucleolar RNA-associated protein 10	interpro	family		PTHR13457	
+IPR040218	Probable RNA polymerase II nuclear localization protein SLC7A6OS	interpro	family		PTHR31196	
+IPR040243	Steroid receptor RNA activator 1	interpro	family		PTHR18834	GO:0030374,GO:0006357
+IPR040285	Prolyl-tRNA editing protein ProX/PRXD1	interpro	family		PTHR31423	
+IPR040322	RNA-binding protein RO60	interpro	family		PTHR14202	GO:0003723
+IPR040343	RNA 5'-triphosphatase Cet1/Ctl1	interpro	family		PTHR28118	GO:0004651
+IPR040366	Nuclear polyadenylated RNA-binding protein Nab2/ZC3H14	interpro	family		PTHR14738	GO:0008143,GO:0043488
+IPR040402	DNA-directed RNA polymerase IV/V subunit 1, C-terminal	interpro	domain		cd02737	
+IPR040403	DNA-directed RNA polymerase IV/V subunit 1, N-terminal	interpro	domain		cd10506	
+IPR040434	tRNA selenocysteine 1-associated protein 1	interpro	family		PTHR37457	
+IPR040446	Ribosomal RNA-processing protein 7	interpro	family		PTHR13191	
+IPR040456	Ribonuclease H2 subunit B	interpro	family		cd09270,PTHR13383	GO:0032299
+IPR040459	MJ1316 RNA cyclic group end recognition domain	interpro	domain		PF04457	
+IPR040476	RNase II/RNase R, cold shock domain	interpro	domain		PF17876	
+IPR040503	tRNA uridine(34) hydroxylase, N-terminal	interpro	domain		PF17773	
+IPR040536	ASP external chaperone	interpro	domain		PF18492	
+IPR040540	Ribonuclease III, N-terminal domain	interpro	domain		PF18497	
+IPR040559	tRNA nuclease CdiA, C-terminal	interpro	domain		PF18451	
+IPR040591	YlmH, putative RNA-binding domain	interpro	domain		PF17774	
+IPR040596	RNase II-type exonuclease, C-terminal S1 domain	interpro	domain		PF18614	
+IPR040601	tRNA methyltransferase 5a/b, N-terminal	interpro	domain		PF18093	
+IPR040609	RNA ligase 2, C-terminal	interpro	domain		PF18043	
+IPR040659	Phenylalanine--tRNA ligase beta subunit, B1 domain	interpro	domain		PF18262	
+IPR040736	Mex67, RNA recognition motif	interpro	domain		PF18444	
+IPR040812	RNA helicase UPF1, 1B domain	interpro	domain		cd21407,PF18141	
+IPR040813	Small RNA 2'-O-methyltransferase Hen1, La-motif C-terminal domain	interpro	domain		PF18441	
+IPR040870	HEN1, double-stranded RNA binding domain 2	interpro	domain		PF17842	
+IPR040975	RnaseLS-like HEPN	interpro	family		PF18869	
+IPR040998	Barnase-EndoU-ColicinE5/D-RelE like	interpro	domain		PF18814	
+IPR041044	Nuclear polyadenylated RNA-binding 2 protein, CCCH zinc finger 1	interpro	domain		PF18260	
+IPR041060	RNA editing 3' terminal uridylyl transferase 2 middle domain	interpro	domain		PF18528	
+IPR041085	tRNA selenocysteine 1-associated protein 1, C-terminal	interpro	domain		PF17654	
+IPR041092	Phage-Barnase-EndoU-ColicinE5/D-RelE-like nuclease	interpro	domain		PF18809	
+IPR041103	Glutamate--tRNA ligase, N-terminal domain	interpro	domain		PF18466	
+IPR041110	Phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease 2	interpro	domain		PF18810	
+IPR041211	RNA ligase 1	interpro	family		PF17720,PTHR31219	GO:0003972,GO:0000302
+IPR041293	Serine-tRNA ligase type 2, tRNA-binding domain	interpro	domain		PF18490	
+IPR041301	Phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease 3	interpro	domain		PF18812	
+IPR041373	Reverse transcriptase, RNase H-like domain	interpro	domain		PF17917	
+IPR041420	Phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease 4	interpro	domain		PF18813	
+IPR041436	Bacterial CdiA-CT RNAse A domain	interpro	domain		PF18431	
+IPR041577	Reverse transcriptase/retrotransposon-derived protein, RNase H-like domain	interpro	domain		PF17919	
+IPR041590	O-phosphoserine--tRNA(Cys) ligase, C-terminal domain	interpro	domain		PF18006	
+IPR041596	RNA ligase Pab1020, C-terminal domain	interpro	domain		PF18330	
+IPR041598	Methionine--tRNA ligase, N-terminal	interpro	domain		PF18485	
+IPR041616	Phenylalanyl tRNA synthetase beta chain, core domain	interpro	domain		PF17759,cd00769	
+IPR041620	CdiA, C-terminal tRNase domain	interpro	domain		PF18664	
+IPR041636	Ribonuclease J, C-terminal	interpro	domain		PF17770	
+IPR041711	Methionyl-tRNA formyltransferase, N-terminal domain	interpro	domain		cd08646	GO:0004479
+IPR041715	Class II Histidinyl-tRNA synthetase (HisRS)-like catalytic core domain	interpro	domain		cd00773,PF13393	
+IPR041803	RNA polymerase II degradation factor 1, CUE domain	interpro	domain		cd14368	
+IPR041872	Methionyl-tRNA synthetase, anticodon-binding domain	interpro	domain		cd07957,PF19303	
+IPR041901	Rpa43, N-terminal ribonucleoprotein (RNP) domain	interpro	domain		cd04328	
+IPR041948	RNA ligase 1/2, C-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.10.1810	
+IPR042032	Viral RNA-directed RNA polymerase, 4-helical domain	interpro	homologous_superfamily		G3DSA:1.10.10.1990	
+IPR042036	Ribosomal RNA-processing protein 8, N-terminal domain	interpro	homologous_superfamily		G3DSA:1.10.10.2150	
+IPR042078	Lysine tRNA ligase, stem contact fold domain	interpro	homologous_superfamily		G3DSA:6.10.20.10	
+IPR042080	RNA 2'-phosphotransferase, N-terminal domain	interpro	homologous_superfamily		G3DSA:1.10.10.970	
+IPR042081	RNA 2'-phosphotransferase, C-terminal domain	interpro	homologous_superfamily		G3DSA:3.20.170.30	
+IPR042090	tRNA nucleotidyltransferase, domain 2	interpro	homologous_superfamily		G3DSA:1.10.1410.30	
+IPR042102	RNA polymerase Rpb1, domain 3 superfamily	interpro	homologous_superfamily		G3DSA:1.10.274.100	
+IPR042103	Serine-tRNA synthetase, type1, N-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.287.40	
+IPR042107	DNA-directed RNA polymerase, beta subunit, external 1 domain superfamily	interpro	homologous_superfamily		G3DSA:2.30.150.10	
+IPR042114	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C-terminal, domain 1	interpro	homologous_superfamily		G3DSA:1.10.150.380	
+IPR042173	Ribonuclease J, domain 2	interpro	homologous_superfamily		G3DSA:3.40.50.10710	
+IPR042189	Sigma-70 factor, region 1.1 superfamily	interpro	homologous_superfamily		G3DSA:1.10.220.120	GO:0016987
+IPR042203	Leucyl/phenylalanyl-tRNA-protein transferase, C-terminal	interpro	homologous_superfamily		G3DSA:3.40.630.70	
+IPR042221	Leucyl/phenylalanyl-tRNA-protein transferase, N-terminal	interpro	homologous_superfamily		G3DSA:3.30.70.3550	
+IPR042237	Putative peptidyl-tRNA hydrolase PTRHD1	interpro	family		PTHR46194	
+IPR042270	tRNA-dihydrouridine(16) synthase, C-terminal	interpro	homologous_superfamily		G3DSA:1.20.225.30	
+IPR042296	tRNA methyltransferase, Trm1, C-terminal	interpro	homologous_superfamily		G3DSA:3.30.56.70	
+IPR042360	Aminoacyl tRNA synthase complex-interacting multifunctional protein 2	interpro	family		PTHR13438	GO:0017101
+IPR042376	Mediator of RNA polymerase II transcription subunit 26	interpro	family		PTHR15201	GO:0006357,GO:0016592
+IPR042487	RuvBL1/2, DNA/RNA binding domain	interpro	homologous_superfamily		G3DSA:2.40.50.360	
+IPR042516	Pre-mRNA-processing-splicing factor 8, U5-snRNA-binding domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.43.40	
+IPR042558	Glutaminyl-tRNA synthetase, class Ib, non-specific RNA-binding domain, N-terminal, subdomain 1	interpro	homologous_superfamily		G3DSA:1.10.8.1290	
+IPR042559	Glutaminyl-tRNA synthetase, class Ib, non-specific RNA-binding domain, N-terminal, subdomain 2	interpro	homologous_superfamily		G3DSA:1.10.10.2420	
+IPR042745	RNase L, RNase domain	interpro	domain		cd10423	
+IPR042777	tRNA-splicing endonuclease subunit Sen15, fungi	interpro	family		PTHR28518	GO:0000379,GO:0000214
+IPR042935	tRNA-specific adenosine deaminase 1	interpro	family		PTHR47803	GO:0008251,GO:0002100
+IPR043048	Birnavirus VP3, domain 1	interpro	homologous_superfamily		G3DSA:1.10.150.620	
+IPR043049	Birnavirus VP3, domain 2	interpro	homologous_superfamily		G3DSA:1.10.8.880	
+IPR043096	Poxvirus mRNA capping enzyme, small subunit superfamily	interpro	homologous_superfamily		G3DSA:3.40.50.11680	
+IPR043110	Cystovirus, RNA-directed RNA polymerase, N-terminal	interpro	homologous_superfamily		G3DSA:1.10.490.60	
+IPR043172	Prp8 RNase domain IV, palm region	interpro	homologous_superfamily		G3DSA:3.30.420.230	
+IPR043173	Prp8 RNase domain IV, fingers region	interpro	homologous_superfamily		G3DSA:1.20.80.40	
+IPR043502	DNA/RNA polymerase superfamily	interpro	homologous_superfamily		SSF56672	
+IPR043675	tRNA 5-hydroxyuridine methyltransferase	interpro	family		MF_02217	GO:0008171,GO:0008033
+IPR043699	tRNA (cytosine(72)-C(5))-methyltransferase	interpro	family		MF_02237	GO:0016428,GO:0006400
+IPR043994	Bacterial toxin, RNase RnlA/LsoA, DBD domain	interpro	domain		PF19034	GO:0004521
+IPR044056	Internalin I, Ig-like domain	interpro	domain		PF18981	
+IPR044067	Picornavirales 3C/3C-like protease domain	interpro	domain		PS51874	GO:0004197
+IPR044099	mRNA decapping enzyme 2 , NUDIX hydrolase domain	interpro	domain		cd03672	GO:0140933,GO:0000184,GO:0000290
+IPR044135	Methionyl-tRNA formyltransferase, C-terminal domain	interpro	domain		cd08704	
+IPR044136	Lysine-tRNA ligase, class II, N-terminal	interpro	domain		cd04322	GO:0000166
+IPR044140	Proline--tRNA ligase, anticodon binding domain	interpro	domain		cd00861	
+IPR044263	RNA ligase 2, viral	interpro	family		MF_04150	GO:0003972,GO:0005524,GO:0042245
+IPR044310	mRNA-capping enzyme P5, phytoreovirus	interpro	family		cd20759	
+IPR044347	RNA-dependent RNA polymerase, coronavirus HKU1-like	interpro	domain		cd21593	
+IPR044349	RNA-dependent RNA polymerase, bat coronavirus HKU9-like	interpro	domain		cd21596	
+IPR044350	RNA-dependent RNA polymerase, Middle East respiratory syndrome-related coronavirus	interpro	domain		cd21592	
+IPR044351	RNA-dependent RNA polymerase, SARS-CoV-like	interpro	domain		cd21591	
+IPR044354	RNA-dependent RNA polymerase, deltacoronavirus	interpro	domain		cd21590	
+IPR044356	RNA-dependent RNA polymerase, alphacoronavirus	interpro	domain		cd21588	GO:0003968
+IPR044358	RNA-dependent RNA polymerase, gammacoronavirus	interpro	domain		cd21587	GO:0003968
+IPR044441	Dicer, double-stranded RNA-binding domain	interpro	domain		PF20932,cd10843	GO:0003723,GO:0030422,GO:0031054
+IPR044442	RNase III, double-stranded RNA binding domain, animal	interpro	domain		cd19877	GO:0003723,GO:0031054
+IPR044443	Large ribosomal subunit protein mL44, dsRNA binding domain, fungi	interpro	domain		cd19873	GO:0003725
+IPR044444	Large ribosomal subunit protein mL44, dsRNA binding domain, metazoa	interpro	domain		PF22892,cd19874	GO:0003725
+IPR044445	DHX9, first double-stranded RNA binding domain	interpro	domain		cd19854	GO:0003725
+IPR044446	DHX9, second double-stranded RNA binding domain	interpro	domain		cd19855	GO:0003725
+IPR044448	DND1, double-stranded RNA binding domain	interpro	domain		cd20313	GO:0003723,GO:0007281
+IPR044449	Rnt1/Pac1, double-stranded RNA binding domain, fungi	interpro	domain		cd19876	GO:0003725,GO:0006364
+IPR044450	AtDRB-like, first double-stranded RNA binding domain, plant	interpro	domain		cd19907	GO:0003725
+IPR044451	AtDRB-like, second double-stranded RNA binding domain, plant	interpro	domain		cd19908	GO:0003725
+IPR044452	EIF2AK2, first double-stranded RNA binding domain	interpro	domain		cd19903	GO:0003725
+IPR044453	EIF2AK2, second double-stranded RNA binding domain	interpro	domain		cd19904	GO:0003725
+IPR044454	ADAD2, double-stranded RNA binding domain	interpro	domain		cd19906	
+IPR044455	ADAD1, double-stranded RNA binding domain	interpro	domain		cd19905	
+IPR044456	ADAR1, first double-stranded RNA binding domain	interpro	domain		cd19913	
+IPR044457	ADAR1, third double-stranded RNA binding domain	interpro	domain		cd19915	
+IPR044458	ADAR2, first double-stranded RNA binding domain	interpro	domain		cd19895	
+IPR044459	ADAR2, second double-stranded RNA binding domain	interpro	domain		cd19898	
+IPR044460	ADAR3, first double-stranded RNA binding domain	interpro	domain		cd19896	GO:0003723
+IPR044461	A1CF, double-stranded RNA binding domain	interpro	domain		cd19900	
+IPR044462	RBM46, double-stranded RNA binding domain	interpro	domain		cd19901	
+IPR044463	DUS2, double-stranded RNA binding domain	interpro	domain		cd19871	GO:0000049
+IPR044464	Staufen 2, second double-stranded RNA binding domain	interpro	domain		cd19882	
+IPR044465	PRKRA, first double-stranded RNA binding domain	interpro	domain		cd19889	
+IPR044466	PRKRA, second double-stranded RNA binding domain	interpro	domain		cd19891	
+IPR044467	PRKRA, third double-stranded RNA binding domain	interpro	domain		cd19892	
+IPR044469	TRBP2 , first double-stranded RNA binding domain	interpro	domain		cd19890	
+IPR044470	TRBP2 , second double-stranded RNA binding domain	interpro	domain		cd10844	
+IPR044471	TRBP2 , third double-stranded RNA binding domain	interpro	domain		cd19893	
+IPR044472	STRBP, first double-stranded RNA binding domain	interpro	domain		cd19909	
+IPR044473	Staufen 2, third double-stranded RNA binding domain	interpro	domain		cd19884	
+IPR044474	Staufen 2, fourth double-stranded RNA binding domain	interpro	domain		cd19886	
+IPR044475	Staufen 1, third double-stranded RNA binding domain	interpro	domain		cd19883	
+IPR044476	Staufen 2, first double-stranded RNA binding domain	interpro	domain		cd19880	
+IPR044514	Vernalization insensitive 3-like	interpro	family		PTHR46286	GO:0010048,GO:0040029
+IPR044598	Zinc finger CCHC-type and RNA-binding motif-containing protein 1	interpro	family		PTHR46259	GO:0000398,GO:0005689
+IPR044642	U6 snRNA-associated Sm-like protein Lsm1/8	interpro	family		PTHR15588	
+IPR044661	Mediator of RNA polymerase II transcription subunit 15a/b/c-like	interpro	family		PTHR33137	GO:0003713,GO:0031490
+IPR044728	ATP-dependent RNA helicase eIF4A, DEAD-box helicase domain	interpro	domain		cd18046	GO:0005524
+IPR044730	Ribonuclease H-like domain, plant type	interpro	domain		cd06222	
+IPR044786	Multifunctional Ser/Thr-tRNA deacylase ProXp-y	interpro	family		cd04336	
+IPR044790	Mediator of RNA polymerase II transcription subunit 26c-like	interpro	family		PTHR47210	
+IPR044842	RNA demethylase ALKBH9B/ALKBH10B-like	interpro	family		PTHR31447	GO:0003729,GO:0032451,GO:0006402
+IPR044893	RNA polymerase Rpb1, clamp domain superfamily	interpro	homologous_superfamily		G3DSA:4.10.860.120	
+IPR044920	tRNA uridine 5-carboxymethylaminomethyl modification enzyme, C-terminal subdomain superfamily	interpro	homologous_superfamily		G3DSA:1.10.150.570	
+IPR044929	DNA/RNA non-specific endonuclease superfamily	interpro	homologous_superfamily		G3DSA:3.40.570.10	
+IPR044938	Enhancer of mRNA-decapping protein 4, conserved C-terminal domain superfamily	interpro	homologous_superfamily		G3DSA:1.10.220.100	
+IPR044985	Large ribosomal RNA subunit accumulation protein YceD homologue 2, chloroplastic	interpro	family		PTHR37734	
+IPR045024	Alternative NADH dehydrogenase	interpro	family		PTHR43706	GO:0003954,GO:0006116
+IPR045060	Phenylalanine-tRNA ligase, class IIc, beta subunit	interpro	family		PTHR10947	GO:0004826,GO:0006432
+IPR045075	Pre-mRNA-splicing factor Syf1-like	interpro	family		PTHR11246	GO:0000398
+IPR045113	RNA polymerase subunit Rpb7-like	interpro	family		PTHR12709	GO:0006352
+IPR045125	RNA polymerase II transcriptional coactivator Sub1/Tcp4-like	interpro	family		PTHR13215	GO:0003713,GO:0060261
+IPR045137	RNA-binding protein 26/27	interpro	family		PTHR14398	
+IPR045152	Enhancer of mRNA-decapping protein 4-like	interpro	family		PTHR15598	GO:0031087
+IPR045161	U3 small nucleolar RNA-associated protein 18	interpro	family		PTHR18359	GO:0006364
+IPR045164	RNA-binding region-containing protein RBM41/RNPC3	interpro	family		PTHR16105	
+IPR045166	Pre-mRNA-splicing factor Spp2-like	interpro	family		PTHR15818	GO:0000398
+IPR045209	rRNA biogenesis protein Rrp5	interpro	family		PTHR23270	GO:0006364
+IPR045222	DNA-directed RNA polymerase II subunit Rpb4-like	interpro	family		PTHR21297	
+IPR045243	mRNA 3'-end-processing protein Rna14-like	interpro	family		PTHR19980	GO:0031124
+IPR045245	Pre-mRNA 3' end processing protein Pfs2-like	interpro	family		PTHR22836	GO:0031124
+IPR045305	PABP, RNA recognition motif 2	interpro	domain		cd12379	
+IPR045462	Aminoacyl-tRNA synthetase, class I, anticodon-binding	interpro	domain		PF19269	
+IPR045477	FtsH ternary systems, vWA domain	interpro	domain		PF19997	
+IPR045479	FtsH ternary system vWA domain, fused N-terminal helical region	interpro	domain		PF19996	
+IPR045480	FtsH ternary system domain X1	interpro	domain		PF19998	
+IPR045481	FtsH ternary system domain X3	interpro	domain		PF19999	
+IPR045482	FtsH ternary system domain X2	interpro	domain		PF20000	
+IPR045483	FtsH ternary system domain X3-analog	interpro	domain		PF20002	
+IPR045484	FtsH ternary system domain X5	interpro	domain		PF20003	
+IPR045485	FtsH ternary system domain X6	interpro	domain		PF20004	
+IPR045486	FtsH ternary system domain X7	interpro	domain		PF20005	
+IPR045488	FtsH ternary system-associated peptide	interpro	family		PF20007	
+IPR045541	Ternary complex associated domain 2	interpro	domain		PF19971	
+IPR045542	Ternary complex associated domain 3	interpro	domain		PF19972	
+IPR045543	Ternary complex associated domain 7	interpro	domain		PF19973	
+IPR045544	Ternary complex associated domain 9	interpro	domain		PF19974	
+IPR045547	MoxR-vWA-beta-propeller ternary system domain bpX6	interpro	domain		PF19922	
+IPR045548	MoxR-vWA-beta-propeller ternary system domain bpX5	interpro	domain		PF19921	
+IPR045549	MoxR-vWA-beta-propeller ternary system domain bpX4	interpro	domain		PF19920	
+IPR045551	MoxR-vWA-beta-propeller ternary system domain bpX3	interpro	domain		PF19919	
+IPR045552	MoxR-vWA-beta-propeller ternary system domain bpX2	interpro	domain		PF19918	
+IPR045553	MoxR-vWA-beta-propeller ternary system domain bpX1	interpro	domain		PF19917	
+IPR045554	MoxR-vWA-beta-propeller ternary system domain bpX0	interpro	domain		PF19915	
+IPR045576	DNA-directed RNA polymerase III subunit RPC5, C-terminal	interpro	domain		PF19725	
+IPR045837	Bacterial toxin, RNase RnlA/LsoA, N-terminal	interpro	domain		PF19417	
+IPR045844	Ist3-like, RNA recognition motif	interpro	domain		cd12411	GO:0003723,GO:0000398
+IPR045850	tRNA (uracil(54)-C(5))-methyltransferase, metazoa type	interpro	family		PTHR45904	
+IPR045864	Class II Aminoacyl-tRNA synthetase/Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL)	interpro	homologous_superfamily		G3DSA:3.30.930.10,SSF55681	
+IPR045867	DNA-directed RNA polymerase, subunit beta-prime	interpro	family		PTHR19376	GO:0003899,GO:0006351
+IPR045869	Bifunctional polymyxin resistance protein ArnA-like, extended (e) SDRs	interpro	domain		cd05257	GO:0016831
+IPR045877	RNA-binding protein ZFP36-like	interpro	family		PTHR12547	GO:0003729
+IPR046351	U3 small nucleolar RNA-associated protein 4	interpro	family		PTHR44163	GO:0000462,GO:0030686
+IPR046386	RNA polymerase sigma-like factor	interpro	family		MF_04164	GO:0003677,GO:2000142
+IPR046399	DNA-directed RNA polymerase subunit Rpo7	interpro	family		MF_00865	GO:0006351,GO:0000428
+IPR046428	mRNA-capping enzyme catalytic subunit, OB fold domain superfamily	interpro	homologous_superfamily		G3DSA:2.40.50.830	
+IPR046429	mRNA-capping enzyme catalytic subunit, nucleotidyltransferase domain superfamily	interpro	homologous_superfamily		G3DSA:3.30.470.140	GO:0004484
+IPR046430	mRNA-capping enzyme catalytic subunit, RNA triphosphatase domain superfamily	interpro	homologous_superfamily		G3DSA:3.20.100.20	GO:0050355
+IPR046441	RNA-dependent RNA polymerase, coronavirus	interpro	domain		PS51948	GO:0003968
+IPR046523	U3 small nucleolar RNA-associated protein 20, C-terminal	interpro	domain		PF20416	
+IPR046747	RNAse III-like, virus	interpro	domain		PF20614	
+IPR046750	RNA-directed RNA polymerase, C-terminal, birnavirus	interpro	domain		PF20489	
+IPR046752	RNA-directed RNA polymerase, thumb domain, birnavirus	interpro	domain		PF20488	
+IPR046760	RNA-binding protein Tab2-like, N-terminal	interpro	domain		PF06485	
+IPR046761	RNA-binding protein Tab2/Atab2, C-terminal	interpro	domain		PF20429	
+IPR046811	RNA-directed RNA polymerase, thumb subdomain, flavivirus	interpro	domain		PF20483	
+IPR046812	RNA-directed RNA polymerase, palm domain superfamily, Birnavirus	interpro	homologous_superfamily		G3DSA:3.90.1730.10	
+IPR046813	RNA-directed RNA polymerase, thumb domain superfamily, Birnavirus	interpro	homologous_superfamily		G3DSA:6.10.140.300	
+IPR046814	RNA-directed RNA polymerase, C-terminal domain superfamily, Avibirnavirus	interpro	homologous_superfamily		G3DSA:1.10.1740.80	
+IPR046884	tRNA-specific 2-thiouridylase MnmA-like, central domain	interpro	domain		PF20259	
+IPR046885	tRNA-specific 2-thiouridylase MnmA-like, C-terminal domain	interpro	domain		PF20258	
+IPR046886	Ribosomal RNA small subunit methyltransferase E, methyltransferase domain	interpro	domain		cd18084,PF04452	
+IPR046887	Ribosomal RNA small subunit methyltransferase E, PUA-like domain	interpro	domain		PF20260	
+IPR046950	DNA-directed RNA polymerase, C-terminal domain, phage-type	interpro	domain		PF00940	
+IPR046977	rRNA (guanine-N(2)-)-methyltransferase RsmC/RlmG	interpro	family		PTHR47816	GO:0008757
+IPR047001	tRNA uridine 5-carboxymethylaminomethyl modification enzyme, C-terminal subdomain	interpro	domain		SM01228	
+IPR047021	RNA exonuclease REXO1/REXO3/REXO4-like	interpro	family		PTHR12801	GO:0004527
+IPR047044	RNA-binding protein 47, RNA recognition motif 1	interpro	domain		cd12485	
+IPR047048	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA	interpro	family		PTHR32319	GO:0008168
+IPR047089	Aspartate-tRNA ligase, type 1, anticodon recognition domain	interpro	domain		cd04317	
+IPR047090	Aspartate-tRNA ligase, type 1, core domain	interpro	domain		cd00777	
+IPR047107	DNA-directed RNA pol I, largest subunit, C-terminal domain	interpro	domain		cd02735	
+IPR047131	RNA binding protein fox-1 homolog 1-like	interpro	family		PTHR15597	GO:0000381,GO:0007399
+IPR047139	tRNA endonuclease ANKZF1/VMS1	interpro	family		PTHR16036	
+IPR047182	rRNA methyltransferase 1, mitochondrial	interpro	family		PTHR46103	GO:0031167
+IPR047188	RNA-binding protein 12B, RNA recognition motif 4	interpro	domain		cd12748	
+IPR047189	Nop12, RNA recognition motif 2	interpro	domain		cd12670	
+IPR047190	Serine/arginine-rich splicing factor 4 (SRSF4)-like, RNA recognition motif 2	interpro	domain		cd12600	
+IPR047193	FCA, RNA recognition motif 1	interpro	domain		cd12633	
+IPR047204	RNase MRP protein 1, RNA binding domain	interpro	domain		PF20945,cd22573	GO:0042134,GO:0000172
+IPR047226	RNA-binding protein MEX-3, second type I KH domain	interpro	domain		cd22424	GO:0003723
+IPR047227	RNA-binding protein MEX3	interpro	family		PTHR23285	GO:0003723
+IPR047228	RNA-binding protein MEX-3, first type I KH domain	interpro	domain		cd22423	GO:0003723
+IPR047240	Pre-mRNA splicing factor component CDC5L/Cef1, second SANT/myb-like domain	interpro	domain		cd11659	
+IPR047242	Pre-mRNA splicing factor component CDC5L/Cef1	interpro	family		PTHR45885	GO:0000398,GO:0000974
+IPR047246	Threonine-tRNA ligase, class IIa, anticodon-binding domain	interpro	domain		cd00860	
+IPR047261	rRNA methyltransferase 1, methyltransferase domain	interpro	domain		cd18105	
+IPR047274	RNA-binding protein Nova-1/2, type I K Homology domain 3	interpro	domain		cd09031	
+IPR047275	RNA-binding protein Nova-1/2, type I K Homology domain 1	interpro	domain		cd22435	
+IPR047276	RNA-binding protein Nova-1/2, type I K Homology domain 2	interpro	domain		cd22436	
+IPR047306	RNA-dependent RNA polymerase, matonavirus	interpro	domain		cd23260	
+IPR047307	RNA-dependent RNA polymerase, hepevirus	interpro	domain		cd23259	
+IPR047308	RNA-dependent RNA polymerase, closterovirus	interpro	domain		cd23253	
+IPR047309	RNA-dependent RNA polymerase, bromovirus	interpro	domain		cd23252	GO:0039690
+IPR047310	RNA-dependent RNA polymerase, virgavirus	interpro	domain		cd23251	
+IPR047311	RNA-dependent RNA polymerase, togavirus	interpro	domain		cd23250	
+IPR047385	Tudor domain-containing protein 10, RNA recognition motif	interpro	domain		cd21617	
+IPR047420	RNA-binding protein FXR2, second Tudor-like Agenet domain	interpro	domain		cd20476	
+IPR047421	RNA-binding protein FXR2, first Tudor-like Agenet domain	interpro	domain		cd20473	
+IPR047422	RNA-binding protein FXR2, first type I K homology domain	interpro	domain		cd22505	
+IPR047424	RNA-binding protein FXR2, second type I K homology domain	interpro	domain		cd22508	
+IPR047425	RNA-binding protein FXR1, first Tudor-like Agenet domain	interpro	domain		cd20472	
+IPR047427	RNA-binding protein FXR1, second Tudor-like Agenet domain	interpro	domain		cd20475	
+IPR047494	RNA-binding protein FXR1, first type I K homology domain	interpro	domain		cd22504	
+IPR047495	RNA-binding protein FXR1, second type I K homology domain	interpro	domain		cd22507	
+IPR047496	RNA-binding protein FXR2, third type I K homology domain	interpro	domain		cd22510	
+IPR047530	RNA-dependent RNA polymerase, flavivirus	interpro	domain		cd23204	GO:0003968
+IPR047600	Internalin A	interpro	family		NF033189	
+IPR047693	RNA-guided endonuclease IscB-like	interpro	family		NF040563	
+IPR047785	tRNA mnm(5)s(2)U biosynthesis bifunctional protein MnmC, N-terminal	interpro	domain		NF033855	GO:0004808
+IPR047837	Probable RNA-binding protein 46, RNA recognition motif 3	interpro	domain		cd12496	
+IPR047911	tRNA methyltransferase 10 homolog B, TRM10-type domain	interpro	domain		cd18100	
+IPR047942	Ribonucleoprotein PTB-binding 2, RNA recognition motif 3	interpro	domain		cd12668	
+IPR047943	Ribonucleoprotein PTB-binding 2, RNA recognition motif 1	interpro	domain		cd12664	
+IPR048006	RNA endonuclease, cap-snatching, bunyaviral	interpro	domain		TIGR04202	
+IPR048019	Ribosomal RNA small subunit methyltransferase B-like, N-terminal domain	interpro	domain		cd00620	
+IPR048044	Valine-tRNA ligase, actinomycetes	interpro	family		NF000540	
+IPR048058	rRNA biogenesis protein RRP5, S1 domain, eleventh repeat	interpro	domain		cd05702	
+IPR048059	rRNA biogenesis protein RRP5, S1 domain, first repeat	interpro	domain		cd05693	
+IPR048151	Ribosomal RNA small subunit methyltransferase F	interpro	family		NF041567	
+IPR048227	RNA polymerase recycling motor HelD-like, actinomycetes	interpro	family		NF041465	
+IPR048228	RNA polymerase recycling motor HelD-like, bacillota	interpro	family		NF041464	
+IPR048248	Eukaryotic translation initiation factor 2D-like, PUA RNA-binding domain	interpro	domain		cd21156	
+IPR048269	Ribonuclease ribotoxin, alpha-sarcin type	interpro	family		PIRSF037430	
+IPR048289	NsCP33-like, RNA recognition motif 2	interpro	domain		cd21608	
+IPR048298	Influenza RNA polymerase PB2, CAP binding domain	interpro	domain		PF00604	
+IPR048315	ZSWIM9, central RNaseH-like domain	interpro	domain		PF17738	
+IPR048324	ZSWIM1/3, RNaseH-like domain	interpro	domain		PF21056	
+IPR048365	Transposable element P transposase-like, RNase H domain, N-terminal	interpro	domain		PF21787	
+IPR048367	Transposable element P transposase-like, RNase H, C-terminal domain	interpro	domain		PF21789	
+IPR048392	Exosome RNA helicase MTR4-like, stalk	interpro	domain		PF21408	
+IPR048410	RNA-binding, Nab2-type zinc finger	interpro	domain		PF21457	GO:0008270
+IPR048425	mRNA capping enzyme catalytic subunit, GTase, NTPase domain	interpro	domain		PF21004	
+IPR048426	mRNA-capping enzyme catalytic subunit, GTase, OB fold	interpro	domain		PF21005	
+IPR048451	tRNA-modifying protein YgfZ-like, beta-barrel domain	interpro	domain		PF21130	
+IPR048457	Ribosomal RNA small subunit methyltransferase F, pre-PUA domain	interpro	domain		PF21150	
+IPR048547	RNA-directed RNA polymerase L, thumb ring domain, bunyaviral	interpro	domain		PF21561	
+IPR048566	DNA-directed RNA polymerase subunit beta', hybrid domain	interpro	domain		PF21668	
+IPR048579	Ribonuclease D, C-terminal HRDC domain	interpro	domain		PF21293	
+IPR048583	RNase E/G, thioredoxin-like domain	interpro	domain		PF20833	
+IPR048616	Mediator of RNA polymerase II transcription subunit 16 , central helical bridge	interpro	domain		PF20718	
+IPR048637	Maternal embryonic leucine zipper kinase, UBA domain	interpro	domain		PF21594	
+IPR048641	Dual-specificity RNA methyltransferase RlmN, N-terminal domain	interpro	domain		PF21016	
+IPR048646	Ribosomal RNA large subunit methyltransferase M, THUMP-like domain	interpro	domain		PF21239	
+IPR048647	23S rRNA (guanine(745)-N(1))-methyltransferase, N-terminal	interpro	domain		PF21302	
+IPR048669	Histone-lysine N-methyltransferase SET1, RNA-binding domain	interpro	domain		PF21569	
+IPR048690	CRISPR RNA silencing complex Cmr2 subunit, Zn-binding domain	interpro	domain		PF20823	
+IPR048693	CRISPR RNA silencing complex Cmr2-like, C-terminal domain	interpro	domain		PF20824	
+IPR048694	CRISPR RNA silencing complex Cmr2 subunit, first helical domain	interpro	domain		PF20822	
+IPR048768	RNA helicase Hera-like, dimerization domain	interpro	domain		PF21591	
+IPR048829	Pre-mRNA cleavage complex 2 protein Pcf11, RFEGP repeat	interpro	repeat		PF20844	
+IPR048830	Pre-mRNA cleavage complex 2 protein Pcf11, helical domain	interpro	domain		PF20845	
+IPR048835	Picobirnavirus capsid protein	interpro	family		PF20816	
+IPR048845	tRNA (uracil(54)-C(5))/23S rRNA (uracil(747)-C(5))-methyltransferase, TRAM domain	interpro	domain		PF21579	
+IPR048863	Pre-mRNA-splicing helicase BRR2-like, plug domain	interpro	domain		PF21188	
+IPR048952	Asparagine--tRNA ligase, N-terminal domain	interpro	domain		PF20917	
+IPR048966	RNA helicase aquarius, beta-barrel	interpro	domain		PF21143	
+IPR048967	RNA helicase aquarius, insertion domain	interpro	domain		PF21144	
+IPR049042	T4 RNA ligase 1, C-terminal domain	interpro	domain		PF20819	
+IPR049106	Influenza RNA polymerase PB2, N-terminal region	interpro	domain		PF20947	
+IPR049110	Influenza RNA polymerase PB2, second domain	interpro	domain		PF20948	
+IPR049111	Influenza RNA polymerase PB2, middle domain	interpro	domain		PF20949	
+IPR049114	Influenza RNA polymerase PB2, sixth domain	interpro	domain		PF20951	
+IPR049115	Influenza RNA polymerase PB2, C-terminal domain	interpro	domain		PF20952	
+IPR049178	Picobirnavirus capsid protein superfamily	interpro	homologous_superfamily		G3DSA:1.20.140.120	
+IPR049191	Transcriptional regulator SutA, RNAP-binding domain	interpro	domain		PF20661	GO:0005515
+IPR049312	tRNA uridine 5-carboxymethylaminomethyl modification enzyme, C-terminal, N-terninal subdomain	interpro	domain		PF21680	
+IPR049355	Methionyl-tRNA formyltransferase-like, C-terminal domain	interpro	domain		PF21553	
+IPR049404	Enhancer of mRNA-decapping protein 4, C-terminal	interpro	domain		PF21289	
+IPR049432	Virion DNA-directed RNA polymerase domain	interpro	domain		PF21769	
+IPR049433	Virion DNA-directed RNA polymerase, plug insertion domain	interpro	domain		PF21624	
+IPR049437	tRNA synthetases class I (E and Q), anti-codon binding domain	interpro	domain		PF20974	
+IPR049470	tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61, C-terminal	interpro	domain		PF08704	
+IPR049545	Glutamyl-tRNA amidotransferase complex subunit Gta3 domain	interpro	domain		PF20978	
+IPR049605	RNA-directed RNA polymerase L, OTU domain	interpro	domain		cd21880	
+IPR049616	Phenylalanyl--tRNA ligase operon leader peptide PheM	interpro	family		NF033686	
+IPR049786	RNA-binding protein rnc1, third type I K homology RNA-binding domain	interpro	domain		cd22457	
+IPR049940	Glutamyl-Q tRNA(Asp) synthetase/Glutamate--tRNA ligase	interpro	family		PTHR43311	
+IPR050058	Alanine--tRNA ligase	interpro	family		PTHR11777	
+IPR050062	Proline-tRNA synthetase	interpro	family		PTHR42753	
+IPR050076	Archaeosine Synthase Type 1/Queuine TRNA-Ribosyltransferase	interpro	family		PTHR46499	
+IPR050079	DEAD box RNA helicase	interpro	family		PTHR47959	
+IPR050080	Ribonuclease PH	interpro	family		PTHR11953	
+IPR050081	Isoleucine--tRNA ligase	interpro	family		PTHR42765	
+IPR050082	Ribosomal RNA large subunit methyltransferase RlmE	interpro	family		PTHR10920	
+IPR050092	Ribonuclease H	interpro	family		PTHR10642	
+IPR050102	tRNA sulfurtransferase, ThiI	interpro	family		PTHR43209	
+IPR050124	tRNA CCA-adding enzyme	interpro	family		PTHR47545	
+IPR050132	Glutamine/Glutamate--tRNA Ligase	interpro	family		PTHR43097	
+IPR050170	tRNA pseudouridine synthase D	interpro	family		PTHR47811	
+IPR050203	Tryptophan--tRNA ligase	interpro	family		PTHR43766	
+IPR050210	tRNA (adenine-N(6)-)-methyltransferase	interpro	family		PTHR47739	
+IPR050239	Sigma-70 factor family, RNA polymerase initiation factors	interpro	family		PTHR30603	
+IPR050241	NAD-capped RNA hydrolase NudC subfamily	interpro	family		PTHR42904	
+IPR050254	DNA-directed RNA polymerase, subunit beta'', eukaryote	interpro	family		PTHR34995	
+IPR050343	Ribosomal RNA Pseudouridine Synthase RsuA	interpro	family		PTHR47683	
+IPR050410	CCR4/nocturin mRNA turnover and transcription	interpro	family		PTHR12121	
+IPR050441	RNA-binding motif	interpro	family		PTHR48034	
+IPR050489	Tyrosine--tRNA ligase	interpro	family		PTHR46264	
+IPR050502	Eukaryotic RNA-binding	interpro	family		PTHR48025	
+IPR050518	Archaeal Rpo3/Eukaryotic RPB3 RNA Polymerase Subunit	interpro	family		PTHR11800	
+IPR050547	DEAD box ATP-dependent RNA helicases	interpro	family		PTHR47963	
+IPR050556	Type II toxin-antitoxin system RNase	interpro	family		PTHR33653	
+IPR050698	RNA Processing Metallo-Beta-Lactamase Domain-Containing Protein	interpro	family		PTHR11203	
+IPR050699	RNA/DNA Helicase	interpro	family		PTHR12131	
+IPR050781	Pre-mRNA-splicing factor CWC22	interpro	family		PTHR18034	
+IPR050786	EFG1 rRNA-processing	interpro	family		PTHR33911	
+IPR050825	RNA-binding protein 42/Polyadenylate-binding protein RBP45/47-like	interpro	family		PTHR47640	GO:0003729
+IPR050836	SDS22/Internalin LRR-containing	interpro	family		PTHR46652	
+IPR050851	mRNA Cap 2'-O-Ribose Methyltransferase	interpro	family		PTHR16121	
+IPR050852	Queuine tRNA-ribosyltransferase	interpro	family		PTHR46064	
+IPR050886	RNA-binding_regulatory_proteins	interpro	family		PTHR48024	
+IPR050897	SMAUG/VTS1 RNA-binding	interpro	family		PTHR12515	
+IPR050923	Cellular Process Regulator and RNA Processing Protein	interpro	family		PTHR23308	
+IPR051029	mRNA Capping Enzyme and RNA Phosphatase	interpro	family		PTHR10367	
+IPR051037	RNA Polymerase II Transcription Factor IWS1	interpro	family		PTHR46010	
+IPR051086	Ribonuclease D-like	interpro	family		PTHR47649	
+IPR051101	ZC3H12/N4BP1 Ribonuclease and Regulator	interpro	family		PTHR12876	
+IPR051106	RNA-binding and splicing regulatory protein	interpro	family		PTHR48028	
+IPR051112	Pre-mRNA-splicing factor CWC26	interpro	family		PTHR31809	
+IPR051114	Mitochondrial RNA Processing CCM1	interpro	family		PTHR47934	
+IPR051150	SWT21/TCAB1 mRNA Splicing and Telomere Maintenance	interpro	family		PTHR13211	
+IPR051187	Pre-mRNA 3'-end-processing regulator	interpro	family		PTHR13484	
+IPR051222	Pentatricopeptide/CCM1 RNA-binding	interpro	family		PTHR47942	
+IPR051229	ALYREF mRNA export adapter	interpro	family		PTHR19965	
+IPR051240	Mitochondrial RNA Processing and Respiration	interpro	family		PTHR47933	
+IPR051259	Ribosomal RNA Methyltransferase	interpro	family		PTHR43191	
+IPR051270	Tyrosine-tRNA ligase and regulatory protein	interpro	family		PTHR11586	
+IPR051305	tRNA-specific 2-thiouridylase MnmA	interpro	family		PTHR43052	
+IPR051335	Alanyl-tRNA Editing Enzymes	interpro	family		PTHR43462	
+IPR051367	mRNA Translation Regulation/Replication-dependent Histone mRNA Translation	interpro	family		PTHR23254	
+IPR051372	Pre-mRNA-splicing factor CWC21	interpro	family		PTHR36562	
+IPR051373	Lin-28 homolog RNA-binding protein	interpro	family		PTHR46109	
+IPR051376	Pre-mRNA-splicing factor CWC25	interpro	family		PTHR16196	
+IPR051399	RNA-guided DNA endonucleases/Transposases	interpro	family		PTHR30405	
+IPR051421	RNA Processing and DNA Damage Response Regulator	interpro	family		PTHR12786	
+IPR051422	AlkB Family tRNA Methyltransferase/Dioxygenase	interpro	family		PTHR13069	
+IPR051454	RNA and ubiquinone modification enzymes	interpro	family		PTHR30217	
+IPR051521	tRNA Modification and Golgi Maintenance Protein	interpro	family		PTHR15627	
+IPR051591	UPF0224 (FAM112) RNA Processing	interpro	family		PTHR21402	
+IPR051619	Type II TA system ribonuclease PINc/VapC	interpro	family		PTHR35901	
+IPR051639	Box C/D snoRNA	interpro	family		PTHR13483	
+IPR051720	rRNA N6-Adenosine-Methyltransferase/Polyamine Synthase	interpro	family		PTHR23290	
+IPR051740	Double-stranded RNA-binding domain-containing protein	interpro	family		PTHR46054	
+IPR051749	PINc/VapC Toxin-Antitoxin RNase	interpro	family		PTHR42740	
+IPR051813	HepT RNase Toxin	interpro	family		PTHR34139	
+IPR051847	RNA Processing and Spliceosome Component	interpro	family		PTHR45880	
+IPR051925	RNA-binding domain-containing protein	interpro	family		PTHR40065	
+IPR051945	RRM MRD1 RNA Processing and Ribosome Biogenesis	interpro	family		PTHR48039	
+IPR051954	tRNA (32-2'-O)-methyltransferase regulator THADA	interpro	family		PTHR14387	
+IPR051966	RNA polymerase II-associated protein 3	interpro	family		PTHR46423	
+IPR051973	tRNA Anticodon Loop Methyltransferase Regulator	interpro	family		PTHR14344	
+IPR052069	Calcium-regulated mRNA-binding domain-containing protein	interpro	family		PTHR12962	
+IPR052087	Ribosomal RNA-processing protein RRP12	interpro	family		PTHR48287	
+IPR052094	Pre-mRNA-splicing and ERAD-associated protein	interpro	family		PTHR44313	
+IPR052144	piRNA biogenesis EXD1-related protein	interpro	family		PTHR46628	
+IPR052158	Isonitrile Hydratase and Quaternary Amine Regulator	interpro	family		PTHR43130	
+IPR052191	tRNA nucleotidyltransferase/poly(A) polymerase I	interpro	family		PTHR43051	
+IPR052255	RNA polymerase II subunit 5-mediating protein	interpro	family		PTHR15111	
+IPR052322	Mitochondrial rRNA Methyltransferase NSUN4	interpro	family		PTHR46955	
+IPR052340	Ribonuclease Y/Cyclic di-GMP phosphodiesterase	interpro	family		PTHR33525	
+IPR052379	Type VII TA system RNase	interpro	family		PTHR33397	
+IPR052390	tRNA Nucleotidyltransferase/Poly(A) Polymerase	interpro	family		PTHR47788	
+IPR052414	U3 small nucleolar RNA-associated WD repeat-containing protein	interpro	family		PTHR44267	
+IPR052431	SKI2 subfamily ATP-dependent RNA helicases	interpro	family		PTHR44533	
+IPR052462	SRA stem-loop-interacting RNA-binding protein/Glycine-rich RNA-binding-like	interpro	family		PTHR48027	
+IPR052500	Chloroplastic/Mitochondrial RNA Processing	interpro	family		PTHR47539	
+IPR052560	RNA-directed DNA polymerase, mobile element	interpro	family		PTHR36688	
+IPR052571	Mitochondrial RNA Methyltransferase	interpro	family		PTHR13184	
+IPR052582	tRNA-dihydrouridine synthase-like	interpro	family		PTHR45936	
+IPR052584	Pre-mRNA Spliceosomal U2 snRNP Complex Component	interpro	family		PTHR12785	
+IPR052648	L-seryl-tRNA(Sec) kinase	interpro	family		PTHR20873	
+IPR052768	Pre-mRNA_splicing_regulatory_protein	interpro	family		PTHR18806	
+IPR052824	N6-methyladenosine RNA Methylation Regulator	interpro	family		PTHR13585	
+IPR052840	U7 snRNA-associated Sm-like	interpro	family		PTHR21196	
+IPR052863	Ribonuclease H2 subunit C	interpro	family		PTHR47063	
+IPR052886	Linker Cell Survival and Transcription Coactivator/Chloroplast RNA Splicing Factor	interpro	family		PTHR23261	
+IPR052915	RNA-splicing ligase RtcB-like	interpro	family		PTHR43749	
+IPR052919	Type II TA system ribonuclease	interpro	family		PTHR36173	
+IPR052929	RNase H-like EbsB-related	interpro	family		PTHR47074	
+IPR052939	23S rRNA Guanine-N(1)-Methyltransferase RlmA	interpro	family		PTHR43460	
+IPR053029	RNA polymerase I-specific initiation factor	interpro	family		PTHR28244	
+IPR053125	RNA-binding mRNA stabilization regulator	interpro	family		PTHR37035	
+IPR053134	RNA-directed DNA polymerase homolog	interpro	family		PTHR24559	
+IPR053151	Ribonuclease H-like	interpro	family		PTHR47723	
+IPR053194	tRNA methyltransferase O	interpro	family		PTHR39418	
+IPR053263	Eukaryotic RPA34 RNA polymerase subunit	interpro	family		PTHR28155	
+IPR053294	RNA-binding PWI domain-containing protein	interpro	family		PTHR47334	
+IPR053304	RNA M5U Methyltransferase	interpro	family		PTHR47548	
+IPR053343	Photosystem II mRNA-binding protein	interpro	family		PTHR47940	
+IPR053424	Alanyl-tRNA Editing Domain-Containing Protein	interpro	family		NF040865	
+IPR053434	tRNA(Ile2) 2-agmatinylcytidine synthetase	interpro	family		NF040849	
+IPR053454	tRNA-splicing ligase RtcB	interpro	family		NF038162	
+IPR053470	RNA-guided DNA endonuclease domain-containing protein	interpro	family		NF038280	
+IPR053477	tRNA Cytidine Acetyltransferase	interpro	family		NF041296	
+IPR053485	tRNA guanine-N2-methyltransferase	interpro	family		NF040721	
+IPR053522	RNA-guided DNA endonuclease TnpB-like	interpro	family		NF038281	
+IPR053576	Ribonuclease HI-like	interpro	family		NF041175	
+IPR053618	tRNA N1-methyltransferase	interpro	family		NF041140	
+IPR053623	tRNA (adenine(9)-N1)-methyltransferase	interpro	family		NF041071	
+IPR053630	tRNA Cytosine-C(5)-Methyltransferase	interpro	family		NF040814	
+IPR053643	23S rRNA methylase regulatory peptide	interpro	family		NF033690	
+IPR053648	tRNA Cytidine-2'-O-Methyltransferase	interpro	family		NF041077	
+IPR053735	Type III TA system endoribonuclease	interpro	homologous_superfamily		G3DSA:3.10.129.130	
+IPR053753	Ribonuclease N1/T1-like	interpro	homologous_superfamily		G3DSA:3.40.20.20	
+IPR053794	A-adding tRNA nucleotidyltransferase	interpro	family		NF041569	GO:0000049,GO:0008033
+IPR053796	tRNA (guanine(6)-N2)-methyltransferase-like	interpro	family		NF040850	GO:0003723,GO:0008168,GO:0008033
+IPR053805	Bacteriophage N4 RNA polymerase, helical domain	interpro	domain		PF21894	
+IPR053812	RNA polymerase sigma-70 ECF-like, HTH domain	interpro	domain		PF07638	
+IPR053846	Histidyl-tRNA synthetase HisZ, C-terminal domain	interpro	domain		PF21996	GO:0004821,GO:0006427
+IPR053943	Ribosomal RNA large subunit methyltransferase K/L-like, conserved site	interpro	conserved_site		PS01261	
+IPR054002	RNA-directed RNA polymerase, C-terminal	interpro	domain		PF22213	
+IPR054006	RNA-directed RNA polymerase, N-terminal	interpro	domain		PF22209	
+IPR054062	Virion DNA-directed RNA polymerase domain 2	interpro	domain		PF21867	
+IPR054128	Pfc11, Rna14/15 interacting domain	interpro	domain		PF21940	
+IPR054133	T-cell receptor gamma alternate reading frame protein	interpro	family		PF21951	
+IPR054175	NS3 RNA helicase, C-terminal helical domain	interpro	domain		PF22027	
+IPR054360	Internalin K, domain D2	interpro	domain		PF22122	
+IPR054362	Exuperantia RNAse H-like domain	interpro	domain		PF22123	
+IPR054371	Exosome RNA binding protein RRP4, N-terminal domain	interpro	domain		PF22625	
+IPR054377	tRNA(Ile)-lysidine synthase-like, C-terminal domain	interpro	domain		PF22132	
+IPR054403	RNA-dependent RNA polymerase, palm domain, ribovirus	interpro	domain		PF22152	
+IPR054433	RNA-dependent RNA polymerase, thumb domain, ribovirus	interpro	domain		PF22260	
+IPR054509	Leucine--tRNA ligase, ubiquitin-like domain	interpro	domain		PF22947	
+IPR054511	RNAP inhibitory protein/P131-like	interpro	family		PF22238	
+IPR054525	DEAD box helicase Hera, RNA-binding domain	interpro	domain		PF22231	
+IPR054585	External alternative NADH-ubiquinone oxidoreductase-like, C-terminal domain	interpro	domain		PF22366	
+IPR054608	Tyrosine--tRNA ligase SYY-like, C-terminal domain	interpro	domain		PF22421	
+IPR054708	Poly(A) RNA polymerase, mitochondrial-like, central palm domain	interpro	domain		PF22600	
+IPR054717	Internalin J, immunoglobulin-like domain	interpro	domain		PF22508	
+IPR054728	Ribosomal RNA small subunit methyltransferase B-like, ferredoxin-like domain	interpro	domain		PF22458	
+IPR054754	U8 snoRNA-decapping enzyme NudT16	interpro	family		PF22327,PTHR31699	
+IPR054762	Terminase, large subunit, ribonuclease H-like domain	interpro	domain		PF22530	
+IPR054769	Internalin J, EF-hand domain	interpro	domain		PF22350	
+IPR054913	MurNAc-alpha-1P uridylyltransferase	interpro	family		NF045697	
+IPR055044	Dicer, dsRNA-binding domain	interpro	domain		PF22389	
+IPR055072	Ferlin, dsRNA-binding domain-like domain	interpro	domain		PF22901	
+IPR055107	Mediator of RNA polymerase II transcription subunit 14, RM8	interpro	domain		PF22983	
+IPR055113	Mediator of RNA polymerase II transcription subunit 14, RM2	interpro	domain		PF22981	
+IPR055114	Mediator of RNA polymerase II transcription subunit 14, RM6	interpro	domain		PF22984	
+IPR055124	ATP-dependent RNA helicase DDX60, PIN-like domain	interpro	domain		PF23002	
+IPR055132	Ribonuclease J, beta-CASP domain	interpro	domain		PF22505	
+IPR055144	tRNA-intron endonuclease SEN2-like, N-terminal domain	interpro	domain		PF22502	
+IPR055206	ATP-dependent RNA helicase SUPV3L1-like, DEXQ-box helicase domain	interpro	domain		PF22527	
+IPR055207	DNA-directed RNA polymerase III subunit RPC3, winged-helix domain	interpro	domain		PF22536	
